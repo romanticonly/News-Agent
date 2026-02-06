@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-05 23:25
+**最后更新时间**: 2026-02-06 03:27
+
+---
+
+## 🆕 最新更新 (2026-02-06 03:27)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [“港人北上”，住爆深圳酒店](https://www.tmtpost.com/7868653.html)
+**发布时间**: 2026-02-06 10:27
+
+#### [叮咚上岸，美团清场](https://www.tmtpost.com/7868697.html)
+**发布时间**: 2026-02-06 10:27
+
+#### [千问30亿免单止于微信封禁](https://www.tmtpost.com/7868694.html)
+**发布时间**: 2026-02-06 10:05
+
+#### [叮咚买菜终于摆脱“被收购中”](https://www.tmtpost.com/7868103.html)
+**发布时间**: 2026-02-06 09:59
+
+#### [有色金属整体回调 但铜、铝可能迎来了“上车”良机](https://www.tmtpost.com/7868562.html)
+**发布时间**: 2026-02-06 09:32
+
+#### [最强牛马狙击编程之王，OpenAI和Anthropic深夜同发大招](https://www.tmtpost.com/7868582.html)
+**发布时间**: 2026-02-06 09:21
+
+#### [【钛晨报】事关中药工业高质量发展，八部门最新部署；美团：拟7.17亿美元收购叮咚；11部门联合印发《关于提升境外人员入境数字化服务便利性的实施意见》](https://www.tmtpost.com/7868309.html)
+**发布时间**: 2026-02-06 07:20
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Vibe Coding“血洗”开源，社区吵翻了：封杀菜鸡AI开发者？不如给维护者打钱！](https://www.infoq.cn/article/dE3gzizUTElMzq0Uujev?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 10:19
+
+#### [“英伟达AI项目数量已失控！”黄仁勋五杯酒下肚，把压箱底的都掏出来了](https://www.infoq.cn/article/kEw369Jf7CKHGOMfocdE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 10:11
+
+#### [当 AI 开始写 80% 的代码，架构才是真正的护城河](https://www.infoq.cn/article/BtXi5RphRzkb6z2yarqO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 09:44
+
+#### [OpenAI开始发布关于Codex CLI内部机制的系列文章](https://www.infoq.cn/article/dVeyXWMrWl7E6wbWEm57?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-06 09:06
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [特朗普急喊爱泼斯坦案“翻篇”？350万页文件藏着什么秘密？](http://www.huxiu.com/article/4832806.html?f=wangzhan)
+**发布时间**: 2026-02-06 10:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：Mistral 发布 Voxtral Transcribe 2 系列语音转文字模型等](https://sspai.com/post/106113)
+**发布时间**: 2026-02-06 08:50
 
 ---
 
