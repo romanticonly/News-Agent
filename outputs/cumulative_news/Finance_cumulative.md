@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 03:27
+**最后更新时间**: 2026-02-06 05:44
+
+---
+
+## 🆕 最新更新 (2026-02-06 05:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Toyota replaces chief executive](https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed)
+**发布时间**: 2026-02-06 05:28
+
+#### [Inside Jeffrey Epstein’s social Ponzi scheme](https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82)
+**发布时间**: 2026-02-06 05:00
+
+#### [Trump and the normalisation of deviance](https://www.ft.com/content/35adacb7-7881-4d99-a6b4-d6f2e81c901a)
+**发布时间**: 2026-02-06 05:00
+
+#### [KPMG pressed its auditor to pass on AI cost savings](https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d)
+**发布时间**: 2026-02-06 05:00
+
+#### [Trump’s policies dent international travel to US in blow to tourism sector](https://www.ft.com/content/8f6d4196-6f61-4be9-8cb7-1d93253e4e8b)
+**发布时间**: 2026-02-06 05:00
 
 ---
 

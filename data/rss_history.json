@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "146bf63832b797bd9f063b6d901bdd95eb71c9df87aa10b0c1f8e3159edaf8bc": {
-        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
-        "link": "https://www.tmtpost.com/7833373.html",
-        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006932"
-      },
-      "6a8c1c0c3bab4ea6a62d913a2107f2b1243b37301d1fed03a166616848b83531": {
-        "title": "曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”",
-        "link": "https://www.tmtpost.com/7832911.html",
-        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006938"
-      },
-      "5def0d5012c5024c96fdea4f41531e4d00aa6f1871205221fd6e62849015f6f5": {
-        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
-        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006940"
-      },
-      "54370e1904c4585eee8afab6509773fda554212565229ded3ce7d6eec4ed245f": {
-        "title": "算力稀缺时代，如何把 GPU 用“满”",
-        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006942"
-      },
-      "78a78df1f1b74e3d7fc8875177d617e969d14174bb5ee1ba5f70eeba96957d6f": {
-        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
-        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-07T05:28:04.006943"
-      },
       "98b524cc343cb4c5e9d03d2bb6487ac9baed280b1dea875ce595dddc25ff0d33": {
         "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
         "link": "https://www.tmtpost.com/7833395.html",
@@ -2773,39 +2743,99 @@
         "link": "https://sspai.com/post/106113",
         "published_date": "Fri, 06 Feb 2026 08:50:00 GMT",
         "first_seen": "2026-02-06T03:27:48.123696"
+      },
+      "2222aaf7bc97cb26fa79032f77c9ba1e8d2b6912fd678daec02792f3574a07ab": {
+        "title": "别再手动拼凑 Data Pipeline 了！这个新平台想让你彻底告别 Iceberg 运维噩梦",
+        "link": "https://www.infoq.cn/article/io7H7PDc3ka8dTKOEfQk?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 06 Feb 2026 13:02:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722890"
+      },
+      "9e1df6a06135fb99de0198c36bb0f88960d1eef5f5ad7f79bb54f9ba005c8da2": {
+        "title": "科技世界中，被遗忘的班加罗尔",
+        "link": "https://www.tmtpost.com/7868302.html",
+        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722898"
+      },
+      "940a5175c8637bef2e8ce99abd5f1fe3c8efa60bf528b881bc3ca8243175dbba": {
+        "title": "光伏得道，ST升天",
+        "link": "https://www.tmtpost.com/7867926.html",
+        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722900"
+      },
+      "ab0d73aee3cde676e56014b026fd407f1253c34df31dc4ce75e4432b2b546add": {
+        "title": "10亿美元暗度陈仓，王兴真着急了",
+        "link": "https://www.tmtpost.com/7868433.html",
+        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722901"
+      },
+      "331ebb43c0c27c3435877f283edf37f7eae4304c00c24abfdac1a35e12581ced": {
+        "title": "正面对决lululemon，安踏“少帅”丁少翔的最难一役",
+        "link": "https://www.tmtpost.com/7868256.html",
+        "published_date": "Fri, 06 Feb 2026 12:23:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722903"
+      },
+      "023ca0dbcb18aee848709bbf130190768e092cdea8aca7969457f28c48b17017": {
+        "title": "CEO上任两月失联，百亿商超被“打脸”？",
+        "link": "https://www.tmtpost.com/7868308.html",
+        "published_date": "Fri, 06 Feb 2026 12:23:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722905"
+      },
+      "e6f0ce949cca5e70189b3e69657833d6191d2bc865ebf16818b997bf456702c8": {
+        "title": "库迪终止9.9元价格战，咖啡低价策略不香了？",
+        "link": "https://www.tmtpost.com/7868958.html",
+        "published_date": "Fri, 06 Feb 2026 11:54:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722906"
+      },
+      "371cd86bfcbe0e308f1a42e370e2f3ef143051f8913be6a3fe0988341a7d1e76": {
+        "title": "百胜中国门店数已达1.8万家，外卖占餐厅收入 48%",
+        "link": "https://www.tmtpost.com/7868951.html",
+        "published_date": "Fri, 06 Feb 2026 11:53:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722908"
+      },
+      "85b11411a166c1bd48a9c8d59ac227fba805381249de235729ff38b7e331da72": {
+        "title": "今年第一个民营诊所IPO诞生：系北大校友联手创业，获腾讯重押",
+        "link": "https://www.tmtpost.com/7868666.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722909"
+      },
+      "04a053de229be1bb2a537999135204c33212f797288b3df2056d6dd42f4c1ab3": {
+        "title": "商业航天的终极竞争，是成本控制还是商业生态构建？",
+        "link": "https://www.tmtpost.com/7867779.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722911"
+      },
+      "d6ce9abb7ad63a6b1124674c1b48045674f45d7f1c7ab9a3173623df95373ebd": {
+        "title": "2025年AI期末考试，谷歌又考了全年级第一",
+        "link": "https://www.tmtpost.com/7868828.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722912"
+      },
+      "ce2a75774c221e5f9e789a9a54863f6001c82531072c00e340c5c4b6173517ed": {
+        "title": "“药王”大变局",
+        "link": "https://www.tmtpost.com/7868760.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722914"
+      },
+      "d45a83d77830703471bab07c585cf99212349b66660460a86f973b3ef0478314": {
+        "title": "从“成本倒挂”到“亿级印钞机”：谷歌Gemini API如何终结AI英雄主义？",
+        "link": "https://www.tmtpost.com/7867888.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722915"
+      },
+      "9b8dc6c59016f98891a35978b25a9ccce0464af093966ef2ac1952b4254a8d19": {
+        "title": "腾讯“内讧”？微信封杀元宝红包",
+        "link": "https://www.tmtpost.com/7868218.html",
+        "published_date": "Fri, 06 Feb 2026 11:49:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722917"
+      },
+      "1e598800ec7195afba2ff84ca6354d20ba88cbc546b7b6296bd3c5bea857e7c9": {
+        "title": "Sonos × 少数派 × 暖风家联合打造：沉浸体验空间正式上线",
+        "link": "https://sspai.com/post/106081",
+        "published_date": "Fri, 06 Feb 2026 11:30:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.722918"
       }
     },
     "Finance": {
-      "17dea2b432956a664e9a85b38e2032d523dcab136dd1d9fd1b388952345205e2": {
-        "title": "Don’t be fooled — everything has changed for the global economy",
-        "link": "https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057826"
-      },
-      "307adcc7a1919e7ecd29e5b32c81953d2f856d37edac4683288afef572a1bed4": {
-        "title": "Hedge funds hunt for Venezuela’s unpaid financial claims",
-        "link": "https://www.ft.com/content/2c04228d-2f2b-49d7-bbed-974053e285b9",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057834"
-      },
-      "5541609d408c4e4d9a0ba79f065d0bc6b84d92c8d549aab7a4bd1304319b527c": {
-        "title": "Businesses say Britain’s ‘jam tomorrow’ energy plans threaten their survival",
-        "link": "https://www.ft.com/content/26cdb6b8-b305-402d-a9b3-4dc133621b80",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057837"
-      },
-      "0090b6c7f137323554f059c4baf265919ba18b8785bb7a24e1d3790d91e39ee3": {
-        "title": "Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds",
-        "link": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
-        "published_date": "Wed, 07 Jan 2026 01:33:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057839"
-      },
-      "a1cf38bf3631625eaa6bbaece8f147639750159a72d9ee0ee86c7927ab351b44": {
-        "title": "Watch out for America’s activist attorneys-general",
-        "link": "https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394",
-        "published_date": "Wed, 07 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-07T05:27:27.057841"
-      },
       "eb6fccd45d649f63db9c8254d9c53e7435e4a250efb74f2dccb269bc59a9d080": {
         "title": "Trump says Venezuela will turn over oil to US",
         "link": "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c",
@@ -4737,39 +4767,39 @@
         "link": "https://www.ft.com/content/f8696da1-5fe6-4218-be9c-5309bd9a6ae5",
         "published_date": "Thu, 05 Feb 2026 23:37:00 GMT",
         "first_seen": "2026-02-06T03:27:47.865310"
+      },
+      "161eff87d51d847eb582c7660d9dac6763752375efa045a9f9d920a038dc6029": {
+        "title": "Toyota replaces chief executive",
+        "link": "https://www.ft.com/content/b875b36f-3361-4d8c-9d38-b8bbba2107ed",
+        "published_date": "Fri, 06 Feb 2026 05:28:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.491595"
+      },
+      "624e82c5068a551363dd5edce41d7d09ec76cc842757d0fc052e43cbfb8895e4": {
+        "title": "Inside Jeffrey Epstein’s social Ponzi scheme",
+        "link": "https://www.ft.com/content/826949fc-118e-4708-b1a3-b938bc82db82",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.491605"
+      },
+      "b8dc201eb943c67e58401da17c75467582a88eb2a8bd48359672acabf836e7de": {
+        "title": "Trump and the normalisation of deviance",
+        "link": "https://www.ft.com/content/35adacb7-7881-4d99-a6b4-d6f2e81c901a",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.491607"
+      },
+      "2548a8d6e7647868e92a0d09dc38174c6d66ad5073d273921dc7895163d85b12": {
+        "title": "KPMG pressed its auditor to pass on AI cost savings",
+        "link": "https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.491609"
+      },
+      "89a43be7ecbf0a9bba48fdf3252e591590481b5a44c5fa33e80ab33ce491ad1a": {
+        "title": "Trump’s policies dent international travel to US in blow to tourism sector",
+        "link": "https://www.ft.com/content/8f6d4196-6f61-4be9-8cb7-1d93253e4e8b",
+        "published_date": "Fri, 06 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.491611"
       }
     },
     "Ai": {
-      "c39f36070b5729fccf5688f139b6400c93a29537c5fc2b524f8e182521047a42": {
-        "title": "注意力机制大变革？Bengio团队找到了一种超越Transformer的硬件对齐方案",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-3",
-        "published_date": "Wed, 07 Jan 2026 13:23:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621356"
-      },
-      "1987a647d4f6fcf16e40788c3aa1fc68d9bb0f9c4e03484c911e7faa72728147": {
-        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
-        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621362"
-      },
-      "261b27f519c9acf10e2e2e6e8893280acdc029229a0a749da2ac7abf804f4bb0": {
-        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
-        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621364"
-      },
-      "65294c233b7818207c72038f18c52a7f1320613dc603a2dd7620581107f58b83": {
-        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
-        "link": "https://www.qbitai.com/2026/01/367175.html",
-        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621366"
-      },
-      "46788e6835d8beb28f55684eb6b5000da030dd0895b5538dbb0e8a6a45911a93": {
-        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
-        "link": "https://www.qbitai.com/2026/01/367171.html",
-        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
-        "first_seen": "2026-01-07T05:27:43.621367"
-      },
       "f4c85b9600d647bb4bda095c233ab0498a2db0b676aab7cf33ff52c7ccf605ef": {
         "title": "重塑虚实边界：智元机器人发布首个大语言模型驱动的开源仿真平台Genie Sim 3.0",
         "link": "https://www.jiqizhixin.com/articles/2026-01-07-8",
@@ -7037,13 +7067,31 @@
         "link": "https://ai.hubtoday.app//2026-02/2026-02-06/",
         "published_date": "Fri, 06 Feb 2026 07:18:00 GMT",
         "first_seen": "2026-02-06T03:27:48.040775"
+      },
+      "6c24f9d33fbacb6bfcb2ad0bdf11e0047dd961a2a51320e4824fc93f94f68fb3": {
+        "title": "OpenClaw狂揽16万star，是时候聊聊Agent Tools的AB面了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-7",
+        "published_date": "Fri, 06 Feb 2026 13:09:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.637514"
+      },
+      "accfdd140d87d968c5bf01e228072e55bff0ce09c23e18dbe7a57e2f91dc3ede": {
+        "title": "AI卖广告，吵到了超级碗：全球网友围观奥特曼破防",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-6",
+        "published_date": "Fri, 06 Feb 2026 13:04:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.637521"
+      },
+      "e785e0894b601bc2ca2028a9be16b96a2a85fb105ce3e3c379e9a13f6d6fe971": {
+        "title": "AgentDoG：为AI智能体戴上「诊断项圈」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-06-5",
+        "published_date": "Fri, 06 Feb 2026 12:58:00 GMT",
+        "first_seen": "2026-02-06T05:44:18.637524"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-06T03:27:48.123698",
-    "Finance": "2026-02-06T03:27:47.865312",
-    "Ai": "2026-02-06T03:27:48.040777"
+    "Technology": "2026-02-06T05:44:18.722920",
+    "Finance": "2026-02-06T05:44:18.491613",
+    "Ai": "2026-02-06T05:44:18.637526"
   }
 }
