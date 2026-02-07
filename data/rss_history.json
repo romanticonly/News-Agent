@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f67b72b6e9c8e0cf17ca8b339861e623262ee052c91c04e0f2640eb2930ebdb6": {
-        "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
-        "link": "https://www.tmtpost.com/7835366.html",
-        "published_date": "Thu, 08 Jan 2026 16:13:00 GMT",
-        "first_seen": "2026-01-08T08:38:55.444786"
-      },
-      "c1d530f5ab8a92e158aecbaf822ba8f7a065091c625c9689ac14a7a797d9f601": {
-        "title": "开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态",
-        "link": "https://www.tmtpost.com/7835316.html",
-        "published_date": "Thu, 08 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-08T08:38:55.444793"
-      },
-      "080e690526b081e291de514d63ac4f43bef20570d9dd2b61b09690504be7287c": {
-        "title": "纯爱赛道，男频短剧的新突破口？",
-        "link": "https://www.tmtpost.com/7834849.html",
-        "published_date": "Thu, 08 Jan 2026 10:39:00 GMT",
-        "first_seen": "2026-01-08T08:38:55.444795"
-      },
-      "f587cf386be305248e86a35a1a0316afb197f971d12fe576861b5056a3995418": {
-        "title": "中粮信托 x TencentOS：国产操作系统的业务零感知替换实践",
-        "link": "https://www.infoq.cn/article/744gLufBQwFPXMbt9lj1?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 11:22:00 GMT",
-        "first_seen": "2026-01-08T08:38:55.444797"
-      },
-      "0fba15542685d03326a53cb8e698df8ffdf75cf15e4b34c4ee570354424512a4": {
-        "title": "TencentOS为华泰保险400余套核心系统打造安全稳定新基座",
-        "link": "https://www.infoq.cn/article/MVlTjAKfJ6xwGpPrccM5?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 11:15:00 GMT",
-        "first_seen": "2026-01-08T08:38:55.444799"
-      },
       "709224596c507be6f473e870088bb3baa2b0ac44d5d9400f99f37a890d6b4579": {
         "title": "智源发布2026十大 AI技术趋势：世界模型成AGI共识方向",
         "link": "https://www.infoq.cn/article/XzfoHiKPOLjjHlJXK8OV?utm_source=rss&utm_medium=article",
@@ -3127,21 +3097,39 @@
         "link": "http://www.huxiu.com/article/4833274.html?f=wangzhan",
         "published_date": "Sat, 07 Feb 2026 09:25:00 GMT",
         "first_seen": "2026-02-07T08:16:45.350973"
+      },
+      "c48e979bdbed762169f76e19b2c30da86739eff4d87d493a90ead1c4aea48dca": {
+        "title": "越南制造为什么迅速崛起？东亚模式会缔造下一个经济奇迹吗？",
+        "link": "http://www.huxiu.com/article/4831102.html?f=wangzhan",
+        "published_date": "Sat, 07 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.168688"
+      },
+      "6a9798a84ca48a95a1d1b9ea8c6c6321aab9f3b42ba50154d6d315a304d6e415": {
+        "title": "康诺生物IPO：一款老药撑起超六成收入，抗衰梦能成真吗？",
+        "link": "https://www.tmtpost.com/7870890.html",
+        "published_date": "Sat, 07 Feb 2026 17:58:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.168695"
+      },
+      "952987fda040ac000442a4cb5211403952c78f7542e8717298ef92f0eaa3e643": {
+        "title": "“史上最严新规”落地之后，电动自车行业正在发生什么?",
+        "link": "https://www.tmtpost.com/7870855.html",
+        "published_date": "Sat, 07 Feb 2026 17:31:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.168697"
+      },
+      "dd32dacc6a451c5e06e5d6279ee85cb795b45fda6e7e5aab6c3f5ffaf54e2099": {
+        "title": "当马年品牌短片只剩“谐音梗”......",
+        "link": "https://www.tmtpost.com/7870813.html",
+        "published_date": "Sat, 07 Feb 2026 16:50:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.168699"
+      },
+      "6d4beadc0993755766b63fba7eddaa518b5ecfdb003028b4b5d540e5cf162a5b": {
+        "title": "告别王文彬时代，韩永彦能否带申通打赢“巷战”？",
+        "link": "https://www.tmtpost.com/7870821.html",
+        "published_date": "Sat, 07 Feb 2026 16:48:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.168700"
       }
     },
     "Finance": {
-      "14ea0ee5c501eb71db19790abc120f1668272b0a508756723e7fe2f801317a53": {
-        "title": "Primark owner ABF shares slide after profit warning",
-        "link": "https://www.ft.com/content/c3754da0-b04a-48b8-ba59-e2b2735917f9",
-        "published_date": "Thu, 08 Jan 2026 08:20:00 GMT",
-        "first_seen": "2026-01-08T08:37:53.894912"
-      },
-      "f665f6d8dfa73e39f1e1a1575bf4265c7e7febf42b696ab0ef137fb8bfcc4b23": {
-        "title": "Greenland’s future must be decided by island and Denmark, Starmer warns Trump",
-        "link": "https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440",
-        "published_date": "Thu, 08 Jan 2026 07:47:00 GMT",
-        "first_seen": "2026-01-08T08:37:53.894920"
-      },
       "fcfbca8760c3d9a570d8bf478f8655299dc0edafad20bdbe4b982406c06c1a01": {
         "title": "UK to exclude financial services from push for closer EU alignment",
         "link": "https://www.ft.com/content/8d9aca04-5675-4d38-bf22-1fcb2f1a862b",
@@ -5163,21 +5151,63 @@
         "link": "https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46",
         "published_date": "Sat, 07 Feb 2026 07:00:00 GMT",
         "first_seen": "2026-02-07T08:16:45.119063"
+      },
+      "b65285071901d5f4bd0a5283f52a3bf9354a1934daf266865c397595b1239922": {
+        "title": "‘I’m not made of money’: My heating engineer didn’t fix my radiators on his first visit. Do I pay him a second time?",
+        "link": "https://www.marketwatch.com/story/im-not-made-of-money-my-heating-engineer-charged-me-twice-he-didnt-fix-the-problem-the-first-time-do-i-pay-9cc6b4b9?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 22:52:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930654"
+      },
+      "92ecd825d3df08d1698b87285641446c9109d04a0ec8d2f7356935aafafa45c0": {
+        "title": "There is a severe doctor shortage. How to find a good one.",
+        "link": "https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 20:06:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930664"
+      },
+      "378c1344eecfe44f30bd655bdb82e48fa107d6d16bd5380c1309185e4e474b68": {
+        "title": "Getting a doctor’s appointment will become even harder as a perfect storm hits the U.S. healthcare system",
+        "link": "https://www.marketwatch.com/story/getting-a-doctors-appointment-will-become-even-harder-as-a-perfect-storm-hits-the-u-s-healthcare-system-58385587?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 20:04:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930667"
+      },
+      "5ea4ba300e3bd048d10a08f36c64e042f369b95fd4b2fdb554b8cea42d180510": {
+        "title": "The NFL heads into the Super Bowl after a season of record ratings. That could make games cost more to watch in the future.",
+        "link": "https://www.marketwatch.com/story/nfl-heads-into-super-bowl-after-season-of-record-ratings-paving-way-for-tv-rights-bonanza-bb8f897c?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 19:47:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930675"
+      },
+      "05466cbb8857f8eefe4b433e802326c44ccac842f357d1eae0373b1e35d0310a": {
+        "title": "Investors are asking if they need to own gold and silver at all",
+        "link": "https://www.marketwatch.com/story/investors-are-asking-if-they-need-to-own-gold-and-silver-at-all-d46ac11e?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 19:38:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930677"
+      },
+      "db73ee70bc726d76e5092850c7bde390950981c82e540e81319c71d17531d803": {
+        "title": "This year’s Super Bowl ads are telling you the AI bubble is about to burst",
+        "link": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Feb 2026 19:30:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930678"
+      },
+      "350e25490fc187266ce92556dc60ba74cb76d138b7dfb4099c35a9e244051b0b": {
+        "title": "Will Lewis steps down as Washington Post publisher after job cuts",
+        "link": "https://www.ft.com/content/5fa62c89-ebf2-4e2e-beb0-d09cfce22d81",
+        "published_date": "Sat, 07 Feb 2026 22:51:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930680"
+      },
+      "b5ce17fdce815d2f259022e88053eed27130b1a832d0f4330ff3440b3f28e2e5": {
+        "title": "Japan goes to the polls after shortest campaign in postwar era",
+        "link": "https://www.ft.com/content/1d6762c2-7bbf-4457-8799-2bcb694478e1",
+        "published_date": "Sat, 07 Feb 2026 22:00:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930681"
+      },
+      "9a5b06195d920876f76cef4fd48ec7661a2aa5349ffad2eae50c9ebfe79848fb": {
+        "title": "How the house of Rothschild became entangled with Epstein",
+        "link": "https://www.ft.com/content/0d70b7d3-063d-43a0-812b-8b8b3e7c4c47",
+        "published_date": "Sat, 07 Feb 2026 12:00:00 GMT",
+        "first_seen": "2026-02-07T23:17:32.930682"
       }
     },
     "Ai": {
-      "533fae7cb14def33a30ff28be722de83dc301aa892536a69acc1caae438150c1": {
-        "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
-        "link": "https://www.qbitai.com/2026/01/367397.html",
-        "published_date": "Thu, 08 Jan 2026 05:50:00 GMT",
-        "first_seen": "2026-01-08T08:37:54.016142"
-      },
-      "156f094a3c27b1204aa9be605a21b478282b01081f33a308a0a3e3a4bda035d1": {
-        "title": "2026-01-08日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-08/",
-        "published_date": "Thu, 08 Jan 2026 07:15:00 GMT",
-        "first_seen": "2026-01-08T08:37:54.016150"
-      },
       "db5c33c699028de4db829ad8080c4a7536376e40d9563d95dfa122220e309df9": {
         "title": "清库存！DeepSeek突然补全R1技术报告，训练路径首次详细公开",
         "link": "https://www.qbitai.com/2026/01/367678.html",
@@ -7433,13 +7463,61 @@
         "link": "https://www.qbitai.com/2026/02/377529.html",
         "published_date": "Sat, 07 Feb 2026 05:06:00 GMT",
         "first_seen": "2026-02-07T08:16:45.267367"
+      },
+      "f3b18e456eaab4308bd7630fca463d2523edfb9ef58c3415a093e86175263335": {
+        "title": "Waymo联手DeepMind打造世界模型：基于Genie 3，让自动驾驶「脑补」罕见场景",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-07-5",
+        "published_date": "Sat, 07 Feb 2026 19:36:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108011"
+      },
+      "32cb9f2eba5fb7cec53c4cd4b844ceff8a1e1cfdad2e6646fdc42180c5d148d3": {
+        "title": "人形机器人的真机强化学习! ICLR 2026 通研院提出人形机器人预训练与真机微调新范式",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-07-4",
+        "published_date": "Sat, 07 Feb 2026 19:29:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108018"
+      },
+      "4c17ca001647bea0b19d20996e6b1d9cc39653ed945de730929fd182bb9e5a34": {
+        "title": "苏炜杰获2026「统计学诺奖」考普斯奖，14年来首位华人得主",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-07-3",
+        "published_date": "Sat, 07 Feb 2026 19:20:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108020"
+      },
+      "6d3bc15e04fcd1e6f8d32b4d26a862b0b777d13bfb82825f3945d06e57056437": {
+        "title": "像挖币一样挖激活函数？DeepMind搭建「算力矿场」，暴力搜出下一代ReLU",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-07-2",
+        "published_date": "Sat, 07 Feb 2026 19:17:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108022"
+      },
+      "ef745d478079de696f62e085062265ddfdf211016865e7e2c83a098277435989": {
+        "title": "全新视角看世界模型：从视频生成迈向通用世界模拟器",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-07",
+        "published_date": "Sat, 07 Feb 2026 19:10:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108023"
+      },
+      "153d5ba5661e893920f42b34c2919358c541347ce37fbbe6d117abe98ce731aa": {
+        "title": "清华研究生开源大一统世界模型：性能超越硅谷标杆40%！",
+        "link": "https://www.qbitai.com/2026/02/377835.html",
+        "published_date": "Sat, 07 Feb 2026 14:09:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108025"
+      },
+      "42d24a8394e91e301239e807877c7d606081fec6f07462bf7895fec8fe19ddcf": {
+        "title": "小米给KV Cache减负80%！MiMo团队推出混合稀疏注意力架构",
+        "link": "https://www.qbitai.com/2026/02/377824.html",
+        "published_date": "Sat, 07 Feb 2026 10:47:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108026"
+      },
+      "fa019c42ddfa92e99381fcc340f322751e7292e5cd94471a39efe2dda3d4620a": {
+        "title": "可灵3.0加入AI拜年战场！人在工位搓好莱坞大片，分镜逻辑封神",
+        "link": "https://www.qbitai.com/2026/02/377608.html",
+        "published_date": "Sat, 07 Feb 2026 10:42:00 GMT",
+        "first_seen": "2026-02-07T23:17:33.108027"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-07T08:16:45.350975",
-    "Finance": "2026-02-07T08:16:45.119074",
-    "Ai": "2026-02-07T08:16:45.267370"
+    "Technology": "2026-02-07T23:17:33.168702",
+    "Finance": "2026-02-07T23:17:32.930685",
+    "Ai": "2026-02-07T23:17:33.108030"
   }
 }
