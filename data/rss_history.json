@@ -3151,6 +3151,18 @@
         "link": "https://www.infoq.cn/article/bibe64DvY3it15efBbta?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 08 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-08T05:54:30.250733"
+      },
+      "0fd8db6a0ced0341c1de65c0913f3fd5fd2a332298b8a6a05eb2082d78566469": {
+        "title": "盘点 8 个本周 yyds 的 GitHub 开源项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531116&idx=1&sn=b21c42411c9c3b0990bedc31142d84bd",
+        "published_date": "Sun, 08 Feb 2026 15:05:00 GMT",
+        "first_seen": "2026-02-08T08:18:18.866322"
+      },
+      "edf7d6b9911fafc15297d638b9100e9c6a80994e26ccc1d9c1c5301881c7b239": {
+        "title": "价值判断：涨停板的投资机会和风险提示（2月6日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7871256.html",
+        "published_date": "Sun, 08 Feb 2026 10:02:00 GMT",
+        "first_seen": "2026-02-08T08:18:18.866331"
       }
     },
     "Finance": {
@@ -7493,13 +7505,19 @@
         "link": "https://www.qbitai.com/2026/02/377863.html",
         "published_date": "Sun, 08 Feb 2026 04:54:00 GMT",
         "first_seen": "2026-02-08T05:54:30.162043"
+      },
+      "3877aaea05bfad46b78fbf7f6b02f655cc351dd6e2af5aacb3f213d8c0cba120": {
+        "title": "AI看图一本正经胡说八道？「一拉一推」让模型看得全又准｜微软x清华",
+        "link": "https://www.qbitai.com/2026/02/377959.html",
+        "published_date": "Sun, 08 Feb 2026 06:08:00 GMT",
+        "first_seen": "2026-02-08T08:18:18.806089"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-08T05:54:30.250734",
+    "Technology": "2026-02-08T08:18:18.866334",
     "Finance": "2026-02-08T05:54:29.988850",
-    "Ai": "2026-02-08T05:54:30.162045"
+    "Ai": "2026-02-08T08:18:18.806099"
   }
 }
