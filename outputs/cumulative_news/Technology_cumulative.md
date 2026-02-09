@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 06:00
+**最后更新时间**: 2026-02-09 08:36
+
+---
+
+## 🆕 最新更新 (2026-02-09 08:36)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [90亿+美金押注MCE赛道：巨头抢滩，为何Biotech寥寥？](https://www.tmtpost.com/7872459.html)
+**发布时间**: 2026-02-09 16:19
+
+#### [盲盒退潮之后，泡泡玛特还值不值得相信？](https://www.tmtpost.com/7872546.html)
+**发布时间**: 2026-02-09 16:19
+
+#### [单日暴跌23%，市值蒸发百亿欧元，全球第四大车企为“激进转型”买单｜钛度车库](https://www.tmtpost.com/7872576.html)
+**发布时间**: 2026-02-09 15:59
+
+#### [从VLA到世界模型，具身智能加速“范式转移”](https://www.tmtpost.com/7872347.html)
+**发布时间**: 2026-02-09 14:29
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 AI 操纵手机的 GitHub 项目，支持 OpenClaw 干不了的活。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531216&idx=1&sn=6e6433f6845e8ab424f7631c234c4729)
+**发布时间**: 2026-02-09 15:05
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Anthropic发布新版Claude宪法](https://www.infoq.cn/article/TG6vTDfYS6OIMRefSZ4S?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 15:00
+
+#### [3年、1万人，快手技术团队首次系统披露AI研发范式升级历程](https://www.infoq.cn/article/9rX1Ov951gKtaTmQb8Jq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:55
+
+#### [Base UI 1.0 发布，包含 35 个可访问性组件](https://www.infoq.cn/article/NgNgXNFVZNgePmNs0t4a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 14:29
+
+#### [Rspack 1.7发布：2.0之前的最后一个1.x版本](https://www.infoq.cn/article/r3oIM8cNYt3VkqkMK3ez?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-02-09 13:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [骏马迎春，纳福添彩：我们准备了 10+ 件年货好物](https://sspai.com/post/106213)
+**发布时间**: 2026-02-09 15:00
 
 ---
 
