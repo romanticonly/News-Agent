@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-10 06:04
+**最后更新时间**: 2026-02-10 08:36
+
+---
+
+## 🆕 最新更新 (2026-02-10 08:36)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [BP to halt stock buybacks as profit slumps](https://www.marketwatch.com/story/bp-to-halt-stock-buybacks-as-profit-slumps-0457cb71?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 08:05
+
+#### [AstraZeneca profit climbs on cancer and heart drug demand](https://www.marketwatch.com/story/astrazeneca-profit-climbs-on-cancer-and-heart-drug-demand-b673c908?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 07:24
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [BP suspends share buyback plan](https://www.ft.com/content/b16c72a5-a7df-45ac-a30e-f6f26bd4c469)
+**发布时间**: 2026-02-10 07:43
+
+#### [EU-US tensions over Greenland and tech are far from over, says Macron](https://www.ft.com/content/b5b248a4-c83b-45d9-b676-2dd2ee12597c)
+**发布时间**: 2026-02-10 06:00
+
+#### [Can Elon Musk build a data centre in space?](https://www.ft.com/content/a5cf86ec-47cb-448f-b4a3-56ca6390ad8e)
+**发布时间**: 2026-02-10 05:00
+
+#### [Russian army casualties in Ukraine surge](https://www.ft.com/content/ce74d2d8-5562-4e6d-9e5f-041b017b5d39)
+**发布时间**: 2026-02-10 05:00
 
 ---
 
