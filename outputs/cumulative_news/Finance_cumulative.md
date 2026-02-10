@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-10 08:36
+**最后更新时间**: 2026-02-10 23:28
+
+---
+
+## 🆕 最新更新 (2026-02-10 23:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why the S&P 500 still can’t manage to close above 7,000](https://www.marketwatch.com/story/why-the-s-p-500-still-cant-manage-to-close-above-7-000-a0ed3136?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 23:07
+
+#### [Ford’s rosier outlook for the year is reason for optimism on Wall Street](https://www.marketwatch.com/story/fords-rosier-outlook-for-the-year-sends-stock-higher-after-earnings-eccfcbb2?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 22:53
+
+#### [Mattel’s stock sinks as weak earnings reveal a tale of two toymakers](https://www.marketwatch.com/story/mattels-stock-sinks-as-weak-earnings-reveal-a-tale-of-two-toymakers-58c7b30d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 22:47
+
+#### [Trump says he’ll ‘figure something out’ if tariffs are struck down, as Supreme Court ruling may come next week](https://www.marketwatch.com/story/trump-says-hell-figure-something-out-if-tariffs-are-struck-down-as-supreme-court-ruling-may-come-next-week-5b270ba6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 22:36
+
+#### [Why stocks have climbed even after the appearance of three Hindenburg Omens](https://www.marketwatch.com/story/why-stocks-have-climbed-even-after-the-appearance-of-three-hindenburg-omens-ecff5587?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 22:08
+
+#### [The S&P 500 just accomplished a first-time feat — and it suggests more wild swings ahead](https://www.marketwatch.com/story/the-s-p-500-just-accomplished-a-first-time-feat-and-it-suggests-more-wild-swings-ahead-909deded?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 21:51
+
+#### [Crypto caution weighs on Robinhood’s sales and sinks its stock](https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 21:42
+
+#### [Lyft offers $1 billion buyback, but stock is tumbling after mixed results and outlook](https://www.marketwatch.com/story/lyft-offers-1-billion-buyback-but-shares-are-tumbling-after-mixed-results-and-outlook-513f758b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 21:27
+
+#### [The U.S. bond market is suddenly flashing a warning sign about the economy](https://www.marketwatch.com/story/the-u-s-bond-market-is-suddenly-flashing-a-warning-sign-about-the-economy-c56f307b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 21:13
+
+#### [Why bitcoin needs to fall another 20% before it’s even worth a look](https://www.marketwatch.com/story/bitcoin-needs-to-fall-another-20-before-its-actually-a-deal-30e1d6ff?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 21:02
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US brokerage shares slide in latest sell-off driven by new AI tool](https://www.ft.com/content/1c63983f-5ff0-4b70-ad55-7e4334f59422)
+**发布时间**: 2026-02-10 21:47
+
+#### [UK electricity will cost more in 2030 than after invasion of Ukraine, warns Centrica](https://www.ft.com/content/c6bd1db4-3bd5-4471-99d2-bf57b15a96e8)
+**发布时间**: 2026-02-10 21:36
+
+#### [Canadian pension giant halts deals with DP World over chief’s Epstein ties](https://www.ft.com/content/c813601e-e8cb-4eb9-b1de-6ca504bb689f)
+**发布时间**: 2026-02-10 20:48
+
+#### [Howard Lutnick says he visited Jeffrey Epstein’s island in 2012](https://www.ft.com/content/500bff5b-fba8-4fcd-a672-762141882441)
+**发布时间**: 2026-02-10 19:46
+
+#### [Starmer too ‘weak’ to sack Streeting, prime minister’s allies admit](https://www.ft.com/content/fc3766fa-ea4f-46b7-9ed5-fcf0b90b9916)
+**发布时间**: 2026-02-10 19:18
+
+#### [Starmer strips whip from former senior aide over links to sex offender](https://www.ft.com/content/53283c52-bb5f-48d5-8d91-52f0598662c4)
+**发布时间**: 2026-02-10 18:17
+
+#### [Goldman Sachs CEO says Trump’s populist policies should aid growth](https://www.ft.com/content/f443b4a1-2efd-4481-82b3-5467cf5f81e5)
+**发布时间**: 2026-02-10 17:15
+
+#### [Wall Street’s anything-but-tech trade shakes up US stock market](https://www.ft.com/content/577b97f6-2416-48b9-9bd3-717bb202ca71)
+**发布时间**: 2026-02-10 14:41
+
+#### [Why Maga loathes London](https://www.ft.com/content/05b8e8ba-5763-46f1-a2e5-9820bbe4d053)
+**发布时间**: 2026-02-10 11:37
 
 ---
 
