@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-09 23:26
+**最后更新时间**: 2026-02-10 06:04
+
+---
+
+## 🆕 最新更新 (2026-02-10 06:04)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Standard Chartered finance chief leaves for Apollo](https://www.ft.com/content/af2641e2-77e4-4d0a-8817-bee1fe1d968b)
+**发布时间**: 2026-02-10 05:24
+
+#### [Is this the way the world ends?](https://www.ft.com/content/e79fc6dd-554f-451b-a9f3-ed4b24f69218)
+**发布时间**: 2026-02-10 05:00
+
+#### [What fast food’s downturn says about the US economy](https://www.ft.com/content/9643e9b8-a4d8-49e2-8c16-20c1a1c5ca4b)
+**发布时间**: 2026-02-10 05:00
+
+#### [Top bosses depart Canadian pension fund after Thames Water fiasco](https://www.ft.com/content/bf423077-2904-4498-bcee-626441cbbd2a)
+**发布时间**: 2026-02-10 05:00
+
+#### [Rising share of UK public in favour of tax and spending cuts](https://www.ft.com/content/28c4a1c7-dcd2-4581-96b6-5992b581967d)
+**发布时间**: 2026-02-10 00:01
+
+#### [UK shoppers held out for January sales, data shows](https://www.ft.com/content/2e5ea0b7-d0b7-43a5-8272-0ae73bae904e)
+**发布时间**: 2026-02-10 00:01
+
+#### [US plans Big Tech carve-out from next wave of chip tariffs](https://www.ft.com/content/e6f7f69a-2552-45f5-ae4c-6f1135e5cde1)
+**发布时间**: 2026-02-09 23:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The first five years of retirement are crucial. Watch out for the ‘thieves’ of retirement wealth.](https://www.marketwatch.com/story/the-first-five-years-of-retirement-are-crucial-heres-how-to-make-sure-your-money-lasts-the-rest-of-your-life-dbfc1d80?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 00:28
+
+#### [A severe doctor shortage is coming. What can you do?](https://www.marketwatch.com/story/what-can-you-do-if-your-doctor-retires-or-quits-d633bc9d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-10 00:26
+
+#### [In a coming-out party for prediction markets and sports, people just traded nearly $1.5 billion on the Super Bowl winner](https://www.marketwatch.com/story/in-a-coming-out-party-for-prediction-markets-and-sports-people-just-traded-nearly-1-5-billion-on-the-super-bowl-winner-86613100?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 23:56
+
+#### [Target cuts office and warehouse jobs, as it shifts resources toward stores](https://www.marketwatch.com/story/targets-new-ceo-wants-to-make-stores-more-welcoming-his-latest-move-is-to-cut-jobs-ff1774fd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-09 23:51
 
 ---
 
