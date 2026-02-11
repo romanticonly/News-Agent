@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "9d309c2704c63be741b759e7255ae9c8af4258dfe02756176cd040e2ff1e5034": {
-        "title": "MongoBleed漏洞允许攻击者从MongoDB的堆内存中读取数据",
-        "link": "https://www.infoq.cn/article/HN7NXQZUkbU2StoW9Kl9?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318978"
-      },
-      "6a4ef330c33e02039f43b70b1f2c144c0413a515f80620ea9a26e9102fa2c2aa": {
-        "title": "抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！",
-        "link": "https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:02:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318985"
-      },
-      "3aa073111a52d4d26df204ef9e29a21eeda66b5d1ecb058b04709260351fd9ed": {
-        "title": "亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦",
-        "link": "https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 12 Jan 2026 15:44:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318987"
-      },
-      "1ca0cf81529a874b6b6e0ef880256087103d2d498eafb6f7a5984a70a2ab44bb": {
-        "title": "Exclusive: China’s Booster Robotics Raises Over $14 Million as Humanoid Robots Move Toward Commercial Scale",
-        "link": "https://www.tmtpost.com/7838958.html",
-        "published_date": "Mon, 12 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318988"
-      },
-      "0c3b80d9218d99bdb8a01bfafca586fb31943567be70d2078478d5ec7d02ffa0": {
-        "title": "智谱 VS MiniMax：国产大模型双雄上市记",
-        "link": "https://www.tmtpost.com/7838822.html",
-        "published_date": "Mon, 12 Jan 2026 10:54:00 GMT",
-        "first_seen": "2026-01-12T08:35:54.318990"
-      },
       "000bcc0487fdbf400f4c7d906b86416ba5003879372873188255df140f60d564": {
         "title": "英伟达发布了跨AI、机器人和自动驾驶的开放模型、数据集和工具",
         "link": "https://www.infoq.cn/article/HHxGUQV0RjXGOfTisX9U?utm_source=rss&utm_medium=article",
@@ -3907,21 +3877,105 @@
         "link": "https://www.infoq.cn/article/b8LJJIs08XT0h9dRflsH?utm_source=rss&utm_medium=article",
         "published_date": "Wed, 11 Feb 2026 10:09:00 GMT",
         "first_seen": "2026-02-11T06:02:12.753421"
+      },
+      "664e2a8cbe6c1fe268d81b9ed3c7eafaf4bb57ea318b31eabad1da22a3a9bebd": {
+        "title": "上市公司TOP5济安评估 （2月2日至2月6日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/7876177.html",
+        "published_date": "Wed, 11 Feb 2026 16:23:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373942"
+      },
+      "c1aca5f7750215942247f6d0669e9eae686f3f1b46263d34030e94277875591b": {
+        "title": "价值判断：涨停板的投资机会和风险提示（2月10日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7876170.html",
+        "published_date": "Wed, 11 Feb 2026 16:22:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373951"
+      },
+      "fc674515a3374cdebaf17eb7dc4b6e571a793d7ec3fb9877a23f63c51b51aa59": {
+        "title": "ESG搞了这么多年，为什么还是没法用来赚钱？｜济安学派",
+        "link": "https://www.tmtpost.com/7876122.html",
+        "published_date": "Wed, 11 Feb 2026 15:59:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373952"
+      },
+      "e01150e03d4cf30c5b5cd88aa1f4b548605d2b7366633723754c77bc4b8bca3c": {
+        "title": "上海小南国春节前大面积闭店 中高档餐饮行业迎生存大考",
+        "link": "https://www.tmtpost.com/7876113.html",
+        "published_date": "Wed, 11 Feb 2026 15:53:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373955"
+      },
+      "b124a07b77e6249e2c42a8183fc836f533083a7db4c457ee07439f25d7443b46": {
+        "title": "Seedance 2.0 来了，AI 会颠覆影视工业吗？",
+        "link": "https://www.tmtpost.com/7874848.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373956"
+      },
+      "32d25b8b5a897309e9165a27bf1c731d710e57a392b6f38335857125a0ee0b6c": {
+        "title": "刘慈欣监制，AI科幻短剧《神·笔》来了，AI“演技”好到能拿奖？",
+        "link": "https://www.tmtpost.com/7876025.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373959"
+      },
+      "856db8b614002a2d97af172fc26f642b8d0aee123e3d42bd90b9e92618d8d3b1": {
+        "title": "Robinhood：爆炒之后，美股散户王还剩什么？",
+        "link": "https://www.tmtpost.com/7875973.html",
+        "published_date": "Wed, 11 Feb 2026 15:48:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373961"
+      },
+      "367b396f9ea706b239f06e5c394ee0d2dff065ed82abc4a63a030d1ccdd7598b": {
+        "title": "Alibaba, ByteDance Unveil New AI Products on the Same Day in Race for Supremacy",
+        "link": "https://www.tmtpost.com/7876060.html",
+        "published_date": "Wed, 11 Feb 2026 15:43:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373962"
+      },
+      "d89262300067d81f465d391cb7c9cb35f7a03f142d44652f31b175f71c1105d6": {
+        "title": "对话酷哇科技CTO 廖文龙：利润指标转正，AI服务机器人市场将在未来3-5年爆发",
+        "link": "https://www.tmtpost.com/7875789.html",
+        "published_date": "Wed, 11 Feb 2026 14:03:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373964"
+      },
+      "07aa8c54fd75c62078486b870f1b79ed4597df09d722403fba41460444849b4e": {
+        "title": "承认物理完败，马斯克押注硅基反击：制造业终局不是回流，而是物种进化",
+        "link": "https://www.tmtpost.com/7875885.html",
+        "published_date": "Wed, 11 Feb 2026 14:02:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373966"
+      },
+      "26367a5b680acbceeb96c3a3959d20265f042439cd868261cc04de4aa4b4054f": {
+        "title": "离开半年，48 岁前 GitHub CEO 携开源 AI 开发者平台和老东家打擂",
+        "link": "https://www.infoq.cn/article/fcjA0034GUQVp20cjHZU?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:16:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373967"
+      },
+      "b83bcfde95f4d0b4f1dd462caa486cde25cf77cda89f6047479daae65dbd56ff": {
+        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+        "link": "https://www.infoq.cn/article/fuib2PTStVR1lfgjZUMc?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:15:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373969"
+      },
+      "fa8f0145c9aaba1e135576d4689bbddd7816c8af42d3c2a13ead7b7f1c8a44f9": {
+        "title": "谷歌推动模型上下文协议支持gRPC",
+        "link": "https://www.infoq.cn/article/IvpIeymHIWETqu4X7qo7?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373971"
+      },
+      "2f9991216f9f8506708ae201b06343545634d24ce68ceb71eb369e8192210739": {
+        "title": "Datadog 在其 LLM 可观测性工具中集成 Google ADK",
+        "link": "https://www.infoq.cn/article/ybR4DQTz6udDxBmKZpOi?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 11 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373972"
+      },
+      "8d651a5ccb233e5b181dcde7f257dde32ba150fe4f96360003fa8b5dec702cb7": {
+        "title": "索尼 LinkBuds Clip 耳夹式开放真无线耳机体验 - TDS REVIEW",
+        "link": "https://sspai.com/post/106175",
+        "published_date": "Wed, 11 Feb 2026 15:31:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373973"
+      },
+      "3ddf00c7d6eeccfe58ee6c544f2c74d45e191be140e64a377f7271a879c61ca2": {
+        "title": "GitHub 上狂揽 1.3 万 Star！港大开源的轻量版 Clawdbot。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531244&idx=1&sn=e7c7582cd88ec05a56c1df4068512cc8",
+        "published_date": "Wed, 11 Feb 2026 15:09:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.373975"
       }
     },
     "Finance": {
-      "9621b81a387f1dbe1bca2414f07b196dd949af1e3fc13a6d51ac7f2f39889f7c": {
-        "title": "Gold hits record high on worries over Fed independence",
-        "link": "https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186",
-        "published_date": "Mon, 12 Jan 2026 07:51:00 GMT",
-        "first_seen": "2026-01-12T08:35:20.131814"
-      },
-      "d6338d15cc0d8777ad74dea06e7d89da32da27e427a8094122ed189322ea89ca": {
-        "title": "Criminalising the Fed",
-        "link": "https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32",
-        "published_date": "Mon, 12 Jan 2026 06:30:00 GMT",
-        "first_seen": "2026-01-12T08:35:20.131826"
-      },
       "35ddd5dbba7e5e23fb9c6e4db48a3d7806e934ab7d3334a1b6e7877789dd40cb": {
         "title": "BlackRock’s Rieder repeats his view that Fed needs to bring interest rates down to 3%",
         "link": "https://www.marketwatch.com/story/blackrocks-rieder-repeats-his-view-that-fed-needs-to-bring-interest-rates-down-to-3-0c1a61d3?mod=mw_rss_topstories",
@@ -6351,39 +6405,21 @@
         "link": "https://www.marketwatch.com/story/shopifys-stock-soars-ahead-of-earnings-why-this-analyst-is-newly-upbeat-5f0a1460?mod=mw_rss_topstories",
         "published_date": "Wed, 11 Feb 2026 00:10:00 GMT",
         "first_seen": "2026-02-11T06:02:12.487604"
+      },
+      "6085ab23b52958c1326a40a480dc6cfdf71eb2e2c22bed65bfbcd274a7692da1": {
+        "title": "Elliott Management builds stake in London Stock Exchange Group",
+        "link": "https://www.ft.com/content/6282142e-3627-4635-9aff-cf18c1403364",
+        "published_date": "Wed, 11 Feb 2026 08:33:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.147041"
+      },
+      "1a9435fc52d250f8f816d57b3f050c427239118f5ccabc19531d607d0230f782": {
+        "title": "Heineken to cut 6,000 jobs as beer demand declines",
+        "link": "https://www.ft.com/content/46fbdef6-f7f6-4026-a7da-a3d97600987e",
+        "published_date": "Wed, 11 Feb 2026 08:02:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.147053"
       }
     },
     "Ai": {
-      "1401a8d331131b2b52d41bc54246e9d2a3e4ac484dfafd8350548bcdf2cf4ff1": {
-        "title": "清华等团队用AI驱动百万倍速药物筛选，一天内十万亿次扫描的超高速虚拟平台",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-5",
-        "published_date": "Mon, 12 Jan 2026 14:11:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583975"
-      },
-      "20fe234369ceecdd8399b60d55c534f7eb5db6b0105026e9ab331e943fdcca56": {
-        "title": "具身智能开年最大融资，字节红杉领投10亿",
-        "link": "https://www.qbitai.com/2026/01/369147.html",
-        "published_date": "Mon, 12 Jan 2026 06:51:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583981"
-      },
-      "21345019d20c30e2290c2bcc5cbbe967686dbdc6c650650c7860edc8622bdab1": {
-        "title": "引入几何约束后，VLM跨越了「空间推理」的认知鸿沟",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-6",
-        "published_date": "Mon, 12 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583984"
-      },
-      "9136e32ecba3949e46147f93b95475753ddc991eeab6ebbcc185873fc618eee5": {
-        "title": "具身开源模型新王！千寻Spirit v1.5模型登顶 RoboChallenge，终结 Pi0.5领跑时代",
-        "link": "https://www.qbitai.com/2026/01/369107.html",
-        "published_date": "Mon, 12 Jan 2026 08:06:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583986"
-      },
-      "39bca3da45d37bac837754f9d52c13e19e5eb38e7c71d59a6a368ae8bd2ec0b9": {
-        "title": "真香！刚骂完AI，Linux之父的首个Vibe Coding项目上线",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-12-7",
-        "published_date": "Mon, 12 Jan 2026 15:06:00 GMT",
-        "first_seen": "2026-01-12T08:35:30.583987"
-      },
       "8dd0508d4badf704680719919ffb81ce2558186707a7300664453fe97db12c30": {
         "title": "2026-01-13日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-13/",
@@ -8723,13 +8759,37 @@
         "link": "https://www.qbitai.com/2026/02/378442.html",
         "published_date": "Wed, 11 Feb 2026 02:06:00 GMT",
         "first_seen": "2026-02-11T06:02:12.659715"
+      },
+      "1699375699d4f78f5fa8f20e961834ec80bf6a3d1adeeae1c7043b4f68e7866a": {
+        "title": "华为云大动作！马年春节前夕，码道开启万人公测",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-8",
+        "published_date": "Wed, 11 Feb 2026 15:37:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.288835"
+      },
+      "046936dabe79927205888b1d40fd9a8ff5f5009ae7804bb9f2e7b25ff84fe3de": {
+        "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-7",
+        "published_date": "Wed, 11 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.288843"
+      },
+      "d7b752f25efdd665e3684d2337a7e44ae03052d5ba5133cd6305a26b8a2c1bcb": {
+        "title": "Protenix-v1发布：首个超越AlphaFold 3性能的开源结构预测模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-11-6",
+        "published_date": "Wed, 11 Feb 2026 14:12:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.288845"
+      },
+      "5d80fbd493b02bfc1e6db590003f648b30bc157826db5e74651093f2a9226b86": {
+        "title": "特斯拉腾讯首次合作，新老Model 3/Y车主爽到了",
+        "link": "https://www.qbitai.com/2026/02/378503.html",
+        "published_date": "Wed, 11 Feb 2026 06:34:00 GMT",
+        "first_seen": "2026-02-11T08:38:32.288846"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-11T06:02:12.753423",
-    "Finance": "2026-02-11T06:02:12.487606",
-    "Ai": "2026-02-11T06:02:12.659717"
+    "Technology": "2026-02-11T08:38:32.373977",
+    "Finance": "2026-02-11T08:38:32.147056",
+    "Ai": "2026-02-11T08:38:32.288848"
   }
 }
