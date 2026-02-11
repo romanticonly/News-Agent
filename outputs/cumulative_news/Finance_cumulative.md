@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-10 23:28
+**最后更新时间**: 2026-02-11 06:02
+
+---
+
+## 🆕 最新更新 (2026-02-11 06:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nine killed in shooting in remote Canada town](https://www.ft.com/content/6db03cde-73de-42ba-a32f-deb142d71940)
+**发布时间**: 2026-02-11 05:56
+
+#### [Zelenskyy plans spring elections alongside referendum on peace deal after US push](https://www.ft.com/content/50d3d86b-2d2a-4d06-845e-a4e089382cad)
+**发布时间**: 2026-02-11 05:00
+
+#### [The airlines fighting the expansion of Heathrow](https://www.ft.com/content/9e3775bd-5e01-4cd6-a927-db4b7fb430c1)
+**发布时间**: 2026-02-11 05:00
+
+#### [Why are fertility rates collapsing? Gender roles](https://www.ft.com/content/e1a7fd72-9790-498e-a4ef-9380f5da1e9e)
+**发布时间**: 2026-02-11 05:00
+
+#### [Turkey’s soap opera boom threatened by dramatic inflation](https://www.ft.com/content/d5aa6fc5-cecd-45cf-81fb-9b06e7994e25)
+**发布时间**: 2026-02-11 05:00
+
+#### [25-year-old founder raises $220mn for secretive UK AI chip start-up](https://www.ft.com/content/cba54e86-2b2a-422c-861b-dc9280d6aa65)
+**发布时间**: 2026-02-11 05:00
+
+#### [New CBI boss criticises UK government policy of taking stakes in businesses](https://www.ft.com/content/2e5e776b-0d15-41e3-9bfa-4752e4fae40c)
+**发布时间**: 2026-02-11 05:00
+
+#### [Disclosure rules for ‘buy now, pay later’ lenders diluted by UK regulator](https://www.ft.com/content/877c52d9-e2f6-40cc-bf7a-e01818fafb62)
+**发布时间**: 2026-02-11 00:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I’m trying to fix my relationship with my stepdaughter. Should my husband and I tell her how we have divided our assets?](https://www.marketwatch.com/story/should-i-tell-my-stepdaughter-that-my-husband-and-i-own-our-home-50-50-and-that-she-will-have-to-wait-for-her-inheritance-d9434b31?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 02:07
+
+#### [Here’s how Apple’s stock can surge in the face of rising memory costs](https://www.marketwatch.com/story/heres-how-apples-stock-can-surge-in-the-face-of-rising-memory-costs-8cc35404?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 01:56
+
+#### [Crypto winter hits Robinhood’s sales and stock, but CEO sees prediction-market ‘super cycle’](https://www.marketwatch.com/story/crypto-caution-weighs-on-robinhoods-sales-and-sinks-its-stock-ff27eac8?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 01:34
+
+#### [Super Bowl LX and Bad Bunny draw huge ratings, but fall short of records](https://www.marketwatch.com/story/super-bowl-lx-and-bad-bunny-draw-huge-ratings-but-fall-short-of-records-13666449?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 01:24
+
+#### [‘I feel the clock ticking’: My wife and I are in our 60s — and employ 48 people in a small town. Can we ever retire?](https://www.marketwatch.com/story/i-feel-the-clock-ticking-my-wife-and-i-are-in-our-60s-and-employ-48-people-in-a-small-town-can-we-ever-retire-2399ba41?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 01:06
+
+#### [Shopify’s stock soars ahead of earnings. Why this analyst is newly upbeat.](https://www.marketwatch.com/story/shopifys-stock-soars-ahead-of-earnings-why-this-analyst-is-newly-upbeat-5f0a1460?mod=mw_rss_topstories)
+**发布时间**: 2026-02-11 00:10
 
 ---
 
