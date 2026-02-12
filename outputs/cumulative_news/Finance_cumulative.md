@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-12 05:57
+**最后更新时间**: 2026-02-12 08:31
+
+---
+
+## 🆕 最新更新 (2026-02-12 08:31)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A 222-year-old U.K. firm to fall into American hands as Nuveen to buy Schroders for $14 billion](https://www.marketwatch.com/story/a-222-year-old-u-k-firm-to-fall-into-american-hands-as-nuveen-to-buy-schroders-for-14-billion-f49f56cc?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 08:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Schroders agrees £9.9bn takeover by US investment manager Nuveen](https://www.ft.com/content/17b8a2e7-e5bd-4dca-8e3a-45435d3162ad)
+**发布时间**: 2026-02-12 08:18
+
+#### [UK trade deficit for goods hits record high in 2025](https://www.ft.com/content/870d3538-a4e1-4398-9e28-a8c3f061a200)
+**发布时间**: 2026-02-12 07:52
+
+#### [UK economy undershot expectations to grow by 0.1% in final quarter of 2025](https://www.ft.com/content/8d77df48-ae4f-4c14-be04-13406221db48)
+**发布时间**: 2026-02-12 07:25
+
+#### [How private equity’s big bet on software was derailed by AI](https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95)
+**发布时间**: 2026-02-12 05:00
+
+#### [Does the weight-loss revolution show up in the data?](https://www.ft.com/content/0de44a07-528d-4515-9fb4-f6636d9c4230)
+**发布时间**: 2026-02-12 05:00
+
+#### [China wants to create a ‘Polar Silk Road’ through the Arctic](https://www.ft.com/content/9d726e1a-8b64-41e8-9e29-5bda58f05b3e)
+**发布时间**: 2026-02-12 03:13
 
 ---
 

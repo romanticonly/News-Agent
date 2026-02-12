@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Feb 2026 05:56:00 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2026 05:57:04 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 08:31:00 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 08:31:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,75 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-02-12日刊</title>
-      <link>https://ai.hubtoday.app//2026-02/2026-02-12/</link>
-      <description>&lt;![CDATA[2026-02-12日刊]]&gt;</description>
-      <pubDate>Thu, 12 Feb 2026 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-12/</guid>
+      <title>小红书，再造一个更有「声」命力的社区</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-9</link>
+      <description>&lt;![CDATA[小红书，再造一个更有「声」命力的社区]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-9</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-8</link>
+      <description>&lt;![CDATA[DeepAgent与DeepSearch双双霸榜！答案指向openJiuwen这一新兴开源项目]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-8</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-7</link>
+      <description>&lt;![CDATA[ICLR 2026 oral | AI代码真能进生产环境？SwingArena：从「写对代码Commit」到「通过CI审查」]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-7</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，MOSS孙天祥创业，直播AI4AI大规模科研</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-6</link>
+      <description>&lt;![CDATA[刚刚，MOSS孙天祥创业，直播AI4AI大规模科研]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-6</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>速度提升，能力却暴跌？扩散模型做智能体的残酷真相</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-5</link>
+      <description>&lt;![CDATA[速度提升，能力却暴跌？扩散模型做智能体的残酷真相]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-5</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-4</link>
+      <description>&lt;![CDATA[走出MMLU的高分幻觉：AI Agent的「斯坦利时刻」与职场生存法则]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-4</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-3</link>
+      <description>&lt;![CDATA[当AI应用都在「撒钱」时，谁来扛住千亿交互背后的算力大考？]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-3</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>让机器人「秒懂人话」！中国电信TeleAI发布首个实时文本驱动人形机器人控制框架TextOp</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12-2</link>
+      <description>&lt;![CDATA[让机器人「秒懂人话」！中国电信TeleAI发布首个实时文本驱动人形机器人控制框架TextOp]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12-2</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>字节发布Seedance 2.0，豆包、即梦官宣接入</title>
+      <link>https://www.jiqizhixin.com/articles/2026-02-12</link>
+      <description>&lt;![CDATA[字节发布Seedance 2.0，豆包、即梦官宣接入]]&gt;</description>
+      <pubDate>Thu, 12 Feb 2026 14:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-12</guid>
       <category>Ai</category>
     </item>
   </channel>
