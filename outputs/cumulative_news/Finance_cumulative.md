@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-11 23:20
+**最后更新时间**: 2026-02-12 05:57
+
+---
+
+## 🆕 最新更新 (2026-02-12 05:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Epstein trustee document contradicts Jes Staley testimony](https://www.ft.com/content/f4597d4f-b297-4e6c-8b6c-dfba8b9ec06c)
+**发布时间**: 2026-02-12 05:00
+
+#### [How private equity’s big bet on software got derailed by AI](https://www.ft.com/content/954ed03b-4119-4412-be9f-59f68b537a95)
+**发布时间**: 2026-02-12 05:00
+
+#### [How is the weight-loss revolution showing up in the data?](https://www.ft.com/content/0de44a07-528d-4515-9fb4-f6636d9c4230)
+**发布时间**: 2026-02-12 05:00
+
+#### [Mustafa Suleyman plots AI ‘self-sufficiency’ as Microsoft loosens OpenAI ties](https://www.ft.com/content/f1ec830c-2f08-4b1a-b70f-7330f260753c)
+**发布时间**: 2026-02-12 05:00
+
+#### [Trump prompts global surge in people viewing US as a threat](https://www.ft.com/content/268b16d9-c920-4bd5-b2b8-9283dab0df8d)
+**发布时间**: 2026-02-12 05:00
+
+#### [Keir Starmer faces backlash over ousting of Britain’s top civil servant](https://www.ft.com/content/841d1425-440a-4bb7-99ba-f23cea3789ea)
+**发布时间**: 2026-02-12 05:00
+
+#### [Four partners leave EY after independence rule breach on Shell audit](https://www.ft.com/content/7a9d9465-81b2-4443-9311-38e52c021595)
+**发布时间**: 2026-02-12 05:00
+
+#### [How China wants to create a ‘Polar Silk Road’ through the Arctic](https://www.ft.com/content/9d726e1a-8b64-41e8-9e29-5bda58f05b3e)
+**发布时间**: 2026-02-12 03:13
+
+#### [US House votes to overturn Trump’s tariffs on Canada](https://www.ft.com/content/befefca6-b6b0-4795-b3a7-fa9fe4d5181e)
+**发布时间**: 2026-02-12 00:14
+
+#### [Musk overhauls xAI’s leadership as he sets lofty space data centre ambitions](https://www.ft.com/content/758b3d7d-e94f-40ba-b705-23341ca9bdfe)
+**发布时间**: 2026-02-12 00:12
+
+#### [Westminster fears release of ‘embarrassing’ exchanges in Mandelson data dump](https://www.ft.com/content/ffcc06d6-7096-4e60-85e7-34bd8aaec1ad)
+**发布时间**: 2026-02-11 19:13
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [20 stocks of companies that delivered a double dose of growth this earnings season](https://www.marketwatch.com/story/20-stocks-of-companies-that-delivered-a-double-dose-of-growth-this-earnings-season-7b343b8b?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 03:44
+
+#### [Chipotle CEO: Don’t come to us for dollar menus](https://www.marketwatch.com/story/chipotle-ceo-doubles-down-on-not-offering-value-meals-says-our-food-is-worth-every-penny-96f3cbbd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 01:41
+
+#### [‘She is planning to move out of state’: My sister sold our elderly mother’s house from under her. What can I do?](https://www.marketwatch.com/story/she-is-planning-to-move-out-of-state-my-sister-secretly-sold-our-elderly-mothers-house-what-can-i-do-e9a9f486?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 01:18
+
+#### [A budget airline cancelled my flight and gave me a $25 voucher and a hotel room. Is this normal?](https://www.marketwatch.com/story/a-budget-airline-cancelled-my-flight-and-gave-me-a-25-voucher-and-a-hotel-room-is-this-normal-506b2626?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 00:26
+
+#### [T-Mobile’s stock turns higher after earnings. Here’s what’s impressing Wall Street.](https://www.marketwatch.com/story/t-mobile-sees-huge-boom-in-phone-subscribers-but-heres-why-the-stock-is-falling-ae9c445d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-12 00:12
 
 ---
 
