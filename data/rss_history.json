@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "467c9637ee995a9746799af20f794e287acc389c9c1b9151284c1669a9f57709": {
-        "title": "千问接入淘宝、支付宝等App，阿里巴巴Agent行动开始了",
-        "link": "https://www.tmtpost.com/7844188.html",
-        "published_date": "Thu, 15 Jan 2026 13:22:00 GMT",
-        "first_seen": "2026-01-15T08:35:53.284494"
-      },
-      "f95cbfa4968a9021846c18469d64219db45413f59d11d7e6d552eed956e7779a": {
-        "title": "英特尔亮出AI PC王牌：酷睿Ultra",
-        "link": "https://www.tmtpost.com/7843795.html",
-        "published_date": "Thu, 15 Jan 2026 14:48:00 GMT",
-        "first_seen": "2026-01-15T08:35:53.284501"
-      },
-      "6a2b1ce762ef25328650479bc376ebfd6400bfba9020257fa58221ed8e9e05c7": {
-        "title": "扎克伯格亲手杀死元宇宙",
-        "link": "https://www.tmtpost.com/7844120.html",
-        "published_date": "Thu, 15 Jan 2026 14:26:00 GMT",
-        "first_seen": "2026-01-15T08:35:53.284503"
-      },
-      "f27ee856ab4b8deacd52689a786dc23370c140080d2e0cf07617ad67ec3076c0": {
-        "title": "亚马逊云科技为S3 Tables添加智能分层存储和复制功能",
-        "link": "https://www.infoq.cn/article/QF4H8hz11CO0coRgWL5I?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 15 Jan 2026 10:34:00 GMT",
-        "first_seen": "2026-01-15T08:35:53.284505"
-      },
-      "9a7ee042c3120df5708ab9b95ff28602303416947fa9bd889c120443ef354f4a": {
-        "title": "2026，中国智驾驶入决赛圈",
-        "link": "https://www.tmtpost.com/7844137.html",
-        "published_date": "Thu, 15 Jan 2026 16:15:00 GMT",
-        "first_seen": "2026-01-15T08:35:53.284506"
-      },
       "f87be1733a8b009a9e5926652694817370b118982b175b9aa34efeda4005071c": {
         "title": "首次破万亿，台积电，炸裂财报来了",
         "link": "https://www.tmtpost.com/7844636.html",
@@ -4819,15 +4789,45 @@
         "link": "https://www.infoq.cn/article/U93SfJ0k03fptmVZeWqQ?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 14 Feb 2026 15:00:00 GMT",
         "first_seen": "2026-02-14T08:17:09.099272"
+      },
+      "ccd46867a1b83737ddefed06a1f8275160f5d62a0b323085cf88339ce88768e8": {
+        "title": "网易这一年的停与进",
+        "link": "https://www.tmtpost.com/7880129.html",
+        "published_date": "Sat, 14 Feb 2026 19:42:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785401"
+      },
+      "0d69ad5ef85ac7fb029393f29f1b0aef3f538ffbe68ded5ef1d2b8856e95668b": {
+        "title": "夜店走出黄金时代 ，但晚9朝5的年轻人需要新乐园",
+        "link": "https://www.tmtpost.com/7880972.html",
+        "published_date": "Sat, 14 Feb 2026 18:12:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785411"
+      },
+      "e38f41b0b8e3600eef551ae340f79b1ea50462a7b8622106cf2c40246e328a1c": {
+        "title": "杨元庆：AI绝对没有泡沫，市场需求不仅没有饱和，还会继续高速增长",
+        "link": "https://www.tmtpost.com/7881001.html",
+        "published_date": "Sat, 14 Feb 2026 17:54:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785413"
+      },
+      "c02ee6822af52bf39755a3f4f508d6066fe7b1a88d1ad6ae7ace7b775bb1d885": {
+        "title": "“代经济”兴起，解了年轻人的春节焦虑？",
+        "link": "https://www.tmtpost.com/7880714.html",
+        "published_date": "Sat, 14 Feb 2026 17:35:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785415"
+      },
+      "9c6effa44ac6240a37e60024a96f460dcc021726e41351c1ec608ffddf2dbf65": {
+        "title": "车企成本与用户税负双上升的2026，消费者如何聪明购车？",
+        "link": "https://www.tmtpost.com/7880005.html",
+        "published_date": "Sat, 14 Feb 2026 16:42:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785417"
+      },
+      "e080635bbd9513766f808d25a55cb88cf740929d419a8a80f2ace1db8b6d0c69": {
+        "title": "BellSoft调查发现容器安全实践正在破坏开发者自己的目标",
+        "link": "https://www.infoq.cn/article/0k9GJAt24pKSAF635qVi?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 14 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.785418"
       }
     },
     "Finance": {
-      "a9c3481d240f5069a82e75a3dfee982725fdf63454fd0029317d1d9cf6d1a667": {
-        "title": "UK economy beat expectations to grow 0.3% in November",
-        "link": "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802",
-        "published_date": "Thu, 15 Jan 2026 08:01:00 GMT",
-        "first_seen": "2026-01-15T08:35:16.390602"
-      },
       "ca774b6f93c2b7ecf1b968217b916698cf5ad7ad2d70230c38fe374db40d3ec0": {
         "title": "BoE accused of making ‘mistake’ in loosening capital rules",
         "link": "https://www.ft.com/content/4f158502-9cc0-4813-bc2d-a2017fd752bc",
@@ -7629,39 +7629,69 @@
         "link": "https://www.ft.com/content/beee83f7-6e88-4e49-87c4-802d9dff9053",
         "published_date": "Sat, 14 Feb 2026 06:28:00 GMT",
         "first_seen": "2026-02-14T08:17:09.133420"
+      },
+      "9c4c60a117f57b66b4a9aa17302ef5574f4b854e13350bba2ee06fff59285c32": {
+        "title": "‘We’ve been dating for 5 years’: My boyfriend’s parents say he doesn’t earn enough to marry. Should I speak to his father?",
+        "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 20:07:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852064"
+      },
+      "4a1d50bdf24b86d7ebcf933c5456c0847c5591954f6249df8575e1ee99f4a5e7": {
+        "title": "Social Security could run out of money in just 6 years — even sooner than originally feared",
+        "link": "https://www.marketwatch.com/story/social-security-could-run-out-of-money-in-just-6-years-even-sooner-than-originally-feared-c28eb5a5?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 19:55:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852071"
+      },
+      "9f93a185264f3f8da71fb539a8d57dae2b3ffc6138d6cd655bab33a216617e15": {
+        "title": "My employer is forcing me into a Roth 401(k). Is there anything I can do?",
+        "link": "https://www.marketwatch.com/story/im-being-forced-into-a-roth-401-k-is-there-anything-i-can-do-81a6848d?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 19:42:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852073"
+      },
+      "330897d0a76bad62e4a5688eb3b4a2298dfd3094d20582da2492933612809dfc": {
+        "title": "Build your own wealth transfer for retirement if you’re not getting a big inheritance",
+        "link": "https://www.marketwatch.com/story/build-your-own-wealth-transfer-for-retirement-if-youre-not-getting-a-big-inheritance-e0d642bd?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 18:59:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852075"
+      },
+      "7a38dd8880672176860023c92c630f23e842b9d1fd8db85532d5b1fbda195e1b": {
+        "title": "I’m almost 65 and live abroad. Should I skip signing up for Medicare?",
+        "link": "https://www.marketwatch.com/story/im-almost-65-and-live-abroad-should-i-skip-signing-up-for-medicare-2eaf7f79?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 18:37:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852076"
+      },
+      "2689d7f59ef186eb18e433defebebeecbc4d53b007d91e830ab70ae470aa4087": {
+        "title": "Thank ‘Too Late’ Jerome Powell for the jobs and inflation beats",
+        "link": "https://www.marketwatch.com/story/thank-too-late-jerome-powell-for-the-jobs-and-inflation-beats-2bc659af?mod=mw_rss_topstories",
+        "published_date": "Sat, 14 Feb 2026 18:05:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852078"
+      },
+      "b97710ba8d212558a8a88978d4c650df4f45bd031751d6ba3b12a15d49320652": {
+        "title": "Rubio tells Europe that US will not abandon transatlantic alliance",
+        "link": "https://www.ft.com/content/ad264479-52bb-4a63-bc87-e40d6f0a01c0",
+        "published_date": "Sat, 14 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852079"
+      },
+      "2b52c470a676db391ccd252b3620efc8e006e41fa4aa4733e38241e7df7ec9bc": {
+        "title": "Zelenskyy insists elections can only take place two months after a ceasefire",
+        "link": "https://www.ft.com/content/c4a0a5e7-1678-4303-b621-a447bca69d64",
+        "published_date": "Sat, 14 Feb 2026 15:07:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852081"
+      },
+      "518866fd572f5ce01ca591eaec1c8d1e75067e4cd63b3e2debd13755159a4ddd": {
+        "title": "Von der Leyen says Europe must bring its mutual defence clause ‘to life’",
+        "link": "https://www.ft.com/content/30ee3ac3-f1b1-42e6-a802-f19bf2f34a39",
+        "published_date": "Sat, 14 Feb 2026 12:51:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852082"
+      },
+      "aa5b4d1920b60626ba135bb9366e5a4dbc405d22be333b98afadf59f1a1e1d5c": {
+        "title": "Six Wall Street bank chiefs bring in combined pay of $250mn in 2025",
+        "link": "https://www.ft.com/content/62b8713f-cd72-4838-b8ac-708b91b2830f",
+        "published_date": "Sat, 14 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-14T23:12:59.852083"
       }
     },
     "Ai": {
-      "c2787183ff5ca7a7e009a78e0770affa890eb0af094203a6f8b70a84757e7875": {
-        "title": "Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-9",
-        "published_date": "Thu, 15 Jan 2026 14:02:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123026"
-      },
-      "25d5639a5bd3c3e0aab9d523dccc5e490b9c8a16280337f66144ec5bb1741a82": {
-        "title": "5分钟定制一个AI采购专家：讯飞发布“招采智能体工厂”，重新定义行业开发范式",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-3",
-        "published_date": "Thu, 15 Jan 2026 11:35:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123032"
-      },
-      "4ccd01eeddc30767816d65a8ea2003ac184adb36bc641ae3419a71f70dd20da4": {
-        "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
-        "link": "https://www.qbitai.com/2026/01/369684.html",
-        "published_date": "Thu, 15 Jan 2026 06:42:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123035"
-      },
-      "3ec3008cbdcef1036277517d53fe59da0fd5319dc319cba9a06b4af8a2ed7f8d": {
-        "title": "不得了，这个新技术把视频压缩到了0.02%！",
-        "link": "https://www.qbitai.com/2026/01/369609.html",
-        "published_date": "Thu, 15 Jan 2026 06:21:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123036"
-      },
-      "5303e72da9c6cff12574b9594c1056f2157ce77d6eb5ed633ea94c81522d8559": {
-        "title": "实测夸克「千问划词快捷指令」，这7个邪修Prompt，建议收藏",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-15-6",
-        "published_date": "Thu, 15 Jan 2026 12:11:00 GMT",
-        "first_seen": "2026-01-15T08:35:30.123038"
-      },
       "ad5607d0e072175c7424e1446e94643253907571341db3f5ea91086114441baa": {
         "title": "国内首个可复现！萝博派对公开人形机器人 “从 0 到跑” 全开源方案",
         "link": "https://www.jiqizhixin.com/articles/2026-01-15-13",
@@ -10049,13 +10079,79 @@
         "link": "https://www.jiqizhixin.com/articles/2026-02-14-2",
         "published_date": "Sat, 14 Feb 2026 15:56:00 GMT",
         "first_seen": "2026-02-14T08:17:09.283807"
+      },
+      "5a180ce24223f0b61c61b61edb8e01a21f9ba967b332d20ea114178c820d0707": {
+        "title": "字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-9",
+        "published_date": "Sat, 14 Feb 2026 16:55:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026863"
+      },
+      "19feace3eaef5e6a78a9483ddf4fe1900a8ec8025b5d6c32b9bf3d84b3238e9b": {
+        "title": "Agent、图像、视频全是大版本升级：春晚还没开，豆包AI就火了",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-8",
+        "published_date": "Sat, 14 Feb 2026 16:51:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026870"
+      },
+      "7709efe008e30a554bc9b374bad037e317302c89804e796cccd4f56eb500a057": {
+        "title": "这个情人节，AI深吻Math！国产RL系统多维突破300年亲吻数难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-7",
+        "published_date": "Sat, 14 Feb 2026 16:43:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026873"
+      },
+      "58f1321fa5c087f982fef1bc26734c1254db3bb6b1764f7ca2bb741a42d599ac": {
+        "title": "多模态Deep Research，终于有了「可核验」的评测标准",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-6",
+        "published_date": "Sat, 14 Feb 2026 16:37:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026874"
+      },
+      "106963e65d4432933c544ec4e2c159dd878d6a38f55bef5471e59143535aadc1": {
+        "title": "世界模型原生新一代范式！极佳视界斩获全球第一后，GigaBrain-0.5M*再进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-5",
+        "published_date": "Sat, 14 Feb 2026 16:34:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026875"
+      },
+      "2948468c116ad9fc290afe0a981acd0a7cad5cce4a0d721e066b80bba692cade": {
+        "title": "「上下文学习」之后，腾讯混元第二篇公开研究：精准定位RLVR训练崩溃的“罪魁祸首”Token",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-14-4",
+        "published_date": "Sat, 14 Feb 2026 16:29:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026877"
+      },
+      "4898cbd0ca04c164ac4e4b919e3accd990610c165542978871323eb5d836cacc": {
+        "title": "全国首批！商汤大装置SenseCore获软件供应链安全能力评估证书",
+        "link": "https://www.qbitai.com/2026/02/380375.html",
+        "published_date": "Sat, 14 Feb 2026 08:53:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026878"
+      },
+      "ed43425458bc99ba026c65748aaaf114269b080df2ee3e4cfb7d1225ab2a1466": {
+        "title": "「斯坦福AI小镇」创业即获投1亿美元！李飞飞卡帕西都投了",
+        "link": "https://www.qbitai.com/2026/02/380347.html",
+        "published_date": "Sat, 14 Feb 2026 08:46:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026879"
+      },
+      "1e967d6c8ebc212e82bbcf54abb7adc4c2bed9291c25353251941be2200ca901": {
+        "title": "整整21个月，豆包大模型正式进入2.0时代！",
+        "link": "https://www.qbitai.com/2026/02/380355.html",
+        "published_date": "Sat, 14 Feb 2026 08:41:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026881"
+      },
+      "817bd8c3be94b252a472001e7bd8ec8353a24bd1ed60f1128661a200aa4bf2b3": {
+        "title": "情人节最硬核“Kiss”！中国AI突破300年亲吻数难题，连刷多维度纪录",
+        "link": "https://www.qbitai.com/2026/02/380235.html",
+        "published_date": "Sat, 14 Feb 2026 08:37:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026882"
+      },
+      "a5d573be0a9813f145fefdfaca29446d48744b66364692258bbfad8cd41ee2c1": {
+        "title": "人形机器人放无人机，还能上天入海！有点过于赛博了吧",
+        "link": "https://www.qbitai.com/2026/02/380236.html",
+        "published_date": "Sat, 14 Feb 2026 08:26:00 GMT",
+        "first_seen": "2026-02-14T23:13:00.026884"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-14T08:17:09.099275",
-    "Finance": "2026-02-14T08:17:09.133428",
-    "Ai": "2026-02-14T08:17:09.283810"
+    "Technology": "2026-02-14T23:12:59.785420",
+    "Finance": "2026-02-14T23:12:59.852086",
+    "Ai": "2026-02-14T23:13:00.026885"
   }
 }
