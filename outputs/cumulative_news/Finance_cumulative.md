@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-13 23:19
+**最后更新时间**: 2026-02-14 05:42
+
+---
+
+## 🆕 最新更新 (2026-02-14 05:42)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Three things to consider to make your money last the rest of your life](https://www.marketwatch.com/story/good-news-were-living-longer-too-bad-most-of-us-cant-afford-it-66a86498?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 04:27
+
+#### [‘I’m part of a blended family that didn’t blend well’: My stepsister added her mailing address to our mother’s bank account. Can she be trusted?](https://www.marketwatch.com/story/my-mom-was-very-upset-my-stepsister-changed-the-address-on-our-mothers-bank-account-can-she-be-trusted-as-executor-dab23670?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 02:50
+
+#### [‘I’m close to retiring’: I’m behind on my property tax. Is this a really bad time to sell my house?](https://www.marketwatch.com/story/im-close-to-retiring-im-behind-on-my-property-taxes-is-this-a-bad-time-to-sell-my-house-40954efd?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 02:41
+
+#### [Tax refunds are up this year to an average of $2,290, early IRS numbers show. How does yours compare?](https://www.marketwatch.com/story/tax-refunds-are-up-this-year-to-an-average-of-2-290-early-irs-numbers-show-how-does-yours-compare-3c4e2267?mod=mw_rss_topstories)
+**发布时间**: 2026-02-14 01:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says regime change ‘the best thing that could happen’ in Iran](https://www.ft.com/content/0eb72baf-38cd-471b-877c-5dd489775b05)
+**发布时间**: 2026-02-13 23:10
 
 ---
 
