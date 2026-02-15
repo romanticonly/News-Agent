@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "1ef2e2e473df743c3e0bd89685945815a11994356431db7821006912c2240d6e": {
-        "title": "从技术选型重识 Apple Intelligence：为什么 Apple 如此设计 AI？",
-        "link": "https://sspai.com/post/105008",
-        "published_date": "Fri, 16 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505498"
-      },
-      "0356d8a44acef23b47c49672c33f66bb0a0dfb3a1e1a75ed6b5d98c41a62e663": {
-        "title": "亚马逊云科技发布第五代 Graviton 处理器，M9g 实例同步登场",
-        "link": "https://www.infoq.cn/article/xtXzsEPA5rVb6ZGfpUyh?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 16:23:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505504"
-      },
-      "b49993eeab4306db33fe930186a6a705112b473dc414d6369fcc2c316e0f4504": {
-        "title": "台积电最新业绩详解，豪掷超520亿押注未来",
-        "link": "https://www.tmtpost.com/7845160.html",
-        "published_date": "Fri, 16 Jan 2026 14:34:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505506"
-      },
-      "2869c4604479efa65a9681959531b0ed43f117aec36b2e2009bee2337c7b72ce": {
-        "title": "谷歌发布 Gemma Scope 2，深化对 LLM 行为的理解",
-        "link": "https://www.infoq.cn/article/QAVo2JuWaAElyqUA6joF?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 16 Jan 2026 10:36:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505508"
-      },
-      "2cd7066431dacb1fba624a60f518b656fef66bc812f809b67dafc0ac376e4fbe": {
-        "title": "马斯克领衔，脑机接口商业化元年来了？",
-        "link": "https://www.tmtpost.com/7845419.html",
-        "published_date": "Fri, 16 Jan 2026 16:02:00 GMT",
-        "first_seen": "2026-01-16T08:33:58.505510"
-      },
       "1ad4b9ee5b1881db4fa82d93dad2759c615601b40708d009b8ecfb895a476421": {
         "title": "AI 的下一个十年：从技术拐点到工程落地的路线图",
         "link": "https://www.infoq.cn/article/wLeViF4hSl0WQrw3r2cQ?utm_source=rss&utm_medium=article",
@@ -4867,6 +4837,72 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531349&idx=1&sn=e3da127dfee9e8ace4506c299748234a",
         "published_date": "Sun, 15 Feb 2026 15:04:00 GMT",
         "first_seen": "2026-02-15T08:19:06.101913"
+      },
+      "ce1861e88fe358f2157c917b184074ce6c97f0ce1659b8a0de22db346fb2ee86": {
+        "title": "CryptoQuant 2026加密量化大赛在港发布，机构交易者分享市场预测与AI交易趋势",
+        "link": "https://www.tmtpost.com/7881723.html",
+        "published_date": "Sun, 15 Feb 2026 20:34:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388187"
+      },
+      "8546a180830801831f408e0953335972192142366567a6e90cdda8da2f29fb05": {
+        "title": "他们，与故乡不在同一个时区过年",
+        "link": "https://www.tmtpost.com/7881436.html",
+        "published_date": "Sun, 15 Feb 2026 19:34:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388195"
+      },
+      "7cc1e84355506ecfc348749f0800e66f875dbbd3243e627d58d1e14a9ca392df": {
+        "title": "“村漂”的年轻人，利用自媒体悄悄赚钱",
+        "link": "https://www.tmtpost.com/7881563.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388198"
+      },
+      "97e0ea35c312923aaa1dc6ced30886c5913a30bb53e1fc9bd52a9e97a7307661": {
+        "title": "晶圆厂疯建，光刻机却卖不动了",
+        "link": "https://www.tmtpost.com/7881445.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388200"
+      },
+      "bab0b7ee4f9e09e894f9e3928559888c6b4b003a6ded1755a03b68064f87e482": {
+        "title": "SaaS业数千亿市值蒸发：AI如何变革组织架构？",
+        "link": "https://www.tmtpost.com/7880673.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388201"
+      },
+      "d5ca5a901c2e8a9716d3b1d35d7a8709b0df15400e518bdc8125705cb1c60bc2": {
+        "title": "机器人春晚大乱斗",
+        "link": "https://www.tmtpost.com/7881262.html",
+        "published_date": "Sun, 15 Feb 2026 18:28:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388203"
+      },
+      "a159c1149313dfd2e06ba6998b8b2f246ffa4b6648ec86eeafefdc4260f2ba16": {
+        "title": "芯片、关税与千亿豪赌：台积电的“美国大迁徙”将如何重塑全球半导体版图",
+        "link": "https://www.tmtpost.com/7881567.html",
+        "published_date": "Sun, 15 Feb 2026 17:49:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388204"
+      },
+      "09542079326f458c232fcd5dd8bd71ce3424dee73b7d83a84c175e26664a3c3f": {
+        "title": "最近，我们请六个小生意人讲了讲他们这一年",
+        "link": "https://www.tmtpost.com/7881473.html",
+        "published_date": "Sun, 15 Feb 2026 17:42:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388206"
+      },
+      "f87388f084790580d8da444ee90f0463a75b43a4c580c161a52b930d008d9321": {
+        "title": "最长春节，年轻人把年过到海外",
+        "link": "https://www.tmtpost.com/7881379.html",
+        "published_date": "Sun, 15 Feb 2026 17:42:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388207"
+      },
+      "5098580f9c5c067555b22b27d0f16d43a19ace0c19d2cf9cf6b9fd2c14fa1c88": {
+        "title": "37万人把自己租给AI、迪士尼向字节“开战”",
+        "link": "https://www.tmtpost.com/7881503.html",
+        "published_date": "Sun, 15 Feb 2026 16:31:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388208"
+      },
+      "2fc85c7f71f738d3319bc0f0e2fb1ca9198f0821ddcea0b6d678dde4c3c42d05": {
+        "title": "那些零负债人群，为什么也不花钱消费呢？",
+        "link": "http://www.huxiu.com/article/4834410.html?f=wangzhan",
+        "published_date": "Sun, 15 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.388210"
       }
     },
     "Finance": {
@@ -7725,39 +7761,63 @@
         "link": "https://www.ft.com/content/3fc82496-1132-4cb3-a967-25c4c274fbea",
         "published_date": "Sun, 15 Feb 2026 05:00:00 GMT",
         "first_seen": "2026-02-15T05:47:07.093820"
+      },
+      "a86a5b420228a8adaea0312eec1964eb7392a913ff3de5e58c36ac2e1b0a6eba": {
+        "title": "UK to tighten online safety laws to include AI chatbots",
+        "link": "https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1",
+        "published_date": "Sun, 15 Feb 2026 22:30:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453024"
+      },
+      "859e111aea62cffab106df15b6a230277d1a984808b96b18c75ffa60a3b1c439": {
+        "title": "Russia’s Wagner Group pivots to European sabotage, say western officials",
+        "link": "https://www.ft.com/content/dbd1d803-ab37-43f1-920f-fce74952313a",
+        "published_date": "Sun, 15 Feb 2026 18:00:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453029"
+      },
+      "4c1672dfff174ae189da7a9ef7c34ed1ebd0d5eca8f7c9c3689e173c52b5b474": {
+        "title": "Yes, we should preserve western culture but not like this . . .",
+        "link": "https://www.ft.com/content/9fbc4ae4-c279-44fa-9d59-d49bc970c4ac",
+        "published_date": "Sun, 15 Feb 2026 16:00:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453031"
+      },
+      "72bb50341388d9a01f27e0009c56dfb3ed54a5c99c1eaa1ed495d3a2f15aa5ec": {
+        "title": "Ottawa’s shift away from US defence   manufacturers aims to create 125,000 jobs",
+        "link": "https://www.ft.com/content/cde7c236-e62f-4ced-9667-7115f16a40e6",
+        "published_date": "Sun, 15 Feb 2026 11:00:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453033"
+      },
+      "02f5b31eed69b229a2bfa4c22e2245a4900466aa9b0a19a0956bc55a42a6075d": {
+        "title": "Crypto investors who don’t fill out this new tax form the right way could overpay on their taxes",
+        "link": "https://www.marketwatch.com/story/crypto-investors-who-dont-fill-out-this-new-tax-form-the-right-way-could-overpay-on-their-taxes-4ccc7727?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 22:09:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453034"
+      },
+      "244760967079eb93170539a8e5f2bf51903b1a8e2d84dd467fd47de16cbfb951": {
+        "title": "Rents are finally falling in some parts of the country. Here’s who is actually feeling the relief.",
+        "link": "https://www.marketwatch.com/story/rents-are-finally-falling-in-some-parts-of-the-country-heres-who-is-actually-feeling-the-relief-08d1a6dd?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 20:22:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453035"
+      },
+      "65704f6f31b5fe7599360761ffbe7d19c0fd3b61f5bac75bb1a6187e34dd4748": {
+        "title": "‘Am I crazy?’ My boyfriend’s parents say he doesn’t earn enough to marry me. Who is to blame here?",
+        "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 19:31:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453037"
+      },
+      "a6177f8788bb2a8dfd76764c0dcdb6d464f9f45b1d7ecfdef3b46a72e0d49d34": {
+        "title": "Is the stock market open tomorrow for Presidents Day? Will USPS, FedEx and UPS make deliveries?",
+        "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-presidents-day-will-usps-fedex-and-ups-make-deliveries-31d15912?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 17:25:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453038"
+      },
+      "c1dec2fc7988483fe72161e1fd5b61cc7986612b215a36afa65c0abca85eead7": {
+        "title": "Here are 7 charts guaranteed to stress you out about the stock market",
+        "link": "https://www.marketwatch.com/story/here-are-7-charts-guaranteed-to-stress-you-out-about-the-stock-market-085b23c1?mod=mw_rss_topstories",
+        "published_date": "Sun, 15 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.453040"
       }
     },
     "Ai": {
-      "66789673c202093ced94226268eeba9ba83d0ea85da2dc47ffcb12eea45b4cc7": {
-        "title": "面向临床的心电图AI，上智院、复旦等提出CLEAR-HUG框架实现诊断性能与可解释性双突破",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-10",
-        "published_date": "Fri, 16 Jan 2026 14:04:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988009"
-      },
-      "3ee7a2224e92f8844845e6b19c087ee2d7739d2cc892ac2c0535f0cb921a34de": {
-        "title": "DeepSeek连发两篇论文背后，原来藏着一场学术接力",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-2",
-        "published_date": "Fri, 16 Jan 2026 10:19:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988017"
-      },
-      "8c6ca733a3339df9b40c99be521300029bc0b3fd5ac66f409ecdb83034798e2e": {
-        "title": "刚刚，Geoffrey Hinton成为第二位引用量破百万的科学家",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-4",
-        "published_date": "Fri, 16 Jan 2026 10:32:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988019"
-      },
-      "65c064cc2dde081d0aaaaa94b1f024d7b1fb5ef74cd92b76b0d1f660dc75101a": {
-        "title": "神同步OpenAI！中国团队Deep Principle领衔发布LLMs for Science评测，引爆外网",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-9",
-        "published_date": "Fri, 16 Jan 2026 14:03:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988021"
-      },
-      "c94c1c065bb8cf037fa07f35977e85bf896e845d1c0636b7227a0c16e575a019": {
-        "title": "美团又上新模型，8个Thinker齐开工，能顶个诸葛亮？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-16-8",
-        "published_date": "Fri, 16 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-16T08:33:22.988023"
-      },
       "1a39b9de661f08e129f4d66c6b910e03ca45f58b955810f8cce5d271bb2fbe6f": {
         "title": "2026-01-17日刊",
         "link": "https://ai.hubtoday.app//2026-01/2026-01-17/",
@@ -10133,13 +10193,67 @@
         "link": "https://www.qbitai.com/2026/02/380388.html",
         "published_date": "Sun, 15 Feb 2026 05:52:00 GMT",
         "first_seen": "2026-02-15T08:19:06.271491"
+      },
+      "95d8d48bffabfbec062ca555a1cc9eafdeb8b2ab42af1e5aef94b0eb598317c6": {
+        "title": "千问第二波免单恰逢情人节，县城钟点房帮订量暴增约300%",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-7",
+        "published_date": "Sun, 15 Feb 2026 19:44:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625437"
+      },
+      "d11a5f36a3f86b0033ad934e86f1d23246d8240dd096193af56d4b905eff4468": {
+        "title": "还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-6",
+        "published_date": "Sun, 15 Feb 2026 19:15:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625444"
+      },
+      "2893ed287e21106343850467c2947170508730cbab53498c7c6c0beb7b58ef5c": {
+        "title": "AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-5",
+        "published_date": "Sun, 15 Feb 2026 19:10:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625446"
+      },
+      "9caf1a34f0e0110633bcc8bc7670459d2bc8cfc2d0087daf201151a4df12883d": {
+        "title": "ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-4",
+        "published_date": "Sun, 15 Feb 2026 19:06:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625448"
+      },
+      "f019752fac0684b28904c7bd30a99f6a988d4278ccd02c1ddc0c5f8ec091402b": {
+        "title": "离谱：Claude Code让地铁变工位，早高峰发版，打工人还笑得出来？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-3",
+        "published_date": "Sun, 15 Feb 2026 18:54:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625449"
+      },
+      "543951ead1dd33e69aa0d94e94a2b387acaf4b5da6ad734a5ca983c3a53c66f0": {
+        "title": "「我是Agent#847291」Moltbook迎来人类自首",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15-2",
+        "published_date": "Sun, 15 Feb 2026 18:50:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625451"
+      },
+      "bd1bb6592c31294db51235bda6e718835e7b9e532ecc9213615999f97ec76e80": {
+        "title": "ICLR 2026 | CineTrans: 首个转场可控的多镜头视频生成模型，打破闭源技术壁垒",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-15",
+        "published_date": "Sun, 15 Feb 2026 18:32:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625452"
+      },
+      "af6ee64b6d568865b2ca305c9886c146ebb14c56c133474a6789fe6cd30177ee": {
+        "title": "从Seedance 2.0到AI天团！海淀何以“生成”全球爆款——",
+        "link": "https://www.qbitai.com/2026/02/380405.html",
+        "published_date": "Sun, 15 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625453"
+      },
+      "7906af871d90df2cee8fed0fbd2f8295992c5f94084f56f392e43bf1cf61f223": {
+        "title": "“产业出题·科技答题” 2026全球开发者先锋大会正式启动",
+        "link": "https://www.qbitai.com/2026/02/380406.html",
+        "published_date": "Sun, 15 Feb 2026 11:56:00 GMT",
+        "first_seen": "2026-02-15T23:14:57.625455"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-15T08:19:06.101915",
-    "Finance": "2026-02-15T05:47:07.093822",
-    "Ai": "2026-02-15T08:19:06.271500"
+    "Technology": "2026-02-15T23:14:57.388212",
+    "Finance": "2026-02-15T23:14:57.453042",
+    "Ai": "2026-02-15T23:14:57.625456"
   }
 }
