@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-15 23:14
+**最后更新时间**: 2026-02-16 05:59
+
+---
+
+## 🆕 最新更新 (2026-02-16 05:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the stock market open Monday for Presidents Day? Will USPS, FedEx and UPS make deliveries?](https://www.marketwatch.com/story/is-the-stock-market-open-on-presidents-day-will-usps-fedex-and-ups-make-deliveries-31d15912?mod=mw_rss_topstories)
+**发布时间**: 2026-02-16 05:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [A fallen Indian tech star and the hunt for its missing millions](https://www.ft.com/content/cd202eb4-c06a-4932-8328-2ddd3cc0c175)
+**发布时间**: 2026-02-16 05:00
+
+#### [Student loans show that hard policy choices will only get harder](https://www.ft.com/content/131f0e09-88ed-4597-8408-e76a50e36618)
+**发布时间**: 2026-02-16 05:00
+
+#### [EU cross-border banking deals jump to highest since 2008 crisis](https://www.ft.com/content/cef569ea-f8ed-4a5d-89d5-d9f1865c854a)
+**发布时间**: 2026-02-16 05:00
+
+#### [Getir founders sue Mubadala for $700mn over break-up of assets](https://www.ft.com/content/64729378-9a91-4c4f-bd4c-f51fd9b78b1f)
+**发布时间**: 2026-02-16 05:00
+
+#### [UK overseas aid cuts to outstrip those of Trump administration](https://www.ft.com/content/ad52bf6c-e63e-4913-a7be-26d0a5045da0)
+**发布时间**: 2026-02-16 05:00
+
+#### [MIT Sloan tops FT Global MBA Ranking for the first time](https://www.ft.com/content/414d2b8c-20d4-4892-a730-255c0af7edb8)
+**发布时间**: 2026-02-16 04:30
+
+#### [OpenAI hires OpenClaw founder Peter Steinberger](https://www.ft.com/content/45b172e6-df8c-41a7-bba9-3e21e361d3aa)
+**发布时间**: 2026-02-16 00:15
 
 ---
 

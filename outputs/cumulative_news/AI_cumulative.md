@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-15 23:14
+**最后更新时间**: 2026-02-16 05:58
+
+---
+
+## 🆕 最新更新 (2026-02-16 05:58)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了](https://www.jiqizhixin.com/articles/2026-02-16-2)
+**发布时间**: 2026-02-16 10:13
+
+#### [单个LLM已不够？华盛顿大学开源多模型协同框架MoCo](https://www.jiqizhixin.com/articles/2026-02-16)
+**发布时间**: 2026-02-16 10:10
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-02-16日刊](https://ai.hubtoday.app//2026-02/2026-02-16/)
+**发布时间**: 2026-02-16 07:55
 
 ---
 
