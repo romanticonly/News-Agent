@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-16 23:44
+**最后更新时间**: 2026-02-17 05:50
+
+---
+
+## 🆕 最新更新 (2026-02-17 05:50)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK quietly shelves £110mn frictionless post-Brexit trade border project](https://www.ft.com/content/186f4975-40fc-471f-86bb-fe2b7607793d)
+**发布时间**: 2026-02-17 05:00
+
+#### [China’s high-speed rail network accelerates world’s largest human migration](https://www.ft.com/content/3c15be3c-bb91-49e9-8fb4-6388b948ad2d)
+**发布时间**: 2026-02-17 05:00
+
+#### [Perhaps we should all be banned from social media](https://www.ft.com/content/8c37e33a-3e3b-4f5e-bb17-ea66c996f236)
+**发布时间**: 2026-02-17 05:00
+
+#### [We have to stop calling some jobs ‘low skilled’](https://www.ft.com/content/0409a7b4-8a23-4a3a-bf31-f7aba9c9b606)
+**发布时间**: 2026-02-17 05:00
+
+#### [Big Oil executives under pressure to spell out growth plans](https://www.ft.com/content/f0a90353-811a-48c5-b6c7-12d8091e897e)
+**发布时间**: 2026-02-17 05:00
+
+#### [Macron arrives in India as blockbuster fighter jet deal nears](https://www.ft.com/content/7e02fbc4-11db-4407-8fbd-a18f9cf9871b)
+**发布时间**: 2026-02-17 04:18
+
+#### [Thomas Pritzker steps down as Hyatt executive chair over Epstein ties](https://www.ft.com/content/83c61aea-9e5d-482f-bf41-e4b89518c5ec)
+**发布时间**: 2026-02-16 23:56
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures slump as investors digest ongoing tech selloff](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-digest-ongoing-tech-selloff-over-holiday-weekend-765f3c5c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 04:01
 
 ---
 
