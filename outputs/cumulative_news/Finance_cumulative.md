@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-17 05:50
+**最后更新时间**: 2026-02-17 08:34
+
+---
+
+## 🆕 最新更新 (2026-02-17 08:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Gold prices tumble below $5,000  as China holidays dent support](https://www.marketwatch.com/story/gold-prices-tumble-below-5-000-as-china-holidays-dent-support-d093e677?mod=mw_rss_topstories)
+**发布时间**: 2026-02-17 07:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bank probe reveals Adani associates’ secret investments](https://www.ft.com/content/79c73a9c-65ac-425b-bc16-1ef2d3f55ca5)
+**发布时间**: 2026-02-17 07:52
+
+#### [UK wage growth cools further as unemployment hits highest level since pandemic](https://www.ft.com/content/241a6480-70d6-4780-a8a4-508793e218dc)
+**发布时间**: 2026-02-17 07:50
 
 ---
 
