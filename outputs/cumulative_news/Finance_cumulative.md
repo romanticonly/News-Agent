@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 08:31
+**最后更新时间**: 2026-02-18 23:17
+
+---
+
+## 🆕 最新更新 (2026-02-18 23:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How Amazon’s ‘underappreciated’ AI potential could drive the stock 50% higher](https://www.marketwatch.com/story/how-amazons-underappreciated-ai-potential-could-drive-the-stock-50-higher-1a4aa628?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 23:15
+
+#### [‘She spent over $1,000 a month on weight-loss drugs’: My son wrecked his finances after meeting his girlfriend. Who’s to blame?](https://www.marketwatch.com/story/his-credit-rating-is-wrecked-my-son-and-his-girlfriend-mingled-their-finances-big-mistake-b5273119?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 23:09
+
+#### [‘This is stressful for my parents’: My siblings harass our mother and father for money. Should they be cut out of their will?](https://www.marketwatch.com/story/this-is-stressful-my-two-siblings-are-financial-horrors-how-can-i-make-sure-their-estate-goes-to-the-right-people-4842a5a7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 23:08
+
+#### [‘Magnificent Seven’ stocks rise — but hardly enough to reverse a brutal February](https://www.marketwatch.com/story/magnificent-seven-stocks-rise-but-hardly-enough-to-reverse-a-brutal-february-ddc78b51?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 22:21
+
+#### [After record sales, murky forecast sinks Carvana’s stock](https://www.marketwatch.com/story/after-record-sales-murky-forecast-sinks-carvanas-stock-a292ad88?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 22:16
+
+#### [Figma’s stock soars as AI earnings momentum helps ease investors’ doubts](https://www.marketwatch.com/story/figmas-stock-soars-as-ai-earnings-momentum-helps-ease-investors-doubts-9f31e005?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 21:31
+
+#### [DoorDash users want more complex deliveries, and that’s hitting profits](https://www.marketwatch.com/story/doordash-users-want-more-complex-deliveries-and-thats-hitting-profits-60fa6b2d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 21:30
+
+#### [The bullish breakout in these stocks suggests the housing market has turned a corner](https://www.marketwatch.com/story/the-bullish-breakout-in-these-stocks-suggests-the-housing-market-has-turned-a-corner-af670c8d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 21:02
+
+#### [U.S. stocks are falling behind. It could be the beginning of an epic shift toward global markets.](https://www.marketwatch.com/story/u-s-stocks-are-falling-behind-it-could-be-the-beginning-of-an-epic-shift-toward-global-markets-832e2785?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 20:48
+
+#### [America’s anti-immigration policies could be putting your aging parents’ and grandparents’ lives in danger](https://www.marketwatch.com/story/americas-anti-immigration-policies-could-be-putting-your-aging-parents-and-grandparents-lives-in-danger-cd4a8e7e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-18 20:44
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Zuckerberg battles claims Meta tried to maximise time teens spent on social media](https://www.ft.com/content/0c6d8ff6-f207-431b-bfb9-1d8b42bb4b6d)
+**发布时间**: 2026-02-18 21:51
+
+#### [Trump renews attack on Starmer’s plan to cede UK ownership of Chagos Islands](https://www.ft.com/content/06e5f12f-f6aa-4a8a-86f8-7f1b2cea3610)
+**发布时间**: 2026-02-18 20:56
+
+#### [Fed officials warn progress towards inflation goal will be ‘uneven’](https://www.ft.com/content/5231da49-e62a-4dfa-bc5a-77fcf0596aa1)
+**发布时间**: 2026-02-18 19:25
+
+#### [Trump adviser says NY Fed economists should be ‘disciplined’ for study on tariffs](https://www.ft.com/content/731f8c9a-bb7f-4388-a551-e63ac6a20a7f)
+**发布时间**: 2026-02-18 18:30
+
+#### [Does ChatGPT think you’re Welsh too?](https://www.ft.com/content/0c91cdce-ddf9-4c1c-9171-395ccf56573a)
+**发布时间**: 2026-02-18 17:16
+
+#### [AI fever sparks Raspberry Pi meme stock frenzy](https://www.ft.com/content/824aa5e3-e86f-4da4-bde9-bb705d6ba20e)
+**发布时间**: 2026-02-18 16:39
+
+#### [UCL students win £21mn over Covid disruption in watershed UK settlement](https://www.ft.com/content/a0cfc270-4dcc-46a6-a87d-6f002f889ca2)
+**发布时间**: 2026-02-18 14:03
+
+#### [Maga will regret embracing Europe’s hard right](https://www.ft.com/content/0baf4e30-3501-4aec-a189-5c49e40908aa)
+**发布时间**: 2026-02-18 13:45
 
 ---
 
