@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-18 05:53
+**最后更新时间**: 2026-02-18 08:31
+
+---
+
+## 🆕 最新更新 (2026-02-18 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK inflation falls sharply to 3% in January](https://www.ft.com/content/5425e44c-8760-4639-9305-2038de8825a9)
+**发布时间**: 2026-02-18 08:06
+
+#### [Maternity care is broken in the UK. Who can fix it?](https://www.ft.com/content/24e09145-cd66-4e73-8800-2f13ea18ff2a)
+**发布时间**: 2026-02-18 05:00
+
+#### [British scientist raising $1bn for new AI lab in Europe’s biggest seed round](https://www.ft.com/content/dffe72d0-4064-4412-8ebc-50198a30d40e)
+**发布时间**: 2026-02-18 05:00
 
 ---
 
