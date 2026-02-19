@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-19 08:30
+**最后更新时间**: 2026-02-19 23:19
+
+---
+
+## 🆕 最新更新 (2026-02-19 23:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump gives Iran 15 days to strike a deal or ‘bad things will happen’](https://www.ft.com/content/0b47afe6-6e99-4665-8f25-2aa20f7e09b9)
+**发布时间**: 2026-02-19 23:02
+
+#### [Meta cuts staff stock awards for a second straight year](https://www.ft.com/content/071d5503-b3dc-46bc-bc55-28f92dbdd42a)
+**发布时间**: 2026-02-19 22:43
+
+#### [Andrew Mountbatten-Windsor released under investigation after Epstein revelations](https://www.ft.com/content/786c8f0b-8e6a-479f-b207-b2e0fcbe018e)
+**发布时间**: 2026-02-19 22:30
+
+#### [Bank of America commits $25bn to private credit lending](https://www.ft.com/content/faedf9f9-6e73-457c-b073-bcd46ed780c7)
+**发布时间**: 2026-02-19 22:06
+
+#### [Private credit stocks slide after Blue Owl halts redemptions at fund](https://www.ft.com/content/cdca18df-473c-4c66-a6db-d9be32bf9d88)
+**发布时间**: 2026-02-19 21:07
+
+#### [Nando’s and KFC among 8 UK restaurant chains to drop chicken welfare pledge](https://www.ft.com/content/1d031421-c10d-4e12-90c0-c2381d026f2a)
+**发布时间**: 2026-02-19 20:34
+
+#### [UK signalled reluctance over allowing US to use British bases for possible Iran strike](https://www.ft.com/content/d06e8cbc-2150-402d-ba4a-b0cf03c98f95)
+**发布时间**: 2026-02-19 20:21
+
+#### [What does Andrew Mountbatten-Windsor’s arrest mean?](https://www.ft.com/content/a5ead6d6-29c2-42a2-ab09-cbc0cfba208b)
+**发布时间**: 2026-02-19 20:15
+
+#### [Why Iran is betting on war](https://www.ft.com/content/6432bedc-1d22-4e21-9d8d-04f38bcf579b)
+**发布时间**: 2026-02-19 18:45
+
+#### [The race to avert a US-Iran war](https://www.ft.com/content/7b6e8aa1-45aa-4304-a58f-34368801c8d0)
+**发布时间**: 2026-02-19 16:59
+
+#### [Mandelson-founded advisory firm Global Counsel to go into administration](https://www.ft.com/content/ad5d5713-70f9-443d-b53b-f43c5136200d)
+**发布时间**: 2026-02-19 14:08
+
+#### [The Conservatives’ foundational sin](https://www.ft.com/content/0fe4b47e-2c75-4ebc-9dbd-bd939661894d)
+**发布时间**: 2026-02-19 13:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [United Airlines’ best loyalty perks will soon be reserved for its cardholders. Is the card worth it?](https://www.marketwatch.com/story/united-airlines-best-loyalty-perks-will-soon-be-reserved-for-its-cardholders-is-the-card-worth-it-39675942?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 22:54
+
+#### [Why your portfolio may face one last rate-hike surprise before May](https://www.marketwatch.com/story/why-the-fed-could-deliver-one-final-sting-to-your-portfolio-before-powells-exit-in-may-de2e8f28?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 22:48
+
+#### [‘Many politicians work well into their 80s’: I’m 71 and earn $300K for a Fortune 200 company. Do I work until I’m 75?](https://www.marketwatch.com/story/many-politicians-work-well-into-their-80s-im-71-and-earn-300k-for-a-fortune-200-company-do-i-work-until-im-75-6b5e6baf?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 22:43
+
+#### [People still want to see BTS and Harry Styles concerts, lifting Live Nation’s sales](https://www.marketwatch.com/story/people-still-want-to-see-bts-and-harry-styles-concerts-lifting-live-nations-sales-eee12233?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 22:21
+
+#### [4 reasons cybersecurity stocks are primed for a breakout](https://www.marketwatch.com/story/4-reasons-why-cybersecurity-stocks-are-primed-for-a-turnaround-d9b17f85?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 21:54
+
+#### [This is the sobering way most Americans plan to use their tax refunds this year](https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 21:52
+
+#### [Nvidia options are priced for a perfect earnings outlook. These are your smarter trades.](https://www.marketwatch.com/story/nvidia-options-are-priced-for-a-perfect-earnings-outlook-these-are-your-smarter-trades-4cac5291?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 21:52
+
+#### [Say goodbye to the 4 p.m. closing bell: Your stocks are becoming 24/7 digital cash](https://www.marketwatch.com/story/say-goodbye-to-the-4-p-m-closing-bell-your-stocks-are-becoming-24-7-digital-cash-c78721df?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 21:51
+
+#### [Trump’s tariffs may be struck down — but the hit to small business is just beginning](https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-19 21:50
 
 ---
 
