@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "09afe0d0bf8dfa2f05ab4b42225f646ef92f820b1eee8963c9e69f02d368526b": {
-        "title": "纳德拉达沃斯发出警示：GDP增长将与“每美元每瓦特产生的算力”直接相关",
-        "link": "https://www.tmtpost.com/7849618.html",
-        "published_date": "Tue, 20 Jan 2026 19:57:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611472"
-      },
-      "8b9ba198fc4b260458f1678ce9906cbca0023915b6add7432ac9eada9afa3594": {
-        "title": "ASML股价受贸易战担忧拖累下跌，多家芯片企业亦受波及",
-        "link": "https://www.tmtpost.com/7848861.html",
-        "published_date": "Tue, 20 Jan 2026 10:57:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611479"
-      },
-      "066d91b57ad756ffa880f56a95286ed0962374327a2d9184689db960658cfb77": {
-        "title": "智元首席科学家罗剑岚：2026年挖出真实场景的Scaling law，全系机器人将上线“新系统”",
-        "link": "https://www.infoq.cn/article/wJjaPXC8rLTxLTeOjLZ0?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 20 Jan 2026 17:55:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611481"
-      },
-      "10a809fd36d8eea2c617f3aaff8b04cdd3158ed1f9be3216f9932471dc75198a": {
-        "title": "AI手机的终极猜想：超级Agent入口",
-        "link": "https://www.tmtpost.com/7849413.html",
-        "published_date": "Tue, 20 Jan 2026 19:55:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611483"
-      },
-      "762d40a193541abf421d39cdf3959efec797d639906fb67aa5bb622c7c2abb7d": {
-        "title": "“中国Space X\"集体冲刺IPO，商业航天的高估值/市值最终谁买单？",
-        "link": "https://www.tmtpost.com/7849092.html",
-        "published_date": "Tue, 20 Jan 2026 21:43:00 GMT",
-        "first_seen": "2026-01-20T23:26:07.611484"
-      },
-      "73d969e80efa862e9bffe593c118eab2db48779cbf83798b6af6a49284d555bb": {
-        "title": "GDP增长将取决于Tokens数量？微软CEO纳德拉达沃斯对话信息量太大了……",
-        "link": "https://www.tmtpost.com/7849912.html",
-        "published_date": "Wed, 21 Jan 2026 11:54:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093054"
-      },
-      "767244719c1f1d4e193b98ae5c34e55ba02d1631d3ec6749fca267c8ef47ec3f": {
-        "title": "端侧AI下半场，从跑起来到会思考",
-        "link": "https://www.tmtpost.com/7849609.html",
-        "published_date": "Wed, 21 Jan 2026 08:39:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093061"
-      },
-      "e7cd863c982c7ed3111467b350086ef146265653254343841f418acf8a66f667": {
-        "title": "零售进入 Agent 时代：Google 联合 Walmart、Shopify 推出 UCP",
-        "link": "https://www.infoq.cn/article/Rqjcx2J5ZbOSjlNJ9BUz?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 11:23:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093063"
-      },
-      "618cf27aa06d7957f0829d9153632af03ebfa0cf4b6e85943d237d64568590b5": {
-        "title": "油气巨头热情消退，全球绿氢遭遇“寒风冷雨”",
-        "link": "https://www.tmtpost.com/7850049.html",
-        "published_date": "Wed, 21 Jan 2026 11:53:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093065"
-      },
-      "c46842562abb05a63885c99ea7f581f95e6338f12558db5db2979b70b4915366": {
-        "title": "Pinterest的Moka：Kubernetes如何重写大数据处理规则",
-        "link": "https://www.infoq.cn/article/DksL1xE1iKPIIzqOorEw?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 09:44:00 GMT",
-        "first_seen": "2026-01-21T05:31:20.093066"
-      },
       "4839be815146d95eb306cd93558db0cd54d27e71dd2184e78a4b11406e86593c": {
         "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
         "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
@@ -5005,69 +4945,69 @@
         "link": "https://www.tmtpost.com/7884787.html",
         "published_date": "Thu, 19 Feb 2026 19:46:00 GMT",
         "first_seen": "2026-02-19T23:19:07.822305"
+      },
+      "8f9b1d6203f2f60532e4252628470a2ba02322a6461b74059252e4dd87eb26db": {
+        "title": "从技术秀场到利润战场：哪家机器人企业更有看头？",
+        "link": "https://www.tmtpost.com/7885008.html",
+        "published_date": "Fri, 20 Feb 2026 13:30:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.599990"
+      },
+      "10cf9b24ebadb975d60993282aff5f9b94942c17d19235a6347fa3a24a544fcf": {
+        "title": "别被「百模大战」骗了",
+        "link": "https://www.tmtpost.com/7885106.html",
+        "published_date": "Fri, 20 Feb 2026 10:30:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600000"
+      },
+      "96b1ac393c42e05518427585cf793c1e3495f9a8f63dc8ed362426b3e2ff799d": {
+        "title": "禁⽤Claude、强推自研：亚马逊打响AI生态主权战",
+        "link": "https://www.tmtpost.com/7885379.html",
+        "published_date": "Fri, 20 Feb 2026 09:45:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600003"
+      },
+      "0d4b230dfd68f0ab8e05413a1519b25f79b5aa5363f0d319ec9a7d097c3fa93b": {
+        "title": "20年没办的游神，为什么这两年忽然火了",
+        "link": "https://www.tmtpost.com/7885085.html",
+        "published_date": "Fri, 20 Feb 2026 09:09:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600005"
+      },
+      "76942eb59cecc2a9b4876389d67a4a5b707efc540fa4c93bd6e0e755cea366c1": {
+        "title": "县城年轻人，看不起春节电影",
+        "link": "https://www.tmtpost.com/7885044.html",
+        "published_date": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600007"
+      },
+      "c23acc2288fb1f1d366aee5b3195f0ed1e90f66055d317ac5dd3e436dec3e9cd": {
+        "title": "“软件比白领更先被 AI 击穿”！Anthropic CEO 最新改口，反讽马斯克危言耸听，两大佬隔空互掐",
+        "link": "https://www.infoq.cn/article/auecWVTgm3Eh8lo5PK8U?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 12:01:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600009"
+      },
+      "c2667df02aec227abd37368e5bab72ca3f60c5defc6f6af2a0f6a74b52b730a0": {
+        "title": "字节豆包2.0重磅发布！成本暴降一个数量级，Seed团队揭秘视频Agent竞争关键",
+        "link": "https://www.infoq.cn/article/Kcqq2ifEZCJaK8o0TxN1?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 11:58:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600011"
+      },
+      "7b8335bdc661bdbe7648cb1bccca9cc9b78fa905d8f0f9bb4e9a8fa0aa1f9041": {
+        "title": "代码界新王登基！Gemini 3.1 Pro血洗Claude与GPT，12项基准测试第一！",
+        "link": "https://www.infoq.cn/article/Ic69NzLCGqQ6HRuCligh?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 09:19:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600012"
+      },
+      "bc41dce8d10cb1c597cc266025479b80697b41dc8af9b59ab0945fe3329dc818": {
+        "title": "Firestore添加了管道操作，提供了超过100个新的查询功能",
+        "link": "https://www.infoq.cn/article/t9ORmgH3AUBsYygo04pd?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 08:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600014"
+      },
+      "de479f0f9641b139c196b02d9dbaeaf612e6041aea17aaed7a240a6db0c87ce6": {
+        "title": "你住的城市下不下雪？用这份「雪天片单」感受浪漫季节",
+        "link": "https://sspai.com/post/94704",
+        "published_date": "Fri, 20 Feb 2026 11:45:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.600015"
       }
     },
     "Finance": {
-      "00ab1f1b84120295e480714d201138eccfaca885e03292e2a2104c0c9ab6a546": {
-        "title": "Here’s how much risk the U.S. faces if global investors ‘weaponize’ American stocks and bonds",
-        "link": "https://www.marketwatch.com/story/heres-how-much-risk-the-u-s-faces-if-global-investors-weaponize-american-stocks-and-bonds-813f5204?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 21:37:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764554"
-      },
-      "7efef8403cd8a39f3fd237281cf588f8d462bf8390fc4511ade40bc738b5c3e5": {
-        "title": "Trade war redux? Greenland dispute threatens $1 trillion in trade between U.S. and Europe.",
-        "link": "https://www.marketwatch.com/story/trade-war-redux-greenland-dispute-threatens-1-trillion-in-trade-between-u-s-and-europe-c7e1a159?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 21:23:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764562"
-      },
-      "ce8fb3cb3b4f9976afe35767c14b443cd97a9cc87dbd1ea2e05a042745683cb1": {
-        "title": "The world’s economy — past, present and future",
-        "link": "https://www.ft.com/content/0a2fadfe-db3e-40c9-8711-4c4072ce3559",
-        "published_date": "Tue, 20 Jan 2026 16:42:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764565"
-      },
-      "6585cbe9612c7b2389d3a665a90485b9976bf7b3ea1608c1c4db5b54607d2dc2": {
-        "title": "‘Sell America’ trade makes a comeback as U.S. stocks see biggest drop in months. Here’s what investors need to know.",
-        "link": "https://www.marketwatch.com/story/the-sell-america-trade-is-making-a-comeback-but-investors-are-selling-most-everything-else-too-a2f6da9a?mod=mw_rss_topstories",
-        "published_date": "Tue, 20 Jan 2026 22:03:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764568"
-      },
-      "1aa0d2f1a65515b8e1de9f8b0baa24a470ca2ec1bd00acfa7bcaaf8f3509ae4f": {
-        "title": "BoE governor warns of market spillovers from Trump’s actions",
-        "link": "https://www.ft.com/content/8c0ad9b5-3311-410c-9bb4-734b128ab0f2",
-        "published_date": "Tue, 20 Jan 2026 17:46:00 GMT",
-        "first_seen": "2026-01-20T23:25:23.764570"
-      },
-      "f96a736613623dcdb6c804914fe5a517d8715ae7e442cc98d5a188e8acd58a38": {
-        "title": "Kraft Heinz stock falls as Berkshire Hathaway may sell off nearly its entire stake",
-        "link": "https://www.marketwatch.com/story/kraft-heinz-stock-falls-as-berkshire-hathaway-may-sell-off-nearly-its-entire-stake-55623e91?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Jan 2026 02:41:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436938"
-      },
-      "6ebdc64e005666fe67c78581042419a8c893fa38fe471db1466d46499e59c2d6": {
-        "title": "Carney warns of ‘rupture’ to global order as Trump rattles allies",
-        "link": "https://www.ft.com/content/7d9609d4-14cd-4b0c-b48c-0b3f2e4f6611",
-        "published_date": "Tue, 20 Jan 2026 23:46:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436948"
-      },
-      "39bc16366a6a34a919edda4fd3e8e4a9d066e3be578ea2a882d189eb5465dd92": {
-        "title": "Trump’s Greenland tariff threats rattle investors: The stakes are higher this time around",
-        "link": "https://www.marketwatch.com/story/trump-threatens-more-tariffs-investors-gasp-dont-freak-out-over-your-401-k-d94aec34?mod=mw_rss_topstories",
-        "published_date": "Wed, 21 Jan 2026 03:49:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436951"
-      },
-      "9ed1b2c5517014a48b9f7daaf2dacbb98b1f86528292a1c4d6de4e0846faea91": {
-        "title": "Can the EU keep up with Trump in a trade war?",
-        "link": "https://www.ft.com/content/c3d1e6f6-4f37-4e1e-9b42-d46495107907",
-        "published_date": "Wed, 21 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436953"
-      },
-      "42de30ccac577c02006f644f7f9f52d999ce17da0ad398085ccda39fe23256f7": {
-        "title": "KPMG’s UK boss in two-man race for global leadership",
-        "link": "https://www.ft.com/content/6fd4b037-2569-415c-a10b-1b3759c24cac",
-        "published_date": "Wed, 21 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-21T05:30:49.436955"
-      },
       "1e8102a2c144519ed0fdbcaa4a29a5620ca8bdf05e60b36a9a77235d4c213963": {
         "title": "UK inflation rises more than expected to 3.4% in December",
         "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
@@ -8361,69 +8301,69 @@
         "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
         "published_date": "Thu, 19 Feb 2026 21:50:00 GMT",
         "first_seen": "2026-02-19T23:19:07.576931"
+      },
+      "bd11cad033bbba2d165371fa9b1d6f097e04df8f18ed7f8b5b99477c99588792": {
+        "title": "Investors pour record sums into European stocks",
+        "link": "https://www.ft.com/content/80173261-2b72-41f7-9eae-490aabb14623",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329896"
+      },
+      "cb20e37652a767a32611823cdf94a124f65b69e657a72fc62d1c5bb7e6693445": {
+        "title": "Reasons to worry about America’s investment position with the rest of the world",
+        "link": "https://www.ft.com/content/8333387f-d23f-4fa8-b16d-365ff11a18ef",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329909"
+      },
+      "3a994476a3c35b04dd71bf7793aab8bb823322c1eb0dc321f181a5153c0d5183": {
+        "title": "The ‘incredibly significant’ US military forces surrounding Iran",
+        "link": "https://www.ft.com/content/a7da6a98-3368-4853-922a-b9f8451682a3",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329912"
+      },
+      "bfb836c94acaa530720c6576ad8e96ea785a5590dcf0fe07e979a3b83d2cefda": {
+        "title": "‘Is university still worth it?’ is the wrong question",
+        "link": "https://www.ft.com/content/649d3c64-b8e5-4979-9f0c-9aebd43642e2",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329914"
+      },
+      "4fa5f0bac0d74f2f86b26f7a5639288075efb8f7ff0b0f20f24a646b8aeae38a": {
+        "title": "Dear ChatGPT, please construct me an optimal portfolio",
+        "link": "https://www.ft.com/content/000d33c8-efc5-46cc-a213-e153b3f6a250",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329916"
+      },
+      "adea0de813ae88801f20c119242868e8051951ae5bc0f17112ed0d53987d390a": {
+        "title": "Dave Lewis plans executive overhaul at ‘fat and happy’ Diageo",
+        "link": "https://www.ft.com/content/cb0fb809-6b6f-4417-9164-e4e19c9cee85",
+        "published_date": "Fri, 20 Feb 2026 05:00:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329918"
+      },
+      "093424bd343cdd10fe8609e66a1d4eda7218cb570a4fa6ad1396878207941de0": {
+        "title": "Nvidia and OpenAI abandon unfinished $100bn deal in favour of $30bn investment",
+        "link": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+        "published_date": "Fri, 20 Feb 2026 00:14:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329920"
+      },
+      "a647df81cdeed63acadd82d676911ad246d746ed1437121cb23e3afe13e04bad": {
+        "title": "‘I won’t take out a loan’: I need $18K in house repairs. Do I take it from my Roth, 401(k) or IRA?",
+        "link": "https://www.marketwatch.com/story/i-wont-take-out-a-loan-i-need-18k-in-house-repairs-do-i-take-it-from-my-roth-401-k-or-ira-651f80f1?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 00:22:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329922"
+      },
+      "c5c8602803517c681bc6cbce441e834edcd05a32981e655e821ca843fc62805b": {
+        "title": "My ex-wife took out a $100K Parent PLUS loan for our son. Am I morally or legally obliged to pay it off?",
+        "link": "https://www.marketwatch.com/story/my-ex-wife-took-out-a-100k-parent-plus-loan-for-our-son-am-i-morally-or-legally-obliged-to-pay-it-off-30510e58?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 00:21:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329923"
+      },
+      "78ac0f45ce6d235609215a1d7c7caea1085e406cf9469d08c647283debb6bbc0": {
+        "title": "Wayfair’s stock sinks, as investors worry expansion plans will hurt profits",
+        "link": "https://www.marketwatch.com/story/wayfairs-stock-sinks-as-investors-worry-expansion-plans-will-hurt-profits-6c362879?mod=mw_rss_topstories",
+        "published_date": "Thu, 19 Feb 2026 23:20:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.329925"
       }
     },
     "Ai": {
-      "80d1eb905b6207a6321db1347c42adaf1c099ea04405df15ccdcce85229a47f5": {
-        "title": "马斯克刚刚真把 𝕏 平台推荐算法给开源了，核心也是Transformer",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-13",
-        "published_date": "Tue, 20 Jan 2026 20:44:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482648"
-      },
-      "5ae11d713e65247a3f01a41e654c97bdc82241a29c2f82ae645207a66a6af70d": {
-        "title": "当黄仁勋将存储定义为「AI运行内存」，基础设施该如何实现物种进化？",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-11",
-        "published_date": "Tue, 20 Jan 2026 18:35:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482654"
-      },
-      "23346bc45b4d94f684a8bc7a136090bdbe47f5edbafe82e70cbbe031cd4bf511": {
-        "title": "智谱新模型也用DeepSeek的MLA，苹果M5就能跑",
-        "link": "https://www.qbitai.com/2026/01/370652.html",
-        "published_date": "Tue, 20 Jan 2026 09:19:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482656"
-      },
-      "2bf13e9f7a16ffd039403ace28bf0bb9b85c192b811f9b771754509439e0a9c4": {
-        "title": "从平面几何出发：形式化验证如何驱动MLLM的推理能力跃迁",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-20-10",
-        "published_date": "Tue, 20 Jan 2026 18:27:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482658"
-      },
-      "1c33fdd8bc6473bc7173cd46b54dd7d623b28d41246b08c7af7fefbb5e56c5ee": {
-        "title": "美团卡姐接管无人车，MIT博士离职创业具身智能",
-        "link": "https://www.qbitai.com/2026/01/370599.html",
-        "published_date": "Tue, 20 Jan 2026 08:42:00 GMT",
-        "first_seen": "2026-01-20T23:25:43.482660"
-      },
-      "4f9d20d5449f4f39faa8c1422660747480be0536202e00f532bb0937577da152": {
-        "title": "AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21",
-        "published_date": "Wed, 21 Jan 2026 10:17:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554502"
-      },
-      "e3218d43511b64b0c7be02c83dbe064bb0ebf5d22016edbc66914e96ec074777": {
-        "title": "AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-3",
-        "published_date": "Wed, 21 Jan 2026 13:15:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554509"
-      },
-      "99404e9a0d6d36ee8c16fab98d4298394f68b551a8e47939b3d1b3e9bdf8746d": {
-        "title": "中国团队首次在Nature子刊发布医疗AI标准，未来医生MedGPT摘得全球桂冠",
-        "link": "https://www.qbitai.com/2026/01/370734.html",
-        "published_date": "Wed, 21 Jan 2026 04:13:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554511"
-      },
-      "881dbe041ddda959c07d35ceb445c190accf7ee002d2c4e23c3b9efec1ba2089": {
-        "title": "R1一周年，DeepSeek Model 1悄然现身",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-2",
-        "published_date": "Wed, 21 Jan 2026 10:22:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554513"
-      },
-      "e5ba3b83d95cea86a414e9b4824428611ab99251163dcf2af43b44fa14f980d0": {
-        "title": "推翻150年数学直觉：数学家烧坏几台笔记本，解决几何拓扑难题",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-4",
-        "published_date": "Wed, 21 Jan 2026 13:21:00 GMT",
-        "first_seen": "2026-01-21T05:30:58.554514"
-      },
       "4451f1508b33d534b2cc024376618f831800459190c1ca280b27c67633407ac8": {
         "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
@@ -10751,13 +10691,25 @@
         "link": "https://www.qbitai.com/2026/02/381417.html",
         "published_date": "Thu, 19 Feb 2026 09:58:00 GMT",
         "first_seen": "2026-02-19T23:19:07.762634"
+      },
+      "01d88574339add0915cf6bd0b55b0ec6b406d7488269308e8d9a2c6c22333297": {
+        "title": "谷歌夺回王座：Gemini 3.1 Pro来了！姚顺宇：后面还有更好的",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20",
+        "published_date": "Fri, 20 Feb 2026 08:53:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.509487"
+      },
+      "0fe93b82b8b3c027d0f90762e4d59fee29490b6ce8f1dce3a0efffca4eef3278": {
+        "title": "谷歌突发Gemini 3.1 Pro！首次采用「.1」版本号，推理性能×2的那种",
+        "link": "https://www.qbitai.com/2026/02/381460.html",
+        "published_date": "Fri, 20 Feb 2026 01:25:00 GMT",
+        "first_seen": "2026-02-20T05:45:21.509496"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-19T23:19:07.822313",
-    "Finance": "2026-02-19T23:19:07.576933",
-    "Ai": "2026-02-19T23:19:07.762636"
+    "Technology": "2026-02-20T05:45:21.600017",
+    "Finance": "2026-02-20T05:45:21.329926",
+    "Ai": "2026-02-20T05:45:21.509499"
   }
 }
