@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4839be815146d95eb306cd93558db0cd54d27e71dd2184e78a4b11406e86593c": {
-        "title": "Node.js之父宣判“手写代码时代结束”！DHH明确反对“结束论”：大模型还差口气，手写更有竞争力",
-        "link": "https://www.infoq.cn/article/NJFBOuIqvvyUjc4BQhk5?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 16:26:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772351"
-      },
-      "b8f364bf17b702902508e9673f0bbcc0e3911b6a35264d70a1eed763e56aa779": {
-        "title": "从“买算力”到“买人”：Humans&获得4.8亿美元种子轮，英伟达、贝索斯联手投资",
-        "link": "https://www.tmtpost.com/7850502.html",
-        "published_date": "Wed, 21 Jan 2026 15:24:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772357"
-      },
-      "95f538b6ad7ecc471d8b05251ee759bfde81b20cbf4b41aee324785bb297c839": {
-        "title": "Agent Skills 落地实战：拒绝“裸奔”，构建确定性与灵活性共存的混合架构",
-        "link": "https://www.infoq.cn/article/MUo1faBPQqOwxVDWA9vB?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 10:42:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772359"
-      },
-      "262b55b18072562417215e0d19311945122f2527e6ef5630529aa63fdcad53e9": {
-        "title": "飞猪搭建系统演进：从人工运营到多Agent协同\n搭投生产",
-        "link": "https://www.infoq.cn/article/T96C1HNWw5IEiwmMj7It?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 13:51:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772361"
-      },
-      "b47816cae4c478b208789c81dc786d0c00ee77dab3cf4037ac39bd4dd8cf4504": {
-        "title": "Agent 不再各自为战：GitLab Duo 构建可编排的研发智能体系",
-        "link": "https://www.infoq.cn/article/7PsJIm4r5EKqUasq3xYt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 21 Jan 2026 11:16:00 GMT",
-        "first_seen": "2026-01-21T08:35:12.772362"
-      },
       "90c480c0c534d8af09b5964301889c5d10b214d82b73d94114ead28a3b11ba3e": {
         "title": "全球算力产业，正在陪着OpenAI走钢丝",
         "link": "https://www.tmtpost.com/7850676.html",
@@ -5035,15 +5005,93 @@
         "link": "https://www.tmtpost.com/7885450.html",
         "published_date": "Fri, 20 Feb 2026 11:29:00 GMT",
         "first_seen": "2026-02-20T08:27:36.093617"
+      },
+      "92266c10e3c69cb815261ff5b6a6fcf2ea92da1d50868bb081b447586ef181da": {
+        "title": "中国“跑得最快”的这群人",
+        "link": "https://www.tmtpost.com/7885531.html",
+        "published_date": "Fri, 20 Feb 2026 23:20:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976586"
+      },
+      "e68167a9e0a4283f297bb0347a6aa46ec5e06f5230f7ab315e5ca2f1c6614bf4": {
+        "title": "韩寒的《飞驰人生》赛道赢了，中国车企的F1赛道还在路上",
+        "link": "https://www.tmtpost.com/7885299.html",
+        "published_date": "Fri, 20 Feb 2026 23:20:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976594"
+      },
+      "d95f90e87070d4672a969ee5b551969d37beb89c1234274b32cd1a9670d122a7": {
+        "title": "春晚机器人出圈背后，“零失误”到底是制作还是现实",
+        "link": "https://www.tmtpost.com/7885507.html",
+        "published_date": "Fri, 20 Feb 2026 19:10:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976596"
+      },
+      "fb133ee9a62e1428c1e5799d74c0123c10222d571297dfeba39ae4515715b53d": {
+        "title": "谷歌Gemini最“小”的一次迭代，姚顺宇为何高呼“不可阻挡”？",
+        "link": "https://www.tmtpost.com/7885664.html",
+        "published_date": "Fri, 20 Feb 2026 18:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976598"
+      },
+      "e891c7d43a870f81e3f2cb002cefffe7a102b0436e86e7869b1a97ddb41510db": {
+        "title": "一边撒钱，一边造梦：追觅俞浩55.5亿净利是如何“算”出来的？",
+        "link": "https://www.tmtpost.com/7885724.html",
+        "published_date": "Fri, 20 Feb 2026 18:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976599"
+      },
+      "021198d8f2ae6982236490f435905939a17533086aeb442eec9b9d77ce6324b6": {
+        "title": "印度想多了，硅谷没少想",
+        "link": "https://www.tmtpost.com/7885613.html",
+        "published_date": "Fri, 20 Feb 2026 18:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976601"
+      },
+      "969d45b48bd300439165919b58e7e88157ee6e6f45936eaa07456a125bb372c7": {
+        "title": "《镖人》、袁和平与渐远的江湖",
+        "link": "https://www.tmtpost.com/7885165.html",
+        "published_date": "Fri, 20 Feb 2026 18:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976602"
+      },
+      "f8368fb38f4cd4112c576eb4a26f8967d09efe091e87f8b4f3585e9fc8b95f0b": {
+        "title": "2026红包大战：中国AI应用迈向春秋五霸时代",
+        "link": "https://www.tmtpost.com/7885401.html",
+        "published_date": "Fri, 20 Feb 2026 18:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976604"
+      },
+      "8b89d1f66923803d7ea791bb37eeb7b43f3871f2f750fa85cdaf84f53926326e": {
+        "title": "CryptoQuant 2026量化交易大赛嘉宾分享：加密市场已倾向于以价格发现和波动交易为核心的体系",
+        "link": "https://www.tmtpost.com/7885679.html",
+        "published_date": "Fri, 20 Feb 2026 17:51:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976606"
+      },
+      "f32306b569cc7f6117d4d8b6f0831c2c09c6af425fb62b53bfac078451d77190": {
+        "title": "黄仁勋屈尊求购，垄断全球的“玻璃布”如何成为封装之神？",
+        "link": "https://www.tmtpost.com/7881485.html",
+        "published_date": "Fri, 20 Feb 2026 17:09:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976607"
+      },
+      "ae9533092353f93502d00076d22424f025cef80bd60b40391c3bce4dd67f4cc5": {
+        "title": "春节后首周市场会怎么走？",
+        "link": "https://www.tmtpost.com/7881472.html",
+        "published_date": "Fri, 20 Feb 2026 16:50:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976609"
+      },
+      "ce924b797c55e70b9c19520926b78c260fe0f9fb8a1adaf5808e8e6d5033a033": {
+        "title": "AI 是否已经杀死了敏捷宣言",
+        "link": "https://www.infoq.cn/article/7ckNsVMQKBSZRjGOdEti?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:44:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976610"
+      },
+      "9d26efdd600af2133f2182ffcb5160bcb468bff873893fd9d57b0d2c5a7118b3": {
+        "title": "Agoda API Agent：零代码、零部署，将任意 API 转换为 MCP",
+        "link": "https://www.infoq.cn/article/lTdPVphiffHFz6prrxu3?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:41:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976611"
+      },
+      "def1cf41a21d6e29583473f98392b9251a0a3884a8e8eb1cb66168007626e3b9": {
+        "title": "Java近期资讯：JDK 26候选发布版、Spring Framework、Open Liberty、EclipseStore、Gradle",
+        "link": "https://www.infoq.cn/article/laeU5SxqYSUrm0KdpaOj?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 20 Feb 2026 16:38:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.976613"
       }
     },
     "Finance": {
-      "1e8102a2c144519ed0fdbcaa4a29a5620ca8bdf05e60b36a9a77235d4c213963": {
-        "title": "UK inflation rises more than expected to 3.4% in December",
-        "link": "https://www.ft.com/content/df1b7436-35fe-4b64-954a-9009b371c444",
-        "published_date": "Wed, 21 Jan 2026 07:27:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.599267"
-      },
       "55a7beb471d0538353d72e744f3bccbf687ad4f2d947553e5d91d45cb71b716f": {
         "title": "Trump drops tariff threat against Europe and touts ‘future’ Greenland deal",
         "link": "https://www.ft.com/content/6e7b2125-6490-4565-931f-a6f0d52a1543",
@@ -8397,21 +8445,105 @@
         "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
         "published_date": "Fri, 20 Feb 2026 07:56:00 GMT",
         "first_seen": "2026-02-20T08:27:35.896162"
+      },
+      "6a0a8ac0326d02cafdd56c5b7c101ba5ef34c7f123dd503ca253d1de66beeaad": {
+        "title": "Hedge fund Saba offers to buy stakes in Blue Owl funds at steep discount",
+        "link": "https://www.ft.com/content/b43ab192-01ee-40ca-9580-c701f6f4ee77",
+        "published_date": "Fri, 20 Feb 2026 22:52:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726909"
+      },
+      "ada5f2715f4d311e6773a755ef1e45276db9f43845b71eb1da080aaffb4ca6d3": {
+        "title": "Corporate America demands refunds after Trump’s tariffs struck down",
+        "link": "https://www.ft.com/content/07a295a3-e323-4a96-af48-ba8d01ab059a",
+        "published_date": "Fri, 20 Feb 2026 20:32:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726919"
+      },
+      "cb8eeb3ca1090b7ab54b633ddea2973f01d5df1b369a8ebfdd2a5b031a7f9776": {
+        "title": "What comes next after the top US court struck down Trump’s tariffs?",
+        "link": "https://www.ft.com/content/4d97c617-50ec-4152-9d5f-15688279ef90",
+        "published_date": "Fri, 20 Feb 2026 19:32:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726923"
+      },
+      "b2c1846142f75ddc4f5c67d576211c9aca248d5cff0b8ce05927504fe3da214d": {
+        "title": "UK looks at removing former prince Andrew from royal line of succession",
+        "link": "https://www.ft.com/content/11132602-1161-4311-ba54-8f730d262889",
+        "published_date": "Fri, 20 Feb 2026 19:17:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726924"
+      },
+      "2f2f0fa6261b145001672b04c875ff29a3ad46acf90970d37970c524f35da734": {
+        "title": "Andrew Mountbatten-Windsor arrest highlights vagueness of rules for royals",
+        "link": "https://www.ft.com/content/f855da8c-0371-4e9f-8fe2-11e046de95a7",
+        "published_date": "Fri, 20 Feb 2026 19:14:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726926"
+      },
+      "bae5dae44eb10ac7382c5876b61e1a74f6d0ed5988bb4c0ff53485f67db121cf": {
+        "title": "Trump vows to impose 10% global tariff after Supreme Court rules sweeping duties are illegal",
+        "link": "https://www.ft.com/content/d00d0663-8716-4323-bda3-2cbfb5b30285",
+        "published_date": "Fri, 20 Feb 2026 18:40:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726927"
+      },
+      "9cc9172d1b40a98d74a2fe6443ac45df48f8f68fec083fd8d69b3fc468610bc7": {
+        "title": "UK swings to record £30bn budget surplus in January as retail sales surge",
+        "link": "https://www.ft.com/content/03a830d8-6baf-4f22-8e14-758ec449b291",
+        "published_date": "Fri, 20 Feb 2026 17:16:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726929"
+      },
+      "047d6e5c6efb861c7db94df9ab88e4749d0e2777d4ce992ba55c57f1303b06dc": {
+        "title": "The Supreme Court has delivered an overdue rebuke to Donald Trump on tariffs",
+        "link": "https://www.ft.com/content/26c4bc44-35d0-4946-bc66-13777c9aef7e",
+        "published_date": "Fri, 20 Feb 2026 17:00:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726930"
+      },
+      "411d6b0a48bcd12aec936f5bca95b347e4a3f4fdf27216f5056546822761e462": {
+        "title": "Trump’s tariffs get knocked out — but the hit to small business is just beginning",
+        "link": "https://www.marketwatch.com/story/why-americas-small-businesses-still-pay-even-if-the-supreme-court-strikes-down-trumps-tariffs-5c0bb1d6?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 22:00:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726932"
+      },
+      "cadc204b0e63b901336edfe260ab9d66099110510ecc15d8fa36db35c2054454": {
+        "title": "Don’t expect lower prices now that the Supreme Court ruled against Trump’s tariffs",
+        "link": "https://www.marketwatch.com/story/dont-expect-lower-prices-now-that-the-supreme-court-ruled-against-trumps-tariffs-7334f6c9?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 21:52:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726933"
+      },
+      "06996f52da7a1a72dc181b1f0c91fbcc143f9f876894f4063ead4e687df823d2": {
+        "title": "This once-hot cancer-detection company’s stock got cut in half after a failed trial",
+        "link": "https://www.marketwatch.com/story/this-once-hot-cancer-detection-companys-stock-got-cut-in-half-after-a-failed-trial-1c97caa5?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 21:26:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726934"
+      },
+      "d7df259572f29e9058dab9aa898c596fb7ae9dafbf85c14b39182627ec8fffab": {
+        "title": "How you can take advantage of two stock-market trends",
+        "link": "https://www.marketwatch.com/story/how-you-can-take-advantage-of-two-stock-market-trends-2d257c49?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 21:11:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726936"
+      },
+      "58e58edfc1ccae47237acb33e587d4971a927991815ad6bcc0638ec1a2f88b9e": {
+        "title": "Will American companies get tariff refunds after the Supreme Court decision? What we know so far.",
+        "link": "https://www.marketwatch.com/story/will-the-u-s-give-tariff-refunds-after-the-supreme-court-decision-what-we-know-so-far-5d1bf6fb?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 19:24:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726937"
+      },
+      "c945aac8664b37ea6eb300d8480aaa2b600377e8711593f79cb3fd31832262e7": {
+        "title": "Supreme Court rejects Trump’s tariffs. The president is already rolling out new ones.",
+        "link": "https://www.marketwatch.com/story/supreme-court-rejects-trumps-tariffs-heres-what-the-president-could-try-to-use-instead-c09ec3fa?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 19:09:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726939"
+      },
+      "23d8654d76dbefb2ed5be22daa7432b5b4039bd81b5a7bf89738b09c596472fa": {
+        "title": "CoreWeave’s stock drops. Why a $4 billion Blue Owl funding snag has investors on edge.",
+        "link": "https://www.marketwatch.com/story/coreweaves-stock-drops-why-a-4-billion-blue-owl-funding-snag-has-investors-on-edge-1f4760f6?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 19:03:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726941"
+      },
+      "85b82b3d85611465098b197a1ab84239339285a52c2beccb87ed37c1cf4baeae": {
+        "title": "Retailers could win big on a repeal of Trump’s tariffs. Here’s why the stocks aren’t rising.",
+        "link": "https://www.marketwatch.com/story/retailers-could-be-big-winners-in-a-repeal-of-trumps-tariffs-heres-why-the-stocks-arent-rising-224ed022?mod=mw_rss_topstories",
+        "published_date": "Fri, 20 Feb 2026 19:00:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.726942"
       }
     },
     "Ai": {
-      "4451f1508b33d534b2cc024376618f831800459190c1ca280b27c67633407ac8": {
-        "title": "告别「手动画框」！Medical SAM3：首个真正「纯文本提示」驱动的医学全能分割模型",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-21-5",
-        "published_date": "Wed, 21 Jan 2026 14:19:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.718137"
-      },
-      "d8ebcc148309c1ed11c06b4fecbac62d9483b6cda14b47124d02073ff96e455a": {
-        "title": "2026-01-21日刊",
-        "link": "https://ai.hubtoday.app//2026-01/2026-01-21/",
-        "published_date": "Wed, 21 Jan 2026 07:16:00 GMT",
-        "first_seen": "2026-01-21T08:34:49.718144"
-      },
       "ea1a3883e2e2cab8ef0748f924ece797b7957058ac5c36c7abaf9e3eeef01976": {
         "title": "AI for Science开年新突破：中科大实现多尺度结构逆向设计128倍加速，登上Nature子刊",
         "link": "https://www.jiqizhixin.com/articles/2026-01-21-6",
@@ -10745,13 +10877,43 @@
         "link": "https://www.qbitai.com/2026/02/381495.html",
         "published_date": "Fri, 20 Feb 2026 07:44:00 GMT",
         "first_seen": "2026-02-20T08:27:36.038443"
+      },
+      "4b607c1d640d95fda9438e8e1b26a8bdf77203672044752fd1e707417987c293": {
+        "title": "从AlphaGo到DeepSeek R1，推理的未来将走向何方？",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20-5",
+        "published_date": "Fri, 20 Feb 2026 22:49:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.887891"
+      },
+      "ad906f2c92ec4c1cdd4982297ab5a8ae79bc0c3a88b588013c441a57ae317715": {
+        "title": "ICLR 2026｜新版「图灵测试」：当VLA走进生物实验室",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20-4",
+        "published_date": "Fri, 20 Feb 2026 22:45:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.887898"
+      },
+      "a71981f1f25ab3aad1aa2b3e623e1335d38fb3c57be390ecc10824729f62911a": {
+        "title": "训练奖励太稀疏？港中文联合美团给Agent加上「过程分」",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20-3",
+        "published_date": "Fri, 20 Feb 2026 22:40:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.887900"
+      },
+      "6d57986db5468b04f9dbae2b4cddd8bdc0bc946b4cf134cf0a09950769a0c232": {
+        "title": "众智FlagOS适配千问Qwen3.5 397B MoE模型多芯版统一发布，下载可用",
+        "link": "https://www.jiqizhixin.com/articles/2026-02-20-2",
+        "published_date": "Fri, 20 Feb 2026 21:12:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.887902"
+      },
+      "576154b4bbbac5acf01fc4980ac3e37069d051059bae1804be82a53985472627": {
+        "title": "8500亿美元！OpenAI刷新AI公司估值纪录，领先第二名2.2倍",
+        "link": "https://www.qbitai.com/2026/02/381542.html",
+        "published_date": "Fri, 20 Feb 2026 09:49:00 GMT",
+        "first_seen": "2026-02-20T23:17:40.887903"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-20T08:27:36.093618",
-    "Finance": "2026-02-20T08:27:35.896173",
-    "Ai": "2026-02-20T08:27:36.038451"
+    "Technology": "2026-02-20T23:17:40.976615",
+    "Finance": "2026-02-20T23:17:40.726944",
+    "Ai": "2026-02-20T23:17:40.887905"
   }
 }
