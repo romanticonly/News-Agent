@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-21 05:34
+**最后更新时间**: 2026-02-21 08:18
+
+---
+
+## 🆕 最新更新 (2026-02-21 08:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Virgin Atlantic on track to poach ‘tens of thousands’ of BA frequent flyers](https://www.ft.com/content/6384ee81-fab6-4024-a9ec-a0d18303a48f)
+**发布时间**: 2026-02-21 05:00
+
+#### [Yacht boom propels $700mn-plus Stonepeak marina deal](https://www.ft.com/content/2a588350-a7f7-460f-900e-812a779d7cde)
+**发布时间**: 2026-02-21 05:00
+
+#### [Nearly 6,000 entrepreneurs quit UK in past two years, say wealth managers](https://www.ft.com/content/f2f03212-c483-40ad-a534-5f6fa8e98379)
+**发布时间**: 2026-02-21 05:00
 
 ---
 
