@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-21 08:18
+**最后更新时间**: 2026-02-21 23:13
+
+---
+
+## 🆕 最新更新 (2026-02-21 23:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I need to get my financial ducks in a row’: I’m 80 with $1 million. How do I prevent my son from being hit with inheritance tax?](https://www.marketwatch.com/story/i-need-to-get-my-financial-ducks-in-a-row-im-80-with-1-million-how-do-i-prevent-my-son-from-being-hit-with-inheritance-tax-27913be6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 22:00
+
+#### [Buying stocks everyone loves is a recipe for underperformance — but Apple breaks the rule](https://www.marketwatch.com/story/buying-stocks-everyone-admires-is-a-recipe-for-underperformance-but-apple-breaks-the-rule-26de6e2f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 19:48
+
+#### [Europe’s military buildup could create a bond market powerhouse that threatens U.S. Treasurys](https://www.marketwatch.com/story/europes-military-buildup-could-create-a-bond-market-powerhouse-that-threatens-u-s-treasurys-30c001ed?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 19:47
+
+#### [Trump’s tariff loss is a win for your relationship](https://www.marketwatch.com/story/tariff-proof-your-partnership-how-couples-can-turn-economic-hurdles-into-financial-wins-971134e9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 18:04
+
+#### [The biggest purchase in life now seems unaffordable — and that’s putting consumers in a sour mood](https://www.marketwatch.com/story/the-biggest-purchase-in-life-now-seems-unaffordable-and-thats-putting-consumers-in-a-sour-mood-30d0ba3e?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 17:49
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US ambassador Huckabee sparks outrage across Middle East over Israel comments](https://www.ft.com/content/465e624c-e107-4d99-a96d-55ef4ec43bb1)
+**发布时间**: 2026-02-21 19:36
+
+#### [Trump raises global tariffs to 15% in wake of Supreme Court loss](https://www.ft.com/content/8b1e0364-092e-4b8c-8391-23b59840e74d)
+**发布时间**: 2026-02-21 17:28
+
+#### [France says EU has the tools to hit back at Trump over tariffs](https://www.ft.com/content/b1177a90-56ed-4936-8a02-a72424df510d)
+**发布时间**: 2026-02-21 17:14
+
+#### [What does Trump’s latest tariff threat mean for his previous trade pacts?](https://www.ft.com/content/b7c1eb3e-7469-4aab-8909-9d3616a291a5)
+**发布时间**: 2026-02-21 16:18
+
+#### [Iranian students mount further anti-regime protests](https://www.ft.com/content/312e8986-1ce9-4251-b1ef-f208a9ae0506)
+**发布时间**: 2026-02-21 14:45
+
+#### [The Supreme Court’s tariff blow to Trump](https://www.ft.com/content/8eaa3ec9-ca38-4f9e-aeb9-026e5192d000)
+**发布时间**: 2026-02-21 09:38
+
+#### [Tehran on edge as residents fear US attack](https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065)
+**发布时间**: 2026-02-21 08:37
 
 ---
 
