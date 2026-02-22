@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-21 23:13
+**最后更新时间**: 2026-02-22 11:48
+
+---
+
+## 🆕 最新更新 (2026-02-22 11:48)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Labour battles disaffection in crucial three-way by-election](https://www.ft.com/content/7a2d92bd-44e7-4fed-bfc1-79d0b6a4cc24)
+**发布时间**: 2026-02-22 05:00
+
+#### [It is time for Europe to weaponise its chokepoints](https://www.ft.com/content/b92fd917-9f1b-4393-b96d-6d22ba757c72)
+**发布时间**: 2026-02-22 05:00
+
+#### [This meeting is being recorded. Did you know?](https://www.ft.com/content/b24e423a-3d02-45e8-9720-971f60b9ab9d)
+**发布时间**: 2026-02-22 05:00
+
+#### [Trump’s envoy prepares to fight culture wars in South Africa](https://www.ft.com/content/68755c36-c23a-4c5b-a9eb-ec4098e23590)
+**发布时间**: 2026-02-22 05:00
+
+#### [Private equity owners slash valuation of Swiss watchmaker Breitling](https://www.ft.com/content/94468bf8-c671-40f8-ae56-386207b89a58)
+**发布时间**: 2026-02-22 05:00
+
+#### [World’s biggest PE houses struggle to exit China deals](https://www.ft.com/content/cdc229ae-e7ec-4a8b-b4d6-ffed2f3747f7)
+**发布时间**: 2026-02-22 05:00
+
+#### [US security group looks to recruit hundreds of personnel as it targets Gaza role](https://www.ft.com/content/22a24f4c-7ee0-4824-8338-cb9d563a9c2e)
+**发布时间**: 2026-02-22 05:00
+
+#### [Centerview settles lawsuit over analyst’s need for 8 hours’ sleep](https://www.ft.com/content/a5271651-825e-4007-a029-9e2c16b5d770)
+**发布时间**: 2026-02-22 01:31
+
+#### [Trump demands Netflix remove former Obama official from board](https://www.ft.com/content/165878b9-2984-4df9-ba8a-c19f133e9ad8)
+**发布时间**: 2026-02-22 00:31
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why you shouldn’t fall in love with the S&P 500](https://www.marketwatch.com/story/this-chart-shows-why-stocks-arent-all-theyre-cracked-up-to-be-64b98603?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:52
+
+#### [This is the biggest weakness in most people’s budgets. Here’s how to fix it.](https://www.marketwatch.com/story/this-is-the-biggest-weakness-in-most-peoples-budgets-heres-how-to-fix-it-9290b3f0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:52
+
+#### [The sobering way most Americans plan to use their tax refunds this year](https://www.marketwatch.com/story/this-is-the-sobering-way-most-americans-plan-to-use-their-tax-refunds-this-year-cd7c585d?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:52
+
+#### [8 ways you may be squandering money in retirement](https://www.marketwatch.com/story/8-ways-to-keep-from-blowing-through-your-money-in-retirement-a9177a18?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:51
+
+#### [I’m 72 and started claiming Social Security at 69. Will I get more money if I work part-time?](https://www.marketwatch.com/story/im-72-and-started-claiming-social-security-at-69-will-i-get-more-money-if-i-work-part-time-71288018?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:51
+
+#### [This type of 401(k) plan could boost retirement savings up to 22% — but it comes at a price](https://www.marketwatch.com/story/more-young-workers-are-being-nudged-into-these-tailored-401-k-accounts-should-you-make-the-switch-ba518ea3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:51
+
+#### [Medicare Advantage’s once-blistering growth dropped in 2026. Here’s what that means.](https://www.marketwatch.com/story/medicare-advantages-once-blistering-growth-dropped-in-2026-heres-what-that-means-8a915bb1?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:51
+
+#### [Adding these stocks to your 401(k) could protect against crises like a war with Iran](https://www.marketwatch.com/story/adding-these-stocks-to-your-401-k-could-protect-against-crises-like-war-with-iran-b802dd88?mod=mw_rss_topstories)
+**发布时间**: 2026-02-21 23:51
 
 ---
 
