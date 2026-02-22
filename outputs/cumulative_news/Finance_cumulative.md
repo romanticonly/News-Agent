@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-22 11:48
+**最后更新时间**: 2026-02-22 23:14
+
+---
+
+## 🆕 最新更新 (2026-02-22 23:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mexico kills top drug cartel leader ‘El Mencho’](https://www.ft.com/content/55fa278a-6902-43e8-9021-dfd3cb7d26a7)
+**发布时间**: 2026-02-22 21:37
+
+#### [Jet linked to Epstein landed at RAF base in 2013, documents show](https://www.ft.com/content/1d0b0747-dac2-4a2a-9238-fa0d79e5ca74)
+**发布时间**: 2026-02-22 21:03
+
+#### [Man killed by Secret Service after entering Mar-a-Lago grounds with gun](https://www.ft.com/content/bb1808b5-032b-493c-b7bb-6d3057acb1e5)
+**发布时间**: 2026-02-22 20:37
+
+#### [Satellite images reveal surge in US fighter jets in Middle East](https://www.ft.com/content/c743e6de-202c-4135-ae52-0f0e34213182)
+**发布时间**: 2026-02-22 19:22
+
+#### [Europe needs to learn the art of the trade deal](https://www.ft.com/content/572683fb-e4b4-4451-8b7b-056c24dae153)
+**发布时间**: 2026-02-22 18:15
+
+#### [Iran agreed secret shoulder-fired missile deal with Russia](https://www.ft.com/content/d034cc1a-f5fb-494e-a3c1-466e8e80ed82)
+**发布时间**: 2026-02-22 16:00
+
+#### [Trump’s new flat-rate tariff is a boost for China and Brazil](https://www.ft.com/content/a12657e5-e160-444d-9b4e-87e89480e625)
+**发布时间**: 2026-02-22 15:59
+
+#### [America is becoming a petrostate](https://www.ft.com/content/4d2559d2-04e7-4254-a44a-40d7c7b344f6)
+**发布时间**: 2026-02-22 12:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Tariffs costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week](https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-22 20:38
+
+#### [Last week’s slump in asset-manager stocks was driven by private-credit fears. Here’s what’s worrying investors.](https://www.marketwatch.com/story/this-weeks-slump-in-asset-manager-stocks-was-driven-by-private-credit-fears-heres-whats-worrying-investors-0c47e043?mod=mw_rss_topstories)
+**发布时间**: 2026-02-22 20:33
+
+#### [Gold sheds its safe-haven status. Is it just another momentum play now?](https://www.marketwatch.com/story/gold-sheds-its-safe-haven-status-is-it-just-another-momentum-play-now-c60af908?mod=mw_rss_topstories)
+**发布时间**: 2026-02-22 17:00
 
 ---
 
