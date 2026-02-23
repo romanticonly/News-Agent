@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-23 08:35
+**最后更新时间**: 2026-02-23 23:24
+
+---
+
+## 🆕 最新更新 (2026-02-23 23:24)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Big Tech’s ‘Lag 7’ is putting the S&P 500 — and your index fund — at risk](https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 23:18
+
+#### [Uber’s latest effort to become a super app is all about parking](https://www.marketwatch.com/story/ubers-latest-effort-to-become-a-super-app-is-all-about-parking-7d05bfba?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 23:03
+
+#### [Jobs and CPI reports are not being politically manipulated, government’s statistics chief says](https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 22:52
+
+#### [Did a blog post just cause software stocks to lose more than $200 billion in market cap?](https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 22:47
+
+#### [IBM’s stock heads for worst month in 34 years — and Anthropic is partly to blame](https://www.marketwatch.com/story/ibms-stock-heads-for-worst-month-in-34-years-and-anthropic-is-partly-to-blame-cfef2c5f?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 22:31
+
+#### [Snowstorm hits airline stocks as flight cancellations near 5,000](https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 22:21
+
+#### [Novo Nordisk’s stock closes at 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial](https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 21:59
+
+#### [Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico](https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 21:55
+
+#### [Why Nvidia’s earnings report isn’t the market force it once was](https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 21:54
+
+#### [PayPal’s stock pops on takeover hopes. Here’s who could swoop in with a purchase.](https://www.marketwatch.com/story/paypals-stock-pops-on-takeover-hopes-heres-who-could-swoop-in-with-a-purchase-78e05466?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 21:51
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US software and private capital shares hit with fresh wave of selling](https://www.ft.com/content/c43b31d7-0b57-4d65-88d9-b74fceadfb5c)
+**发布时间**: 2026-02-23 21:21
+
+#### [Zelenskyy urges Trump to see through Russia’s ‘games’](https://www.ft.com/content/1831225f-0db6-4ecc-8409-f520f74e4129)
+**发布时间**: 2026-02-23 21:00
+
+#### [What the leveraged loan market can tell us about the software sell-off](https://www.ft.com/content/49bcdbd5-6c62-45a7-aca9-7ddb06078d6b)
+**发布时间**: 2026-02-23 20:34
+
+#### [Mandelson arrested on suspicion of misconduct in public office](https://www.ft.com/content/778e5ae1-c4cd-4544-b483-e42b763d83f6)
+**发布时间**: 2026-02-23 18:08
+
+#### [The US Supreme Court’s ruling won’t stop Donald Trump’s tariffs](https://www.ft.com/content/d892665f-af89-4e81-9b41-db614b84887e)
+**发布时间**: 2026-02-23 17:59
+
+#### [US sues Coca-Cola bottler for all-female casino networking event](https://www.ft.com/content/0d5bca8a-3dc7-4d36-9241-81c1876114a8)
+**发布时间**: 2026-02-23 17:51
+
+#### [Starmer’s ethics adviser to investigate minister over probe into journalists](https://www.ft.com/content/78f49cf3-1511-423e-9019-6a6c13a35fde)
+**发布时间**: 2026-02-23 17:08
+
+#### [Ex-techno DJ jailed for global aircraft engine fraud](https://www.ft.com/content/f997e475-45b2-431b-b9c6-77d685c19628)
+**发布时间**: 2026-02-23 16:53
+
+#### [Mexico took down drug lord by tracking his girlfriend](https://www.ft.com/content/82012a4c-2cfa-49f2-b833-11632c78761f)
+**发布时间**: 2026-02-23 16:38
+
+#### [Donald Trump’s new cancel culture](https://www.ft.com/content/8cc957ef-d889-493a-88f9-d383439f69e9)
+**发布时间**: 2026-02-23 11:00
 
 ---
 

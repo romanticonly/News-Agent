@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Feb 2026 08:35:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Feb 2026 08:35:21 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Feb 2026 23:24:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:24:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,11 +14,163 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Gold jumps and dollar slides as global trade faces new Trump tariff threat</title>
-      <link>https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769</link>
-      <description>&lt;![CDATA[Gold jumps and dollar slides as global trade faces new Trump tariff threat]]&gt;</description>
-      <pubDate>Mon, 23 Feb 2026 08:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769</guid>
+      <title>Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk</title>
+      <link>https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Big Tech’s ‘Lag 7’ is putting the S&amp;P 500 — and your index fund — at risk]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 23:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/the-magnificent-seven-is-now-the-lag-7-how-big-techs-slump-is-dragging-down-the-s-p-500-8d6c62e9?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Uber’s latest effort to become a super app is all about parking</title>
+      <link>https://www.marketwatch.com/story/ubers-latest-effort-to-become-a-super-app-is-all-about-parking-7d05bfba?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Uber’s latest effort to become a super app is all about parking]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 23:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ubers-latest-effort-to-become-a-super-app-is-all-about-parking-7d05bfba?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Jobs and CPI reports are not being politically manipulated, government’s statistics chief says</title>
+      <link>https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Jobs and CPI reports are not being politically manipulated, government’s statistics chief says]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 22:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/jobs-and-cpi-reports-are-not-being-politically-manipulated-governments-statistics-chief-says-f9bc93a0?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Did a blog post just cause software stocks to lose more than $200 billion in market cap?</title>
+      <link>https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Did a blog post just cause software stocks to lose more than $200 billion in market cap?]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 22:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-software-stocks-lost-more-than-200-billion-in-market-cap-today-3f146cc3?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>IBM’s stock heads for worst month in 34 years — and Anthropic is partly to blame</title>
+      <link>https://www.marketwatch.com/story/ibms-stock-heads-for-worst-month-in-34-years-and-anthropic-is-partly-to-blame-cfef2c5f?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[IBM’s stock heads for worst month in 34 years — and Anthropic is partly to blame]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 22:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ibms-stock-heads-for-worst-month-in-34-years-and-anthropic-is-partly-to-blame-cfef2c5f?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Snowstorm hits airline stocks as flight cancellations near 5,000</title>
+      <link>https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Snowstorm hits airline stocks as flight cancellations near 5,000]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 22:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/snowstorm-hits-airline-stocks-as-total-flight-cancellations-top-5-300-764ef9b6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Novo Nordisk’s stock closes at 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial</title>
+      <link>https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Novo Nordisk’s stock closes at 4-year low after its next-gen weight-loss drug lost to Lilly’s in Phase 3 trial]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/novo-nordisk-pitted-a-new-weight-loss-drug-against-eli-lilly-and-lost-5652d079?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico</title>
+      <link>https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Here’s what airlines, hotels and Airbnb actually owe travelers stranded in Mexico]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/heres-what-airlines-hotels-and-airbnb-actually-owe-travelers-stranded-in-mexico-51655025?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Nvidia’s earnings report isn’t the market force it once was</title>
+      <link>https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Nvidia’s earnings report isn’t the market force it once was]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-nvidias-earnings-report-isnt-the-market-force-it-once-was-f1315d54?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>PayPal’s stock pops on takeover hopes. Here’s who could swoop in with a purchase.</title>
+      <link>https://www.marketwatch.com/story/paypals-stock-pops-on-takeover-hopes-heres-who-could-swoop-in-with-a-purchase-78e05466?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[PayPal’s stock pops on takeover hopes. Here’s who could swoop in with a purchase.]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/paypals-stock-pops-on-takeover-hopes-heres-who-could-swoop-in-with-a-purchase-78e05466?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US software and private capital shares hit with fresh wave of selling</title>
+      <link>https://www.ft.com/content/c43b31d7-0b57-4d65-88d9-b74fceadfb5c</link>
+      <description>&lt;![CDATA[US software and private capital shares hit with fresh wave of selling]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:21:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c43b31d7-0b57-4d65-88d9-b74fceadfb5c</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Zelenskyy urges Trump to see through Russia’s ‘games’</title>
+      <link>https://www.ft.com/content/1831225f-0db6-4ecc-8409-f520f74e4129</link>
+      <description>&lt;![CDATA[Zelenskyy urges Trump to see through Russia’s ‘games’]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1831225f-0db6-4ecc-8409-f520f74e4129</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>What the leveraged loan market can tell us about the software sell-off</title>
+      <link>https://www.ft.com/content/49bcdbd5-6c62-45a7-aca9-7ddb06078d6b</link>
+      <description>&lt;![CDATA[What the leveraged loan market can tell us about the software sell-off]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 20:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/49bcdbd5-6c62-45a7-aca9-7ddb06078d6b</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Mandelson arrested on suspicion of misconduct in public office</title>
+      <link>https://www.ft.com/content/778e5ae1-c4cd-4544-b483-e42b763d83f6</link>
+      <description>&lt;![CDATA[Mandelson arrested on suspicion of misconduct in public office]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 18:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/778e5ae1-c4cd-4544-b483-e42b763d83f6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The US Supreme Court’s ruling won’t stop Donald Trump’s tariffs</title>
+      <link>https://www.ft.com/content/d892665f-af89-4e81-9b41-db614b84887e</link>
+      <description>&lt;![CDATA[The US Supreme Court’s ruling won’t stop Donald Trump’s tariffs]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 17:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d892665f-af89-4e81-9b41-db614b84887e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US sues Coca-Cola bottler for all-female casino networking event</title>
+      <link>https://www.ft.com/content/0d5bca8a-3dc7-4d36-9241-81c1876114a8</link>
+      <description>&lt;![CDATA[US sues Coca-Cola bottler for all-female casino networking event]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0d5bca8a-3dc7-4d36-9241-81c1876114a8</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Starmer’s ethics adviser to investigate minister over probe into journalists</title>
+      <link>https://www.ft.com/content/78f49cf3-1511-423e-9019-6a6c13a35fde</link>
+      <description>&lt;![CDATA[Starmer’s ethics adviser to investigate minister over probe into journalists]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 17:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/78f49cf3-1511-423e-9019-6a6c13a35fde</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Ex-techno DJ jailed for global aircraft engine fraud</title>
+      <link>https://www.ft.com/content/f997e475-45b2-431b-b9c6-77d685c19628</link>
+      <description>&lt;![CDATA[Ex-techno DJ jailed for global aircraft engine fraud]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f997e475-45b2-431b-b9c6-77d685c19628</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Mexico took down drug lord by tracking his girlfriend</title>
+      <link>https://www.ft.com/content/82012a4c-2cfa-49f2-b833-11632c78761f</link>
+      <description>&lt;![CDATA[Mexico took down drug lord by tracking his girlfriend]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 16:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/82012a4c-2cfa-49f2-b833-11632c78761f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Donald Trump’s new cancel culture</title>
+      <link>https://www.ft.com/content/8cc957ef-d889-493a-88f9-d383439f69e9</link>
+      <description>&lt;![CDATA[Donald Trump’s new cancel culture]]&gt;</description>
+      <pubDate>Mon, 23 Feb 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8cc957ef-d889-493a-88f9-d383439f69e9</guid>
       <category>Finance</category>
     </item>
   </channel>
