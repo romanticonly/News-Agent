@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-23 05:58
+**最后更新时间**: 2026-02-23 08:35
+
+---
+
+## 🆕 最新更新 (2026-02-23 08:35)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold jumps and dollar slides as global trade faces new Trump tariff threat](https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769)
+**发布时间**: 2026-02-23 08:07
 
 ---
 
