@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-23 23:24
+**最后更新时间**: 2026-02-24 05:51
+
+---
+
+## 🆕 最新更新 (2026-02-24 05:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Crisis of his own making’: Trump weighs another war with Iran](https://www.ft.com/content/0408deca-ecca-49ab-bff6-985ef83897ce)
+**发布时间**: 2026-02-24 05:00
+
+#### [What has Reform learnt from its first taste of power?](https://www.ft.com/content/dc409a4a-bbef-44f2-a968-ae11d8509c87)
+**发布时间**: 2026-02-24 05:00
+
+#### [Europe’s ‘tech sovereignty’ ambitions carry security risks, military warns](https://www.ft.com/content/0f7f7aa7-af4e-4ea6-82da-5f8c719982fe)
+**发布时间**: 2026-02-24 05:00
+
+#### [Investors back European start-ups building low-cost air defence](https://www.ft.com/content/0aff10e4-0657-4751-9c12-ab41878b3f5e)
+**发布时间**: 2026-02-24 05:00
+
+#### [PwC clashes with boutique consultancy founded by former executive](https://www.ft.com/content/6d305fb0-76cb-4b4a-94d5-c8bdc141b916)
+**发布时间**: 2026-02-24 05:00
+
+#### [Rapid UK coastal erosion throws spotlight on £40bn nuclear plant](https://www.ft.com/content/7f093296-41cd-498c-ba81-f3707204eca9)
+**发布时间**: 2026-02-24 05:00
+
+#### [Trump’s global tariff takes effect at 10%](https://www.ft.com/content/61c2e6d6-5e82-471d-b189-3d57d53407ae)
+**发布时间**: 2026-02-24 03:53
+
+#### [UK warns tariff retaliation is an option if US reneges on trade deal](https://www.ft.com/content/088d9703-0a54-4bd6-aa80-a16b76edce1f)
+**发布时间**: 2026-02-23 17:05
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Hims & Hers’ expansion plans — as well as its Super Bowl ad — have investors worried about profits](https://www.marketwatch.com/story/hims-hers-expansion-plans-as-well-as-its-super-bowl-ad-have-investors-worried-about-profits-1e60d262?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 01:56
+
+#### [‘I found out too late’: My stepmother cheated me out of $500K from my father’s estate. What can I do?](https://www.marketwatch.com/story/i-found-out-too-late-my-stepmother-cheated-me-out-of-500k-from-my-fathers-estate-what-can-i-do-97f387c6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 00:59
+
+#### [‘I spend $7,500 a month’: I’m 47, earn $260K, and have $3 million. Can I retire at 50?](https://www.marketwatch.com/story/i-spend-7-500-a-month-im-47-earn-260k-and-have-3-million-can-i-retire-at-50-05afc0b5?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 00:44
+
+#### [Congress must enact Trump’s tariffs now to steer the U.S. from a massive revenue cliff](https://www.marketwatch.com/story/congress-must-enact-trumps-tariffs-now-to-steer-the-u-s-away-from-a-massive-revenue-cliff-c147c999?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 00:42
+
+#### [Tariff ruling sparks ‘refund chaos’ that small businesses and families can’t afford](https://www.marketwatch.com/story/tariff-ruling-sparks-refund-chaos-that-small-businesses-and-families-cant-afford-e01a5e89?mod=mw_rss_topstories)
+**发布时间**: 2026-02-23 23:42
 
 ---
 
