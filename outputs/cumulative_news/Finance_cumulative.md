@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-24 05:51
+**最后更新时间**: 2026-02-24 08:32
+
+---
+
+## 🆕 最新更新 (2026-02-24 08:32)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [This award-winning hedge fund manager is betting the era of capital abundance becomes one of capital scarcity](https://www.marketwatch.com/story/this-award-winning-hedge-fund-manager-is-betting-the-era-of-capital-abundance-becomes-one-of-capital-scarcity-fe6ae3c7?mod=mw_rss_topstories)
+**发布时间**: 2026-02-24 08:29
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK PR executive left role after US embassy raised concerns over online posts](https://www.ft.com/content/f413947b-e06b-4adf-b88e-de4c04049a16)
+**发布时间**: 2026-02-24 05:00
+
+#### [Volodymyr Zelenskyy says war in Ukraine at ‘beginning of the end’](https://www.ft.com/content/1831225f-0db6-4ecc-8409-f520f74e4129)
+**发布时间**: 2026-02-23 21:00
 
 ---
 
