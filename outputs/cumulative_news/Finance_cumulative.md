@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-25 05:53
+**最后更新时间**: 2026-02-25 08:33
+
+---
+
+## 🆕 最新更新 (2026-02-25 08:33)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [New Diageo boss cuts dividend as Guinness maker’s sales slide](https://www.ft.com/content/039e7b2a-8b5d-4a23-8c99-dc28a01f9be5)
+**发布时间**: 2026-02-25 07:20
 
 ---
 
