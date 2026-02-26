@@ -1,7 +1,32 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-02-26 05:49
+**最后更新时间**: 2026-02-26 08:31
+
+---
+
+## 🆕 最新更新 (2026-02-26 08:31)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [从LLM能力到科研组织结构：Agentic AI如何重构生物医学「团队科学」](https://www.jiqizhixin.com/articles/2026-02-26-7)
+**发布时间**: 2026-02-26 15:02
+
+#### [击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球](https://www.jiqizhixin.com/articles/2026-02-26-6)
+**发布时间**: 2026-02-26 14:57
+
+#### [超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录](https://www.jiqizhixin.com/articles/2026-02-26-5)
+**发布时间**: 2026-02-26 14:49
+
+#### [突发！庞若鸣放弃Meta 2亿美元，转头加入OpenAI](https://www.jiqizhixin.com/articles/2026-02-26-4)
+**发布时间**: 2026-02-26 14:20
+
+#### [ICLR 2026 | DistDF：时序预测需要分布对齐——从MSE到联合Wasserstein](https://www.jiqizhixin.com/articles/2026-02-26-3)
+**发布时间**: 2026-02-26 14:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [14亿元留不住！庞若鸣弃Meta加盟OpenAI](https://www.qbitai.com/2026/02/382657.html)
+**发布时间**: 2026-02-26 05:41
 
 ---
 

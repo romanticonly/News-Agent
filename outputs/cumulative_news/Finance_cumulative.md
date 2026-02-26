@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 05:49
+**最后更新时间**: 2026-02-26 08:32
+
+---
+
+## 🆕 最新更新 (2026-02-26 08:32)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia’s blockbuster results fail to dazzle investors](https://www.ft.com/content/f4cda766-5650-4a97-a84f-24d3cfbeddd6)
+**发布时间**: 2026-02-26 08:20
+
+#### [Inside the war over who writes America’s AI rules](https://www.ft.com/content/c1823595-d0f6-49a4-8a10-3d91c92da8f6)
+**发布时间**: 2026-02-26 05:00
+
+#### [Starmer faces high-stakes battle as Greens and Reform vie for Manchester seat](https://www.ft.com/content/8e27697c-5dc8-4ed7-9afb-99ab06e91153)
+**发布时间**: 2026-02-26 05:00
+
+#### [Japan is the ultimate Halo trade](https://www.ft.com/content/30b29435-dacf-40d9-b5fc-4ca9ec598fe9)
+**发布时间**: 2026-02-26 03:26
 
 ---
 
