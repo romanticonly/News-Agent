@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 05:44
+**最后更新时间**: 2026-02-27 08:28
+
+---
+
+## 🆕 最新更新 (2026-02-27 08:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘The worst outcome’: Green triumph creates new peril for Labour](https://www.ft.com/content/a1b744aa-db7c-47a4-b0aa-da23872a20e9)
+**发布时间**: 2026-02-27 07:49
+
+#### [Starmer under pressure after Greens secure historic by-election victory](https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e)
+**发布时间**: 2026-02-27 05:15
+
+#### [Pentagon moves to build AI tools for China cyber operations](https://www.ft.com/content/a56d70b5-669c-4bcc-8541-a4961fc99802)
+**发布时间**: 2026-02-27 05:00
 
 ---
 
