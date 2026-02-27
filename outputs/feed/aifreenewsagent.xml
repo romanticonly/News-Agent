@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 Feb 2026 08:31:00 GMT</pubDate>
-    <lastBuildDate>Thu, 26 Feb 2026 08:32:29 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Feb 2026 05:43:00 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Feb 2026 05:44:17 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,43 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>从LLM能力到科研组织结构：Agentic AI如何重构生物医学「团队科学」</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-7</link>
-      <description>&lt;![CDATA[从LLM能力到科研组织结构：Agentic AI如何重构生物医学「团队科学」]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 15:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-7</guid>
+      <title>2026-02-27日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-27/</link>
+      <description>&lt;![CDATA[2026-02-27日刊]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 09:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://ai.hubtoday.app//2026-02/2026-02-27/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-6</link>
-      <description>&lt;![CDATA[击败谷歌、英伟达！清华陈建宇×斯坦福Chelsea团队世界模型Ctrl-World具身能力登顶全球]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-6</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-5</link>
-      <description>&lt;![CDATA[超越IMO金牌？谷歌创超难FirstProof数学挑战新纪录]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-5</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>突发！庞若鸣放弃Meta 2亿美元，转头加入OpenAI</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-4</link>
-      <description>&lt;![CDATA[突发！庞若鸣放弃Meta 2亿美元，转头加入OpenAI]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-4</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ICLR 2026 | DistDF：时序预测需要分布对齐——从MSE到联合Wasserstein</title>
-      <link>https://www.jiqizhixin.com/articles/2026-02-26-3</link>
-      <description>&lt;![CDATA[ICLR 2026 | DistDF：时序预测需要分布对齐——从MSE到联合Wasserstein]]&gt;</description>
-      <pubDate>Thu, 26 Feb 2026 14:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.jiqizhixin.com/articles/2026-02-26-3</guid>
+      <title>千问AI春节DAU创历史新高，单日增幅惊人</title>
+      <link>https://www.qbitai.com/2026/02/382739.html</link>
+      <description>&lt;![CDATA[千问AI春节DAU创历史新高，单日增幅惊人]]&gt;</description>
+      <pubDate>Fri, 27 Feb 2026 03:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/02/382739.html</guid>
       <category>Ai</category>
     </item>
   </channel>

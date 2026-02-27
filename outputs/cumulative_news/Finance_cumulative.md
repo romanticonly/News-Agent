@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-26 23:18
+**最后更新时间**: 2026-02-27 05:44
+
+---
+
+## 🆕 最新更新 (2026-02-27 05:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer under pressure after Greens win Gorton and Denton by-election](https://www.ft.com/content/aa7abe87-3407-4f14-aa72-48fbfc132c0e)
+**发布时间**: 2026-02-27 05:15
+
+#### [How China’s universities joined the global elite](https://www.ft.com/content/845e247e-37d3-4a68-9269-bad5ad82eda1)
+**发布时间**: 2026-02-27 05:00
+
+#### [Economic nationalism is just getting started](https://www.ft.com/content/19863a82-7979-49db-a644-78a5d1830044)
+**发布时间**: 2026-02-27 05:00
+
+#### [Power failure could undermine America’s AI ambitions](https://www.ft.com/content/47da78cd-3a3e-46eb-bfa5-ad20d9b9dcef)
+**发布时间**: 2026-02-27 05:00
+
+#### [Greens win key UK by-election in blow to Labour](https://www.ft.com/content/c7fee9cc-2bb1-457d-a94c-f60bc30da018)
+**发布时间**: 2026-02-27 04:58
+
+#### [US warns it will axe all Anthropic agreements without Pentagon deal](https://www.ft.com/content/11d27612-d6c5-4cf7-94dd-f65603549b7f)
+**发布时间**: 2026-02-27 01:26
+
+#### [Paramount clinches Warner Bros deal after Netflix walks away](https://www.ft.com/content/fdb3478b-a124-403e-ab39-0d0b33493294)
+**发布时间**: 2026-02-27 00:08
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump allies David and Larry Ellison win battle for Warner Bros. Discovery after Netflix bows out](https://www.marketwatch.com/story/warner-bros-discovery-deems-paramounts-bid-superior-putting-netflix-in-the-hot-seat-a1fcea7c?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 04:08
+
+#### [Yes, consumers in China are consuming again. It’s just not their No. 1 priority these days.](https://www.marketwatch.com/story/yes-consumers-in-china-are-consuming-again-its-just-not-their-no-1-priority-these-days-598c2c02?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 02:00
+
+#### [Sweetgreen’s disappointing sales offer a reality check for restaurants, after Cava’s rally](https://www.marketwatch.com/story/sweetgreens-disappointing-sales-offer-a-reality-check-for-restaurants-after-cavas-rally-1c2fe3d9?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 01:33
+
+#### [Duolingo is making some changes to contend with the threat of AI. Its stock is sinking.](https://www.marketwatch.com/story/duolingo-is-making-some-changes-to-contend-with-the-threat-of-ai-its-stock-is-sinking-32e75bc6?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 01:33
+
+#### [CoreWeave’s stock drops as losses swell and interest expenses climb](https://www.marketwatch.com/story/coreweaves-stock-drops-as-losses-swell-and-interest-expenses-climb-9a09e137?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 01:30
+
+#### [This travel hack could save you hundreds on your summer vacation — just in time for the World Cup](https://www.marketwatch.com/story/swapping-homes-could-save-you-hundreds-of-dollars-on-your-summer-vacation-especially-if-you-live-in-a-world-cup-host-city-be455ea4?mod=mw_rss_topstories)
+**发布时间**: 2026-02-26 23:51
 
 ---
 
