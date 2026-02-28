@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-28 05:25
+**最后更新时间**: 2026-02-28 08:16
+
+---
+
+## 🆕 最新更新 (2026-02-28 08:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump calls for regime change in Iran as US and Israel launch ‘massive’ strikes](https://www.ft.com/content/2fb3447b-7ff7-4f9a-9068-05cfb4bf4138)
+**发布时间**: 2026-02-28 08:11
+
+#### [Impounded Russia-linked yachts lose €580mn in value](https://www.ft.com/content/22984f64-14e9-40c4-b77d-d6b122353314)
+**发布时间**: 2026-02-28 05:00
+
+#### [DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)
+**发布时间**: 2026-02-28 01:15
+
+#### [US and UK pull diplomats from Middle East](https://www.ft.com/content/001b06e5-16f8-4e1a-9771-98aee680752b)
+**发布时间**: 2026-02-27 21:54
+
+#### [Key areas of contention between Iran and the US](https://www.ft.com/content/8192fd4b-d610-4309-a9ee-35dc5d076743)
+**发布时间**: 2026-02-27 18:00
+
+#### [Defensive munition shortages to shape attack on Iran](https://www.ft.com/content/c2cfb9e5-9ef7-4448-a5a1-414c996d7093)
+**发布时间**: 2026-02-27 16:17
 
 ---
 
