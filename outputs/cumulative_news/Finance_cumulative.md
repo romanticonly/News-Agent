@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-27 23:14
+**最后更新时间**: 2026-02-28 05:25
+
+---
+
+## 🆕 最新更新 (2026-02-28 05:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Anthropic to sue Trump administration after AI lab is labelled security risk](https://www.ft.com/content/1aeff07f-6221-4577-b19c-887bb654c585)
+**发布时间**: 2026-02-28 03:12
+
+#### [US court blocks landmark law limiting social media use for children](https://www.ft.com/content/d8267b9e-109b-4e00-9e82-159a9f5b7cdd)
+**发布时间**: 2026-02-28 00:15
+
+#### [Condé Nast CEO says AI is a ‘death blow’ to Google search](https://www.ft.com/content/5a2a1f91-535c-422a-b5c8-6855b11043df)
+**发布时间**: 2026-02-27 16:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My brother is paranoid, alone and has forgotten that he sold his house. How can we help?](https://www.marketwatch.com/story/my-sister-and-i-are-his-only-family-my-brother-is-paranoid-and-forgot-he-sold-his-house-what-can-i-do-006a8d3a?mod=mw_rss_topstories)
+**发布时间**: 2026-02-28 00:00
+
+#### [Private-credit ‘cockroaches’ and the AI ‘scare trade’ hammered stocks in February. Here’s what else has investors shaken up.](https://www.marketwatch.com/story/private-credit-cockroaches-and-the-ai-scare-trade-hammered-stocks-in-february-heres-what-else-has-investors-shaken-up-98641651?mod=mw_rss_topstories)
+**发布时间**: 2026-02-27 23:30
 
 ---
 
