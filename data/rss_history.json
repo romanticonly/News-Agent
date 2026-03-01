@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c893927eab1baa0c47aef43b336aa96a81a55ad844319e55ed023e67fa0e8315": {
-        "title": "阿里隐藏7年的芯片王牌，终于浮出水面",
-        "link": "https://www.tmtpost.com/7861132.html",
-        "published_date": "Fri, 30 Jan 2026 11:05:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608724"
-      },
-      "fa02dd71653edd1530aa040112c8fffa7649551ec919d04cef238684a629f425": {
-        "title": "商汤开源Agentic VLM模型，让AI能自主“动脑动手”",
-        "link": "https://www.tmtpost.com/7861302.html",
-        "published_date": "Fri, 30 Jan 2026 12:28:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608730"
-      },
-      "ed91e02cef785039e9941a9cf9373b5182405b641fa57509fcfd96a7b152e475": {
-        "title": "如何破解大模型生产级部署「最后一公里难题」？",
-        "link": "https://www.infoq.cn/video/CDqEUTowOKzrfddKqqbK?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 12:00:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608733"
-      },
-      "69edce019e5ad88355b3d03aa7e41c35f7b705a8c558428cef564301ac5ccf21": {
-        "title": "2026中国商业航天：要么领跑，要么出局",
-        "link": "https://www.tmtpost.com/7861190.html",
-        "published_date": "Fri, 30 Jan 2026 11:26:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608735"
-      },
-      "696c580bef5b5d4144bbd1f12f45f408ccd54f5fc56fba0107571dae2f6ad061": {
-        "title": "谷歌通用商务协议（UCP）赋能智能代理购物",
-        "link": "https://www.infoq.cn/article/48dPcqMKE6lcxtp9OLH6?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 10:58:00 GMT",
-        "first_seen": "2026-01-30T05:55:29.608737"
-      },
       "805fb25ef9861fb9828db6813b98b6f4a92ffbe9c0755d752cef305cf136bfd7": {
         "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
         "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
@@ -6919,39 +6889,21 @@
         "link": "https://www.tmtpost.com/7894590.html",
         "published_date": "Sun, 01 Mar 2026 09:01:00 GMT",
         "first_seen": "2026-03-01T05:43:30.820745"
+      },
+      "49a1d45dfce7af9ec3b4573865167917fb46bd1664b9ae884bd935891db43016": {
+        "title": "全年增速1.5%！医药流通存量博弈周期，头部阵营有何不败密码？",
+        "link": "https://www.tmtpost.com/7894523.html",
+        "published_date": "Sun, 01 Mar 2026 08:58:00 GMT",
+        "first_seen": "2026-03-01T08:17:32.932808"
+      },
+      "cecf1962b397fb90e57fd0bb1adb320be517f482f7c4cded9256041cd0df4f84": {
+        "title": "否认破产重组传闻，昔日行业“鼻祖”魅族艰难转型",
+        "link": "https://www.tmtpost.com/7894515.html",
+        "published_date": "Sun, 01 Mar 2026 08:52:00 GMT",
+        "first_seen": "2026-03-01T08:17:32.932819"
       }
     },
     "Finance": {
-      "0d9086567c5f567d03b5ce07c9977562d10ff46a2448533d13b53f3c4e6c1b0f": {
-        "title": "Trump says he’ll announce his Fed pick Friday morning. Here’s who’s in the lead, according to prediction markets.",
-        "link": "https://www.marketwatch.com/story/trump-says-hell-announce-his-fed-pick-next-week-heres-whos-in-the-lead-according-to-prediction-markets-ba80c732?mod=mw_rss_topstories",
-        "published_date": "Fri, 30 Jan 2026 02:03:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751312"
-      },
-      "b47dfe6018ca222876f17bb38f911cd1dce22971365bc395edcd8389a289bdad": {
-        "title": "US shutdown avoided despite stand-off over immigration enforcement",
-        "link": "https://www.ft.com/content/4b9a6a44-a1f4-43c8-8ef2-05acb64fb3a9",
-        "published_date": "Fri, 30 Jan 2026 00:44:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751322"
-      },
-      "9a4433544153e5c0c117afa26ff4e9be25cffac773052c4e2d901a6fa78760ef": {
-        "title": "Emerging markets make roaring start to 2026 as dollar slides",
-        "link": "https://www.ft.com/content/bba310b2-af62-4460-83ed-63cfcc110f1f",
-        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751325"
-      },
-      "936d7bb3f91f4c16f067ff27fbb9e70fb318af59da5eddb0bf6bc90aa24ad3bc": {
-        "title": "OpenAI reportedly eyeing an IPO by year’s end, ahead of Anthropic",
-        "link": "https://www.marketwatch.com/story/openai-reportedly-eyeing-an-ipo-by-years-end-ahead-of-anthropic-7feb3766?mod=mw_rss_topstories",
-        "published_date": "Fri, 30 Jan 2026 00:30:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751327"
-      },
-      "aa0b37969a5df32f239ad7b4ae362032247c9b94c80d0908c3ccc5521b156f54": {
-        "title": "Hedge funds’ correlation with stocks sparks fears over lack of crash protection",
-        "link": "https://www.ft.com/content/8c1d9cfe-1d8f-45d5-9ab1-57fb203a170c",
-        "published_date": "Fri, 30 Jan 2026 05:00:00 GMT",
-        "first_seen": "2026-01-30T05:54:58.751328"
-      },
       "9ea38c461505df761531e8b9f13ab1e1a5fcddff8a1706ce87f3f3fe768a0d8e": {
         "title": "Trump nominates Kevin Warsh as Federal Reserve chair",
         "link": "https://www.ft.com/content/a08f1b78-4816-4ff1-819c-e67e59c8d767",
@@ -11238,36 +11190,6 @@
       }
     },
     "Ai": {
-      "53c59785e7008fde55b28e8a62724cece23b125475c7172c0dfefc2017620553": {
-        "title": "LLM-in-Sandbox：给大模型一台电脑，激发通用智能体能力",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30-3",
-        "published_date": "Fri, 30 Jan 2026 13:00:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918438"
-      },
-      "f9897890d10b0a5974a2c8a2e97e3082ebf5067240b70326a48e04d3b632bb61": {
-        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30",
-        "published_date": "Fri, 30 Jan 2026 10:44:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918444"
-      },
-      "7814a4c394250b4081765b0c1d37330934820e9529236bb91201cff2ac614524": {
-        "title": "千问语音识别模型Qwen3-ASR开源！饶舌RAP歌曲也能轻松识别",
-        "link": "https://www.qbitai.com/2026/01/374421.html",
-        "published_date": "Fri, 30 Jan 2026 02:48:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918446"
-      },
-      "2472e42a023f51175a8cfa905518e35e23b285dde994a934a15cf8f1a914fb04": {
-        "title": "硅谷2026开年重磅：全球顶尖科学家与产业领袖巅峰对话，预演AI+科学未来十年",
-        "link": "https://www.qbitai.com/2026/01/374431.html",
-        "published_date": "Fri, 30 Jan 2026 05:15:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918448"
-      },
-      "addf610f806adac855ff1c318d46d1c2fa58578077361c6ead21b0c866ed90f3": {
-        "title": "SAIR年度峰会即将开幕，陶哲轩等顶尖科学家共议AI如何重塑科研未来",
-        "link": "https://www.qbitai.com/2026/01/374426.html",
-        "published_date": "Fri, 30 Jan 2026 05:10:00 GMT",
-        "first_seen": "2026-01-30T05:55:11.918450"
-      },
       "0c0251171b75ee56c0b24f9689f210346d5869463fe91bb9de7025139b3f5533": {
         "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
         "link": "https://www.qbitai.com/2026/01/374459.html",
@@ -13444,7 +13366,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-01T05:43:30.820747",
+    "Technology": "2026-03-01T08:17:32.932823",
     "Finance": "2026-03-01T05:43:30.857813",
     "Ai": "2026-03-01T05:43:30.994688"
   }
