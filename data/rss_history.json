@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "805fb25ef9861fb9828db6813b98b6f4a92ffbe9c0755d752cef305cf136bfd7": {
-        "title": "苹果 Siri 压力大了？Google 甩出 FunctionGemma 杀手锏，手机本地也能流畅调 API",
-        "link": "https://www.infoq.cn/article/QRiKGWvWxwUh7wAwODjK?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 16:00:00 GMT",
-        "first_seen": "2026-01-30T08:43:12.870977"
-      },
-      "78890b7984fccdaa00e8476f9bea7ad1d96ea535f4cb0b47525ddfb9a38a9b1d": {
-        "title": "就差两个字符！亚马逊云科技自家 GitHub 仓库险被攻破，供应链安全亮红灯",
-        "link": "https://www.infoq.cn/article/Uo24zvaQqEsDyK752BYQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 14:00:00 GMT",
-        "first_seen": "2026-01-30T08:43:12.870984"
-      },
-      "a25776f3e62139b74228d0864225e09618b5b52bc5b57ca8f8a39ace2406ab45": {
-        "title": "OCR竞争加剧！百度开源新一代SOTA OCR模型，性能超越DeepSeek-OCR2？",
-        "link": "https://www.infoq.cn/article/US8DFAjTKWuEUkRBEFSj?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 16:34:00 GMT",
-        "first_seen": "2026-01-30T08:43:12.870986"
-      },
-      "a701a87481317b51b555a2c2a315255d0d64285d4a86bc92ffb9eee7999a3cda": {
-        "title": "商汤开源SenseNova-MARS，突破多模态搜索推理天花板",
-        "link": "https://www.infoq.cn/article/3x5oE24DW1X5eFYeMGTE?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 16:08:00 GMT",
-        "first_seen": "2026-01-30T08:43:12.870988"
-      },
-      "f5279f33fa1be8821dc6aa824efcdff8c440f75abe306174d7efa7cb6e09d118": {
-        "title": "Rust 重写代码格式化器，Oxfmt 宣称比 Prettier 快 30 倍，前端工具链要“统一口径”了？",
-        "link": "https://www.infoq.cn/article/sDC0oXfPeGcqk1CokzsU?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 30 Jan 2026 10:00:00 GMT",
-        "first_seen": "2026-01-30T08:43:12.870989"
-      },
       "278bd79f7669fffb8e575b63865ccb71c131306ed03c2e303cc634cca0cfc259": {
         "title": "劈柴哥和哈萨比斯亲自站台！谷歌世界模型Project Genie刷屏，幕后团队揭秘60秒不是极限，内存是巨大约束",
         "link": "https://www.infoq.cn/article/NC3jkcH9qgVjb8Q36sl2?utm_source=rss&utm_medium=article",
@@ -6901,6 +6871,66 @@
         "link": "https://www.tmtpost.com/7894515.html",
         "published_date": "Sun, 01 Mar 2026 08:52:00 GMT",
         "first_seen": "2026-03-01T08:17:32.932819"
+      },
+      "10bff9d6e414a5fe8d241ef6e2090e49115b5325fe988bf9bbda9c3c56467e00": {
+        "title": "安徽上市公司ESG-V评级：“双峰并峙”格局显现，绿色制造登顶，传统重化站上分水岭｜上市公司观察",
+        "link": "https://www.tmtpost.com/7895308.html",
+        "published_date": "Mon, 02 Mar 2026 01:52:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252693"
+      },
+      "83c93faf68950edb15368cc1b95346c72a373e5beeaa36df61033b22d8c649e8": {
+        "title": "价值判断：涨停板的投资机会和风险提示（2月27日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7895303.html",
+        "published_date": "Mon, 02 Mar 2026 01:52:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252703"
+      },
+      "f8b4cf31cc1f3982f241fe0b37231f2f87d6501288df273097e3a570037ad887": {
+        "title": "美国打伊朗，比特币为何暴跌？",
+        "link": "https://www.tmtpost.com/7894977.html",
+        "published_date": "Sun, 01 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252707"
+      },
+      "f501643b3f49af8457c5a15ed5fef5840a8e44b74aacb3f64b8a19c2e04069dd": {
+        "title": "张一鸣联手蒋凡，王兴能抗住吗？",
+        "link": "https://www.tmtpost.com/7895120.html",
+        "published_date": "Sun, 01 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252709"
+      },
+      "408bd07b55fc73e939e19bdd1d037512f015d0550ba5ef35481ec56f676b9db5": {
+        "title": "亚马逊终结沃尔玛全球营收霸主地位，世界要变天了吗？",
+        "link": "https://www.tmtpost.com/7895043.html",
+        "published_date": "Sun, 01 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252710"
+      },
+      "ed117fe76c296e7cbec49474c9fcfd416bc369fe652ac32c73f368b9ee7e02c9": {
+        "title": "综艺招商的“头部通吃”正在杀死创新",
+        "link": "https://www.tmtpost.com/7895049.html",
+        "published_date": "Sun, 01 Mar 2026 20:16:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252712"
+      },
+      "0eef4ae08dedc5d5bf2e6b37d0db4153cb712642712295b0d3b15ca1cb50558f": {
+        "title": "为了1100亿，OpenAI把理想做成了生意",
+        "link": "https://www.tmtpost.com/7895012.html",
+        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252713"
+      },
+      "b69370bb6cd6bf7167818e7d7018d353ad270cb23a149630c27d7ef6cde9f3f8": {
+        "title": "业绩两连降，爱奇艺能否靠AI闯出一条新路？",
+        "link": "https://www.tmtpost.com/7895061.html",
+        "published_date": "Sun, 01 Mar 2026 20:10:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252714"
+      },
+      "a177665905e11b957be3741af886e76b4daf8292768ab1a75d1a54c96213dec7": {
+        "title": "一日一技｜用频谱分析找出「假无损」音乐",
+        "link": "https://sspai.com/post/106454",
+        "published_date": "Sun, 01 Mar 2026 15:54:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252716"
+      },
+      "9876810c1569e1254ff1cb42dce7ee777fd68ef7ab3330c852689c9411e93560": {
+        "title": "盘点 4 个让 AI Agent 变强的 Skills。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531723&idx=1&sn=b6e3ea8752e949cebac7de93692bbb4f",
+        "published_date": "Sun, 01 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.252717"
       }
     },
     "Finance": {
@@ -11187,39 +11217,87 @@
         "link": "https://www.ft.com/content/e85a07da-9a74-4942-ae22-3945773aeb82",
         "published_date": "Sat, 28 Feb 2026 23:50:00 GMT",
         "first_seen": "2026-03-01T05:43:30.857810"
+      },
+      "2db55d4b25319dd2dcf92933bfcbcd2c1a3c6b12f9fbfa793b8193ff95328cc9": {
+        "title": "Oil soars 13% as Trump vows to continue striking Iran",
+        "link": "https://www.ft.com/content/91cae073-71db-46ea-a950-62b17faf1882",
+        "published_date": "Sun, 01 Mar 2026 23:05:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329756"
+      },
+      "8b4bd0006fe17bddce16bc804e88059032f95c82f053d13c14727f681382dee8": {
+        "title": "UK to allow US to use British military bases for attacks on Iranian missile sites",
+        "link": "https://www.ft.com/content/b988499b-1a89-4e56-b0cf-19d5a8ac7111",
+        "published_date": "Sun, 01 Mar 2026 22:57:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329765"
+      },
+      "3e5edc1187dab4cba5912a27b343a39fa5e15743214c7e9aee2012d1a7a9d6b0": {
+        "title": "Inside Tehran: an eerie quiet is punctuated by explosions and people fleeing",
+        "link": "https://www.ft.com/content/c093bdf4-10e0-4e67-9cce-2409b9f9ff15",
+        "published_date": "Sun, 01 Mar 2026 18:10:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329767"
+      },
+      "a703c8e0e798b9477002bd5dd554f0922f8ad76d5ba0c68517014c28fec10d62": {
+        "title": "Air travel heavily disrupted following Iranian strikes",
+        "link": "https://www.ft.com/content/5fcfaf76-54e6-41f1-860b-0ca6c6380395",
+        "published_date": "Sun, 01 Mar 2026 17:02:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329769"
+      },
+      "d32f8ba03fca261cf56f9f771fd41c89c96f7f288f5993e60bfbccd33414696e": {
+        "title": "Military briefing: Iran’s new retaliation strategy",
+        "link": "https://www.ft.com/content/f2eae858-a5a4-4c49-9526-e1757a2d55e2",
+        "published_date": "Sun, 01 Mar 2026 16:41:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329771"
+      },
+      "86ef2867d2cdeb531eda9793dca2a829792c00e462a683f4fac3027015f58ef1": {
+        "title": "After Khamenei, who rules Iran?",
+        "link": "https://www.ft.com/content/6fe57836-7392-471f-875d-293c7f2db7d4",
+        "published_date": "Sun, 01 Mar 2026 16:30:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329772"
+      },
+      "372c5e5f87eabaa9b8f0ca9a67a5d400d7be5942bf592566db927b1eb9b89a33": {
+        "title": "What will war in Iran do to the global economy?",
+        "link": "https://www.ft.com/content/31bfc01b-42a8-45f1-85d3-8f973595a456",
+        "published_date": "Sun, 01 Mar 2026 12:50:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329774"
+      },
+      "4b7a205e24c8c2cd7549aa93d00a5e946008057a9af50628059a5aa5b815d09e": {
+        "title": "Trump has no realistic plan for Iran’s future",
+        "link": "https://www.ft.com/content/437130e7-ed4e-4919-8bf3-ac38c2eed6af",
+        "published_date": "Sun, 01 Mar 2026 12:45:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329775"
+      },
+      "e8c9ab0212e2a0278f7f30f73b6dc452ed10b8c1b6bcf24573343e27244d2eea": {
+        "title": "Allegations of insider trading emerge over prediction-market bets tied to Iran conflict",
+        "link": "https://www.marketwatch.com/story/prediction-market-bets-tied-to-iran-conflict-stoke-backlash-over-suspicions-of-insider-trading-66ddfe87?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 20:51:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329777"
+      },
+      "2011fbe7888375e6a695ea110ce0c3fe122f53842efc006c7ee5192e357ed7c6": {
+        "title": "Here’s where traders expect crude-oil prices to open after this weekend’s attack on Iran",
+        "link": "https://www.marketwatch.com/story/heres-where-traders-expect-crude-oil-prices-to-open-after-this-weekends-attack-on-iran-d5dc2ee4?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 19:17:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329778"
+      },
+      "3bce0a1cadd0ffaa55ebc3623dae598532d3ed5c0ad3cb76b13c1311d57794b7": {
+        "title": "U.S. strikes on Iran will likely boost defense stocks. Here’s what will keep the cash flowing even after the conflict ends.",
+        "link": "https://www.marketwatch.com/story/iran-strikes-will-likely-boost-defense-stocks-but-heres-what-will-keep-the-cash-flowing-long-after-the-conflict-ends-2fa929cf?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 18:40:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329780"
+      },
+      "cff6dd6cc3f05251df7883744f01e0d1a9f46bb3993bc49f8ff9ce399c0a5d41": {
+        "title": "The whole world is watching this critical energy chokepoint as Iran conflict enters more dangerous phase",
+        "link": "https://www.marketwatch.com/story/the-whole-world-is-watching-this-critical-energy-chokepoint-as-iran-conflict-enters-more-dangerous-phase-ea308cc4?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 18:18:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329782"
+      },
+      "438280032e3df1cd9ae371afbfd448ddbf4edecc6b4407a97f3f7e2c920140e7": {
+        "title": "Stocks face Iran jitters and a crucial jobs report in the week ahead",
+        "link": "https://www.marketwatch.com/story/stocks-face-iran-jitters-and-a-crucial-jobs-report-in-the-week-ahead-as-ai-layoffs-loom-large-5da09c93?mod=mw_rss_topstories",
+        "published_date": "Sun, 01 Mar 2026 17:00:00 GMT",
+        "first_seen": "2026-03-01T23:15:00.329784"
       }
     },
     "Ai": {
-      "0c0251171b75ee56c0b24f9689f210346d5869463fe91bb9de7025139b3f5533": {
-        "title": "让世界模型直接控制机器人动作，蚂蚁灵波开源具身世界模型LingBot-VA",
-        "link": "https://www.qbitai.com/2026/01/374459.html",
-        "published_date": "Fri, 30 Jan 2026 06:24:00 GMT",
-        "first_seen": "2026-01-30T08:42:50.056915"
-      },
-      "ffac5fc007b2f4e646ce4631eb2795ef5bc40e95eb832ac5dcef4bfc19b03b76": {
-        "title": "性能超越DeepSeek-OCR2，百度发布并开源新一代SOTA OCR模型",
-        "link": "https://www.qbitai.com/2026/01/374455.html",
-        "published_date": "Fri, 30 Jan 2026 06:10:00 GMT",
-        "first_seen": "2026-01-30T08:42:50.056923"
-      },
-      "19661b4c30315453ae1fa4a7238d14f61b6a9b19199da6c8ca065a02485b22c7": {
-        "title": "腾讯混元再引强将，庞天宇即将入职多模态模型团队负责强化学习前沿算法探索",
-        "link": "https://www.qbitai.com/2026/01/374467.html",
-        "published_date": "Fri, 30 Jan 2026 06:33:00 GMT",
-        "first_seen": "2026-01-30T08:42:50.056926"
-      },
-      "9f3ba971082095526aee6c2f7b85a60e9d3e82b25b5f96b61c8f2ef946efad86": {
-        "title": "姚顺雨现场颁奖，吉嘉铭、董冠霆等15位青年人才获腾讯「青云奖学金」",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30-4",
-        "published_date": "Fri, 30 Jan 2026 13:05:00 GMT",
-        "first_seen": "2026-01-30T08:42:50.056928"
-      },
-      "ca26e020fd94e4977cefd304df95ed3218ec0b9dcadfb6ea4c487fb4b6007799": {
-        "title": "Clawdbot接入10000+数据和工具后，7×24小时监听股票，杀疯了！",
-        "link": "https://www.jiqizhixin.com/articles/2026-01-30-2",
-        "published_date": "Fri, 30 Jan 2026 11:44:00 GMT",
-        "first_seen": "2026-01-30T08:42:50.056930"
-      },
       "0d2612d0d41599c9f221af2ecd15ee318ff064a99ba2190e444ee132bdea4ef6": {
         "title": "Waymo遭遇鬼探头，Robotaxi在校门口把儿童给撞了",
         "link": "https://www.qbitai.com/2026/01/374506.html",
@@ -13366,8 +13444,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-01T08:17:32.932823",
-    "Finance": "2026-03-01T05:43:30.857813",
+    "Technology": "2026-03-01T23:15:00.252720",
+    "Finance": "2026-03-01T23:15:00.329786",
     "Ai": "2026-03-01T05:43:30.994688"
   }
 }
