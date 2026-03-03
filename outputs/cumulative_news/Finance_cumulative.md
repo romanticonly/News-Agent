@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-02 23:14
+**最后更新时间**: 2026-03-03 05:41
+
+---
+
+## 🆕 最新更新 (2026-03-03 05:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Facing backlash, OpenAI’s Sam Altman says he made a ‘sloppy’ mistake in Pentagon deal](https://www.marketwatch.com/story/facing-backlash-openais-sam-altman-says-he-made-a-sloppy-mistake-in-pentagon-deal-cf8f3ad9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 04:28
+
+#### [MongoDB’s stock sinks after earnings, signaling more tough times for the software sector](https://www.marketwatch.com/story/mongodbs-stock-sinks-after-earnings-signaling-more-tough-times-for-the-software-sector-5dd37daa?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 02:23
+
+#### [SoFi’s stock rises as CEO Anthony Noto reacts to recent selloff with a $1 million purchase](https://www.marketwatch.com/story/sofis-stock-rises-as-ceo-anthony-noto-reacts-to-recent-selloff-with-a-1-million-purchase-d03ba5b6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 01:28
+
+#### [‘I don’t earn enough to support us and our baby’: My unemployed husband lost $22,000 trading sports cards. What now?](https://www.marketwatch.com/story/i-dont-earn-enough-to-support-us-and-our-baby-my-husband-is-unemployed-and-lost-22-000-trading-sports-cards-what-now-200c1438?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 00:00
+
+#### [EchoStar’s business deemed ‘irrelevant’ as investors focus on future SpaceX stake](https://www.marketwatch.com/story/echostars-business-deemed-irrelevant-as-investors-focus-on-future-spacex-stake-5a89c0c7?mod=mw_rss_topstories)
+**发布时间**: 2026-03-02 23:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI makes changes to ‘opportunistic and sloppy’ Pentagon deal](https://www.ft.com/content/653fabd7-03da-467a-b2bf-03f226fe2a29)
+**发布时间**: 2026-03-03 03:46
+
+#### [Trump struggles to explain why he launched another Middle Eastern war](https://www.ft.com/content/fd31c6ad-39f0-4fae-851c-fadf44f006eb)
+**发布时间**: 2026-03-03 02:14
+
+#### [Israel and Hizbollah exchange fire as Middle East war expands](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 02:12
+
+#### [US LNG producers rush to seize on surging gas prices triggered by Iran conflict](https://www.ft.com/content/fb837a9d-6334-43da-a58d-cb9830dc68fe)
+**发布时间**: 2026-03-03 00:06
+
+#### [Stronger UK public finances can withstand Iran war shock, Reeves to say](https://www.ft.com/content/0f8b7d9f-eb13-41d3-890d-49a6bbcf3594)
+**发布时间**: 2026-03-03 00:01
+
+#### [Iran executes Khamenei’s plan to spread regional war](https://www.ft.com/content/02eb660a-3c80-4d6b-9e58-e7411278b0f1)
+**发布时间**: 2026-03-03 00:00
+
+#### [Blackstone flagship private credit fund hit with redemptions](https://www.ft.com/content/7dadc5b5-d5d2-40d6-9ee0-abcb03e0a598)
+**发布时间**: 2026-03-02 23:49
 
 ---
 
