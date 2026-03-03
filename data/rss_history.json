@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8160c739e0d174fd25347dec1db7d4d5efaaf9501c2e3f4e2f488ac1c9b82012": {
-        "title": "【数智周报】马化腾评豆包手机；OpenAI计划四季度上市，已聘请新高管筹备IPO；开源项目Clawdbot爆火，开发者爆料开发内幕；",
-        "link": "https://www.tmtpost.com/7862957.html",
-        "published_date": "Sun, 01 Feb 2026 10:08:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347386"
-      },
-      "4e758c3098d0ad8bf580c3ca0c7e3579c92bc5f7be286b929c2d086ff180e5bc": {
-        "title": "Anthropic掌门人Amodei长文预警：AI竞争愈加激烈，难以重视自主性风险",
-        "link": "https://www.tmtpost.com/7862935.html",
-        "published_date": "Sun, 01 Feb 2026 09:04:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347392"
-      },
-      "ce133bf7966fd6a503f1edd324dfa0d1fa793071629084787ca9e4b4e176f2fd": {
-        "title": "150万AI Agents在Moltbook“发疯”，人，慌不？",
-        "link": "https://www.tmtpost.com/7863132.html",
-        "published_date": "Sun, 01 Feb 2026 10:53:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347394"
-      },
-      "08f985ce4940720306f871d3e12440ac82058911a69b85b0c90fdf7aba440d3e": {
-        "title": "黄仁勋反悔，不投千亿美元给OpenAI了？",
-        "link": "https://www.tmtpost.com/7862944.html",
-        "published_date": "Sun, 01 Feb 2026 09:12:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347396"
-      },
-      "c36e38a6f26cce0ce68a60e584c3c92b2f3705b09a23ad029936d91e83cb0727": {
-        "title": "CoreWeave首席执行官解析：这家科技公司为何与众不同",
-        "link": "https://www.tmtpost.com/7863229.html",
-        "published_date": "Sun, 01 Feb 2026 11:48:00 GMT",
-        "first_seen": "2026-02-01T06:03:06.347398"
-      },
       "c22a8053443eb9c460bc0fafe65858bc32e51e1ae2ceeac7e6bfc1d760d47bba": {
         "title": "世界第一！中国机床，雪耻了",
         "link": "https://www.tmtpost.com/7863255.html",
@@ -7357,39 +7327,135 @@
         "link": "https://sspai.com/post/106766",
         "published_date": "Tue, 03 Mar 2026 08:00:00 GMT",
         "first_seen": "2026-03-03T05:41:48.321342"
+      },
+      "59cd02943e89affbdf575377478943e04a740740a05d9e88c1d654b6f947a444": {
+        "title": "冲刺港交所，“饺子第一股”能否抓住港股对内地餐饮企业的“窗口期”",
+        "link": "https://www.tmtpost.com/7897861.html",
+        "published_date": "Tue, 03 Mar 2026 15:32:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033068"
+      },
+      "48de69fb65aed3638ff7836a2ae2f09f80c69128401f11affdae98dfe1363b69": {
+        "title": "内容行业最「焦虑」的一个春节",
+        "link": "https://www.tmtpost.com/7897764.html",
+        "published_date": "Tue, 03 Mar 2026 15:14:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033080"
+      },
+      "a73024f78f25de8cfc601d03a7e77cfc1c88819fce1ff9c76f4e4d49cdcdc9fc": {
+        "title": "瑞幸赚的钱，被外卖吃掉了",
+        "link": "https://www.tmtpost.com/7897734.html",
+        "published_date": "Tue, 03 Mar 2026 15:14:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033083"
+      },
+      "95f625843eb2e279a60d6f7dd3e75a716359c8fb03c4aa0a643fbddb999ece2b": {
+        "title": "MiniMax的后市潜力与突围",
+        "link": "https://www.tmtpost.com/7897631.html",
+        "published_date": "Tue, 03 Mar 2026 15:13:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033085"
+      },
+      "7a08c977063a52d0cfcb5be3bde75dcaf535c002932c56b5e3abc0342bbc888c": {
+        "title": "一切为了IP",
+        "link": "https://www.tmtpost.com/7897630.html",
+        "published_date": "Tue, 03 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033087"
+      },
+      "17c1b147265d669e8634f3cc99b678292a01b092761accc02719d1c61b568d44": {
+        "title": "AI于战争中拯救千亿货轮",
+        "link": "https://www.tmtpost.com/7897458.html",
+        "published_date": "Tue, 03 Mar 2026 15:09:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033089"
+      },
+      "f9902223bb09c751a730fb4358cbc37e6b90a7663e11e5c77a8c4382e31b907d": {
+        "title": "拿下AI制药史上最大IPO，这家公司将挑战阿斯利康等巨头",
+        "link": "https://www.tmtpost.com/7897592.html",
+        "published_date": "Tue, 03 Mar 2026 15:03:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033091"
+      },
+      "2a5c3dee4eeb1a1ac9e18a6f80f58a29ea26b811c2d21cef45656e2ff3b7e5f9": {
+        "title": "小云雀会成为字节的Higgsfield吗",
+        "link": "https://www.tmtpost.com/7897586.html",
+        "published_date": "Tue, 03 Mar 2026 15:01:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033093"
+      },
+      "84507213a98711544c8a8df325d781a8e06acf9e5523120702984406de347764": {
+        "title": "德黑兰的爆炸声，给所有老板上了堂残酷的组织课",
+        "link": "https://www.tmtpost.com/7897345.html",
+        "published_date": "Tue, 03 Mar 2026 15:01:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033095"
+      },
+      "51a5d6e9b3053dbbf36d602f6b4c2462f3e691bfc957f8ab73805fee6c6305db": {
+        "title": "三万家门店后，瑞幸开始面对真正的竞争",
+        "link": "https://www.tmtpost.com/7897584.html",
+        "published_date": "Tue, 03 Mar 2026 14:57:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033096"
+      },
+      "d2aedc4edce390c40acd3122e1a1c680704226af8d9dd02c4c7b89ff2c3cc768": {
+        "title": "别只盯着IPO，2026跨国械企并购清单曝光，谁是下一块拼图？",
+        "link": "https://www.tmtpost.com/7897569.html",
+        "published_date": "Tue, 03 Mar 2026 14:57:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033098"
+      },
+      "046a213b94c7b688692b3ff8148b9ece61ea79252f5ec67746ffe41876ec60a1": {
+        "title": "3亿人在玩的小游戏，被腾讯投了",
+        "link": "https://www.tmtpost.com/7897442.html",
+        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033100"
+      },
+      "01f7be736819db687e8c62a6db1d29a29fd0d2801823491de6fa59b52ce48682": {
+        "title": "人形机器人卖不动，只能靠租？",
+        "link": "https://www.tmtpost.com/7896333.html",
+        "published_date": "Tue, 03 Mar 2026 14:55:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033101"
+      },
+      "a60d6486331fd58a6df04ce57faa3be2e986e351a7c4721408be6d27cdf8c15b": {
+        "title": "2025Q4调味品市场回顾",
+        "link": "https://www.tmtpost.com/7897368.html",
+        "published_date": "Tue, 03 Mar 2026 14:47:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033103"
+      },
+      "cfb3285007ace1c9898e1585e32cd347e0cf7918db72915f64fa3259bbe11318": {
+        "title": "老外集体“精中”：文化回流背后的出海新逻辑",
+        "link": "https://www.tmtpost.com/7897273.html",
+        "published_date": "Tue, 03 Mar 2026 14:46:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033104"
+      },
+      "98594bb5eb277f9c26c983a2e2d75ae2d1b8c38459bc0d75764bc9f4adaf6d54": {
+        "title": "82亿买下的不只是一家英国铜业巨头，或许还有AI时代的入场券",
+        "link": "https://www.tmtpost.com/7897428.html",
+        "published_date": "Tue, 03 Mar 2026 14:45:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033106"
+      },
+      "9e9ec802e11ff201d47d58b24da62c4a1094cc2a7f237fd021841988a60c4688": {
+        "title": "光伏巨头储能账面利润近百亿，但赚到钱的为什么是派能、固德威和海博思创？",
+        "link": "https://www.tmtpost.com/7897531.html",
+        "published_date": "Tue, 03 Mar 2026 14:41:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033107"
+      },
+      "96406de879c4308908459a6a853b2bf11d0f9f54cee634e45924ea0fa97e73ba": {
+        "title": "红包一停，增长归零？春节AI大战的真相与隐忧",
+        "link": "https://www.tmtpost.com/7897284.html",
+        "published_date": "Tue, 03 Mar 2026 14:38:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033109"
+      },
+      "2219ced896cae6efb8d315f0e7f3733cb85572bc7b8c8fe53abcb1e34cc28790": {
+        "title": "MiniMax首份财报：海外狂飙，盈利未至",
+        "link": "https://www.tmtpost.com/7897421.html",
+        "published_date": "Tue, 03 Mar 2026 14:38:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033111"
+      },
+      "dfd23f095ae9c16d8ea4f1143a77c9d925c8bd510c40303ddaff06b83320991f": {
+        "title": "OpenClaw 之父多次点名！MiniMax M2.5 发布，国产 Agent 进入真干活时代。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531831&idx=1&sn=a6e1e5211f8455fe1d91e1361abf4c9c",
+        "published_date": "Tue, 03 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033112"
+      },
+      "84fa0c13ba0eba69003ba8cf75b49cffa73ee9390a2a098021ba11530b4a613f": {
+        "title": "失忆是怎么一回事：谈谈经典影视里失忆套路的真实一面",
+        "link": "https://sspai.com/post/106372",
+        "published_date": "Tue, 03 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.033114"
       }
     },
     "Finance": {
-      "fdae851f444f36847e0556934298d6ba546923ff17263a6d4e555b866d4494ee": {
-        "title": "Warsh pick doesn’t end talk that Powell could stay on to defend the Fed’s independence",
-        "link": "https://www.marketwatch.com/story/warsh-pick-doesnt-end-talk-that-powell-may-stay-on-to-protect-feds-independence-26e9175b?mod=mw_rss_topstories",
-        "published_date": "Sat, 31 Jan 2026 23:34:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735869"
-      },
-      "e00406318e06d2169771856f59d41678212841184af4874bf1ea3b3b19295c5f": {
-        "title": "Jeffrey Epstein sent Peter Mandelson $75,000, documents show",
-        "link": "https://www.ft.com/content/17288a86-bbcc-4428-a081-902d0cb86f65",
-        "published_date": "Sat, 31 Jan 2026 23:28:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735881"
-      },
-      "c6e2915c001b10b74aecfc44aecfbbdcb813d75dc261f9ad9dea5baa395dc36a": {
-        "title": "Russia struggles to shake reliance on foreign technology imports",
-        "link": "https://www.ft.com/content/80cd2d5a-9aa4-40a4-b0fc-a2d1080622f7",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735884"
-      },
-      "e37c261f3b4448904f63d10145c1a459da2bb5c544de0bb149325334d99697f9": {
-        "title": "Who wants to live forever?",
-        "link": "https://www.ft.com/content/a92cd27a-8b47-4c1f-8457-205da9edf2d9",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735886"
-      },
-      "0d89997a10bad3da7af1b2bf17e78dd1e17d674b6e5e23da3a84484cbb607e01": {
-        "title": "Chechen warlords’ health crises threaten Putin’s plan for the region",
-        "link": "https://www.ft.com/content/e746e47b-16d6-4f06-91c0-72355216088d",
-        "published_date": "Sun, 01 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.735888"
-      },
       "ec7c76d8a600a8a1c2d731f94f19cb45c0b2e789fb7ebfa1a39d9cf191599569": {
         "title": "Xi calls for China’s renminbi to attain global reserve currency status",
         "link": "https://www.ft.com/content/c948b978-c22b-44b7-ba3d-4798e641e673",
@@ -11856,12 +11922,6 @@
       }
     },
     "Ai": {
-      "a26681980d26fd9c018a88ac95ed56671a5a4ce481665eb4a072c8416f6c274f": {
-        "title": "2026-02-01日刊",
-        "link": "https://ai.hubtoday.app//2026-02/2026-02-01/",
-        "published_date": "Sun, 01 Feb 2026 07:16:00 GMT",
-        "first_seen": "2026-02-01T06:02:52.893484"
-      },
       "a1279c4e4336d0de99371237727f064d7983a05515529513fb61fe4d9f73532b": {
         "title": "2026-02-02日刊",
         "link": "https://ai.hubtoday.app//2026-02/2026-02-02/",
@@ -14003,13 +14063,25 @@
         "link": "https://www.qbitai.com/2026/03/383277.html",
         "published_date": "Tue, 03 Mar 2026 02:55:00 GMT",
         "first_seen": "2026-03-03T05:41:48.558137"
+      },
+      "a39878728fc8922d8a68c33641d9220390bb28604ad5d1b307e97baabf82b626": {
+        "title": "钉钉首创智能表格“透视表视图”，AI表格Agent接入钉钉群",
+        "link": "https://www.qbitai.com/2026/03/383349.html",
+        "published_date": "Tue, 03 Mar 2026 06:42:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.207263"
+      },
+      "eed41176c0d916a22425e8eae268f0b3b6fae21bfd43da1fa7419c3404050c57": {
+        "title": "英伟达放弃GPU上LPU：新推理芯片被曝Groq即买即用，OpenAI第一个吃螃蟹",
+        "link": "https://www.qbitai.com/2026/03/383329.html",
+        "published_date": "Tue, 03 Mar 2026 06:37:00 GMT",
+        "first_seen": "2026-03-03T08:31:32.207270"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-03T05:41:48.321345",
+    "Technology": "2026-03-03T08:31:32.033116",
     "Finance": "2026-03-03T05:41:48.398187",
-    "Ai": "2026-03-03T05:41:48.558139"
+    "Ai": "2026-03-03T08:31:32.207274"
   }
 }

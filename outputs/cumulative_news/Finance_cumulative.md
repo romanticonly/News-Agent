@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 05:41
+**最后更新时间**: 2026-03-03 08:31
+
+---
+
+## 🆕 最新更新 (2026-03-03 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Polymarket users won big with unusual bets on US attack on Iran](https://www.ft.com/content/2883d3d4-aea2-4984-b994-4640593eed55)
+**发布时间**: 2026-03-03 05:00
+
+#### [Laura Loomer and the far-right ultra-hawks cheering on Trump in Iran](https://www.ft.com/content/31ed94d6-2455-4606-a85d-a715a071ea86)
+**发布时间**: 2026-03-03 05:00
+
+#### [In charts: How serious is the Middle East gas price shock?](https://www.ft.com/content/78fb84bb-0884-412b-b317-1ac3dbcb060a)
+**发布时间**: 2026-03-03 05:00
+
+#### [Lengthy Iran war could cause inflation ‘spike’, warns ECB’s top economist](https://www.ft.com/content/529b22dc-2707-48f8-b19c-510dee176e30)
+**发布时间**: 2026-03-03 05:00
+
+#### [UBS told to tone down lobbying in row with Swiss government](https://www.ft.com/content/33c66cc4-6301-4643-92a7-8426e5575120)
+**发布时间**: 2026-03-03 05:00
+
+#### [Gas prices extend surge as market reels from Qatar shutdown](https://www.ft.com/content/459a0b0a-4f8c-44ff-bcd2-473701313353)
+**发布时间**: 2026-03-03 02:12
+
+#### [Elliott amassed £200mn exposure to collapsed mortgage provider MFS](https://www.ft.com/content/266c8a95-be19-4e0b-9443-6237e0068569)
+**发布时间**: 2026-03-02 16:44
 
 ---
 
