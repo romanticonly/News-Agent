@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-03 23:15
+**最后更新时间**: 2026-03-04 05:36
+
+---
+
+## 🆕 最新更新 (2026-03-04 05:36)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China to lean on Russian oil as Iran crisis chokes supply](https://www.ft.com/content/114997aa-7d7c-4d85-b696-bc5123ade6cb)
+**发布时间**: 2026-03-04 04:00
+
+#### [Vance takes low profile on Iran after resisting foreign wars](https://www.ft.com/content/d0b9dadc-8532-48b5-9f9c-024c7e511c85)
+**发布时间**: 2026-03-04 02:22
+
+#### [US shale bosses warn they cannot replace war-hit Middle East oil](https://www.ft.com/content/7af02521-2861-4299-962d-5f731ed0a0ad)
+**发布时间**: 2026-03-04 01:22
+
+#### [Israel launches ‘extensive strikes’ on Iran](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 00:38
+
+#### [Starmer’s UK-EU reset suffering from ‘lack of direction’, MPs warn](https://www.ft.com/content/6db99ce3-d8b4-443d-b1d0-d3b51eb39709)
+**发布时间**: 2026-03-04 00:01
+
+#### [Lorries with unsafe meat imports skip border checks, UK government says](https://www.ft.com/content/77b399cc-46a4-4429-9e3d-271ded892e16)
+**发布时间**: 2026-03-04 00:01
+
+#### [Howard Lutnick and top Goldman lawyer to testify to Congress over Epstein links](https://www.ft.com/content/f7247d64-ec15-4354-9947-e61f43104eef)
+**发布时间**: 2026-03-03 23:29
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Moderna’s stock rallies as deal over a patent dispute clears vaccine pipeline](https://www.marketwatch.com/story/modernas-stock-rallies-more-than-10-as-deal-over-a-patent-dispute-clears-vaccine-pipeline-d34e6793?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 03:43
+
+#### [My rude, ungrateful relative gave her lawyer power of attorney — and has lived to regret it. Should I get involved?](https://www.marketwatch.com/story/my-rude-ungrateful-relative-gave-her-lawyer-power-of-attorney-and-has-lived-to-regret-it-should-i-get-involved-5db8088d?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:30
+
+#### [CrowdStrike gives upbeat earnings outlook as AI raises the stakes around cyberthreats](https://www.marketwatch.com/story/crowdstrike-gives-upbeat-earnings-outlook-as-ai-raises-the-stakes-around-cyberthreats-087a4b2e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:22
+
+#### [My mother will live in her second husband’s house if he dies before her. Will his kids be hopping mad?](https://www.marketwatch.com/story/his-children-might-resent-her-my-widowed-mother-has-a-life-estate-does-that-override-a-prenup-and-will-0e217484?mod=mw_rss_topstories)
+**发布时间**: 2026-03-04 01:00
+
+#### [Wall Street’s ‘fear gauge’ is rising as Iran conflict escalates. Here’s what investors should watch.](https://www.marketwatch.com/story/wall-streets-fear-gauge-is-rising-as-iran-conflict-escalates-heres-what-investors-should-watch-543b5d5c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:50
+
+#### [Software stocks just quietly trounced chip stocks to a historic extent — but don’t get too excited](https://www.marketwatch.com/story/software-stocks-just-quietly-trounced-chip-stocks-to-a-historic-extent-but-dont-get-too-excited-5babf59c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:35
+
+#### [Here are the U.S. airlines most vulnerable to rising fuel prices](https://www.marketwatch.com/story/here-are-the-u-s-airlines-most-vulnerable-to-rising-fuel-prices-b3ed82b3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-03 23:17
 
 ---
 
