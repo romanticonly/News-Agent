@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-04 05:36
+**最后更新时间**: 2026-03-04 08:25
+
+---
+
+## 🆕 最新更新 (2026-03-04 08:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Is this Hizbollah’s last stand?](https://www.ft.com/content/a65dbdf6-98c1-4cbf-8e87-8e98d918a707)
+**发布时间**: 2026-03-04 05:00
+
+#### [Military briefing: how Iran could wage a new ‘tanker war’](https://www.ft.com/content/e0066ca6-81ac-443f-93c0-f3bc3a2cf4f1)
+**发布时间**: 2026-03-04 05:00
+
+#### [The cynical opportunities of ‘Epic Fury’](https://www.ft.com/content/ff712094-c211-428e-aaca-c8a60d7c7de2)
+**发布时间**: 2026-03-04 05:00
+
+#### [Gold and silver flows disrupted as Iran war grounds flights](https://www.ft.com/content/96b41e64-5a34-477f-ab03-d2da7a3a443e)
+**发布时间**: 2026-03-04 05:00
+
+#### [Strait of Hormuz disruption threatens Middle East food imports](https://www.ft.com/content/1ede5591-54f3-4589-8aec-109772635262)
+**发布时间**: 2026-03-04 05:00
+
+#### [Investors ditch private credit funds on rising worries over bad loans](https://www.ft.com/content/346815bb-7dff-4c97-9568-7ab2432c661d)
+**发布时间**: 2026-03-04 05:00
+
+#### [Israel vows to kill next Iranian leader](https://www.ft.com/content/9a9b0127-1014-4186-99e3-893603011cef)
+**发布时间**: 2026-03-04 00:38
+
+#### [UK to invoke ‘emergency brake’ to ban student visa applications from four countries](https://www.ft.com/content/8fd879ac-4817-4a52-bdf7-1519b1c70cc4)
+**发布时间**: 2026-03-04 00:13
+
+#### [Blue Owl slides below listing price as private credit worries mount](https://www.ft.com/content/5e1404da-af6c-4f8a-a095-3e16827cadc9)
+**发布时间**: 2026-03-03 18:14
 
 ---
 
