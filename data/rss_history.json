@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "dc546df8655f848658f5aeb7b8ee797522975d8996069b198f8138a1ce15c045": {
-        "title": "当勒索解密成功率跌破30%，stefen和他数字镖局的效率竞赛",
-        "link": "https://www.tmtpost.com/7864971.html",
-        "published_date": "Tue, 03 Feb 2026 13:45:00 GMT",
-        "first_seen": "2026-02-03T05:53:38.705413"
-      },
-      "06e9bf5029fd6a52590e867a03b17e009922eab86f726f79fe4fda540d91f768": {
-        "title": "Openclaw之父，AI时代的第一个“超级个体”",
-        "link": "https://www.tmtpost.com/7865051.html",
-        "published_date": "Tue, 03 Feb 2026 13:38:00 GMT",
-        "first_seen": "2026-02-03T05:53:38.705421"
-      },
-      "348dacfba5dc2492dfd1f214a16f9726aeb7b92a2840584fd8766cd1e4529625": {
-        "title": "有色金属隐形王者：低调的钨，比金银铜潜力更大，价值不亚于稀土",
-        "link": "https://www.tmtpost.com/7864957.html",
-        "published_date": "Tue, 03 Feb 2026 13:18:00 GMT",
-        "first_seen": "2026-02-03T05:53:38.705424"
-      },
-      "9141f92a5371a39c071e6d628dd2509f20b0e4243574ca689cb087e1a1fd3674": {
-        "title": "国投白银LOF单日暴跌31.5%！该基金二级市场或面临至少5个跌停",
-        "link": "https://www.tmtpost.com/7865098.html",
-        "published_date": "Tue, 03 Feb 2026 12:25:00 GMT",
-        "first_seen": "2026-02-03T05:53:38.705425"
-      },
-      "8ddb5c69c7a21af6ec6d5aa912bc75f085f95a61a706ed3fc0df26fcb7ad8fe2": {
-        "title": "在晚上八点的超市，消费者终于成为“上帝”",
-        "link": "https://www.tmtpost.com/7864941.html",
-        "published_date": "Tue, 03 Feb 2026 12:07:00 GMT",
-        "first_seen": "2026-02-03T05:53:38.705427"
-      },
       "a13f9b6fb7fa461c57fbd0fbe89b5db5b62f40542aa88c1fb6158fa9541ea843": {
         "title": "中国软件技术发展洞察和趋势预测研究报告 2026",
         "link": "https://www.infoq.cn/minibook/p1vg8jZCDe63u4WFq9NL?utm_source=rss&utm_medium=article",
@@ -8005,39 +7975,93 @@
         "link": "http://www.huxiu.com/article/4839192.html?f=wangzhan",
         "published_date": "Thu, 05 Mar 2026 10:53:00 GMT",
         "first_seen": "2026-03-05T05:39:42.031130"
+      },
+      "58cdb6298fad5f980fc7945aacf424199e044f311c7f98441b73e9ae71d80c59": {
+        "title": "极客邦启动2026「AI 青禾计划」：QCon & AICon首次向全国高校免费开放",
+        "link": "https://www.infoq.cn/article/YVquqorayNjdCRW72xxF?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 16:12:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541238"
+      },
+      "16b3ae2b70492f52b94a4d6914d1437c0ea611b029926fa44c39ae3840f19f63": {
+        "title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
+        "link": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 16:00:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541250"
+      },
+      "a988f7726a2f553f4a80440bdd49af5d71e3068304a218c33b261cb6a7a8b2f2": {
+        "title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
+        "link": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541252"
+      },
+      "4ccb52679d24b1769875539aeda8d476ae14f695beae1916b9c63b47bf572403": {
+        "title": "在壮大软件领导团队过程中总结的经验教训",
+        "link": "https://www.infoq.cn/article/KKE2jJwbx7xQXpuAl4LK?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 05 Mar 2026 14:00:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541255"
+      },
+      "eacaeaba3efc4d28f528ade129c3e6800e9a713615527660610ab866290572f1": {
+        "title": "堂食客单价跌回十年前，越来越便宜，餐饮企业该如何突围？",
+        "link": "https://www.tmtpost.com/7901090.html",
+        "published_date": "Thu, 05 Mar 2026 15:21:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541257"
+      },
+      "2537996372ab11772f2a10c853e05d328e4193dcde091c289e6c0bc62cab240b": {
+        "title": "别了，理想主义者：阿里“结果导向”下的AI天才出走",
+        "link": "https://www.tmtpost.com/7901078.html",
+        "published_date": "Thu, 05 Mar 2026 15:15:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541259"
+      },
+      "002768381bdb55e1c7ab1f6cff1ec8255bc243d05d13fc7a2e72c9a1e600d7bc": {
+        "title": "610亿“史上最牛散户”，加仓英伟达",
+        "link": "https://www.tmtpost.com/7901062.html",
+        "published_date": "Thu, 05 Mar 2026 15:04:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541260"
+      },
+      "ed8a9fe4c7989a1c1add05cfff646f2c930de9f9b34e9e771daa7fa8903ef2b5": {
+        "title": "540亿糖尿病新霸主即将诞生？",
+        "link": "https://www.tmtpost.com/7901016.html",
+        "published_date": "Thu, 05 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541262"
+      },
+      "3073a5e2b8c69e33439a865772caa3441f86004a0aed008984e1af3facdb1843": {
+        "title": "瑞幸大股东的新野心藏不住了",
+        "link": "https://www.tmtpost.com/7901030.html",
+        "published_date": "Thu, 05 Mar 2026 14:57:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541264"
+      },
+      "6e02969ce3145d85357f7c6ec629866fe68b82fd4f49c7e2540ecd0ec98f18be": {
+        "title": "首富二代，重回LP牌桌",
+        "link": "https://www.tmtpost.com/7901067.html",
+        "published_date": "Thu, 05 Mar 2026 14:53:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541266"
+      },
+      "19145b3e5c13f738ac836a0053b6a9021f2d2ab889fbaac50465749c4e08ff61": {
+        "title": "量贩零食卷向县城",
+        "link": "https://www.tmtpost.com/7899904.html",
+        "published_date": "Thu, 05 Mar 2026 14:49:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541267"
+      },
+      "f247779750e5248f02a8446f82052ab07185172441d6a22ae1a17f6776416462": {
+        "title": "下一个美团？抖省省背后的万亿野心",
+        "link": "https://www.tmtpost.com/7900992.html",
+        "published_date": "Thu, 05 Mar 2026 14:48:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541269"
+      },
+      "bdfbcc5f68191b77826c0a07df9d3a019f733361f534b4a410b5f9d95963b606": {
+        "title": "OpenClaw 控制你的 Mac 和 Windows 电脑，支持 SKill 的 GitHub 神器。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531901&idx=1&sn=2bdc913f95cfa0523f715a29f8cdd687",
+        "published_date": "Thu, 05 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541271"
+      },
+      "3677a1a1c59aa1b16bb13615590e827826227e374c384f1c852ab2160dab7d43": {
+        "title": "开赛在即，疾速入坑：F1 2026 观赛指南",
+        "link": "https://sspai.com/post/103846",
+        "published_date": "Thu, 05 Mar 2026 14:32:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.541272"
       }
     },
     "Finance": {
-      "a0f8193b2a4906010814de6cac8aa345621089f629c86f98b05dc66d8b997753": {
-        "title": "Epstein emails reveal extensive ties with top Goldman Sachs lawyer",
-        "link": "https://www.ft.com/content/1fdb1850-7ff8-4ca5-bc91-f4b683aad063",
-        "published_date": "Tue, 03 Feb 2026 01:31:00 GMT",
-        "first_seen": "2026-02-03T05:52:38.813207"
-      },
-      "f543fb98d1760ea7332365cb52c4765a086b8ac05412654783b20205e39cd3ea": {
-        "title": "Silver’s runaway rally becomes ‘death trap’ for Reddit’s retail crowd",
-        "link": "https://www.ft.com/content/8c6966f0-689c-454b-96bb-d406e6857ad6",
-        "published_date": "Tue, 03 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-03T05:52:38.813216"
-      },
-      "25c5d34ebd291211804faaea1f6ad010d5804e37c431c6afe403ca297f19c0e5": {
-        "title": "Ukraine agrees multi-tier plan for enforcing any ceasefire with Russia",
-        "link": "https://www.ft.com/content/0f26d56d-98cd-4999-8908-4a851a2de773",
-        "published_date": "Tue, 03 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-03T05:52:38.813218"
-      },
-      "a169a274659eca918af86df303fa6ac30325abf0ac4e7d27620601bf0fc3f05d": {
-        "title": "Virgin Media O2 owners to seal £2bn acquisition of UK broadband rival",
-        "link": "https://www.ft.com/content/cb3ffce2-f60e-45a9-8875-4521f461700b",
-        "published_date": "Tue, 03 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-03T05:52:38.813220"
-      },
-      "eace69c363a2082bea74609595bbb7351b1fc2d071c1284c89a500a3c381def5": {
-        "title": "OpenAI’s ChatGPT push triggers senior staff exits",
-        "link": "https://www.ft.com/content/e581b7a4-455c-48e6-a87c-c39bb9c62a12",
-        "published_date": "Tue, 03 Feb 2026 05:00:00 GMT",
-        "first_seen": "2026-02-03T05:52:38.813222"
-      },
       "36181b091a3a7697849d2143ed5ca1261efe60bfa3902c0114b96acc8df46987": {
         "title": "US stocks drop on fears AI will hit software and analytics groups",
         "link": "https://www.ft.com/content/48ec5657-c2e7-4111-a236-24a96a8d49e7",
@@ -12813,39 +12837,15 @@
         "link": "https://www.marketwatch.com/story/my-mother-refuses-to-turn-on-the-heat-will-americas-war-with-iran-really-push-up-our-utility-bills-df746548?mod=mw_rss_topstories",
         "published_date": "Wed, 04 Mar 2026 23:30:00 GMT",
         "first_seen": "2026-03-05T05:39:42.119287"
+      },
+      "e430c29fd8ef7d7edabb248ef65bbb06d42e42aa1cc0283338d078cd51828958": {
+        "title": "Reform UK received second big donation from Thailand-based crypto investor",
+        "link": "https://www.ft.com/content/73efc9ce-4d57-4a96-9f3f-d9fda81b1114",
+        "published_date": "Thu, 05 Mar 2026 07:44:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.582450"
       }
     },
     "Ai": {
-      "f7dd71d4739a8a4ecd1105bdc04d5016267846d33a83259dc93a0fb04c9a16d9": {
-        "title": "马斯克宣布SpaceX合并xAI！1.25万亿美元火箭AI巨兽诞生",
-        "link": "https://www.qbitai.com/2026/02/375614.html",
-        "published_date": "Tue, 03 Feb 2026 00:44:00 GMT",
-        "first_seen": "2026-02-03T05:52:50.173808"
-      },
-      "e36073ada861c59e93fdeac8b956c7bbe33363599f71f042b43c5af4e1bd92c4": {
-        "title": "全球304个中文大模型实测：没有“全能王者”，ReLE凭70%降本方案破解评估困局",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03",
-        "published_date": "Tue, 03 Feb 2026 10:32:00 GMT",
-        "first_seen": "2026-02-03T05:52:50.173814"
-      },
-      "2a73ff48a139d9c56c2bf93428008ec12d00c9f4d3ef15e645eeef68bb2f1ee9": {
-        "title": "Clawdbot国产芯片适配完成！清华特奖出手，开源框架直接一键部署",
-        "link": "https://www.qbitai.com/2026/02/375626.html",
-        "published_date": "Tue, 03 Feb 2026 04:42:00 GMT",
-        "first_seen": "2026-02-03T05:52:50.173817"
-      },
-      "60ccc33b91ea36a384712f44c7659fed3a551611578f80c043df599414260102": {
-        "title": "重新定义“实时在线交互”，Soul App开源实时数字人生成模型SoulX-FlashTalk",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-2",
-        "published_date": "Tue, 03 Feb 2026 10:33:00 GMT",
-        "first_seen": "2026-02-03T05:52:50.173819"
-      },
-      "2f62978ec65eba1c9239d63c1787a42e5e336f68ffa6bdee509a6aae007da7b6": {
-        "title": "国产版Ollama来了，Clawdbot终于不只属于Mac和英伟达",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-03-4",
-        "published_date": "Tue, 03 Feb 2026 11:49:00 GMT",
-        "first_seen": "2026-02-03T05:52:50.173820"
-      },
       "8bc8a7544057e4c10f3b1d4e9facbfe0e30f4577b87fdb123f941333adf31f88": {
         "title": "将高质量内容融入AI生态，威立以科研智能塑造出版行业未来",
         "link": "https://www.jiqizhixin.com/articles/2026-02-03-5",
@@ -14927,13 +14927,31 @@
         "link": "https://www.qbitai.com/2026/03/383927.html",
         "published_date": "Thu, 05 Mar 2026 04:24:00 GMT",
         "first_seen": "2026-03-05T05:39:42.282978"
+      },
+      "2bf8fa45c525894d259e568df8820a9b66947f3049b21f4270ecbbc639bf2303": {
+        "title": "GPT-5.3 Instant上线：ChatGPT终于不说教了",
+        "link": "https://www.qbitai.com/2026/03/383974.html",
+        "published_date": "Thu, 05 Mar 2026 07:10:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.738176"
+      },
+      "926f978138db6e073dc1d8ee7c61daf30b8d50f9aba0ba3966bd0ad484d244b5": {
+        "title": "捏Ta完成超千万美金Pre A+轮融资，九坤领投，源码奇绩等超额跟进",
+        "link": "https://www.qbitai.com/2026/03/383998.html",
+        "published_date": "Thu, 05 Mar 2026 07:02:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.738184"
+      },
+      "c2d61e92187c38c79cc960704f33222e78fa79be3dd5c1f6e4b6c88583d410ae": {
+        "title": "悬赏5000刀！148局AI斗蛐蛐世界杯官方战报出炉，全球赛邀你接棒来战",
+        "link": "https://www.qbitai.com/2026/03/383947.html",
+        "published_date": "Thu, 05 Mar 2026 06:41:00 GMT",
+        "first_seen": "2026-03-05T08:27:25.738185"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-05T05:39:42.031132",
-    "Finance": "2026-03-05T05:39:42.119289",
-    "Ai": "2026-03-05T05:39:42.282981"
+    "Technology": "2026-03-05T08:27:25.541275",
+    "Finance": "2026-03-05T08:27:25.582458",
+    "Ai": "2026-03-05T08:27:25.738187"
   }
 }
