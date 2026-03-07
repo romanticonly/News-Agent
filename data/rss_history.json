@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ce0fb5a4d707784f8160076c4933759ebb3eadf1539493ecdf6abec0a1f175c6": {
-        "title": "9B 模型“平替”GPT-4o ？！面壁赌对OpenClaw端侧AI，内部上演一人月产65万行代码的效率核爆",
-        "link": "https://www.infoq.cn/article/LIghfWoDjXgjNME3mGHc?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:31:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625249"
-      },
-      "bb010c0c31c0050c71917b2a24646c5b48d26ee8fc9c59694ecf7ee80a315d39": {
-        "title": "谷歌：大哥也疯狂，翻倍豪赌AI",
-        "link": "https://www.tmtpost.com/7867404.html",
-        "published_date": "Thu, 05 Feb 2026 10:37:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625255"
-      },
-      "4213dca9a9b8b8672c0229798bc8763f9efc9ac44f7ca3b00e35466e974506be": {
-        "title": "奥运首个官方大模型基于阿里千问，考文垂：这届奥运为的遗产是AI驱动的智能化",
-        "link": "https://www.infoq.cn/article/Orls4EogPhNyOQAuQIHR?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 16:22:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625257"
-      },
-      "59e865db6c29f3c6cd1b165edd06804054a327d2020754355fc9eab3df1e55d5": {
-        "title": "OpenViking：面向 Agent 的上下文数据库",
-        "link": "https://www.infoq.cn/article/9dHvlfEaJXUmT3QiVC7D?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 05 Feb 2026 15:45:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625260"
-      },
-      "aef59e130cc8dbc46944657933bfd380996a5c5332948dbd45933171ff54ca9e": {
-        "title": "马斯克带飞“太空光伏”，中国企业杀入星辰大海",
-        "link": "https://www.tmtpost.com/7867187.html",
-        "published_date": "Thu, 05 Feb 2026 15:47:00 GMT",
-        "first_seen": "2026-02-05T08:45:53.625261"
-      },
       "842a4e91cfbc360b71575ed4228c7090451b961cdeec72d6fe0a033b507300d2": {
         "title": "Agent原生模型时代开启！阶跃Step 3.5 Flash上线，2天登顶OpenRouter全球趋势榜",
         "link": "https://www.infoq.cn/article/yCMKYF5pHtuxFUewXHUD?utm_source=rss&utm_medium=article",
@@ -8635,6 +8605,48 @@
         "link": "https://www.tmtpost.com/7903667.html",
         "published_date": "Sat, 07 Mar 2026 12:33:00 GMT",
         "first_seen": "2026-03-07T08:17:09.056077"
+      },
+      "96b164009377e89cd24edda0c102731169c87d99810b42a8d9b13685d4850649": {
+        "title": "三位女性操盘手，正在重塑中国零售业",
+        "link": "https://www.tmtpost.com/7904187.html",
+        "published_date": "Sat, 07 Mar 2026 23:21:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749189"
+      },
+      "4362349d2667f92a82ad6e88547083ec9fdc0c965c6730af890258a14a0913a8": {
+        "title": "Airwallex 空中云汇举办“她造浪潮 共振未来”论坛，成立女性出海者联盟",
+        "link": "https://www.tmtpost.com/7904147.html",
+        "published_date": "Sat, 07 Mar 2026 21:54:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749198"
+      },
+      "0e82fe363af667acddc08c280e008b59d52569fd4465faf676929f8de40d277f": {
+        "title": "对话以心医疗王莉：全球医疗Top 20里应有中企一席之地",
+        "link": "https://www.tmtpost.com/7904137.html",
+        "published_date": "Sat, 07 Mar 2026 21:40:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749201"
+      },
+      "94784c96a15590c01b2275493ee0fdf2d99e82ac49e37e81764d9c0a3d9c8d79": {
+        "title": "魔法原子创始人离职后火速补全高管阵容，落地与盈利仍存多重挑战",
+        "link": "https://www.tmtpost.com/7903801.html",
+        "published_date": "Sat, 07 Mar 2026 19:15:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749202"
+      },
+      "5d3a6647bf757182ee27bacac1f75bd3f7f8f1f8bb0a45f6476d140d3aba6b41": {
+        "title": "林俊旸：阿里千问的“吹哨人”？",
+        "link": "https://www.tmtpost.com/7903836.html",
+        "published_date": "Sat, 07 Mar 2026 19:14:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749204"
+      },
+      "c96513e75453f8a761b7bc406e702f3c989a9d49ee80a8d711cea7e6e0aed7e4": {
+        "title": "OpenClaw“龙虾”风暴60天后，谁在吃虾，谁在被吃？",
+        "link": "https://www.tmtpost.com/7903901.html",
+        "published_date": "Sat, 07 Mar 2026 19:10:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749206"
+      },
+      "3eb48c804885deb584759f23233f649de5f0cf9354d6dc8ca174c759a00d4da0": {
+        "title": "AI教父Hinton最新警告：AI会撒谎、可能操纵人类，这比大规模失业更可怕",
+        "link": "https://www.infoq.cn/article/TZ9h5JFJ5GZ92PL76yaD?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 07 Mar 2026 17:48:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.749207"
       }
     },
     "Finance": {
@@ -13641,39 +13653,81 @@
         "link": "https://www.ft.com/content/d8c2969f-2812-44d2-8860-3059fb770bdb",
         "published_date": "Sat, 07 Mar 2026 00:02:00 GMT",
         "first_seen": "2026-03-07T05:30:47.896502"
+      },
+      "bc351a3519dc68f999147da5d3b127cf7c1731ca3c077f61eed8f6fc24ca965b": {
+        "title": "We have $13.5 million and 3 kids, but one is an addict. How do we fairly divide our estate?",
+        "link": "https://www.marketwatch.com/story/my-husband-and-i-have-13-5-million-and-3-kids-but-one-is-an-addict-how-do-we-fairly-divide-our-estate-669a955b?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 22:14:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827336"
+      },
+      "366791fd4bc9f764b2464f6514e20fa0ed256586f471ebe68fb4ea299bf0f2d2": {
+        "title": "Stagflation? $150 oil? That doesn’t mean everyone’s 401(k) is losing money.",
+        "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:41:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827342"
+      },
+      "d7bb42c052aa5ef2abe506d3f14ceadd9c00fd6cd18083658b1e8f4d0a036d56": {
+        "title": "There’s a new record number of 401(k) millionaires — and the Iran conflict will test their discipline",
+        "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-and-the-iran-conflict-will-test-their-discipline-fae185b8?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827344"
+      },
+      "6164a8e6cd54c17c3c66d851ecc042d31b266efbd998b824e6e4968e351563b5": {
+        "title": "People taking money out of their 401(k)s isn’t necessarily the crisis everyone thinks it is",
+        "link": "https://www.marketwatch.com/story/rise-in-401-k-hardship-withdrawals-may-not-be-the-problem-you-think-it-is-ec74fc79?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827345"
+      },
+      "d3ace7647c64a9b56c18a7e79111f4e08644fc830e2378b2e418a53626891a48": {
+        "title": "The cost of healthcare in retirement keeps getting scarier",
+        "link": "https://www.marketwatch.com/story/the-scary-numbers-on-retirement-healthcare-youll-need-up-to-469-000-saved-ae5d4f96?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:40:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827347"
+      },
+      "877f90083ddee9b23d88f4415d853fb4d2dcd9e8c770062550d39c89f648372f": {
+        "title": "I scrapped $70 million in sales to build a more profitable business. Here’s what I learned.",
+        "link": "https://www.marketwatch.com/story/i-walked-away-from-70-million-in-sales-to-remake-my-brand-shrinking-the-business-actually-made-it-more-profitable-c48edee0?mod=mw_rss_topstories",
+        "published_date": "Sat, 07 Mar 2026 19:37:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827348"
+      },
+      "15337c547225900086d7514ea4883f40766997ccf93f390f4ba975f853094440": {
+        "title": "Donald Trump calls for more US military action in Latin America",
+        "link": "https://www.ft.com/content/b974477f-61a4-492e-b8b7-9709f4086b4c",
+        "published_date": "Sat, 07 Mar 2026 17:42:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827350"
+      },
+      "b6a849a132daa3d133a89067e82248a9c32fcb3de18f8a311c350f05f3cf7de8": {
+        "title": "Iran warns it will hit US bases across region hours after president’s apology",
+        "link": "https://www.ft.com/content/7c6ee5e8-c379-40c0-9d9f-d1ecc7b69261",
+        "published_date": "Sat, 07 Mar 2026 16:31:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827351"
+      },
+      "b86f590d1f9dceef278431849e3f8dbceab2f9224d080a37d048890565ff10b7": {
+        "title": "Trump hits out at Starmer over UK reluctance to support Iran attacks",
+        "link": "https://www.ft.com/content/bbd79c63-8131-4b20-9d2d-708bc8acea38",
+        "published_date": "Sat, 07 Mar 2026 14:01:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827353"
+      },
+      "6b5813319cb2a63406743c936209a6beec1c035f2eb13abb5eb9ddb34bbd8247": {
+        "title": "US faced with few good options to tamp down surging oil prices",
+        "link": "https://www.ft.com/content/5bd03549-22b2-4d7a-a6d6-44a9aa5c3842",
+        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827354"
+      },
+      "052f2c3a19a64572c9995a19c00d0ae938bc66af9f05478f75e2dc968cfe4934": {
+        "title": "A week of war in charts: the impact on the US",
+        "link": "https://www.ft.com/content/7ec4acb7-8c49-4da5-a7f3-83410e873e5a",
+        "published_date": "Sat, 07 Mar 2026 11:00:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827355"
+      },
+      "889603119c11add63d0e01ea39ead8b86d392323c8f8d2e8028388971740fcf0": {
+        "title": "The bombing of Tehran — in maps and satellite images",
+        "link": "https://www.ft.com/content/59cfcbfb-34e2-4d26-b687-5d768dcc5650",
+        "published_date": "Sat, 07 Mar 2026 09:00:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.827357"
       }
     },
     "Ai": {
-      "e2db2836faf2ef087e3dacb5634a4c0e054e32bd5e92525aab255e2f21abbda9": {
-        "title": "强化学习远不是最优，CMU刚刚提出最大似然强化学习",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-11",
-        "published_date": "Thu, 05 Feb 2026 16:05:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303743"
-      },
-      "c9593d9039e737e910a7c8dbdd93391b6c71fab891689dfd93d9d7e4684a5683": {
-        "title": "首个大规模记忆湖发布，AI Infra跑步进入“记忆”时代",
-        "link": "https://www.qbitai.com/2026/02/376502.html",
-        "published_date": "Thu, 05 Feb 2026 07:28:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303755"
-      },
-      "9cadd5e12346e87c17fe8cc32e4863f0185916f52c4f9610ed1836c5c6a4c96b": {
-        "title": "中国第一，全球第二，视频大模型领军者生数科技完成超 6 亿元A+轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-8",
-        "published_date": "Thu, 05 Feb 2026 14:09:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303758"
-      },
-      "541e12ec8febd018e5bebec9136fb794aa3bd796fa01fb9f74d1814315987239": {
-        "title": "谷歌做了个论文专用版nano banana！顶会级Figure直出",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-6",
-        "published_date": "Thu, 05 Feb 2026 13:07:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303760"
-      },
-      "a1e375504feac11ce68eceec0e68c31dd1e705152baa92c5e5bfab604aba48c4": {
-        "title": "ICLR 2026 Workshop二轮征稿开启：聚焦终身智能体的学习、对齐、演化",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-05-10",
-        "published_date": "Thu, 05 Feb 2026 15:59:00 GMT",
-        "first_seen": "2026-02-05T08:45:28.303762"
-      },
       "c3bd728988e6f29a49a2500910e49c12c16634cd452b5466d45b384b08f458b4": {
         "title": "英伟达Jim Fan：「世界建模」是新一代预训练范式",
         "link": "https://www.qbitai.com/2026/02/376731.html",
@@ -15671,13 +15725,19 @@
         "link": "https://www.qbitai.com/2026/03/384595.html",
         "published_date": "Sat, 07 Mar 2026 02:32:00 GMT",
         "first_seen": "2026-03-07T05:30:48.053680"
+      },
+      "5d4882c651cfa9f45330ca6802554ac6020dd8ba713e90b2c73a17ffc510ef0a": {
+        "title": "央视点赞千问APP，“AI办事”让人工智能走进日常生活",
+        "link": "https://www.qbitai.com/2026/03/384637.html",
+        "published_date": "Sat, 07 Mar 2026 08:40:00 GMT",
+        "first_seen": "2026-03-07T23:11:51.982615"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-07T08:17:09.056079",
-    "Finance": "2026-03-07T05:30:47.896505",
-    "Ai": "2026-03-07T05:30:48.053682"
+    "Technology": "2026-03-07T23:11:51.749209",
+    "Finance": "2026-03-07T23:11:51.827360",
+    "Ai": "2026-03-07T23:11:51.982622"
   }
 }
