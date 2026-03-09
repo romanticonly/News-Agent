@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 05:50
+**最后更新时间**: 2026-03-09 08:31
+
+---
+
+## 🆕 最新更新 (2026-03-09 08:31)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gilt market slump deepens as oil price surges](https://www.ft.com/content/9b08457e-6689-4f2d-8967-816c184e4fe2)
+**发布时间**: 2026-03-09 08:19
+
+#### [Global trading system under ‘unsustainable’ pressure, warns UK](https://www.ft.com/content/c2440378-b599-4fa2-90dc-a6d29772ae1f)
+**发布时间**: 2026-03-09 05:00
+
+#### [Stocks and bonds tumble as oil soars past $100 a barrel](https://www.ft.com/content/56dd339c-51ea-41b0-983a-fe13c0d5ab54)
+**发布时间**: 2026-03-09 02:32
 
 ---
 
