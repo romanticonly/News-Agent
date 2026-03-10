@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-10 11:43
+**最后更新时间**: 2026-03-10 23:17
+
+---
+
+## 🆕 最新更新 (2026-03-10 23:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Joby、Archer、Beta？这只股票才是政府 eIPP 项目的最大赢家](https://www.tmtpost.com/7907936.html)
+**发布时间**: 2026-03-10 22:31
+
+#### [Vertex股价大涨，华尔街如何评价其肾病药物试验](https://www.tmtpost.com/7907934.html)
+**发布时间**: 2026-03-10 22:30
+
+#### [珠海冠宇33亿定增“豪赌”钢壳电池：苹果供应链红利下，增收不增利困局待解](https://www.tmtpost.com/7907764.html)
+**发布时间**: 2026-03-10 19:56
+
+#### [大型石油股自战争爆发以来几乎没怎么动，到底怎么回事？](https://www.tmtpost.com/7907724.html)
+**发布时间**: 2026-03-10 19:04
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [最便宜的 Mac 笔记本：MacBook Neo 首发体验](https://sspai.com/post/107031)
+**发布时间**: 2026-03-10 21:00
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [模力工场 034 周 AI 应用榜：OpenClaw 爆火，永不掉线的 AI 打工人时代来了](https://www.infoq.cn/article/5q7ysFgsdBqjLuqGxGyz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-10 20:00
 
 ---
 
