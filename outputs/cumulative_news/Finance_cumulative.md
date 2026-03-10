@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-09 23:16
+**最后更新时间**: 2026-03-10 11:43
+
+---
+
+## 🆕 最新更新 (2026-03-10 11:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Scientists behind COVID-19 vaccine will depart BioNTech](https://www.marketwatch.com/story/scientists-behind-covid-19-vaccine-will-depart-biontech-ef157c79?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 11:40
+
+#### [Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists](https://www.marketwatch.com/story/return-to-the-2022-stock-market-playbook-as-iran-conflict-drags-on-say-these-strategists-7bb7e01b?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 11:28
+
+#### [Saudi Aramco promises full production can be restored within days if Strait of Hormuz is reopened](https://www.marketwatch.com/story/saudi-aramco-promises-full-production-can-be-restored-within-days-if-strait-of-hormuz-is-reopened-5741bad3?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 11:16
+
+#### [Social Security is already the best antipoverty program we have — don’t make this radical change](https://www.marketwatch.com/story/social-security-is-already-the-best-antipoverty-program-we-have-dont-make-this-radical-change-929619b8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 11:00
+
+#### [Beware the risk of a scorched-earth strategy from Iran, say Bank of America strategists](https://www.marketwatch.com/story/beware-the-risk-of-a-scorched-earth-strategy-from-iran-say-bank-of-america-strategists-6da61af6?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 10:50
+
+#### [Oil futures slide 8% as energy ministers set to meet on emergency reserves](https://www.marketwatch.com/story/oil-futures-slide-8-as-energy-ministers-set-to-meet-on-emergency-reserves-035da30c?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 10:33
+
+#### [Ozempic maker Novo Nordisk gets another downgrade. The end’s in sight for its duopoly status, says TD Cowen.](https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-gets-another-downgrade-the-ends-in-sight-for-its-duopoly-status-says-td-cowen-6b09b4d8?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 09:48
+
+#### [European bonds join Treasury rally as lower oil prices ease inflation fears](https://www.marketwatch.com/story/european-bonds-join-treasury-rally-as-lower-oil-prices-ease-inflation-fears-c317b735?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 09:32
+
+#### [‘I promised my parents’: I take care of my brother who is developmentally disabled. I’m now retired. Am I doing enough?](https://www.marketwatch.com/story/i-promised-my-parents-i-take-care-of-my-brother-who-is-developmentally-disabled-im-now-retired-am-i-doing-enough-c3d926a9?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 09:15
+
+#### [Oracle faces a high bar for earnings as investors look for an AI payoff](https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories)
+**发布时间**: 2026-03-10 02:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [CVC sports empire signs €3.5bn debt deal after stake sale falters](https://www.ft.com/content/2a4385c6-85c3-4be6-a1bb-ec8dbdbc3e33)
+**发布时间**: 2026-03-10 10:33
+
+#### [Saudi Aramco to restore 70% of normal crude oil exports within days](https://www.ft.com/content/2a83b917-62f3-4294-875c-a397fc68c652)
+**发布时间**: 2026-03-10 09:24
+
+#### [Lego chief hits out at Danish wealth tax proposal](https://www.ft.com/content/5d28acbe-0f4e-4fdf-b724-7c1c6a4fb1cd)
+**发布时间**: 2026-03-10 08:00
+
+#### [Khamenei martyrdom narrative smooths path for son’s rise](https://www.ft.com/content/fd25b7fe-39ed-4a07-88f2-8db009a2867c)
+**发布时间**: 2026-03-10 07:01
+
+#### [The thing that everyone expected to happen has happened](https://www.ft.com/content/4629b1a0-be76-4ccb-830f-678696395fd9)
+**发布时间**: 2026-03-10 06:30
+
+#### [Israel expects Lebanon offensive to outlast Iran conflict](https://www.ft.com/content/364a246a-8837-4de0-82d8-53d982844bfa)
+**发布时间**: 2026-03-10 05:00
+
+#### [The handymen and drivers keeping Tehran running](https://www.ft.com/content/a49da063-ac4d-4d04-9ba5-58209835ed93)
+**发布时间**: 2026-03-10 05:00
+
+#### [Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round](https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1)
+**发布时间**: 2026-03-10 05:00
+
+#### [Iran rules out ceasefire as Israel says it is ‘not done yet’](https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e)
+**发布时间**: 2026-03-10 04:05
+
+#### [White men will have ‘fewer board seats’ in future, says UK diversity chair](https://www.ft.com/content/2ef678ea-843c-45a1-abec-f81f48e7b8d2)
+**发布时间**: 2026-03-10 00:01
 
 ---
 
