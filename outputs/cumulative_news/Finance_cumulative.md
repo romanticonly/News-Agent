@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-12 05:42
+**最后更新时间**: 2026-03-12 08:28
+
+---
+
+## 🆕 最新更新 (2026-03-12 08:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil surges back above $100 after ships hit in Gulf](https://www.ft.com/content/87a06d69-7cb2-4aaf-82ff-da0bf8be43d4)
+**发布时间**: 2026-03-12 05:43
+
+#### [Morgan Stanley and Cliffwater limit private credit withdrawals](https://www.ft.com/content/22454850-a7da-4089-af17-a223fa11f31f)
+**发布时间**: 2026-03-11 21:24
 
 ---
 
