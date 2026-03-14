@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-14 05:37
+**最后更新时间**: 2026-03-14 08:21
+
+---
+
+## 🆕 最新更新 (2026-03-14 08:21)
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [年度征文｜减了肥，人生就会变好吗？](https://sspai.com/post/106785)
+**发布时间**: 2026-03-14 15:06
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [安全版 OpenClaw 小龙虾也来了，支持 10000+ 的 SKills。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532217&idx=1&sn=bedad71b9fd13e8f86bc3e872e372b63)
+**发布时间**: 2026-03-14 15:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [按摩电器销量突破500万台，海尔布局AI精准按摩赛道 | AWE 2026](https://www.tmtpost.com/7914223.html)
+**发布时间**: 2026-03-14 14:59
+
+#### [危险走了，为什么你还害怕？美国Stephen Maren团队揭示LC-BLA是调控恐惧消退的关键环路](https://www.tmtpost.com/7913918.html)
+**发布时间**: 2026-03-14 10:35
+
+#### [理想汽车的变革方向，被严重误解了](https://www.tmtpost.com/7913944.html)
+**发布时间**: 2026-03-14 10:05
 
 ---
 
