@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Mar 2026 05:59:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 05:59:30 GMT</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2026 08:23:00 GMT</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2026 08:25:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-15日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-15/</link>
-      <description>&lt;![CDATA[2026-03-15日刊]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-15/</guid>
+      <title>科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%</title>
+      <link>https://www.qbitai.com/2026/03/387935.html</link>
+      <description>&lt;![CDATA[科技CEO用ChatGPT+基因数据定制癌症疫苗！肿瘤缩小50%]]&gt;</description>
+      <pubDate>Sun, 15 Mar 2026 06:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/387935.html</guid>
       <category>Ai</category>
     </item>
   </channel>
