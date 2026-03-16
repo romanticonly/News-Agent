@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 15 Mar 2026 23:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 15 Mar 2026 23:19:44 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 06:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 06:13:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,139 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict</title>
+      <title>Netanyahu’s rivals compete to outdo him over Iran</title>
+      <link>https://www.ft.com/content/60f00488-ca8f-4bba-b1b1-2b81b7ec2598</link>
+      <description>&lt;![CDATA[Netanyahu’s rivals compete to outdo him over Iran]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/60f00488-ca8f-4bba-b1b1-2b81b7ec2598</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The UK is struggling to achieve its aims on clean energy</title>
+      <link>https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be</link>
+      <description>&lt;![CDATA[The UK is struggling to achieve its aims on clean energy]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/13426cf5-aae2-4826-9700-12f1b4fc96be</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran war reawakens global inflation fears</title>
+      <link>https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b</link>
+      <description>&lt;![CDATA[Iran war reawakens global inflation fears]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d4f1c4a8-ed5f-4f2a-8b70-436b93f9052b</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>India’s restaurants stop deep frying food as gas crisis bites</title>
+      <link>https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e</link>
+      <description>&lt;![CDATA[India’s restaurants stop deep frying food as gas crisis bites]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d3fc82a6-abf3-4ab9-ab03-09aea1407d5e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal</title>
+      <link>https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f</link>
+      <description>&lt;![CDATA[UniCredit’s Orcel draws level with UBS chief Ermotti after record pay deal]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/edd7f2b7-b7ef-4690-86e0-408f4cbc6a4f</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Reeves must tackle ‘badly broken’ student loans, Cambridge chancellor says</title>
+      <link>https://www.ft.com/content/dc86ce80-86ab-45a1-83ff-abf7cc3a1fb2</link>
+      <description>&lt;![CDATA[Reeves must tackle ‘badly broken’ student loans, Cambridge chancellor says]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/dc86ce80-86ab-45a1-83ff-abf7cc3a1fb2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘One Battle After Another’ wins Best Picture at Oscars</title>
+      <link>https://www.ft.com/content/64c90d4e-e2cc-41b5-b8c5-ca55e3c612b3</link>
+      <description>&lt;![CDATA[‘One Battle After Another’ wins Best Picture at Oscars]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 04:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/64c90d4e-e2cc-41b5-b8c5-ca55e3c612b3</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The highs and lows of the 2026 Oscars</title>
+      <link>https://www.ft.com/content/8a235e80-2319-4fdf-9e9b-786257c59ba6</link>
+      <description>&lt;![CDATA[The highs and lows of the 2026 Oscars]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 04:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8a235e80-2319-4fdf-9e9b-786257c59ba6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump throws US-China reboot off course by saying he could delay Xi summit</title>
+      <link>https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9</link>
+      <description>&lt;![CDATA[Trump throws US-China reboot off course by saying he could delay Xi summit]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 01:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1c827f40-8d0d-4c21-ad5d-3ba8a4a8def9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices rise as Strait of Hormuz remains shut</title>
+      <link>https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</link>
+      <description>&lt;![CDATA[Oil prices rise as Strait of Hormuz remains shut]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 01:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/35a07cb7-109c-47a5-a85d-7701fa7becf4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict</title>
       <link>https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures bounce back, oil climbs as investors weigh developments in Iran conflict]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 23:17:00 GMT</pubDate>
+      <description>&lt;![CDATA[U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 03:07:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?</title>
-      <link>https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 20:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The financial sector is sending some spooky technical signals about the stock market</title>
-      <link>https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The financial sector is sending some spooky technical signals about the stock market]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 19:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Nvidia’s big GTC event is on deck, and the company faces a very high bar this year</title>
-      <link>https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Nvidia’s big GTC event is on deck, and the company faces a very high bar this year]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 19:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings</title>
-      <link>https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 19:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next</title>
-      <link>https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Individual investors are chasing oil’s surge amid Iran conflict; institutions are thinking about what comes next]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 19:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/individual-investors-are-chasing-oils-iran-conflict-surge-institutions-are-thinking-what-comes-next-1b3dda7b?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Panic is slowly gripping the stock market. Expect the selling to pick up this week.</title>
-      <link>https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Panic is slowly gripping the stock market. Expect the selling to pick up this week.]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Start on your bucket list now, says the Oscar-nominated director of the film ‘Retirement Plan’</title>
-      <link>https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Start on your bucket list now, says the Oscar-nominated director of the film ‘Retirement Plan’]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.</title>
-      <link>https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 17:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Is a $130 Costco executive membership the new VIP status symbol?</title>
-      <link>https://www.marketwatch.com/story/is-a-130-costco-executive-membership-the-new-vip-status-7d7585f5?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Is a $130 Costco executive membership the new VIP status symbol?]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 15:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/is-a-130-costco-executive-membership-the-new-vip-status-7d7585f5?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump warns Nato faces ‘very bad future’ if allies fail to help US in Iran</title>
-      <link>https://www.ft.com/content/1ca6d121-760b-4ec5-b6ad-514fdaa94873</link>
-      <description>&lt;![CDATA[Trump warns Nato faces ‘very bad future’ if allies fail to help US in Iran]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 23:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/1ca6d121-760b-4ec5-b6ad-514fdaa94873</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oil prices jump nearly 3 per cent as markets open for trading</title>
-      <link>https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68</link>
-      <description>&lt;![CDATA[Oil prices jump nearly 3 per cent as markets open for trading]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 22:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4dd2173b-b283-41e4-8dee-4f04919dea68</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Starmer to set out £50mn energy support package to ease Iran war fallout</title>
-      <link>https://www.ft.com/content/603847c6-d9ad-431f-afd5-a23e0a1e5a1a</link>
-      <description>&lt;![CDATA[Starmer to set out £50mn energy support package to ease Iran war fallout]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 22:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/603847c6-d9ad-431f-afd5-a23e0a1e5a1a</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>India hails talks with Iran to open Strait of Hormuz</title>
-      <link>https://www.ft.com/content/c8ef2abd-964d-4b8a-8dab-3a7a25055f53</link>
-      <description>&lt;![CDATA[India hails talks with Iran to open Strait of Hormuz]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 18:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c8ef2abd-964d-4b8a-8dab-3a7a25055f53</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>UK polo patrons linked to laundering of Venezuelan oil sale proceeds, says US Treasury</title>
-      <link>https://www.ft.com/content/95cdbbce-6e16-4fb0-8d91-d5afc8154f4b</link>
-      <description>&lt;![CDATA[UK polo patrons linked to laundering of Venezuelan oil sale proceeds, says US Treasury]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 15:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/95cdbbce-6e16-4fb0-8d91-d5afc8154f4b</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran war should prompt a North Sea rethink</title>
-      <link>https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667</link>
-      <description>&lt;![CDATA[Iran war should prompt a North Sea rethink]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/568039e3-4707-4ad7-98b7-fb0df57d4667</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Zelenskyy challenges Europe over Russian oil imports</title>
-      <link>https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552</link>
-      <description>&lt;![CDATA[Zelenskyy challenges Europe over Russian oil imports]]&gt;</description>
-      <pubDate>Sun, 15 Mar 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9e7dc3e6-e79d-4a9b-adc3-ab4c7a7ad552</guid>
       <category>Finance</category>
     </item>
   </channel>
