@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Mar 2026 06:13:00 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 06:13:05 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 08:43:00 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 08:43:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,197 +14,99 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径</title>
-      <link>https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Webpack发布2026路线图：原生CSS支持、通用目标及向6.0版本的演进路径]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ke9rP6GV4bm5ZNcuprsB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>地瓜机器人完成1.2亿美元B1轮融资，三家大厂都投了</title>
+      <link>https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[地瓜机器人完成1.2亿美元B1轮融资，三家大厂都投了]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
-粮”的⼯程实验</title>
+      <title>Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic</title>
+      <link>https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进</title>
+      <link>https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报</title>
+      <link>https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间</title>
+      <link>https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》</title>
       <link>https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把99.9% 代码交给 AI ：腾讯云⼀次“吃狗
-粮”的⼯程实验]]&gt;</description>
+      <description>&lt;![CDATA[《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》]]&gt;</description>
       <pubDate>Mon, 16 Mar 2026 13:23:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级</title>
-      <link>https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Uno Platform 6.5 发布：支持 AI 智能体、Unicode 文本，Studio 工具进行了全面升级]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/aRIzpes04v3QqyrYbzBB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>养老服务师持证上岗，养老服务发展突破口｜养老金研究</title>
+      <link>https://www.tmtpost.com/7915869.html</link>
+      <description>&lt;![CDATA[养老服务师持证上岗，养老服务发展突破口｜养老金研究]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915869.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Datadog如何将其Agent的Go二进制文件缩减77%</title>
-      <link>https://www.infoq.cn/article/47GZpwrTxtLp7409put5?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Datadog如何将其Agent的Go二进制文件缩减77%]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/47GZpwrTxtLp7409put5?utm_source=rss&amp;utm_medium=article</guid>
+      <title>数字科技类被动型股票指数基金分类研究分析</title>
+      <link>https://www.tmtpost.com/7915866.html</link>
+      <description>&lt;![CDATA[数字科技类被动型股票指数基金分类研究分析]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 16:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915866.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察</title>
-      <link>https://www.tmtpost.com/7915544.html</link>
-      <description>&lt;![CDATA[AI每年创造4.4万亿美元价值，但企业级应用为何仍难落地？丨ToB产业观察]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915544.html</guid>
+      <title>美宜佳假烟风波：狂奔四万店背后的失控与隐忧</title>
+      <link>https://www.tmtpost.com/7915590.html</link>
+      <description>&lt;![CDATA[美宜佳假烟风波：狂奔四万店背后的失控与隐忧]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915590.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型时代之后，AI正在寻找真实场景</title>
-      <link>https://www.tmtpost.com/7914291.html</link>
-      <description>&lt;![CDATA[大模型时代之后，AI正在寻找真实场景]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7914291.html</guid>
+      <title>当Meta变成一台精密机器：扎克伯格的断腕与硅谷的终结</title>
+      <link>https://www.tmtpost.com/7915304.html</link>
+      <description>&lt;![CDATA[当Meta变成一台精密机器：扎克伯格的断腕与硅谷的终结]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7915304.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话Canva可画中国王可辛：AI始终是人的乙方｜AGI独家</title>
-      <link>https://www.tmtpost.com/7915627.html</link>
-      <description>&lt;![CDATA[对话Canva可画中国王可辛：AI始终是人的乙方｜AGI独家]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915627.html</guid>
+      <title>团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b</link>
+      <description>&lt;![CDATA[团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247532253&amp;idx=1&amp;sn=f0b730153a3b916e6e5aa8f956bc2e5b</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>高精度激光雷达企业珞珈伊云完成数千万Pre-A轮融资，中博聚力领投｜融资速递</title>
-      <link>https://www.tmtpost.com/7915615.html</link>
-      <description>&lt;![CDATA[高精度激光雷达企业珞珈伊云完成数千万Pre-A轮融资，中博聚力领投｜融资速递]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915615.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>独家对话灵心巧手周永：他要造100万双灵巧手，只想成为机器猫的万能口袋｜AI Founder 请回答</title>
-      <link>https://www.tmtpost.com/7915189.html</link>
-      <description>&lt;![CDATA[独家对话灵心巧手周永：他要造100万双灵巧手，只想成为机器猫的万能口袋｜AI Founder 请回答]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915189.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>「龙虾」炸出了腾讯的AI底牌</title>
-      <link>https://www.tmtpost.com/7915205.html</link>
-      <description>&lt;![CDATA[「龙虾」炸出了腾讯的AI底牌]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915205.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊</title>
-      <link>https://www.tmtpost.com/7915179.html</link>
-      <description>&lt;![CDATA[央视315曝光AI“投毒”，我们和几位GEO从业者聊了聊]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915179.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从泡椒凤爪到AI投毒，315撕下了多少消费企业的“新装”？</title>
-      <link>https://www.tmtpost.com/7915530.html</link>
-      <description>&lt;![CDATA[从泡椒凤爪到AI投毒，315撕下了多少消费企业的“新装”？]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915530.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>新一代百亿抗凝大药将至</title>
-      <link>https://www.tmtpost.com/7915071.html</link>
-      <description>&lt;![CDATA[新一代百亿抗凝大药将至]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915071.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>哈啰被央视“3·15”晚会点名，除了租赁乱象仍有“灰色交易”待解</title>
-      <link>https://www.tmtpost.com/7915577.html</link>
-      <description>&lt;![CDATA[哈啰被央视“3·15”晚会点名，除了租赁乱象仍有“灰色交易”待解]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 12:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915577.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>氮化镓，全面起飞</title>
-      <link>https://www.tmtpost.com/7915494.html</link>
-      <description>&lt;![CDATA[氮化镓，全面起飞]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915494.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多</title>
-      <link>https://www.tmtpost.com/7915293.html</link>
-      <description>&lt;![CDATA[1200亿元，Kimi估值狂飙4倍，但市场里看懂的人还不多]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915293.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从业者讲述：被315曝光的GEO，如何精准“忽悠”AI？</title>
-      <link>https://www.tmtpost.com/7915165.html</link>
-      <description>&lt;![CDATA[从业者讲述：被315曝光的GEO，如何精准“忽悠”AI？]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915165.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>给AI投毒，一场关于“最终答案”的信任战争</title>
-      <link>https://www.tmtpost.com/7915193.html</link>
-      <description>&lt;![CDATA[给AI投毒，一场关于“最终答案”的信任战争]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:38:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915193.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>哈啰出行，上市更难了？</title>
-      <link>https://www.tmtpost.com/7915344.html</link>
-      <description>&lt;![CDATA[哈啰出行，上市更难了？]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915344.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>詹鼎系两年资本梦碎记：二股东离场、关联暴雷、重组折戟</title>
-      <link>https://www.tmtpost.com/7911763.html</link>
-      <description>&lt;![CDATA[詹鼎系两年资本梦碎记：二股东离场、关联暴雷、重组折戟]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7911763.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组</title>
-      <link>https://www.tmtpost.com/7915027.html</link>
-      <description>&lt;![CDATA[【钛晨报】央视3·15曝光7大行业乱象，涉及这些公司，监管部门火速行动；追觅预计本周发射第一颗太空算力卫星；京投发展筹划剥离地产业务，预计构成重大资产重组]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7915027.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2025 年度征文 | 新晋一家三口的秩序重建</title>
-      <link>https://sspai.com/post/106839</link>
-      <description>&lt;![CDATA[2025 年度征文 | 新晋一家三口的秩序重建]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 11:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/106839</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象</title>
-      <link>https://sspai.com/post/107396</link>
-      <description>&lt;![CDATA[派早报：市场监管总局整治「大字吸睛、小字免责」等广告乱象]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 07:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/107396</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>青年韭菜巴菲特？不做价投爱套利？预测行情遭打脸？分币不投骗资金？</title>
-      <link>http://www.huxiu.com/article/4841650.html?f=wangzhan</link>
-      <description>&lt;![CDATA[青年韭菜巴菲特？不做价投爱套利？预测行情遭打脸？分币不投骗资金？]]&gt;</description>
-      <pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.huxiu.com/article/4841650.html?f=wangzhan</guid>
+      <title>TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验</title>
+      <link>https://sspai.com/post/107131</link>
+      <description>&lt;![CDATA[TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验]]&gt;</description>
+      <pubDate>Mon, 16 Mar 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/107131</guid>
       <category>Technology</category>
     </item>
   </channel>

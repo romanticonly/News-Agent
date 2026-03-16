@@ -2,60 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "36212fb2b5c00279a930983c5b4e247540a16578157f8426502664d208d8f8a7": {
-        "title": "马云督战、马化腾喊话，AI红包大战谁能胜出？",
-        "link": "https://www.tmtpost.com/7879610.html",
-        "published_date": "Sat, 14 Feb 2026 15:54:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099247"
-      },
-      "889315c534a57c96efea19d7904685bc6ad459add004031e536da2a6e83435b0": {
-        "title": "【数智周报】豆包大模型2.0发布；智谱GLM-5已深度适配华为昇腾等国产芯片；Anthropic宣布300亿美元融资，估值达3800亿美元； 欧盟批准谷歌320亿美元收购Wiz",
-        "link": "https://www.tmtpost.com/7880242.html",
-        "published_date": "Sat, 14 Feb 2026 15:41:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099259"
-      },
-      "d4d332867f3a6c42d3018094ea6b8564df64f26634a8ce37ab064b8d1f9e0bc5": {
-        "title": "酣战春节档，“腾网米”卷出新花样",
-        "link": "https://www.tmtpost.com/7880688.html",
-        "published_date": "Sat, 14 Feb 2026 15:09:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099261"
-      },
-      "67d72f05f02778264418f3ac6160dbf533d7f7da1e35e02dc670819308207f7e": {
-        "title": "春节抢黄金，谁赚到钱了？",
-        "link": "https://www.tmtpost.com/7880573.html",
-        "published_date": "Sat, 14 Feb 2026 14:27:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099263"
-      },
-      "ce2800d4841ff349edd75b261943dea26cf406b798e8ae2634b0f0ffe09a2824": {
-        "title": "联合光电回复2.6亿并购问询：业绩承诺“争议”引关注，标的盈利“过山车”隐忧仍存",
-        "link": "https://www.tmtpost.com/7880776.html",
-        "published_date": "Sat, 14 Feb 2026 14:23:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099266"
-      },
-      "515f542152d1f6f5073dc4e4fbe922fe3340f6c77d3b05d55eb7a700d63d6ad4": {
-        "title": "153家药企医保失信被点名：上市公司关联主体承压，新规重塑行业合规逻辑",
-        "link": "https://www.tmtpost.com/7880777.html",
-        "published_date": "Sat, 14 Feb 2026 14:19:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099267"
-      },
-      "19ce75f98b6f4368e11defd0eb6b038e2971c083f42d39cb16d39a022701fe65": {
-        "title": "亚马逊股价九连跌：市值蒸发4630亿美元，AI巨额投资引发市场担忧",
-        "link": "https://www.tmtpost.com/7880723.html",
-        "published_date": "Sat, 14 Feb 2026 13:39:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099269"
-      },
-      "fc4bf6167b77ae711d149bb476bc59124ec4e723501d74d84c5fb073d7f1c1e3": {
-        "title": "一周 6000+ Star！这个 Clawdbot 的轻量开源平替火了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531315&idx=1&sn=dcc41e589c929c0a0989795a1d8a0e29",
-        "published_date": "Sat, 14 Feb 2026 15:38:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099271"
-      },
-      "c04dd4197451df006382388d49c1242fa208e817854780d6d05668924d7c126f": {
-        "title": "Windsurf 推出 Arena Mode，可在开发过程中对比 AI 模型",
-        "link": "https://www.infoq.cn/article/U93SfJ0k03fptmVZeWqQ?utm_source=rss&utm_medium=article",
-        "published_date": "Sat, 14 Feb 2026 15:00:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.099272"
-      },
       "ccd46867a1b83737ddefed06a1f8275160f5d62a0b323085cf88339ce88768e8": {
         "title": "网易这一年的停与进",
         "link": "https://www.tmtpost.com/7880129.html",
@@ -8743,15 +8689,81 @@
         "link": "http://www.huxiu.com/article/4841650.html?f=wangzhan",
         "published_date": "Mon, 16 Mar 2026 09:00:00 GMT",
         "first_seen": "2026-03-16T06:13:05.283996"
+      },
+      "cb962ba1290cf1434e9fae9f2a81a9f989fa96242e4c93d31d4f9d0b2cfdffb9": {
+        "title": "地瓜机器人完成1.2亿美元B1轮融资，三家大厂都投了",
+        "link": "https://www.infoq.cn/article/VAJUJjHTi7VyFPrBV1Q8?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:32:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384249"
+      },
+      "d74204bdf4b7ca47996a5e0177f61cf4b6161d02c65100a25869e23b9a6cfc89": {
+        "title": "Grok编程掉队，马斯克怒了：xAI裁员、清洗联创，放话3个月追上OpenAI、Anthropic",
+        "link": "https://www.infoq.cn/article/CUFmTdZvl9ju5YLeeImJ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:27:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384258"
+      },
+      "b28adffa1eb60cf11785f5b2ffaef464a31e6207ee8212f37e99e893efe42b19": {
+        "title": "阿里中国电商事业群、飞猪CTO 陈烨博士已确认出席QCon北京站，分享消费级智能体的演进",
+        "link": "https://www.infoq.cn/article/1eaUWzjcSYXh0C6D4xK0?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:24:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384260"
+      },
+      "2ad31a0dccb82a3341c58cbf92809ad6eb2996d6151a202958a593f308d1d128": {
+        "title": "字节暂停Seedance2.0全球发布，回应武汉全员被裁；曝梁文锋将携DeepSeek V4撞上姚顺雨；央视315曝给AI大模型投毒已成产业链 | AI周报",
+        "link": "https://www.infoq.cn/article/5ZXUYlk07YF3WGSEG5uC?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 16:23:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384262"
+      },
+      "666c4c17b46369729da6aa523825e78d341de4b7052778adf082500e1e7e0e10": {
+        "title": "从分到秒：Uber通过共识架构提升MySQL集群的正常运行时间",
+        "link": "https://www.infoq.cn/article/NjIx3ifpa6w5cF4eDdNP?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384263"
+      },
+      "77a744730380a5f0bb605d451971c7109aa6a749b94da12c0c0cb261d8d68626": {
+        "title": "《把99.9% 代码交给 AI ：腾讯云一次“吃狗粮”的工程实验》",
+        "link": "https://www.infoq.cn/article/d1cu8AjsPsMZoMQVRlcr?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 16 Mar 2026 13:23:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384265"
+      },
+      "f7054e2586e5dcd9bb5af66a77b393397ad5b89dff1d72729715b4f15704d806": {
+        "title": "养老服务师持证上岗，养老服务发展突破口｜养老金研究",
+        "link": "https://www.tmtpost.com/7915869.html",
+        "published_date": "Mon, 16 Mar 2026 16:11:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384266"
+      },
+      "0181a31bf0dea8df9335a44f2b1346bec79cd4a690ca1817d3c9b9c8b420358a": {
+        "title": "数字科技类被动型股票指数基金分类研究分析",
+        "link": "https://www.tmtpost.com/7915866.html",
+        "published_date": "Mon, 16 Mar 2026 16:10:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384267"
+      },
+      "999ca781b0daa35a9218bdf9ae8275a7379473812baa39be3221f1c42b5a94f7": {
+        "title": "美宜佳假烟风波：狂奔四万店背后的失控与隐忧",
+        "link": "https://www.tmtpost.com/7915590.html",
+        "published_date": "Mon, 16 Mar 2026 15:26:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384269"
+      },
+      "3a5c99628b4f6681cf13736030db3099976256af31636f920f1177e558e38641": {
+        "title": "当Meta变成一台精密机器：扎克伯格的断腕与硅谷的终结",
+        "link": "https://www.tmtpost.com/7915304.html",
+        "published_date": "Mon, 16 Mar 2026 15:26:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384270"
+      },
+      "3c6e4d55e9366ed0ab76fa0fe4256463c969d7c07698b635d1310870055ef644": {
+        "title": "团队版 OpenClaw 开源了！这个 GitHub 项目让小龙虾更好的协作。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532253&idx=1&sn=f0b730153a3b916e6e5aa8f956bc2e5b",
+        "published_date": "Mon, 16 Mar 2026 15:05:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384271"
+      },
+      "c8cc3507f07641f7215439ebdd629ba272d4bde86edacf3b2055309c5d552a9a": {
+        "title": "TDS REVIEW｜天龙 PerL Pro 降噪真无线耳机体验",
+        "link": "https://sspai.com/post/107131",
+        "published_date": "Mon, 16 Mar 2026 15:00:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.384273"
       }
     },
     "Finance": {
-      "536b2840f718d2c7bb76710ce8514858463b3541dc76cfd1a76cf52af73b31d7": {
-        "title": "Starmer calls for western alliance to be ‘remade’",
-        "link": "https://www.ft.com/content/beee83f7-6e88-4e49-87c4-802d9dff9053",
-        "published_date": "Sat, 14 Feb 2026 06:28:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.133420"
-      },
       "9c4c60a117f57b66b4a9aa17302ef5574f4b854e13350bba2ee06fff59285c32": {
         "title": "‘We’ve been dating for 5 years’: My boyfriend’s parents say he doesn’t earn enough to marry. Should I speak to his father?",
         "link": "https://www.marketwatch.com/story/weve-been-dating-for-5-years-my-boyfriends-parents-say-he-doesnt-earn-enough-to-marry-should-i-speak-to-his-father-44b48700?mod=mw_rss_topstories",
@@ -13719,21 +13731,15 @@
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories",
         "published_date": "Mon, 16 Mar 2026 03:07:00 GMT",
         "first_seen": "2026-03-16T06:13:05.358283"
+      },
+      "b56cead84496e3cb8b932bd6dfb983500aa4d9ccd561500c30d4a9349916d0b6": {
+        "title": "UniCredit launches €35bn Commerzbank takeover offer",
+        "link": "https://www.ft.com/content/950b9187-45b9-464c-9d34-6ad667b03525",
+        "published_date": "Mon, 16 Mar 2026 07:53:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.426858"
       }
     },
     "Ai": {
-      "f4811792a41e893196d710e22fc83192797f8f5cbe3e63cb9997ea05839099c6": {
-        "title": "《西部世界》开始加载，「斯坦福小镇」团队创业，李飞飞、Karpathy都投了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-3",
-        "published_date": "Sat, 14 Feb 2026 16:01:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.283798"
-      },
-      "a356b3bbf0a14081531a7b123fe8e798852edbe04be53650fd005823b64ec84c": {
-        "title": "情人节暴击！下跪求婚的可以是机器人了",
-        "link": "https://www.jiqizhixin.com/articles/2026-02-14-2",
-        "published_date": "Sat, 14 Feb 2026 15:56:00 GMT",
-        "first_seen": "2026-02-14T08:17:09.283807"
-      },
       "5a180ce24223f0b61c61b61edb8e01a21f9ba967b332d20ea114178c820d0707": {
         "title": "字节跳动发布豆包大模型2.0，主打真实世界复杂任务执行力",
         "link": "https://www.jiqizhixin.com/articles/2026-02-14-9",
@@ -15311,13 +15317,37 @@
         "link": "https://ai.hubtoday.app//2026-03/2026-03-16/",
         "published_date": "Mon, 16 Mar 2026 09:39:00 GMT",
         "first_seen": "2026-03-16T06:13:05.531254"
+      },
+      "a293ffa26fcfddd91470d9326bf8d238f783bec4b297ddf75f65de8118371e54": {
+        "title": "一手实测首个龙虾模型：长路径任务不失误，一人包揽全栈开发",
+        "link": "https://www.qbitai.com/2026/03/388352.html",
+        "published_date": "Mon, 16 Mar 2026 07:39:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.577364"
+      },
+      "f9e2c82cb164b7172103f8edb335c35766e3146dbcb799ceae24e88fb1ed5e6c": {
+        "title": "养虾时代终结？免部署、7×24小时在线、自进化的“赛博骡子”来了！",
+        "link": "https://www.qbitai.com/2026/03/388071.html",
+        "published_date": "Mon, 16 Mar 2026 07:13:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.577371"
+      },
+      "a6a4d8840531d423ef4f474ac292b744b646327d5f6ccf7c4119a6c18e3b6ff1": {
+        "title": "天下苦「调参」久矣！MIT师生推出全新RandOpt算法",
+        "link": "https://www.qbitai.com/2026/03/388054.html",
+        "published_date": "Mon, 16 Mar 2026 07:12:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.577374"
+      },
+      "9241ad1f13bcf007b8faa8a9f4ddd2643cf7d672a56ffc9dfb956de9c12d4a8b": {
+        "title": "不卷速度卷验证，陈天桥MiroMind精准预测15天后黄金价格",
+        "link": "https://www.qbitai.com/2026/03/387990.html",
+        "published_date": "Mon, 16 Mar 2026 06:50:00 GMT",
+        "first_seen": "2026-03-16T08:43:05.577375"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-03-16T06:13:05.283998",
-    "Finance": "2026-03-16T06:13:05.358285",
-    "Ai": "2026-03-16T06:13:05.531261"
+    "Technology": "2026-03-16T08:43:05.384274",
+    "Finance": "2026-03-16T08:43:05.426864",
+    "Ai": "2026-03-16T08:43:05.577377"
   }
 }
