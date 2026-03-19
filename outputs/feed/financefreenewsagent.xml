@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Mar 2026 05:49:00 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 05:49:15 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 23:18:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 23:18:51 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,99 +14,155 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US explored tying naval escorts in Strait of Hormuz to government insurance</title>
-      <link>https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1</link>
-      <description>&lt;![CDATA[US explored tying naval escorts in Strait of Hormuz to government insurance]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/4f3d0c64-42e6-438e-882a-1158532751b1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Iran sets its price to end the war</title>
-      <link>https://www.ft.com/content/869f650b-7a9e-461d-a2bb-0788eb991e6d</link>
-      <description>&lt;![CDATA[Iran sets its price to end the war]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/869f650b-7a9e-461d-a2bb-0788eb991e6d</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump sails into battle with Lloyd’s of London</title>
-      <link>https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6</link>
-      <description>&lt;![CDATA[Trump sails into battle with Lloyd’s of London]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/f95d211f-eab2-40ba-91b0-fbbd57f468d6</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Battersea Power Station in dispute with fired CEO over accounts</title>
-      <link>https://www.ft.com/content/0ea88797-a181-43fa-bcd0-b0c3e0f0bfb4</link>
-      <description>&lt;![CDATA[Battersea Power Station in dispute with fired CEO over accounts]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 05:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/0ea88797-a181-43fa-bcd0-b0c3e0f0bfb4</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>How the Trump White House tries to sell war and death as a game</title>
-      <link>https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1</link>
-      <description>&lt;![CDATA[How the Trump White House tries to sell war and death as a game]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/02b5b54a-364b-4869-a6ff-1bc2d9950aa1</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>PwC US boss says partners who resist AI have no place at the firm</title>
-      <link>https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125</link>
-      <description>&lt;![CDATA[PwC US boss says partners who resist AI have no place at the firm]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/cd365ae8-0f9c-4c33-8ee0-7fad89abd125</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Bank of Japan postpones rate rise after Middle East war erupts</title>
-      <link>https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2</link>
-      <description>&lt;![CDATA[Bank of Japan postpones rate rise after Middle East war erupts]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 03:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/3d404845-88db-46d3-877c-e4c4221223c2</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Japan rebels over $6bn fee for SoftBank under US trade deal</title>
-      <link>https://www.ft.com/content/372a2da8-cc0e-4d39-8f0a-24670ed6a445</link>
-      <description>&lt;![CDATA[Japan rebels over $6bn fee for SoftBank under US trade deal]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 01:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/372a2da8-cc0e-4d39-8f0a-24670ed6a445</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield</title>
+      <title>Oil and stocks swing as Iran war ignites fresh tumult in markets</title>
       <link>https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86</link>
-      <description>&lt;![CDATA[Oil above $110 as Trump says US could ‘massively’ blow up Iran gasfield]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 23:37:00 GMT</pubDate>
+      <description>&lt;![CDATA[Oil and stocks swing as Iran war ignites fresh tumult in markets]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 23:13:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/07f52f59-528b-4bc4-9fca-5fee5f7f6e86</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Almost 1 in 3 Americans doesn’t know when — or even if — they can retire</title>
-      <link>https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Almost 1 in 3 Americans doesn’t know when — or even if — they can retire]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 04:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/almost-1-in-3-americans-doesnt-know-when-or-even-if-they-can-retire-b11686f6?mod=mw_rss_topstories</guid>
+      <title>Gilts sell off after Bank of England warns of inflation risks</title>
+      <link>https://www.ft.com/content/c0a967b6-19d0-4e50-9a8e-8ae510d43d08</link>
+      <description>&lt;![CDATA[Gilts sell off after Bank of England warns of inflation risks]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 19:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c0a967b6-19d0-4e50-9a8e-8ae510d43d08</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Social media is eroding young people’s happiness. Low-income teens may be most at risk.</title>
-      <link>https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Social media is eroding young people’s happiness. Low-income teens may be most at risk.]]&gt;</description>
-      <pubDate>Thu, 19 Mar 2026 00:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/social-media-is-eroding-young-peoples-happiness-low-income-teens-may-be-most-at-risk-446a0965?mod=mw_rss_topstories</guid>
+      <title>IG Group considers New York listing in latest blow to London’s stock exchange</title>
+      <link>https://www.ft.com/content/c0a9865c-9fcd-44b5-8300-0be2244d890a</link>
+      <description>&lt;![CDATA[IG Group considers New York listing in latest blow to London’s stock exchange]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 18:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c0a9865c-9fcd-44b5-8300-0be2244d890a</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Why Starbucks’ turnaround plans might not win over the younger crowd</title>
-      <link>https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Why Starbucks’ turnaround plans might not win over the younger crowd]]&gt;</description>
-      <pubDate>Wed, 18 Mar 2026 23:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/why-starbucks-expensive-revamp-might-not-win-over-a-younger-crowd-5d00355e?mod=mw_rss_topstories</guid>
+      <title>Iran allows handful of favoured ships through Strait of Hormuz</title>
+      <link>https://www.ft.com/content/d2198c3a-520b-4e88-aad4-d83a03b4f7be</link>
+      <description>&lt;![CDATA[Iran allows handful of favoured ships through Strait of Hormuz]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 17:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d2198c3a-520b-4e88-aad4-d83a03b4f7be</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>WPP proposes £11mn pay packet for CEO Rose amid share-price plunge</title>
+      <link>https://www.ft.com/content/03faa483-d16d-4aed-81b6-097623fb1bc7</link>
+      <description>&lt;![CDATA[WPP proposes £11mn pay packet for CEO Rose amid share-price plunge]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 17:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/03faa483-d16d-4aed-81b6-097623fb1bc7</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump administration says it is not considering oil export ban as prices surge</title>
+      <link>https://www.ft.com/content/126efbff-251b-4a0f-8031-29864385d7fe</link>
+      <description>&lt;![CDATA[Trump administration says it is not considering oil export ban as prices surge]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/126efbff-251b-4a0f-8031-29864385d7fe</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Denmark was ready to blow up Greenland runways if US invaded</title>
+      <link>https://www.ft.com/content/e0783399-613f-4432-87a3-262698f3f6ca</link>
+      <description>&lt;![CDATA[Denmark was ready to blow up Greenland runways if US invaded]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 15:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e0783399-613f-4432-87a3-262698f3f6ca</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dubai tourism reels from Iranian missiles</title>
+      <link>https://www.ft.com/content/1133792e-97d0-4e6a-bfef-56d5f9ab93f2</link>
+      <description>&lt;![CDATA[Dubai tourism reels from Iranian missiles]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1133792e-97d0-4e6a-bfef-56d5f9ab93f2</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>ECB holds interest rates at 2% as energy prices soar</title>
+      <link>https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd</link>
+      <description>&lt;![CDATA[ECB holds interest rates at 2% as energy prices soar]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 14:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/5757febc-d888-4d34-af83-4a6b0f7a11dd</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>These charts suggest the bears aren’t done with the stock market yet</title>
+      <link>https://www.marketwatch.com/story/these-charts-suggest-the-bears-arent-done-with-the-stock-market-yet-171d9cb5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[These charts suggest the bears aren’t done with the stock market yet]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 23:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/these-charts-suggest-the-bears-arent-done-with-the-stock-market-yet-171d9cb5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying</title>
+      <link>https://www.marketwatch.com/story/fedex-is-getting-more-upbeat-about-the-year-despite-surging-fuel-costs-6b48ed2e?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[FedEx is upbeat about shipping demand despite surging fuel costs — and the stock is rallying]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 23:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/fedex-is-getting-more-upbeat-about-the-year-despite-surging-fuel-costs-6b48ed2e?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This is when Trump will need an Iran-conflict offramp if oil prices aren’t contained</title>
+      <link>https://www.marketwatch.com/story/this-is-when-trump-will-need-an-iran-conflict-offramp-if-oil-prices-arent-contained-5870a40c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This is when Trump will need an Iran-conflict offramp if oil prices aren’t contained]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 23:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-when-trump-will-need-an-iran-conflict-offramp-if-oil-prices-arent-contained-5870a40c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers</title>
+      <link>https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This is Jeff Bezos’s plan to rival Elon Musk in the race for space-based data centers]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-is-jeff-bezoss-plan-to-rival-elon-musk-in-the-race-for-space-based-data-centers-77f46b25?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why Micron’s stock is sliding despite Nvidia-like earnings performance</title>
+      <link>https://www.marketwatch.com/story/why-microns-stock-is-sliding-despite-nvidia-like-earnings-performance-fa9729f7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Why Micron’s stock is sliding despite Nvidia-like earnings performance]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/why-microns-stock-is-sliding-despite-nvidia-like-earnings-performance-fa9729f7?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Rivian’s stock pops as the EV maker becomes the latest to partner with Uber</title>
+      <link>https://www.marketwatch.com/story/rivians-stock-is-popping-as-the-ev-maker-becomes-the-latest-to-partner-with-uber-4540c29d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Rivian’s stock pops as the EV maker becomes the latest to partner with Uber]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/rivians-stock-is-popping-as-the-ev-maker-becomes-the-latest-to-partner-with-uber-4540c29d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Planet Labs’ stock soars as the satellite company says AI will unlock more business</title>
+      <link>https://www.marketwatch.com/story/planet-labs-stock-soars-as-the-satellite-company-says-ai-will-unlock-more-business-de4a262c?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Planet Labs’ stock soars as the satellite company says AI will unlock more business]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/planet-labs-stock-soars-as-the-satellite-company-says-ai-will-unlock-more-business-de4a262c?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.</title>
+      <link>https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The ‘smart money’ fled software stocks after that viral AI doomsday report. Here’s where it’s going.]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 22:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/a-research-firms-obituary-for-software-stocks-vaporized-billions-heres-the-part-the-market-is-finally-admitting-698ad05b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Betting scandals leave pro sports just one way to save the $165 billion gaming market</title>
+      <link>https://www.marketwatch.com/story/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market-08b15d7d?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Betting scandals leave pro sports just one way to save the $165 billion gaming market]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 21:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/wave-of-sports-betting-scandals-proves-the-need-for-an-independent-watchdog-to-protect-a-165-billion-market-08b15d7d?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors are bracing for wild trading on Friday as first ‘triple witching’ of 2026 collides with Iran conflict</title>
+      <link>https://www.marketwatch.com/story/investors-are-bracing-for-wild-trading-on-friday-as-first-triple-witching-of-2026-collides-with-iran-conflict-0a4fdef7?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors are bracing for wild trading on Friday as first ‘triple witching’ of 2026 collides with Iran conflict]]&gt;</description>
+      <pubDate>Thu, 19 Mar 2026 21:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/investors-are-bracing-for-wild-trading-on-friday-as-first-triple-witching-of-2026-collides-with-iran-conflict-0a4fdef7?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
