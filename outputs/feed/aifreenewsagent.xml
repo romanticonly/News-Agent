@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 21 Mar 2026 05:34:00 GMT</pubDate>
-    <lastBuildDate>Sat, 21 Mar 2026 05:35:05 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Mar 2026 08:17:00 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Mar 2026 08:19:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-21日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-21/</link>
-      <description>&lt;![CDATA[2026-03-21日刊]]&gt;</description>
-      <pubDate>Sat, 21 Mar 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-21/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>对话越疆刘培超：春晚隐藏具身选手，却是百亿市值大玩家</title>
-      <link>https://www.qbitai.com/2026/03/390531.html</link>
-      <description>&lt;![CDATA[对话越疆刘培超：春晚隐藏具身选手，却是百亿市值大玩家]]&gt;</description>
-      <pubDate>Sat, 21 Mar 2026 02:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/390531.html</guid>
+      <title>北航团队为龙虾安全紧急开刀！开源OpenClaw风险防御工具，梳理9大高危风险缓解措施</title>
+      <link>https://www.qbitai.com/2026/03/390918.html</link>
+      <description>&lt;![CDATA[北航团队为龙虾安全紧急开刀！开源OpenClaw风险防御工具，梳理9大高危风险缓解措施]]&gt;</description>
+      <pubDate>Sat, 21 Mar 2026 05:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/390918.html</guid>
       <category>Ai</category>
     </item>
   </channel>
