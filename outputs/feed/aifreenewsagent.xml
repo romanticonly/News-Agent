@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 23 Mar 2026 08:40:00 GMT</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2026 08:40:51 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Mar 2026 23:20:00 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:20:27 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书</title>
-      <link>https://www.qbitai.com/2026/03/391361.html</link>
-      <description>&lt;![CDATA[字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 08:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391361.html</guid>
+      <title>陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年</title>
+      <link>https://www.qbitai.com/2026/03/391515.html</link>
+      <description>&lt;![CDATA[陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 10:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391515.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖</title>
-      <link>https://www.qbitai.com/2026/03/391359.html</link>
-      <description>&lt;![CDATA[寻找最强具身大脑！全球机器人顶会ICRA开启报名，智元全程陪跑带你拿奖]]&gt;</description>
-      <pubDate>Mon, 23 Mar 2026 08:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391359.html</guid>
+      <title>岚图泰山Ultra启动交付，全新一代896线激光雷达上车</title>
+      <link>https://www.qbitai.com/2026/03/391489.html</link>
+      <description>&lt;![CDATA[岚图泰山Ultra启动交付，全新一代896线激光雷达上车]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 09:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391489.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后</title>
+      <link>https://www.qbitai.com/2026/03/391474.html</link>
+      <description>&lt;![CDATA[Momenta不选VLA选世界模型，大众首发！曹旭东：传感器重要性最后]]&gt;</description>
+      <pubDate>Mon, 23 Mar 2026 08:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/391474.html</guid>
       <category>Ai</category>
     </item>
   </channel>
