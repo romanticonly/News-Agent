@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-23 06:03
+**最后更新时间**: 2026-03-23 08:40
+
+---
+
+## 🆕 最新更新 (2026-03-23 08:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [London ambulances set on fire in suspected antisemitic incident](https://www.ft.com/content/041820ee-3bce-4234-8ad5-be43f9b310b4)
+**发布时间**: 2026-03-23 06:56
+
+#### [Gilts: blame the hedge funds?](https://www.ft.com/content/829a7ead-bbc0-4108-9136-a4fbd79ab34d)
+**发布时间**: 2026-03-23 06:30
+
+#### [Qatar Airways parks long-haul jets in storage in Spain](https://www.ft.com/content/7c3365bf-f4b2-4fca-80b5-e331534acd40)
+**发布时间**: 2026-03-23 05:00
+
+#### [Stocks tumble as Trump and Iran step up threats](https://www.ft.com/content/06db9d82-01f3-49ba-951c-3bb784ae4eb2)
+**发布时间**: 2026-03-23 02:50
 
 ---
 
