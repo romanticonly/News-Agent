@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-26 06:06
+**最后更新时间**: 2026-03-26 08:40
+
+---
+
+## 🆕 最新更新 (2026-03-26 08:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [England set to charge foreign tourists for entry to leading museums](https://www.ft.com/content/306e7f2d-fc1d-4a0f-acf0-335289da8e42)
+**发布时间**: 2026-03-26 00:01
 
 ---
 
