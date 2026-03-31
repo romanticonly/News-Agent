@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-03-30 23:24
+**最后更新时间**: 2026-03-31 06:08
+
+---
+
+## 🆕 最新更新 (2026-03-31 06:08)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-03-31日刊](https://ai.hubtoday.app//2026-03/2026-03-31/)
+**发布时间**: 2026-03-31 09:43
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Meta华人实习生搞出超级智能体！自己写代码实现自我进化](https://www.qbitai.com/2026/03/393645.html)
+**发布时间**: 2026-03-31 04:32
+
+#### [2026科创合伙人大会成功举办！构建科创合伙人生态，激活高质量发展新动能](https://www.qbitai.com/2026/03/393631.html)
+**发布时间**: 2026-03-31 04:28
+
+#### [黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国](https://www.qbitai.com/2026/03/393483.html)
+**发布时间**: 2026-03-31 04:20
+
+#### [别再让AI只干零活了！AI工具正在接管投放全链路](https://www.qbitai.com/2026/03/393471.html)
+**发布时间**: 2026-03-31 01:03
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
+**发布时间**: 2026-03-31 02:03
 
 ---
 
