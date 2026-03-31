@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 31 Mar 2026 06:08:00 GMT</pubDate>
-    <lastBuildDate>Tue, 31 Mar 2026 06:14:20 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 23:22:00 GMT</pubDate>
+    <lastBuildDate>Tue, 31 Mar 2026 23:24:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-03-31日刊</title>
-      <link>https://ai.hubtoday.app//2026-03/2026-03-31/</link>
-      <description>&lt;![CDATA[2026-03-31日刊]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 09:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-03/2026-03-31/</guid>
+      <title>Building better AI benchmarks: How many raters are enough?</title>
+      <link>https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</link>
+      <description>&lt;![CDATA[Building better AI benchmarks: How many raters are enough?]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 16:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Meta华人实习生搞出超级智能体！自己写代码实现自我进化</title>
-      <link>https://www.qbitai.com/2026/03/393645.html</link>
-      <description>&lt;![CDATA[Meta华人实习生搞出超级智能体！自己写代码实现自我进化]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 04:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393645.html</guid>
+      <title>公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度</title>
+      <link>https://www.qbitai.com/2026/03/394149.html</link>
+      <description>&lt;![CDATA[公司注册10天，估值逾10亿美元！理想智驾大牛刷出具身创投新热度]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394149.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>2026科创合伙人大会成功举办！构建科创合伙人生态，激活高质量发展新动能</title>
-      <link>https://www.qbitai.com/2026/03/393631.html</link>
-      <description>&lt;![CDATA[2026科创合伙人大会成功举办！构建科创合伙人生态，激活高质量发展新动能]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 04:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393631.html</guid>
+      <title>智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了</title>
+      <link>https://www.qbitai.com/2026/03/394135.html</link>
+      <description>&lt;![CDATA[智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 12:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394135.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国</title>
-      <link>https://www.qbitai.com/2026/03/393483.html</link>
-      <description>&lt;![CDATA[黄仁勋也站台的抱抱脸机器人卖爆了，背后公司竟来自中国]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 04:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393483.html</guid>
+      <title>刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！</title>
+      <link>https://www.qbitai.com/2026/03/394014.html</link>
+      <description>&lt;![CDATA[刚刚，TRAE SOLO上线独立端：已经不满足写代码，还要跨界干活！]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 10:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394014.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>别再让AI只干零活了！AI工具正在接管投放全链路</title>
-      <link>https://www.qbitai.com/2026/03/393471.html</link>
-      <description>&lt;![CDATA[别再让AI只干零活了！AI工具正在接管投放全链路]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 01:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393471.html</guid>
+      <title>ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”</title>
+      <link>https://www.qbitai.com/2026/03/394011.html</link>
+      <description>&lt;![CDATA[ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 09:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/394011.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly</title>
-      <link>https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</link>
-      <description>&lt;![CDATA[Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly]]&gt;</description>
-      <pubDate>Tue, 31 Mar 2026 02:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/</guid>
+      <title>智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾</title>
+      <link>https://www.qbitai.com/2026/03/393984.html</link>
+      <description>&lt;![CDATA[智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 08:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393984.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码</title>
+      <link>https://www.qbitai.com/2026/03/393941.html</link>
+      <description>&lt;![CDATA[实测拿215项SOTA的Qwen3.5-Omni：摄像头一开，AI给我现场讲论文、撸代码]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 08:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393941.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>机器人线下真机对线打PK！这届黑客松可太会玩了</title>
+      <link>https://www.qbitai.com/2026/03/393887.html</link>
+      <description>&lt;![CDATA[机器人线下真机对线打PK！这届黑客松可太会玩了]]&gt;</description>
+      <pubDate>Tue, 31 Mar 2026 06:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/03/393887.html</guid>
       <category>Ai</category>
     </item>
   </channel>
