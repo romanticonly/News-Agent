@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-02 06:06
+**最后更新时间**: 2026-04-02 08:44
+
+---
+
+## 🆕 最新更新 (2026-04-02 08:44)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Apple fused Japanese craft with Chinese scale](https://www.ft.com/content/95fda471-0694-4445-8222-30e09b03887b)
+**发布时间**: 2026-04-02 04:00
+
+#### [Oil jumps 7% as Trump speech revives anxiety about Iran conflict](https://www.ft.com/content/7181cef1-6d7c-45bd-85cd-5feafbbd0cfd)
+**发布时间**: 2026-04-02 00:23
 
 ---
 
