@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-03 06:07
+**最后更新时间**: 2026-04-03 08:41
+
+---
+
+## 🆕 最新更新 (2026-04-03 08:41)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK motorists to face £2 a litre diesel within days](https://www.ft.com/content/05d3776b-5cf9-4a0f-94af-1c7e1c56d034)
+**发布时间**: 2026-04-03 04:00
+
+#### [Inside Tehran, a city under attack](https://www.ft.com/content/f5e9f184-50bf-466e-8f43-09c7321d0598)
+**发布时间**: 2026-04-03 04:00
 
 ---
 
