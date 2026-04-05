@@ -2,84 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "20a92ac4621fa995a2b9d0169563b71efeacd7dbacb31a7515545cc629e6b88d": {
-        "title": "黄金、港股与美元：地缘冲突下的资产价格逻辑",
-        "link": "https://www.tmtpost.com/7901686.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769390"
-      },
-      "54394b4bc133351c07ec2fed0db966469b0a2f6a4450dbfbcb911f906ede35c0": {
-        "title": "全村人都在等着DeepSeek上桌吃饭了",
-        "link": "https://www.tmtpost.com/7902250.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769400"
-      },
-      "e7349cb60f89ecf5dd4612192459f6ab3413a3d7ead2a859faf971267f1c7adf": {
-        "title": "我对林俊旸离职的看法：阿里AI的大方向没有变",
-        "link": "https://www.tmtpost.com/7902263.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769403"
-      },
-      "9af7522d0cef483b8bd4e173f94a8e246b335ca33b8a6e96591ed6383337dd46": {
-        "title": "创新药的“第四条路”",
-        "link": "https://www.tmtpost.com/7902299.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769405"
-      },
-      "fe88187424efbb62c970c55b4f96402d8e554525e21ae9d9a093c4089f855845": {
-        "title": "迈威尔科技 Marvell：ASIC 单卡扑空，靠互联杀回 AI！",
-        "link": "https://www.tmtpost.com/7902324.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769407"
-      },
-      "af84b4e333eebfce721deb62b8f5445ef8967783d13136d5d3380aff616075cf": {
-        "title": "酒店频繁涨价，不能全怪华住亚朵",
-        "link": "https://www.tmtpost.com/7902495.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769409"
-      },
-      "3b23e0d174b0eca71bfcf1678e7b8f96548aee1f822b599beaa91e7c03b09db5": {
-        "title": "他，28岁，清华辍学3年，从生活费2000元到身价数亿",
-        "link": "https://www.tmtpost.com/7902337.html",
-        "published_date": "Fri, 06 Mar 2026 15:28:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769410"
-      },
-      "a13bc783e197006e706c3ff6b12f32d507ad8324c784a5000ad38766d6239486": {
-        "title": "她们一直在工作，只是历史很少看见她们",
-        "link": "https://www.tmtpost.com/7902152.html",
-        "published_date": "Fri, 06 Mar 2026 14:51:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769412"
-      },
-      "044cd3b63101580c78e5fc6b824828c42d6b9cd58ee85f7a6de3a93957be18aa": {
-        "title": "MWC 2026：当AI拥有“身体”，中国掌握\"造物权\"",
-        "link": "https://www.tmtpost.com/7902280.html",
-        "published_date": "Fri, 06 Mar 2026 13:50:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769413"
-      },
-      "ae00c2af8f7a43f851b7b452929e0297204b45993128c3ab3be644692c21283b": {
-        "title": "给 OpenClaw 小龙虾🦞搞个像素办公室，这个 GitHub 项目有趣啊。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531911&idx=1&sn=95d400dc01f9e4f6c7ebf8be985b58f9",
-        "published_date": "Fri, 06 Mar 2026 15:06:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769415"
-      },
-      "aa801c4b1a3f449906d28135828f1f1e2056ac97ff4d5af4781530942e68705b": {
-        "title": "微软开源企业级AI智能体基准测试入门工具包Evals for Agent Interop",
-        "link": "https://www.infoq.cn/article/djsCe3heSCRUEwBZtsvW?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769416"
-      },
-      "9501de052ec7740a66f9ea9e2fb67b1f2b19b8983aaf7706dc28bd19f65f167e": {
-        "title": "Kubernetes引入节点就绪控制器来提高Pod调度可靠性",
-        "link": "https://www.infoq.cn/article/L8Ozfyk1Epmm2SpwWqDT?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 06 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769417"
-      },
-      "b9c9a69bb832e8d32d0d922df2533e1ceb2b9bf9ec7b7f66054da05d02b3cd80": {
-        "title": "年度征文｜给 NPC 接上 AI：重生爽文看不够？我直接做了个能骂反派的游戏",
-        "link": "https://sspai.com/post/106789",
-        "published_date": "Fri, 06 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.769419"
-      },
       "a84e5c351a469576b11e177e32098e2a7bfc5f18547a93134ccacc3e4551ecb0": {
         "title": "瑞幸控股股东大钲资本拿下蓝瓶咖啡：中国咖啡大战迈入矩阵博弈时代",
         "link": "https://www.tmtpost.com/7903159.html",
@@ -10621,6 +10543,48 @@
         "link": "https://www.infoq.cn/article/sDj8K6IhNzNQgMKhOGKr?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 05 Apr 2026 10:00:00 GMT",
         "first_seen": "2026-04-05T06:09:27.286362"
+      },
+      "8dfcc539cd6228003342e792dd6e250b1ff0ed7c74a62fc36326206aacd7d803": {
+        "title": "隆基甩出“全栈”方案，光储市场告别“拼凑游戏”",
+        "link": "https://www.tmtpost.com/7942181.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753473"
+      },
+      "23dc43d990a7c47b4a37b6f84061b900bab750f43826903e8760fc7bf2fc8665": {
+        "title": "大厂只需要Token，不需要活人",
+        "link": "https://www.tmtpost.com/7942185.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753833"
+      },
+      "bd2699a7fca5d93a54638c45d64a91a0eaa5c6953a37965a1dfa7aab78930ea4": {
+        "title": "《浪姐》的七年之痒",
+        "link": "https://www.tmtpost.com/7942228.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753837"
+      },
+      "2dd52239d11e2fbedb09eefe8fac3176f34f8c71f4ff9c5ad5ca31b13f889af6": {
+        "title": "14.9元卖出“断货王”，中产疯抢沪上“新特产”，一年狂揽20亿",
+        "link": "https://www.tmtpost.com/7942230.html",
+        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753841"
+      },
+      "b5ceaa912eb5d03a84ecb40a43fea10826124bf0ac83795723cfb27456baf2b0": {
+        "title": "同事被“炼化”为Skill？大家把这事想简单了",
+        "link": "https://www.tmtpost.com/7942194.html",
+        "published_date": "Sun, 05 Apr 2026 14:08:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753844"
+      },
+      "4922cbfe5a56556bdff66e8103e65d40e7c68eb09a52d5ff3da4a8b4f4330f52": {
+        "title": "笑死，这个开源 skill 专门炼化你的离职同事。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532806&idx=1&sn=6e4666b2eef514f3f053794b36cc031e",
+        "published_date": "Sun, 05 Apr 2026 10:13:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753847"
+      },
+      "4bc789cace93d20b98e798e3d2714b2fc8cdb171c018f02149dd35a7093a984f": {
+        "title": "价值判断：涨停板的投资机会和风险提示（4月3日）｜证券市场观察",
+        "link": "https://www.tmtpost.com/7942217.html",
+        "published_date": "Sun, 05 Apr 2026 12:30:00 GMT",
+        "first_seen": "2026-04-05T08:32:05.753851"
       }
     },
     "Finance": {
@@ -15672,12 +15636,6 @@
       }
     },
     "Ai": {
-      "058e514fd633a619a68e86f8b0d8e5860069ce113b419f432e332ad6a6ba8b70": {
-        "title": "无垠拓界 基筑未来｜无问智科重磅发布业界首个物理AI数据基座平台",
-        "link": "https://www.qbitai.com/2026/03/384449.html",
-        "published_date": "Fri, 06 Mar 2026 06:58:00 GMT",
-        "first_seen": "2026-03-06T08:24:17.954806"
-      },
       "7696d6babc24da784e43debc4400194d657057bb5245e1a32f9acd43e0af0e3c": {
         "title": "WAXAL: A large-scale open resource for African language speech technology",
         "link": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
@@ -17332,7 +17290,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-05T06:09:27.286364",
+    "Technology": "2026-04-05T08:32:05.753854",
     "Finance": "2026-04-05T06:09:27.360903",
     "Ai": "2026-04-05T06:09:27.521466"
   }
