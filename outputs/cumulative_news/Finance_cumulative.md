@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-06 06:25
+**最后更新时间**: 2026-04-06 09:01
+
+---
+
+## 🆕 最新更新 (2026-04-06 09:01)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home](https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-06 08:58
 
 ---
 
