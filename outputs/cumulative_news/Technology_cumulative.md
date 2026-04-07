@@ -1,7 +1,69 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 06:12
+**最后更新时间**: 2026-04-07 08:54
+
+---
+
+## 🆕 最新更新 (2026-04-07 08:54)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [力控与运控的融合，共话具身智能“小脑”进化的破局之道](https://www.tmtpost.com/7941651.html)
+**发布时间**: 2026-04-07 16:41
+
+#### [Token浪潮之下，中国互联网座次重排](https://www.tmtpost.com/7943462.html)
+**发布时间**: 2026-04-07 16:34
+
+#### [并购圈没人敢说的真话：你花的那些钱，买的根本不是未来，是包袱](https://www.tmtpost.com/7943616.html)
+**发布时间**: 2026-04-07 16:34
+
+#### [“虎口夺食”25亿！深圳网红品牌要上市了](https://www.tmtpost.com/7943619.html)
+**发布时间**: 2026-04-07 16:34
+
+#### [炸穿硅谷！270页文件曝光OpenAI绝密黑料，撕开AI巨头资本权力暗战](https://www.tmtpost.com/7943896.html)
+**发布时间**: 2026-04-07 16:30
+
+#### [中国电力70年：“帝国”是怎样炼成的？](https://www.tmtpost.com/7943599.html)
+**发布时间**: 2026-04-07 15:49
+
+#### [卖“千元神器”， 浙大学霸年入5亿，正冲刺上市](https://www.tmtpost.com/7943500.html)
+**发布时间**: 2026-04-07 15:26
+
+#### [必需消费品类股票已经下跌，这些图表值得重新看看](https://www.tmtpost.com/7943799.html)
+**发布时间**: 2026-04-07 14:55
+
+#### [买入戴尔，持有超微电脑，这家机构称应这样把握 AI 服务器热潮](https://www.tmtpost.com/7943790.html)
+**发布时间**: 2026-04-07 14:51
+
+#### [维珍银河股价飙升，分析师称，太空旅游的营收潜力巨大](https://www.tmtpost.com/7943788.html)
+**发布时间**: 2026-04-07 14:49
+
+#### [石油是新的黄金，买入这9只股票](https://www.tmtpost.com/7943785.html)
+**发布时间**: 2026-04-07 14:46
+
+#### [独家丨2万㎡，3.5万sku：鸣鸣很忙CEO晏周亲抓新项目](https://www.tmtpost.com/7943636.html)
+**发布时间**: 2026-04-07 14:28
+
+#### [半导体设备国产化，进入下半场](https://www.tmtpost.com/7943468.html)
+**发布时间**: 2026-04-07 14:28
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Teleport的报告发现，过度授权的AI系统与安全事件增长密切相关](https://www.infoq.cn/article/iVJbFCtkDxMSgw9KoRV0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 15:00
+
+#### [从上下文到经验资产：OpenClaw 热潮下的 Agent 记忆系统工程实践｜QCon北京](https://www.infoq.cn/article/IQfviaUpKcyUVudfrzip?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-07 14:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [写给「跑两步就喘」的你：跑前精准热身，缓解跑时疼痛](https://sspai.com/post/108150)
+**发布时间**: 2026-04-07 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 GitHub 项目很有意思啊，解了死磕 30 年的前端难题。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532874&idx=1&sn=4dbcb2152b26b8df773aa6ea9d991431)
+**发布时间**: 2026-04-07 10:24
 
 ---
 

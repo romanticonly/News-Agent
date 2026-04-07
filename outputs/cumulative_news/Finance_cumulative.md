@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-07 06:12
+**最后更新时间**: 2026-04-07 08:54
+
+---
+
+## 🆕 最新更新 (2026-04-07 08:54)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Health insurers secured a better Medicare Advantage rate for 2027, and their stocks are soaring](https://www.marketwatch.com/story/health-insurers-secured-a-better-medicare-advantage-rate-for-2027-and-their-stocks-are-soaring-1ca57d12?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:36
+
+#### [Is it unethical to use AI in my Airbnb photos to market my property to guests?](https://www.marketwatch.com/story/id-like-to-be-a-superhost-is-it-unethical-to-use-ai-in-my-airbnb-photos-to-market-my-property-67c0db11?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:33
+
+#### [Crude-oil futures rise into Trump’s deadline as SocGen sees chance prices could top $200](https://www.marketwatch.com/story/crude-oil-futures-rise-into-trumps-deadline-as-socgen-sees-chance-prices-could-top-200-d648b2a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-07 08:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal](https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b)
+**发布时间**: 2026-04-07 07:17
+
+#### [Top record labels and start-up Suno hit impasse in AI-generated music talks](https://www.ft.com/content/b066a226-4871-4669-97a8-f9617cdbf48b)
+**发布时间**: 2026-04-07 04:00
+
+#### [Anthropic in chips deals with Google and Broadcom worth hundreds of billions](https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a)
+**发布时间**: 2026-04-07 00:46
+
+#### [Investors await Trump’s looming deadline for Iran to agree deal](https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906)
+**发布时间**: 2026-04-06 23:39
+
+#### [UK to host meeting on safe passage through Strait of Hormuz after war](https://www.ft.com/content/8a86004e-c1c2-4c58-aa38-4e77b7650960)
+**发布时间**: 2026-04-06 20:59
 
 ---
 
