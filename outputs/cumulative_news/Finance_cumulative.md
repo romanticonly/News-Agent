@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 06:16
+**最后更新时间**: 2026-04-08 08:50
+
+---
+
+## 🆕 最新更新 (2026-04-08 08:50)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Then and now: Comparing where the S&P 500, crude and other markets are to the pre-war situation](https://www.marketwatch.com/story/then-and-now-comparing-where-the-s-p-500-crude-and-other-assets-are-to-the-pre-war-situation-edd9d52d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 08:06
 
 ---
 
