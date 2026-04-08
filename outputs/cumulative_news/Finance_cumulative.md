@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-08 08:50
+**最后更新时间**: 2026-04-08 23:30
+
+---
+
+## 🆕 最新更新 (2026-04-08 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I plan to exit corporate life’: I’m 50 and have $400,000. My wife is a teacher. Can I retire at 55?](https://www.marketwatch.com/story/i-plan-to-exit-corporate-life-im-50-and-have-400-000-my-wife-is-a-teacher-can-i-retire-at-55-d296dba0?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 23:00
+
+#### [S&P 500 smashes back above two key moving averages, in a rare display of strength. Here’s what history shows happens next.](https://www.marketwatch.com/story/the-s-p-500-smashed-back-above-2-key-moving-averages-in-a-rare-display-of-strength-heres-what-history-shows-happens-next-7141e5fe?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:57
+
+#### [‘They essentially have a blackmail card up their sleeve’: A look at Iran’s plan to charge tankers to use the Strait of Hormuz](https://www.marketwatch.com/story/they-essentially-have-a-blackmail-card-up-their-sleeve-a-look-at-irans-plan-to-charge-tankers-to-use-the-strait-of-hormuz-74e01aa2?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:26
+
+#### [How the ‘TACO’ trade went from a light-hearted Wall Street joke to a serious moneymaker](https://www.marketwatch.com/story/how-the-taco-trade-went-from-a-light-hearted-wall-street-joke-to-a-serious-moneymaker-8135a7b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 21:15
+
+#### [Corona brewer says shoppers are going for cheaper beer and wine, as it grows more cautious on demand](https://www.marketwatch.com/story/corona-brewer-says-shoppers-are-going-for-cheaper-beer-and-wine-as-it-grows-more-cautious-on-demand-d3c89aed?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:59
+
+#### [Intel’s stock soars to a five-year high. This is what’s driving its massive momentum.](https://www.marketwatch.com/story/intels-stock-soars-to-a-five-year-high-this-is-whats-driving-its-massive-momentum-61e91f5b?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:56
+
+#### [Bonds may be the real winner now that the world economy has sidestepped a historic oil crisis](https://www.marketwatch.com/story/bonds-may-be-the-real-winner-now-that-the-world-economy-has-sidestepped-a-historic-oil-crisis-4797c6ff?mod=mw_rss_topstories)
+**发布时间**: 2026-04-08 20:46
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Sheinbaum announces fracking plan as Mexico seeks to curb US gas reliance](https://www.ft.com/content/c89bf731-0f5f-4311-94ab-554cfa0083f5)
+**发布时间**: 2026-04-08 22:46
+
+#### [NHS data chief pushes for deeper rollout of Palantir technology despite outcry](https://www.ft.com/content/1ac7a046-329c-4036-b01e-f2291dde28ca)
+**发布时间**: 2026-04-08 20:00
+
+#### [Truce offers moment of respite for battered Tehran](https://www.ft.com/content/9226bb49-2a13-4b87-bcf8-5390abadef13)
+**发布时间**: 2026-04-08 19:55
+
+#### [Middle East ceasefire under pressure over Israeli strikes on Lebanon](https://www.ft.com/content/d43ae1d7-4df4-465c-afe1-418b168e3ae8)
+**发布时间**: 2026-04-08 19:36
+
+#### [Haircut for UK taxpayers after lenders take control of struggling broadband provider](https://www.ft.com/content/cad2c772-1268-4858-8f95-f9f626d2b107)
+**发布时间**: 2026-04-08 18:42
+
+#### [JD Vance to lead US delegation in Islamabad talks](https://www.ft.com/content/2868ed5b-865f-4491-a78e-c84967d50c34)
+**发布时间**: 2026-04-08 17:57
+
+#### [An unstable truce in the Middle East](https://www.ft.com/content/95fb1804-7209-4da2-b50a-bf1a90af45b0)
+**发布时间**: 2026-04-08 17:38
+
+#### [Iran demands crypto fees for ships passing Hormuz during ceasefire](https://www.ft.com/content/02aefac4-ea62-48db-9326-c0da373b11b8)
+**发布时间**: 2026-04-08 15:36
+
+#### [Billionaire son of ‘world’s richest banker’ challenges $35mn legal fees](https://www.ft.com/content/6843726f-2459-462e-b0a1-a33ed10c1c66)
+**发布时间**: 2026-04-08 15:25
+
+#### [The madness of the Madman Theory](https://www.ft.com/content/ac08bd92-0a1f-46cb-a162-c5fcf772a0ac)
+**发布时间**: 2026-04-08 11:21
 
 ---
 
