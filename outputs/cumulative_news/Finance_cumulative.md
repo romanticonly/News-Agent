@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-10 06:25
+**最后更新时间**: 2026-04-10 09:00
+
+---
+
+## 🆕 最新更新 (2026-04-10 09:00)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israel presses ahead with Lebanon strikes as talks loom](https://www.ft.com/content/ffef195c-8b3c-48fc-bddd-64036880dc6f)
+**发布时间**: 2026-04-10 08:37
+
+#### [Canada pushes to join UK-Italy-Japan advanced fighter jet project](https://www.ft.com/content/d664b704-56a5-4b00-b34c-8da39e82a2a9)
+**发布时间**: 2026-04-10 04:00
+
+#### [Italian government moves to oust Leonardo chief executive](https://www.ft.com/content/2766689f-e849-4980-9ef9-1abe6bf538ec)
+**发布时间**: 2026-04-09 21:57
+
+#### [The 10 minutes that set Lebanon ablaze](https://www.ft.com/content/5501d347-cc84-404e-ab3f-666052c609fb)
+**发布时间**: 2026-04-09 20:29
 
 ---
 
