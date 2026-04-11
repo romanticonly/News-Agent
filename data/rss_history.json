@@ -2,114 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8e72782fd6fc6b3a3ca02ad02a228d52f04c537dbd0573a112ba5c32c91e0671": {
-        "title": "拼豆爆红，带着“情绪生产工具”一起飞",
-        "link": "https://www.tmtpost.com/7910901.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952550"
-      },
-      "0004089c7789f30337b890b72a96946eb4d4dd70ed7284277778545016e384e8": {
-        "title": "蔚来赢了一次，但李斌完全没有麻",
-        "link": "https://www.tmtpost.com/7910770.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952562"
-      },
-      "c21319a0eecbad97a2706d8346d9f8b66dc8a244cb41b8a4f8721648447ca233": {
-        "title": "昨晚，谷歌悄悄发了“新模型”，为多模态智能应用铺平了道路",
-        "link": "https://www.tmtpost.com/7910848.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952564"
-      },
-      "569800464eef2ff67cec0fa0e122d9344ad1f7755f6358c9b00472a7893c0b4a": {
-        "title": "为什么最聪明的大脑，却困在了最笨重的组织里？ —— 范式的黄昏：当精英协同撞上数学黑洞",
-        "link": "https://www.tmtpost.com/7910709.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952566"
-      },
-      "f88189e36b9c30d0abba08d86876252752d1da31792cdeeb38b5fdf7e23e44ca": {
-        "title": "OpenClaw刚装上，Token焦虑就来了？",
-        "link": "https://www.tmtpost.com/7910846.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952568"
-      },
-      "40582fd76ffef7b342f17f7c80fccec9926bd71d3abd4fee027ba8d0ee3fac2c": {
-        "title": "奥乐齐ALDI，不好好卖菜，改卖「健身三件套」了？",
-        "link": "https://www.tmtpost.com/7910756.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952570"
-      },
-      "9a2efb321c6f43cc1e8952d9708897a59b42542911ae5eb4f406f92acb0cc253": {
-        "title": "我在格鲁吉亚，看到满城尽是中国人",
-        "link": "https://www.tmtpost.com/7910697.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952571"
-      },
-      "a72ecf18f495bb7766f8754b31c2b2debc62a570609660c8391d31eca4060065": {
-        "title": "闪充技术发布，比亚迪与磷酸铁锂的七年",
-        "link": "https://www.tmtpost.com/7910859.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952573"
-      },
-      "14ed70451ff1caccc74349e34cb69118e286449b6d3b796c39a27aa1200e6a5a": {
-        "title": "美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
-        "link": "https://www.tmtpost.com/7910878.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952575"
-      },
-      "46536a9a5f03ac2579f94d26ae7c402376ad7a9a24db434a9f5e655353a3f3be": {
-        "title": "秘密开发Agent，微信告别AI克制",
-        "link": "https://www.tmtpost.com/7910894.html",
-        "published_date": "Thu, 12 Mar 2026 16:06:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952577"
-      },
-      "3643b893a2c4a0f4e5ca0bf130fefd0b2d570643b276088d03e75e8b85f7ecea": {
-        "title": "爱诗科技完成 3 亿美元 C 轮融资，鼎晖领投，开启“实时交互”视频生成新纪元｜融资速递",
-        "link": "https://www.tmtpost.com/7910908.html",
-        "published_date": "Thu, 12 Mar 2026 14:44:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952578"
-      },
-      "9c877920a2ed93ea5fbcb664887909f62faa5c7801a4ea5d81f224f69c131733": {
-        "title": "Violoop宣布完成数千万元融资，打造全球首款物理级 AI Operator｜融资速递",
-        "link": "https://www.tmtpost.com/7910891.html",
-        "published_date": "Thu, 12 Mar 2026 14:33:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952580"
-      },
-      "420723c6f1ad7710c01965d2f6e57ec5dd08ca95c52fbf470629b89e3c8d0b24": {
-        "title": "爱回收Q4黄金回收GMV翻倍，直言手机涨价利大于弊｜看财报",
-        "link": "https://www.tmtpost.com/7910263.html",
-        "published_date": "Thu, 12 Mar 2026 14:24:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952581"
-      },
-      "32a36f07a1ea9989cf3b9287568b4716487b85fb232b37638b37c79fe620df14": {
-        "title": "那只在屏幕里爬行的果蝇，正在撕碎人类最后的防线",
-        "link": "https://www.tmtpost.com/7910757.html",
-        "published_date": "Thu, 12 Mar 2026 13:59:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952583"
-      },
-      "087f3c59a5319264e7ff49c10d4252214d4c66a593feee05535b80783d9edac5": {
-        "title": "Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL",
-        "link": "https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 12 Mar 2026 16:00:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952584"
-      },
-      "1ed3f9e0abd49275b7f8bfb06ebef9f687dec277e7a04a4dc9c2048c37e97818": {
-        "title": "Notion 年度更新评测：7 个案例聊聊 Custom Agent",
-        "link": "https://sspai.com/post/106982",
-        "published_date": "Thu, 12 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952585"
-      },
-      "557f3c7dcfecf42d43996a33b31ecd5abc2989e10809f8005191080045977773": {
-        "title": "腾讯版小龙虾 WorkBuddy 来了，在微信、QQ 内和它对话。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532127&idx=1&sn=35de49ddd5020153fd54283a4d2f1764",
-        "published_date": "Thu, 12 Mar 2026 10:28:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952587"
-      },
-      "98d09a8082e2363f63bc59316db313e49ebb4b6740a9fbe904d14062625eec11": {
-        "title": "价值判断： 涨停板的投资机会和风险提示 （3月10日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7910788.html",
-        "published_date": "Thu, 12 Mar 2026 12:27:00 GMT",
-        "first_seen": "2026-03-12T08:29:00.952588"
-      },
       "021813f77bcd01af64947e307af93180a66143e7cd514836f37ab7312fe15951": {
         "title": "利润暴跌93%，保时捷跌落神坛｜钛度车库",
         "link": "https://www.tmtpost.com/7910734.html",
@@ -10255,6 +10147,36 @@
         "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 11 Apr 2026 08:00:00 GMT",
         "first_seen": "2026-04-11T05:53:52.972209"
+      },
+      "d3d499b6c5448c406f42577c940de5fe4b7fc17ff305b5f1bb1e6d2d9b6f8435": {
+        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+        "link": "https://sspai.com/post/107600",
+        "published_date": "Sat, 11 Apr 2026 15:18:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.244574"
+      },
+      "3a110fde5e204457a18f17de42c7870dd0e9d93d7dc5fa0d777037d1a9c6bd64": {
+        "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.244582"
+      },
+      "2e9920ba0cfc6506394b15cd4d5b6fc99b20c4e697cb0f6c45b90f1f9b6bdce0": {
+        "title": "GitHub Actions 正式发布自定义 Runner 镜像",
+        "link": "https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.244585"
+      },
+      "faf228dd66835241ff1bb0510813fda73d3102f8bc372108a411fb77b9e2779c": {
+        "title": "出去过的每个人都在讲，国外的钱也没有那么好挣",
+        "link": "https://www.tmtpost.com/7949674.html",
+        "published_date": "Sat, 11 Apr 2026 14:18:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.244587"
+      },
+      "929b9e6fa217848f34a1e69f072bf778e74915eeece2d33545796022e3381bf9": {
+        "title": "北邮附近的饺子馆，在 GitHub 上开源了自己的 Skill。。。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532947&idx=1&sn=560a0e6e87eb581dc489b2644602902e",
+        "published_date": "Sat, 11 Apr 2026 11:54:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.244588"
       }
     },
     "Finance": {
@@ -15231,21 +15153,21 @@
         "link": "https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories",
         "published_date": "Sat, 11 Apr 2026 00:32:00 GMT",
         "first_seen": "2026-04-11T05:53:52.703886"
+      },
+      "ec9316680c60e0e883a6b348d026260e39b2fa24277f7db7df68d18b4e457805": {
+        "title": "Peace talks present big test on global stage for JD Vance",
+        "link": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
+        "published_date": "Sat, 11 Apr 2026 08:14:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.022158"
+      },
+      "bec360d8029e7e2e7839fc4d2128486e9a5b16b922a8db8b0ac90d4badbbef31": {
+        "title": "JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran",
+        "link": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
+        "published_date": "Sat, 11 Apr 2026 06:32:00 GMT",
+        "first_seen": "2026-04-11T08:30:57.022170"
       }
     },
     "Ai": {
-      "79a743658fd2d3c9cf557491ee91f08f667e0954c669b48d6a7344fdcb5bc2c8": {
-        "title": "爱诗科技完成3亿美元C轮融资，鼎晖领投，开启“实时交互”视频生成新纪元",
-        "link": "https://www.qbitai.com/2026/03/386664.html",
-        "published_date": "Thu, 12 Mar 2026 07:18:00 GMT",
-        "first_seen": "2026-03-12T08:29:01.120026"
-      },
-      "c2cb27ecace80278ccc808073787c6505d32fd57b48802a58749a4fd846f6d49": {
-        "title": "全球首款手机龙虾秒光，OpenClaw创始人称愿与百度共同开发龙虾",
-        "link": "https://www.qbitai.com/2026/03/386660.html",
-        "published_date": "Thu, 12 Mar 2026 07:02:00 GMT",
-        "first_seen": "2026-03-12T08:29:01.120035"
-      },
       "911875575406a63a553aaef0a444a8a9296a92c47055d69b1f8d9d7425471265": {
         "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
         "link": "https://www.qbitai.com/2026/03/387068.html",
@@ -16954,8 +16876,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-11T05:53:52.972211",
-    "Finance": "2026-04-11T05:53:52.703889",
+    "Technology": "2026-04-11T08:30:57.244590",
+    "Finance": "2026-04-11T08:30:57.022173",
     "Ai": "2026-04-11T05:53:52.866221"
   }
 }
