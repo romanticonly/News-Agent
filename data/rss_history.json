@@ -2,138 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c27a016c7683ad8c4de7c8bbcf5c53f2089ee67e8b71e82398a345baa0077cfa": {
-        "title": "模型不再是关键？LangChain 创始人：真正决定Agent 上限的是运行框架",
-        "link": "https://www.infoq.cn/article/pdg3TkbgvSc2PolE5ioy?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 16:12:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409053"
-      },
-      "92d06b3721eafaffd00ac693bdb72e94ae455ff55ba673d131f519592fa8c62d": {
-        "title": "刘铁岩对话《哈萨比斯：谷歌AI之脑》作者：一位极度好胜的天才，如何带着DeepMind挑战OpenAI",
-        "link": "https://www.infoq.cn/article/tGoB4wqMeOHE0Zb3tYSf?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409062"
-      },
-      "b06da632f69568973abf4d67dfa839991e0ec378dfbf7229b1f974ed158a6aad": {
-        "title": "360 周鸿祎回应“龙虾”玩梗图：“龙虾”不是病毒",
-        "link": "https://www.infoq.cn/article/53rhBuxZcJ2aNgJGHMI3?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 13 Mar 2026 14:53:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409064"
-      },
-      "de8d76ef58d6970a673d4f84331f74c6bf9e357180e42d692bb2c4798ce9c549": {
-        "title": "从“工具”到“引擎”：2026年企业AI转型的六大核心行动指南",
-        "link": "https://www.tmtpost.com/7912647.html",
-        "published_date": "Fri, 13 Mar 2026 15:54:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409066"
-      },
-      "43c0f6111a1721c960707c3f0574bad71fe864c8b266f194fa1e483730da4468": {
-        "title": "创业能否成功，取决于企业家格局",
-        "link": "https://www.tmtpost.com/7912627.html",
-        "published_date": "Fri, 13 Mar 2026 15:09:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409068"
-      },
-      "62978677dc4f782b00901b45e35c6d23ef50fd5fd680500bb600571311cffc70": {
-        "title": "一只“龙虾”引发的巨头混战与资本狂欢",
-        "link": "https://www.tmtpost.com/7912851.html",
-        "published_date": "Fri, 13 Mar 2026 15:09:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409069"
-      },
-      "944b98510554bfd794dcb32a8e41601d93413208ee35da644332ee80294ff7bb": {
-        "title": "超市上演“大败局”，为何河南商超独善其身？",
-        "link": "https://www.tmtpost.com/7912776.html",
-        "published_date": "Fri, 13 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409071"
-      },
-      "41fe0bd302c4b4563cb557bb5e58a3a190677c4cd13588f4ff2650b606edf7b2": {
-        "title": "这个赛道已经不给“穷人”机会了：没有十亿，别谈B轮",
-        "link": "https://www.tmtpost.com/7912623.html",
-        "published_date": "Fri, 13 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409072"
-      },
-      "0551a465ac7556ce1d875d149abfa77b1d08d49f3d57c3db4bb712be6f45657c": {
-        "title": "海外收入暴涨405%，家用医疗器械龙头赚麻了",
-        "link": "https://www.tmtpost.com/7910722.html",
-        "published_date": "Fri, 13 Mar 2026 15:07:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409073"
-      },
-      "097f7ff22c0f74c91ec2abc6609d88efa4ce57f0322380ec22019e4082d09dda": {
-        "title": "2月漫剧：新剧超6成，环比增长58.4%，女性向AI仿真人剧供需双爆发",
-        "link": "https://www.tmtpost.com/7912757.html",
-        "published_date": "Fri, 13 Mar 2026 15:07:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409075"
-      },
-      "08cda7b8d4e50bcbe848b905c6cbab3f7dc087cf6f7ca8fd414f92e8bb772ec2": {
-        "title": "Neurosci Bull：上海交通大学祝忠群/童小萍团队揭示新生儿心脏术后脑损伤新机制",
-        "link": "https://www.tmtpost.com/7912688.html",
-        "published_date": "Fri, 13 Mar 2026 15:04:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409076"
-      },
-      "840aae0e415ca5b0b2546f4ae4d2540520ddea99522752ee8daaa133a5a83b4a": {
-        "title": "非手术解决老花+近视，下一个眼科爆品即将来临？",
-        "link": "https://www.tmtpost.com/7912683.html",
-        "published_date": "Fri, 13 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409077"
-      },
-      "7b41bd65378a1922ca8fa1f1de9b14da63592ea0975d737b10cd4c36be2f6435": {
-        "title": "利好拉满，亿航智能能抓住商业化新机吗？",
-        "link": "https://www.tmtpost.com/7912654.html",
-        "published_date": "Fri, 13 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409079"
-      },
-      "7684ef8971ece9170f8ab24a7e04bdba490a57785842b4824df8b9b1ae2f090e": {
-        "title": "中医考证生意火爆：有人花五万挂名，只为一张证",
-        "link": "https://www.tmtpost.com/7912625.html",
-        "published_date": "Fri, 13 Mar 2026 14:56:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409080"
-      },
-      "891a51872b432b36ff58d4b291b7c584857206190448f1799d8aaded52fc0c1a": {
-        "title": "全网都在“养虾”，医院却下了封杀令",
-        "link": "https://www.tmtpost.com/7912690.html",
-        "published_date": "Fri, 13 Mar 2026 14:51:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409081"
-      },
-      "6048066d0817e044f7be17a0fd2d78be7ccfe96b40644c93dd4b39e860a211a7": {
-        "title": "全球第二，中国生物制药TQB3454胆道癌三期临床成功，国产IDH1抑制剂破局",
-        "link": "https://www.tmtpost.com/7912717.html",
-        "published_date": "Fri, 13 Mar 2026 14:50:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409083"
-      },
-      "bcd164bcc577ec887c5961347a651dc8932d16f1cd787ced82f59189098c4760": {
-        "title": "蚂蚁、美团、京东、腾讯都入局了，互联网巨头在养老市场全面“开战”",
-        "link": "https://www.tmtpost.com/7912629.html",
-        "published_date": "Fri, 13 Mar 2026 14:48:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409084"
-      },
-      "0fb1390bd9f8a8e551369dd6270ccf2d24ea8e88bcef4e280499d0efb34c5268": {
-        "title": "过去三年315，被曝光的企业都怎么样了",
-        "link": "https://www.tmtpost.com/7912611.html",
-        "published_date": "Fri, 13 Mar 2026 14:48:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409086"
-      },
-      "d0c31a0815f3db1535aae71f94e24634edc3a55e741c51885c4ed238d5dea3ce": {
-        "title": "认养骗局卷土重来：老套路为何总有人上当？",
-        "link": "https://www.tmtpost.com/7912439.html",
-        "published_date": "Fri, 13 Mar 2026 14:48:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409087"
-      },
-      "312d4bc06e0b0788c3079f74834d359ec15abd72091096d7fda6a17161b1617d": {
-        "title": "实录拆解马斯克最新对谈：AI自我提升已实现，透露Optimus 3量产时间表",
-        "link": "https://www.tmtpost.com/7912730.html",
-        "published_date": "Fri, 13 Mar 2026 14:19:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409088"
-      },
-      "db640e4d950bcddd4c0f05731a63d428404cbe3058dac53166ad77d7b956b2c4": {
-        "title": "年度征文｜看见并打开我和我妈之间的那扇门",
-        "link": "https://sspai.com/post/106709",
-        "published_date": "Fri, 13 Mar 2026 13:54:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409089"
-      },
-      "9d2e9ed88976f3edb7f4438164d26689fe876110646a20fa99ed4b15795cfc67": {
-        "title": "狠狠的 Pua 你的 OpenClaw 小龙虾，这 2 个 GitHub 项目开源了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532158&idx=1&sn=08e1d51a8adbfe443c808d85db726b3f",
-        "published_date": "Fri, 13 Mar 2026 10:32:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.409091"
-      },
       "bfd70feb3e495159c061508263c6615f6449a60f499694575f68874ae68d8cbb": {
         "title": "“小迈瑞”麦科田二闯港交所：并购堆起82亿估值，商誉占净资产半壁江山，八成收入绑死经销商丨IPO观察",
         "link": "https://www.tmtpost.com/7891227.html",
@@ -9991,15 +9859,27 @@
         "link": "https://www.tmtpost.com/7949984.html",
         "published_date": "Sun, 12 Apr 2026 08:29:00 GMT",
         "first_seen": "2026-04-12T06:19:04.069952"
+      },
+      "5cc5b5fa1bbf9981792b6069936b5d8f15800b11a3549c88c426b66421cdb199": {
+        "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
+        "link": "https://www.tmtpost.com/7950006.html",
+        "published_date": "Sun, 12 Apr 2026 16:26:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.281569"
+      },
+      "293329ff42dbf0cd7def65378d2a6210ee004469b5fd610a0b646cdd117c8ef1": {
+        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
+        "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.281576"
+      },
+      "d5589698ffc5a2a67ffd293b033009cd135e12037447f647d862c68b0ad783f2": {
+        "title": "5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532957&idx=1&sn=8f27a513c9db4fb19a2a432937c634b4",
+        "published_date": "Sun, 12 Apr 2026 12:38:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.281578"
       }
     },
     "Finance": {
-      "9f4ddafcb2c5e436b5532919b8538b382cdaa5a4438a537379baf933de8bbcac": {
-        "title": "UK economy unexpectedly failed to grow in January",
-        "link": "https://www.ft.com/content/69cd2900-3dbc-4b69-8a1e-0f479f2cfd90",
-        "published_date": "Fri, 13 Mar 2026 07:15:00 GMT",
-        "first_seen": "2026-03-13T08:31:40.451634"
-      },
       "d25299dca2b795d3ab94da5756b94c11fb5cc3a7932bdf3862062720761bb6e8": {
         "title": "This little-known energy company’s stock is rallying as Trump invokes 1950 powers for offshore California drilling",
         "link": "https://www.marketwatch.com/story/this-little-known-energy-companys-stock-is-rallying-as-trump-invokes-1950-powers-for-offshore-california-drilling-5cb8efa4?mod=mw_rss_topstories",
@@ -14913,6 +14793,18 @@
         "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
         "published_date": "Sun, 12 Apr 2026 01:44:00 GMT",
         "first_seen": "2026-04-12T06:19:03.796566"
+      },
+      "4dc262c8179f6f064d94cb5b6d60cc88f478708dff6deb91a30326b887233431": {
+        "title": "Vance says US and Iran fail to reach deal",
+        "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
+        "published_date": "Sun, 12 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.050896"
+      },
+      "18da0927dd37c002f0c2dd7f37f2623d1647bf9698dcf68eec98bdf49adf096e": {
+        "title": "Robinhood excludes some prediction markets over manipulation fears",
+        "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
+        "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.050909"
       }
     },
     "Ai": {
@@ -16577,13 +16469,25 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-12/",
         "published_date": "Sun, 12 Apr 2026 12:10:00 GMT",
         "first_seen": "2026-04-12T06:19:03.966183"
+      },
+      "404b625e565ef1d177567fffe722163c5617ee940d27e67f742a7c667ffee96b": {
+        "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
+        "link": "https://www.qbitai.com/2026/04/399975.html",
+        "published_date": "Sun, 12 Apr 2026 07:21:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.207647"
+      },
+      "46a7fa687c6df9e991272fbaa626247a60c63bb834454d29c7e08b2bf627b888": {
+        "title": "Claude复活30年前传奇游戏，仅用一个周末",
+        "link": "https://www.qbitai.com/2026/04/399903.html",
+        "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
+        "first_seen": "2026-04-12T08:37:25.207654"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-12T06:19:04.069954",
-    "Finance": "2026-04-12T06:19:03.796568",
-    "Ai": "2026-04-12T06:19:03.966193"
+    "Technology": "2026-04-12T08:37:25.281580",
+    "Finance": "2026-04-12T08:37:25.050912",
+    "Ai": "2026-04-12T08:37:25.207657"
   }
 }
