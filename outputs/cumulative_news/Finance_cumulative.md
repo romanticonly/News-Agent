@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 07:08
+**最后更新时间**: 2026-04-13 09:25
+
+---
+
+## 🆕 最新更新 (2026-04-13 09:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war](https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 09:09
+
+#### [Keep calm and carry on buying the dip, says JPMorgan](https://www.marketwatch.com/story/keep-calm-and-carry-on-buying-the-dip-says-jpmorgan-9eaafd2c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 09:03
+
+#### [Mariah Carey lists ‘MTV Cribs’ penthouse in New York City for a whopping $27 million](https://www.marketwatch.com/story/mariah-carey-lists-mtv-cribs-penthouse-in-new-york-city-for-a-whopping-27-million-902f19c3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 09:02
+
+#### [Watch out for more tax cuts — or even tax hikes — as Republicans try for another budget bill](https://www.marketwatch.com/story/watch-out-for-more-tax-cuts-or-even-tax-hikes-as-republicans-try-for-another-budget-bill-90177955?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 09:00
+
+#### [Why elevated U.S. tariffs could stick around for years — even after Trump leaves office](https://www.marketwatch.com/story/why-elevated-u-s-tariffs-could-stick-around-for-years-even-after-trump-leaves-office-f39cfd54?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 09:00
+
+#### [Leonardo DiCaprio takes his $20 million Malibu beachfront mansion off market even after lowering the price](https://www.marketwatch.com/story/leonardo-dicaprio-takes-his-20-million-malibu-beachfront-mansion-off-market-even-after-lowering-the-price-0bca0b79?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer defends fast-tracking EU rules into UK law](https://www.ft.com/content/71e9ce36-0255-4a7b-a1f1-7d8c9cb69748)
+**发布时间**: 2026-04-13 08:32
+
+#### [Trump lashes out at Pope Leo for criticism of Iran war](https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc)
+**发布时间**: 2026-04-13 07:54
+
+#### [Iran threatens to hit back against Middle East ports ahead of US blockade](https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08)
+**发布时间**: 2026-04-13 03:25
 
 ---
 

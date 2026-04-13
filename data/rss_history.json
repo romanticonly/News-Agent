@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "776f26dbe97c760ceab787200fcbfc95c999a9fcf56b9b628c0fcf886d3e0705": {
-        "title": "年度征文｜减了肥，人生就会变好吗？",
-        "link": "https://sspai.com/post/106785",
-        "published_date": "Sat, 14 Mar 2026 15:06:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.258599"
-      },
-      "8c853260868510b2eab28a872c4a8c525913d33fb455d416366a22d697cf6e81": {
-        "title": "安全版 OpenClaw 小龙虾也来了，支持 10000+ 的 SKills。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532217&idx=1&sn=bedad71b9fd13e8f86bc3e872e372b63",
-        "published_date": "Sat, 14 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.258608"
-      },
-      "4b9251842f1d83225526594865e1037f920e9f49a3827940c172c076d8f2e036": {
-        "title": "按摩电器销量突破500万台，海尔布局AI精准按摩赛道 | AWE 2026",
-        "link": "https://www.tmtpost.com/7914223.html",
-        "published_date": "Sat, 14 Mar 2026 14:59:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.258611"
-      },
-      "b15e29ac4531ba0cb7ae856d75ec3edb6864acb7cd189715128963d515c32103": {
-        "title": "危险走了，为什么你还害怕？美国Stephen Maren团队揭示LC-BLA是调控恐惧消退的关键环路",
-        "link": "https://www.tmtpost.com/7913918.html",
-        "published_date": "Sat, 14 Mar 2026 10:35:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.258613"
-      },
-      "89a4416cb3b12e7a1e5c3a8a7c080f2831802a743d1cafb806b3da51a7473b63": {
-        "title": "理想汽车的变革方向，被严重误解了",
-        "link": "https://www.tmtpost.com/7913944.html",
-        "published_date": "Sat, 14 Mar 2026 10:05:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.258614"
-      },
       "af126e08b4870774a2914e5a5f05210f202f7032da4f08dee1a685d187aab20f": {
         "title": "Cloudflare 宣布支持 ASPA：为 BGP 路由路径验证引入新安全机制",
         "link": "https://www.infoq.cn/article/oOIf2M6slcOmV0PTPKvj?utm_source=rss&utm_medium=article",
@@ -9769,15 +9739,69 @@
         "link": "https://sspai.com/post/108568",
         "published_date": "Mon, 13 Apr 2026 07:30:00 GMT",
         "first_seen": "2026-04-13T07:08:35.942479"
+      },
+      "19c186f57647398d81c33e2dbed2321d2e33d80191439c821af8a4d7638b9449": {
+        "title": "日本康复辅具租赁真相：市场规模20年翻4倍，利润率却不足6%",
+        "link": "https://www.tmtpost.com/7951053.html",
+        "published_date": "Mon, 13 Apr 2026 17:17:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356245"
+      },
+      "c8119a3ca6dc1fd79dafa44bbacc3138293309ab9baa6fce33ec439b227e2253": {
+        "title": "蓝驰创投募资39亿元，重仓AI与硬科技早期项目",
+        "link": "https://www.tmtpost.com/7951047.html",
+        "published_date": "Mon, 13 Apr 2026 17:01:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356253"
+      },
+      "c71ca57acd2c648767df6509ac51c41b72868ad8d0f83d69132771f7f65f7b65": {
+        "title": "从数据“沉睡”到价值闭环，AI如何重塑制造业未来？丨ToB产业观察",
+        "link": "https://www.tmtpost.com/7951028.html",
+        "published_date": "Mon, 13 Apr 2026 15:42:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356255"
+      },
+      "5fbec0255e2a58fcd1adc06118662f25071aff5263f6416381e664921a248608": {
+        "title": "从5%到30%，国产高端设备离国际顶尖还有多远？",
+        "link": "https://www.tmtpost.com/7950763.html",
+        "published_date": "Mon, 13 Apr 2026 15:24:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356256"
+      },
+      "6f955d3c7dd79d46ac3d827d6c646d25492abadc70b6bd19679b31af2e43aae6": {
+        "title": "不用则废：开发者直面 AI 编码工具的隐性代价",
+        "link": "https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 16:59:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356257"
+      },
+      "884cddce1771684489227dd60cf6fcf3326011c296a918680f821c2132241a61": {
+        "title": "从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了",
+        "link": "https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 16:19:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356259"
+      },
+      "987f65624a4db445dc620bba4a9b21f35e09702384765ecfff16857e8bd0bbb5": {
+        "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
+        "link": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 15:43:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356260"
+      },
+      "f865f6be38ba64bd89e1ee800dc32e075d7d3e9de6ca9a9aa07066194f1528ab": {
+        "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+        "link": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356262"
+      },
+      "0e2d7821b8e72da8c353855ac34051bc9118d0e94317600ae07c7617e1781e7f": {
+        "title": "城市漫步指南：在浓油赤酱中寻找江南底蕴",
+        "link": "https://sspai.com/post/108558",
+        "published_date": "Mon, 13 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356263"
+      },
+      "64dd1b959b058349ebf93562a559e562c62442fa04c34fff39584d04415ce224": {
+        "title": "开源 10 天就飙到 4 万星，这个项目收集了 58 个知名网站样式。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532964&idx=1&sn=4f387278f226dd4b85b19760a01f642c",
+        "published_date": "Mon, 13 Apr 2026 13:08:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.356265"
       }
     },
     "Finance": {
-      "e71bdcf7ada01bfa47081149950b13ecda5bfb27f4ed82ba794c61a4028d1aa3": {
-        "title": "Israel calls for Iranian factory evacuation, suggesting attack imminent",
-        "link": "https://www.ft.com/content/d1b23f3e-a976-4ff1-a653-4155e7a8695e",
-        "published_date": "Sat, 14 Mar 2026 07:24:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.302123"
-      },
       "b329b35f9e8e7db45723a90cd9bf5dde01378c96245863f0a4be2154ab6c61b3": {
         "title": "US oil groups in line for $63bn windfall from Gulf disruption",
         "link": "https://www.ft.com/content/37d49e35-8d0e-4ea6-9db8-74183101f204",
@@ -14715,21 +14739,57 @@
         "link": "https://www.marketwatch.com/story/trump-says-hes-closing-the-strait-of-hormuz-has-he-been-reading-marketwatch-e059dd07?mod=mw_rss_topstories",
         "published_date": "Mon, 13 Apr 2026 00:18:00 GMT",
         "first_seen": "2026-04-13T07:08:35.663911"
+      },
+      "4de77073c170f76f71578d828bcbea049abffef83e0293e92e9907ad2d4f5c0b": {
+        "title": "Oil prices rise as failed deal between U.S. and Iran raises risk of prolonged war",
+        "link": "https://www.marketwatch.com/story/oil-prices-rise-as-failed-deal-between-u-s-and-iran-raises-risk-of-prolonged-war-54d27150?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126717"
+      },
+      "84a5cf31920f96506814f91f7cb63ce523d5002ccb9a954b2d3d1a6f8c447cd3": {
+        "title": "Keep calm and carry on buying the dip, says JPMorgan",
+        "link": "https://www.marketwatch.com/story/keep-calm-and-carry-on-buying-the-dip-says-jpmorgan-9eaafd2c?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126728"
+      },
+      "89dba6002c3c01a820221f797dc74e3261eae0acadf4d70ee29a7a348830f6ab": {
+        "title": "Mariah Carey lists ‘MTV Cribs’ penthouse in New York City for a whopping $27 million",
+        "link": "https://www.marketwatch.com/story/mariah-carey-lists-mtv-cribs-penthouse-in-new-york-city-for-a-whopping-27-million-902f19c3?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:02:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126730"
+      },
+      "70838474b80c34280521d4eadd65bc9acc02ac0faf9b8f841b329d1202801850": {
+        "title": "Watch out for more tax cuts — or even tax hikes — as Republicans try for another budget bill",
+        "link": "https://www.marketwatch.com/story/watch-out-for-more-tax-cuts-or-even-tax-hikes-as-republicans-try-for-another-budget-bill-90177955?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126732"
+      },
+      "41122cf7d5e32630b28699be0af691f93deb7388b59389c57c9756a094a21aac": {
+        "title": "Why elevated U.S. tariffs could stick around for years — even after Trump leaves office",
+        "link": "https://www.marketwatch.com/story/why-elevated-u-s-tariffs-could-stick-around-for-years-even-after-trump-leaves-office-f39cfd54?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 09:00:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126734"
+      },
+      "945d39a4d0476e635f759666b83be5d6275886e77df62743af813ead3db162fe": {
+        "title": "Leonardo DiCaprio takes his $20 million Malibu beachfront mansion off market even after lowering the price",
+        "link": "https://www.marketwatch.com/story/leonardo-dicaprio-takes-his-20-million-malibu-beachfront-mansion-off-market-even-after-lowering-the-price-0bca0b79?mod=mw_rss_topstories",
+        "published_date": "Mon, 13 Apr 2026 08:59:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126736"
+      },
+      "8a1fc1524c641f6daeed07df07d0d6edb91ed051f594ae6824892774242ab409": {
+        "title": "Starmer defends fast-tracking EU rules into UK law",
+        "link": "https://www.ft.com/content/71e9ce36-0255-4a7b-a1f1-7d8c9cb69748",
+        "published_date": "Mon, 13 Apr 2026 08:32:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126737"
+      },
+      "aa7ab5dd14460c7094febe32c66d380c14920873ddfe974c07c3b010811bcec1": {
+        "title": "Trump lashes out at Pope Leo for criticism of Iran war",
+        "link": "https://www.ft.com/content/5cfc03ff-6966-46fd-a62f-01b2452402dc",
+        "published_date": "Mon, 13 Apr 2026 07:54:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.126738"
       }
     },
     "Ai": {
-      "acf3a260c730f21232ca1b984786829eed5dfbfc0b7c099c67e4e77fb1a8be08": {
-        "title": "量子位专访陶哲轩：我为什么现在创办一个AI x Science组织",
-        "link": "https://www.qbitai.com/2026/03/387832.html",
-        "published_date": "Sat, 14 Mar 2026 06:34:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.457122"
-      },
-      "972c204f89f475280ba557f5052e52add950ca1bf24b33729dc34b85165a1d6a": {
-        "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
-        "link": "https://www.qbitai.com/2026/03/387756.html",
-        "published_date": "Sat, 14 Mar 2026 06:25:00 GMT",
-        "first_seen": "2026-03-14T08:21:42.457129"
-      },
       "f314da8891dba7fb0c95db5ac2fdc18b69005dfd93710babc79131fb5a3d16b0": {
         "title": "360发布安全龙虾系列产品：以模治模构建智能体安全体系",
         "link": "https://www.qbitai.com/2026/03/387921.html",
@@ -16361,13 +16421,25 @@
         "link": "https://www.qbitai.com/2026/04/400350.html",
         "published_date": "Mon, 13 Apr 2026 05:21:00 GMT",
         "first_seen": "2026-04-13T07:08:35.825658"
+      },
+      "c44b6ebec2ee7fbbed1cf7f6dc8515356781b7a91abc468f8feb60c48b4401f8": {
+        "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+        "link": "https://www.qbitai.com/2026/04/401002.html",
+        "published_date": "Mon, 13 Apr 2026 09:09:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.266042"
+      },
+      "8f02cc61473b82f3272101bc788a6c72e5bcc9cc1ba5e01214f274c3d7161a6e": {
+        "title": "智能座舱“大脑”No.1冲刺港股，身价630亿，小米理想小鹏背后的共同供应商",
+        "link": "https://www.qbitai.com/2026/04/400567.html",
+        "published_date": "Mon, 13 Apr 2026 08:44:00 GMT",
+        "first_seen": "2026-04-13T09:25:51.266048"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-13T07:08:35.942480",
-    "Finance": "2026-04-13T07:08:35.663913",
-    "Ai": "2026-04-13T07:08:35.825661"
+    "Technology": "2026-04-13T09:25:51.356267",
+    "Finance": "2026-04-13T09:25:51.126740",
+    "Ai": "2026-04-13T09:25:51.266051"
   }
 }
