@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-13 23:34
+**最后更新时间**: 2026-04-14 06:26
+
+---
+
+## 🆕 最新更新 (2026-04-14 06:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Streaming viewers are OK with double the commercials as ‘subscription fatigue’ sets in](https://www.marketwatch.com/story/streaming-viewers-are-ok-with-double-the-commercials-as-subscription-fatigue-sets-in-5fa4d005?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 05:20
+
+#### [Goldman Sachs has the top rank among the S&P 500 by this remarkable statistic](https://www.marketwatch.com/story/goldman-sachs-has-the-top-rank-among-the-s-p-500-by-this-remarkable-statistic-cedc206c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 02:23
+
+#### [WNBA No. 1 draft pick Azzi Fudd will make $500,000 as a rookie — more than a 500% raise over last year’s pick](https://www.marketwatch.com/story/the-no-1-pick-in-tonights-wnba-draft-will-make-500-000-as-a-rookie-more-than-a-500-raise-over-last-years-pick-066b588c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-14 00:09
+
+#### [Private credit not only won’t spark a financial crisis — it may be more stable than your bank](https://www.marketwatch.com/story/private-credit-is-actually-built-to-survive-the-ghosts-of-the-great-financial-crisis-6eaa35d6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:54
+
+#### [If you’ve ever been tempted to ‘sell in May and go away’ — now is the time](https://www.marketwatch.com/story/if-youve-ever-been-tempted-to-sell-in-may-and-go-away-now-is-the-time-7b8b3a04?mod=mw_rss_topstories)
+**发布时间**: 2026-04-13 23:44
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price retreats amid reports of renewed Iran-US talks](https://www.ft.com/content/bb8bf4c4-2643-4935-9872-5949d3ac3eb1)
+**发布时间**: 2026-04-14 04:31
+
+#### [China shock 2.0: the flood of high-tech goods that will change the world](https://www.ft.com/content/7d51a630-a3de-4cc7-9f5f-0f3e7f0d305a)
+**发布时间**: 2026-04-14 04:00
+
+#### [Why ‘glue work’ can finally shine in the age of AI](https://www.ft.com/content/5e7e1a4e-050c-4c06-98ea-7be5c91863ab)
+**发布时间**: 2026-04-14 04:00
+
+#### [JD Vance takes on ‘poisoned chalice’ of Trump’s foreign policy missions](https://www.ft.com/content/f56823aa-0aa5-4d22-8498-24fc6826c7fc)
+**发布时间**: 2026-04-14 04:00
+
+#### [OpenAI investors question $852bn valuation as strategy shifts](https://www.ft.com/content/04ac7917-940b-4606-be5f-9eb895a7d982)
+**发布时间**: 2026-04-14 04:00
+
+#### [Geopolitical upheaval spurs family offices to open global branches](https://www.ft.com/content/77db56b6-d680-4859-9e5a-fb6dab14018f)
+**发布时间**: 2026-04-14 04:00
+
+#### [Virgin Atlantic boss says higher jet fuel prices are ‘here to stay’](https://www.ft.com/content/cc6347a5-a02e-4f5f-984d-95cfcd4cf164)
+**发布时间**: 2026-04-14 02:30
 
 ---
 
