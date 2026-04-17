@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-17 06:29
+**最后更新时间**: 2026-04-17 09:08
+
+---
+
+## 🆕 最新更新 (2026-04-17 09:08)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [9 months after Ozzy’s death, Sharon Osbourne lists L.A. mansion for $17 million](https://www.marketwatch.com/story/9-months-after-ozzys-death-sharon-osbourne-lists-l-a-mansion-for-17-million-c4a3fd5d?mod=mw_rss_topstories)
+**发布时间**: 2026-04-17 08:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Mandelson vetting scandal shows Starmer isn’t up to the job](https://www.ft.com/content/9b2d3bb3-b88a-44ff-af6c-ab4702ec03a9)
+**发布时间**: 2026-04-17 08:30
+
+#### [Starmer battles calls to resign over Mandelson vetting](https://www.ft.com/content/c49c3c31-1c33-4236-87ab-aefd9bb4c7ee)
+**发布时间**: 2026-04-17 07:34
+
+#### [OnlyFans tops $3bn valuation in stake sale after death of owner](https://www.ft.com/content/e06cdb42-6967-4e7c-b6d5-9516883c73bc)
+**发布时间**: 2026-04-17 04:00
+
+#### [Trump says Iran war ‘should be ending pretty soon’ as Lebanon ceasefire begins](https://www.ft.com/content/cdb6aaee-3cec-4456-8106-5c9279d02392)
+**发布时间**: 2026-04-17 03:22
 
 ---
 
