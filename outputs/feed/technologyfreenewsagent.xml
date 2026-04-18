@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 18 Apr 2026 06:07:00 GMT</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2026 06:07:17 GMT</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2026 08:36:00 GMT</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2026 08:36:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,179 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>龙虾上身Codex</title>
-      <link>https://www.tmtpost.com/7958214.html</link>
-      <description>&lt;![CDATA[龙虾上身Codex]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958214.html</guid>
+      <title>哈啰推变速车，被逼到墙角的自救</title>
+      <link>https://www.tmtpost.com/7958263.html</link>
+      <description>&lt;![CDATA[哈啰推变速车，被逼到墙角的自救]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 16:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7958263.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>五城突围80亿氢能试点：谁在为每公斤十元的价差买单</title>
-      <link>https://www.tmtpost.com/7958174.html</link>
-      <description>&lt;![CDATA[五城突围80亿氢能试点：谁在为每公斤十元的价差买单]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958174.html</guid>
+      <title>这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化</title>
+      <link>https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>设计行业的“棺材板”，要被Claude Design盖上了</title>
-      <link>https://www.tmtpost.com/7958212.html</link>
-      <description>&lt;![CDATA[设计行业的“棺材板”，要被Claude Design盖上了]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958212.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>降费三年，头部基金公司表面稳坐牌桌，实则已走上三条路</title>
-      <link>https://www.tmtpost.com/7958229.html</link>
-      <description>&lt;![CDATA[降费三年，头部基金公司表面稳坐牌桌，实则已走上三条路]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958229.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>不缺钱的梁文锋，为什么要融资？</title>
-      <link>https://www.tmtpost.com/7958175.html</link>
-      <description>&lt;![CDATA[不缺钱的梁文锋，为什么要融资？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958175.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定</title>
-      <link>https://www.tmtpost.com/7958198.html</link>
-      <description>&lt;![CDATA[对7平台幽灵外卖 的35.97亿罚单背后 ，外卖行业价格战红线划定]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 11:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958198.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>DeepSeek 首次融资，AGI 理想向资本低头？</title>
-      <link>https://www.tmtpost.com/7958205.html</link>
-      <description>&lt;![CDATA[DeepSeek 首次融资，AGI 理想向资本低头？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958205.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现</title>
-      <link>https://www.tmtpost.com/7956493.html</link>
-      <description>&lt;![CDATA[三层防御仍然不够，一条PR标题就能偷走你的API密钥：AI Agent安全裂痕再现]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7956493.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>百度三战本地生活背后的生意逻辑</title>
-      <link>https://www.tmtpost.com/7957471.html</link>
-      <description>&lt;![CDATA[百度三战本地生活背后的生意逻辑]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957471.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>俞敏洪做保健品生意了</title>
-      <link>https://www.tmtpost.com/7957366.html</link>
-      <description>&lt;![CDATA[俞敏洪做保健品生意了]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957366.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资</title>
-      <link>https://www.tmtpost.com/7958219.html</link>
-      <description>&lt;![CDATA[V4 发布前夜，DeepSeek 被曝寻求至少 3 亿美元融资]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7958219.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>方朝阳操盘下的会稽山：3年花掉5亿广告费，气泡黄酒能否持续大卖？</title>
-      <link>https://www.tmtpost.com/7957604.html</link>
-      <description>&lt;![CDATA[方朝阳操盘下的会稽山：3年花掉5亿广告费，气泡黄酒能否持续大卖？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957604.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>海底捞的“500元困局”：当“家文化”在极致服务的KPI下异化</title>
-      <link>https://www.tmtpost.com/7957694.html</link>
-      <description>&lt;![CDATA[海底捞的“500元困局”：当“家文化”在极致服务的KPI下异化]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957694.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>永辉超市单季盈利是否可持续？</title>
-      <link>https://www.tmtpost.com/7957957.html</link>
-      <description>&lt;![CDATA[永辉超市单季盈利是否可持续？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957957.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“有了AI，人们却过得越来越累了”</title>
-      <link>https://www.tmtpost.com/7957716.html</link>
-      <description>&lt;![CDATA[“有了AI，人们却过得越来越累了”]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957716.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>传统药店向平台“玩消失”，消费者成为最大受害者？</title>
-      <link>https://www.tmtpost.com/7957727.html</link>
-      <description>&lt;![CDATA[传统药店向平台“玩消失”，消费者成为最大受害者？]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957727.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI的真正战场在“黑暗森林”</title>
-      <link>https://www.tmtpost.com/7957747.html</link>
-      <description>&lt;![CDATA[AI的真正战场在“黑暗森林”]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957747.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>OpenAI 与 Anthropic，是兄弟就来砍我</title>
-      <link>https://www.tmtpost.com/7957973.html</link>
-      <description>&lt;![CDATA[OpenAI 与 Anthropic，是兄弟就来砍我]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957973.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>棒杰股份重整爆“内斗”：董事长举报董秘，美年健康入局生变</title>
-      <link>https://www.tmtpost.com/7957976.html</link>
-      <description>&lt;![CDATA[棒杰股份重整爆“内斗”：董事长举报董秘，美年健康入局生变]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957976.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>忘掉小鹏汽车</title>
-      <link>https://www.tmtpost.com/7957980.html</link>
-      <description>&lt;![CDATA[忘掉小鹏汽车]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 09:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7957980.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>你好，我是一名「火腿」</title>
-      <link>https://sspai.com/post/87807</link>
-      <description>&lt;![CDATA[你好，我是一名「火腿」]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/87807</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力</title>
-      <link>https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力]]&gt;</description>
-      <pubDate>Sat, 18 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>推荐 10 个本周 GitHub 上最火火火的开源项目，收藏一波。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533024&amp;idx=1&amp;sn=1ee5f366af5eddd1b67ce633a2756480</link>
+      <description>&lt;![CDATA[推荐 10 个本周 GitHub 上最火火火的开源项目，收藏一波。]]&gt;</description>
+      <pubDate>Sat, 18 Apr 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533024&amp;idx=1&amp;sn=1ee5f366af5eddd1b67ce633a2756480</guid>
       <category>Technology</category>
     </item>
   </channel>
