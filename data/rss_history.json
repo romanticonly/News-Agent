@@ -2,132 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "333a984350ea3eb5efedadffe6c7d50d2840e48c76454faf4ee14e17a6df44db": {
-        "title": "Claude挖出22个Firefox漏洞",
-        "link": "https://www.infoq.cn/article/GRET2LJeoa4WQm35qmiD?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151249"
-      },
-      "d9cd3a5cf579b41edf0e1f662b9885099bcbc2931edeb54a74a308920996cd10": {
-        "title": "谷歌BigQuery提供了分布式数据跨区域SQL查询的预览功能",
-        "link": "https://www.infoq.cn/article/HW8wlQbkssMqgE5B00uQ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151261"
-      },
-      "1a05f662df125478c448e857e6a2de6c4bb67c49a60148b912298a0a05d03074": {
-        "title": "伊朗冲突致多座AWS数据中心受损，多可用区部署假设面临挑战",
-        "link": "https://www.infoq.cn/article/bTRVfCAqpXkZrDwGev6a?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 20 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151264"
-      },
-      "d6daa81025246cc2585e922a04af641f59558b0206c48343f4cd7b6936ff6b3a": {
-        "title": "风电+绿氢，能源行业的新\"黄金搭档\"前景如何？",
-        "link": "https://www.tmtpost.com/7921719.html",
-        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151266"
-      },
-      "a5432742a3547c7b8e34a698d200906478b6c0d53272ffe24c3d312539887f1f": {
-        "title": "全世界都以为它是DeepSeek V4，结果却是小米交的“作业”",
-        "link": "https://www.tmtpost.com/7921866.html",
-        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151268"
-      },
-      "7dd4109935b2355edfb1b8ed03bf790aa3eed3fa2a8a686f2e8f82702b23c6aa": {
-        "title": "一手实测钉钉“悟空”：AI总算从聊天进化到干活！",
-        "link": "https://www.tmtpost.com/7922228.html",
-        "published_date": "Fri, 20 Mar 2026 15:45:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151269"
-      },
-      "2e2cd4b8715ce948740fdaa1958ccd8ebdb4115000f5a972a4c05ef618f32f39": {
-        "title": "争做 “英伟达平替”，地平线悬了吗？",
-        "link": "https://www.tmtpost.com/7922209.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151271"
-      },
-      "82133f6d83177cba7888c2f1db54f92a9660d2c4b50a710312de34957793caa0": {
-        "title": "罗福莉悄无声息地伏击",
-        "link": "https://www.tmtpost.com/7921691.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151272"
-      },
-      "d8371549d6b91a46c60c4a7b90fbdbb93b9df1a5bef6d9cb91e8a5253d8a71fc": {
-        "title": "所有人都在等待微信AI的王炸",
-        "link": "https://www.tmtpost.com/7921673.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151274"
-      },
-      "096634e6a4fa4f554fea8e1c3d31f87c6ed8ad9dafe937b044c1e6397003ee20": {
-        "title": "雷军说三年要投AI600亿，市场有点慌",
-        "link": "https://www.tmtpost.com/7922268.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151275"
-      },
-      "7d93cd5b03142fb7bc7ebe16906c9faff44c560cd1e6591d53850d13f7fe62fa": {
-        "title": "谷歌究竟会不会给Gemini加广告？",
-        "link": "https://www.tmtpost.com/7921814.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151276"
-      },
-      "3f882de0b4a745a6d4bde8860d51a93c0e9411e93b1d8be25bbc93d98bc701e5": {
-        "title": "利润大幅下滑，阿里要开始想赚钱的事了",
-        "link": "https://www.tmtpost.com/7922256.html",
-        "published_date": "Fri, 20 Mar 2026 15:08:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151278"
-      },
-      "7efdb1502a8b026ae511031c00a90e08dfc7a7f6373607b62e0d7c5104bcfa03": {
-        "title": "腾讯云实现规模盈利，AI开始赚钱了？｜看财报",
-        "link": "https://www.tmtpost.com/7922270.html",
-        "published_date": "Fri, 20 Mar 2026 14:21:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151279"
-      },
-      "a7ef53568de8e8a79bd600c439af6f10061f37c51683ca61504839d4a99f3c45": {
-        "title": "灵巧手企业曦诺未来Xynova完成数亿元Pre-A轮融资，全面加速技术量产进程｜融资速递",
-        "link": "https://www.tmtpost.com/7922166.html",
-        "published_date": "Fri, 20 Mar 2026 14:21:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151281"
-      },
-      "6300e2e0d313bbbe65cacf0597afbc2a0d26400ba369edb8f1688728eaa0b3d6": {
-        "title": "北大团队推出AI自主全球直播，探讨脑机接口技术安全｜公司动态",
-        "link": "https://www.tmtpost.com/7921889.html",
-        "published_date": "Fri, 20 Mar 2026 14:20:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151282"
-      },
-      "33ae28763b1afd7e0f18961c87ac86a9c92b5ba735e7ff40191416cb45557595": {
-        "title": "对话易点天下：Agent与过去有本质区别，安全风险不在于模型微调，而在于模型选择",
-        "link": "https://www.tmtpost.com/7921199.html",
-        "published_date": "Fri, 20 Mar 2026 14:17:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151283"
-      },
-      "8e1a327c4fc8496ac922f8d114d1c6999d3e5d28595b6896410b7e7b3ee94f0d": {
-        "title": "最近用的贼多的 3 个 Claude Code 开源宝藏，感觉太爽了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532290&idx=1&sn=7882ad93e1e37a5394911398677c630a",
-        "published_date": "Fri, 20 Mar 2026 15:43:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151285"
-      },
-      "45297c95c87f1730c601a57a156f06842d2229b602bec7c15d91416a5146df70": {
-        "title": "抱紧英伟达，硬刚特斯拉：吉利的智驾“翻身仗”能成吗？",
-        "link": "http://www.huxiu.com/article/4843580.html?f=wangzhan",
-        "published_date": "Fri, 20 Mar 2026 14:45:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151286"
-      },
-      "a268d7deb0d6cb239d130dab3c1544afdb6d3b335cdfd133721d036a42586d42": {
-        "title": "新款小米SU7，“融冰”比销量更重要",
-        "link": "http://www.huxiu.com/article/4843852.html?f=wangzhan",
-        "published_date": "Fri, 20 Mar 2026 14:43:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151288"
-      },
-      "e6fe9926c083660f8faf55b7494c59fa30aaf049e7d6b149726169d73d2096bf": {
-        "title": "小米新SU7，雷军输不起",
-        "link": "http://www.huxiu.com/article/4843752.html?f=wangzhan",
-        "published_date": "Fri, 20 Mar 2026 14:05:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151289"
-      },
-      "8c0a666a1aa7b01e452fc04cd6d053137d6b8be0b1b45af7fc07340ea122dad4": {
-        "title": "年度征文｜速通新疆，我的穷游攻略",
-        "link": "https://sspai.com/post/107202",
-        "published_date": "Fri, 20 Mar 2026 13:59:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.151290"
-      },
       "253cd1a588497b721471f55f36d2cf84eeedf05733120726dda6eb304214cc85": {
         "title": "20天两场“电池之夜”：电动车的短板，快被填平了？｜钛度车库",
         "link": "https://www.tmtpost.com/7921666.html",
@@ -9535,21 +9409,45 @@
         "link": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
         "published_date": "Sun, 19 Apr 2026 08:00:00 GMT",
         "first_seen": "2026-04-19T06:24:58.373227"
+      },
+      "b7f7f7c3731d5fb9c42f3d3a840f13902fa2eccbefbb827e41d0376cc94adc60": {
+        "title": "酒店四巨头连发财报：效率才是行业活下去的硬底气",
+        "link": "https://www.tmtpost.com/7958818.html",
+        "published_date": "Sun, 19 Apr 2026 16:33:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927706"
+      },
+      "a91fcd4fc09f27e9ed65dda08c184aa59f7b6c150ed351fb3bb9ce3cf78f6f30": {
+        "title": "中国乳业的大变天悄悄完成",
+        "link": "https://www.tmtpost.com/7958857.html",
+        "published_date": "Sun, 19 Apr 2026 16:33:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927716"
+      },
+      "e3f6e795fc115274bd820fd07ec726fb792fe5f847f626028522f1e8ff6c5635": {
+        "title": "机器人马拉松跑赢人   但“有限性”就是人类的护城河",
+        "link": "https://www.tmtpost.com/7958835.html",
+        "published_date": "Sun, 19 Apr 2026 16:33:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927718"
+      },
+      "c68844067a8f41155f79ec4724bee3c9e723ebf46aaf727a7cc001afff402829": {
+        "title": "DeepSeek需要重走来时路",
+        "link": "https://www.tmtpost.com/7958810.html",
+        "published_date": "Sun, 19 Apr 2026 16:13:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927721"
+      },
+      "3ac9be570c537c7b456a3f565b94477f44b776b386ec631c01b289525574493d": {
+        "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+        "link": "https://sspai.com/post/108768",
+        "published_date": "Sun, 19 Apr 2026 14:10:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927723"
+      },
+      "6e53904ed9d3229aa46aac13ad5f897aa25b6e239a4181e158c7155503a3fe6e": {
+        "title": "暴击设计行业的 Claude Design ，系统提示词在 GitHub 上泄露了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533076&idx=1&sn=245937e8333920bde9c4cf5900282618",
+        "published_date": "Sun, 19 Apr 2026 11:28:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.927724"
       }
     },
     "Finance": {
-      "49f5e39e96653bac4a8dde762a58f6899682f9ed9e7e4862b44cbcf648bdece6": {
-        "title": "Unilever in talks to sell food division to spice and sauce maker McCormick",
-        "link": "https://www.ft.com/content/ca1c92f1-30b3-48c9-942a-61a3a08c751e",
-        "published_date": "Fri, 20 Mar 2026 08:00:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.197113"
-      },
-      "b6bf2b4d6527a03c9da55b9eb652cf29d6e7a99a951bf5f61fb1a465f86feee6": {
-        "title": "UK borrowing higher than expected at £14.3bn in February",
-        "link": "https://www.ft.com/content/0b53228d-92d2-4f90-903a-ab803e3a6bc6",
-        "published_date": "Fri, 20 Mar 2026 07:34:00 GMT",
-        "first_seen": "2026-03-20T08:27:47.197120"
-      },
       "cb00ea5b147df3349cf950c543a790fb150a4b1dbfd2d2a647cf5ec278228fd0": {
         "title": "‘The money is tax-free’: I’m 76 and won $50,000 in a settlement related to cancer from nuclear waste. What should I do with it?",
         "link": "https://www.marketwatch.com/story/the-money-is-tax-free-im-76-and-won-50-000-in-a-settlement-related-to-cancer-from-nuclear-waste-what-should-i-do-with-it-5549449e?mod=mw_rss_topstories",
@@ -16205,13 +16103,19 @@
         "link": "https://www.qbitai.com/2026/04/403126.html",
         "published_date": "Sun, 19 Apr 2026 03:24:00 GMT",
         "first_seen": "2026-04-19T06:24:58.280052"
+      },
+      "1e79c6caa63b53c66dd794bfb0d39b54ce82f2356e50c8238bb605a16b692c30": {
+        "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+        "link": "https://www.qbitai.com/2026/04/403505.html",
+        "published_date": "Sun, 19 Apr 2026 07:50:00 GMT",
+        "first_seen": "2026-04-19T08:41:38.827995"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-19T06:24:58.373229",
+    "Technology": "2026-04-19T08:41:38.927726",
     "Finance": "2026-04-19T06:24:58.136930",
-    "Ai": "2026-04-19T06:24:58.280054"
+    "Ai": "2026-04-19T08:41:38.828007"
   }
 }
