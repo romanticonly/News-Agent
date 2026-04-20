@@ -2,24 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "e985d754199337adca65a97808a52c6ac5b235b586bb6cd51e87f7e6e74996e3": {
-        "title": "HALO资产从“AI避险”到“物理底座 ：历史变局中的实物资产重估与中国战略机遇",
-        "link": "https://www.tmtpost.com/7923764.html",
-        "published_date": "Sat, 21 Mar 2026 15:44:00 GMT",
-        "first_seen": "2026-03-21T08:19:21.131330"
-      },
-      "aa391daa7c726848082b65183b3a717a83514d13904793c4bc880951733b63c2": {
-        "title": "Rabbit又行了？油管大V改口，将发第二款AI硬件",
-        "link": "https://www.tmtpost.com/7923602.html",
-        "published_date": "Sat, 21 Mar 2026 15:33:00 GMT",
-        "first_seen": "2026-03-21T08:19:21.131339"
-      },
-      "fbfe2730622a4fe2f8988e84a20a9fc772e19b700ed84f29afd2b41aaf51542f": {
-        "title": "这个爆火又被删掉的 GitHub 项目，告诉你 AI 会影响哪些工作？",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532307&idx=1&sn=677d709b52fc857c27c803483094f53a",
-        "published_date": "Sat, 21 Mar 2026 15:05:00 GMT",
-        "first_seen": "2026-03-21T08:19:21.131341"
-      },
       "aa1ea1d64da4611b1948605c0ce97f0015e70bc7bb4c476aedfae35b11b7b8f1": {
         "title": "宇树科技靠融资还是靠卖货活着？翻完招股书，我们挖到了这8个关键点",
         "link": "https://www.infoq.cn/article/lOkVPrOqAP8df2JEbwmU?utm_source=rss&utm_medium=article",
@@ -9373,6 +9355,78 @@
         "link": "https://sspai.com/post/108885",
         "published_date": "Mon, 20 Apr 2026 07:06:00 GMT",
         "first_seen": "2026-04-20T07:10:23.648282"
+      },
+      "3254c16085d637f5448b717a0daf0d07901c5d0e68b06e0d0cc0e207029844cd": {
+        "title": "RTO 小于 30 秒！TDSQL-C 全球数据库切换核心流程公开",
+        "link": "https://www.infoq.cn/video/J08xYJwwFAhVuxJGyNr4?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 16:48:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052304"
+      },
+      "b6008ef7b3f22a6e24882116bc612f73566094246b9643e56eb1771afcc8d112": {
+        "title": "零门槛AI生成赛道再添新玩家，“灵珠”平台开启第一次内测",
+        "link": "https://www.infoq.cn/article/ZPWKLMsW3qPTNKEog63r?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 16:43:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052324"
+      },
+      "9048a5d70f6aaf533307682b1ba92dc01f0ba71cd8466ae180472c4aa0e3282c": {
+        "title": "混元大模型加持！揭秘 AI 时代的 SQL 自动调优核心方案",
+        "link": "https://www.infoq.cn/video/mMwbDBfQOpxCTvFkPhc1?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 16:00:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052326"
+      },
+      "39babf4d6ff79bdcb723788ea7a08a254f2c2c6c375db832ed21433038a40631": {
+        "title": "TDSQL-C 核心技术突破：AI 加持下的 Serverless 智能化弹性四层架构解析",
+        "link": "https://www.infoq.cn/video/qyTsCKj32wUD8Dmy3xWr?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 20 Apr 2026 15:33:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052328"
+      },
+      "d053e734d6c296000c36e432932b27913172ae7bc801bbfeef6620af4688eedb": {
+        "title": "具透｜Android 17 正式版前瞻",
+        "link": "https://sspai.com/post/108899",
+        "published_date": "Mon, 20 Apr 2026 16:27:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052330"
+      },
+      "c99bb572d65f90644b2b40a5d95162f8a61d7b51adbef522b6c2235ba5c8f2ae": {
+        "title": "月之暗面IPO，杨植麟不急股东急",
+        "link": "https://www.tmtpost.com/7959812.html",
+        "published_date": "Mon, 20 Apr 2026 15:54:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052332"
+      },
+      "da38b57dc273713b89ae4fcc803dd04125b960d85e33c6000adc6245aafea5dd": {
+        "title": "海信视像：冲击三星全球第一，还差什么？",
+        "link": "https://www.tmtpost.com/7959724.html",
+        "published_date": "Mon, 20 Apr 2026 15:54:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052333"
+      },
+      "ed420b87871f027680f4f7570a7c43ecf5f529e556fff2234b9fa0937b5f7e38": {
+        "title": "今年最妖股，改个AI名，股价暴涨800%",
+        "link": "https://www.tmtpost.com/7959729.html",
+        "published_date": "Mon, 20 Apr 2026 15:54:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052335"
+      },
+      "95811bb4bfb47298e1dcae7090893c9d9d0fdb9b80409cdfe32d2abcf26bbc3b": {
+        "title": "Sora退场，新BAT狂飙",
+        "link": "https://www.tmtpost.com/7959767.html",
+        "published_date": "Mon, 20 Apr 2026 15:49:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052337"
+      },
+      "38806c0b74210e3611a7ddcfed552e2ef5198a60644ff7b06840d08999283b33": {
+        "title": "Token大跃进",
+        "link": "https://www.tmtpost.com/7959756.html",
+        "published_date": "Mon, 20 Apr 2026 15:49:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052338"
+      },
+      "42c31458c25d10e18c82087db081b70b5320ed377133751e474a1cd73622e263": {
+        "title": "国货美妆沦为“杂货铺”？",
+        "link": "https://www.tmtpost.com/7959757.html",
+        "published_date": "Mon, 20 Apr 2026 15:46:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052340"
+      },
+      "33014ba9a6f0b3a3015495a1e4cb4431dc2f7f22de4f3df826b93228b706e73c": {
+        "title": "生化危机女主在 GitHub 开源了一个项目，现在快 5 万星了。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533127&idx=1&sn=4959cde12f835de2b9bfeb86a78b1ecc",
+        "published_date": "Mon, 20 Apr 2026 15:02:00 GMT",
+        "first_seen": "2026-04-20T09:32:01.052341"
       }
     },
     "Finance": {
@@ -14385,15 +14439,69 @@
         "link": "https://www.ft.com/content/fe78cee3-c1a0-453a-b7da-683963c6e52a",
         "published_date": "Mon, 20 Apr 2026 04:00:00 GMT",
         "first_seen": "2026-04-20T07:10:23.361354"
+      },
+      "dd9652ea8d1fab9b531428834269f5974d8ad6629e0f574a0a74cd7d3279bcba": {
+        "title": "Oil futures climb after Strait of Hormuz closed again as peace talks thrown into uncertainty",
+        "link": "https://www.marketwatch.com/story/oil-futures-climb-after-strait-of-hormuz-closed-again-as-peace-talks-thrown-into-uncertainty-11988c5b?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 09:21:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817974"
+      },
+      "d06ad9740753f421c77babca03064e40406d49c26e5458b779f1dfc937cc66ec": {
+        "title": "Singer Meghan Trainor finally sold her SoCal home for $6.8 million just before canceling her tour",
+        "link": "https://www.marketwatch.com/story/singer-meghan-trainor-finally-sold-her-socal-home-for-6-8-million-just-before-canceling-her-tour-f2d3c976?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 09:05:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817986"
+      },
+      "55159e5e4740422444c68bf49ce5eea51a42443bc13523989098573b71eb9e84": {
+        "title": "‘Red flags’: Ryan Seacrest on what he looks for in a date, and he lists stunning Napa Valley estate for $19.8 million",
+        "link": "https://www.marketwatch.com/story/red-flags-ryan-seacrest-on-what-he-looks-for-in-a-date-and-he-lists-stunning-napa-valley-estate-for-19-8-million-aa52e6c2?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 09:01:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817989"
+      },
+      "3d2fc18e8580e7742129e8edad0293b6ee3702db238cf492f083214f883e5908": {
+        "title": "World’s leading political risk consultant says a collapse in the Strait of Hormuz cease-fire is still a big threat",
+        "link": "https://www.marketwatch.com/story/worlds-leading-political-risk-consultant-says-a-collapse-in-the-strait-of-hormuz-cease-fire-is-still-a-big-threat-36845cbc?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 08:59:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817991"
+      },
+      "bc1b3b78a335184106bb1185da56ce50108cead50106f1a1e68f85ee4fcd06c8": {
+        "title": "American Airlines says it’s not interested in merging with United. One analyst sees consolidation elsewhere.",
+        "link": "https://www.marketwatch.com/story/american-airlines-says-its-not-interested-in-merging-with-united-one-analyst-sees-consolidation-elsewhere-141f4354?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 08:24:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817992"
+      },
+      "c857a69687c521d3b1da86c49e3f953f3d73af5d58031c249c88f4a87f7e2119": {
+        "title": "The narrow foundations of the current rally — one company is responsible for half of S&P 500 earnings revisions",
+        "link": "https://www.marketwatch.com/story/the-narrow-foundations-of-the-current-rally-one-company-is-responsible-for-half-of-s-p-500-earnings-revisions-68aadd26?mod=mw_rss_topstories",
+        "published_date": "Mon, 20 Apr 2026 08:07:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817994"
+      },
+      "836ec3c8731efac7f1c347d1101eb42ccd79fb4368b612ae1e139c45b55f36a6": {
+        "title": "Starmer set for vetting showdown with ‘heartbroken’ Olly Robbins",
+        "link": "https://www.ft.com/content/9f8d01dd-4ef8-475e-8b76-9cb0e325fb60",
+        "published_date": "Mon, 20 Apr 2026 09:03:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817996"
+      },
+      "bde7cff7d6ecc3aa71ff6fbc15afe3fd2a12f7536503f15aea56cff99abf3c48": {
+        "title": "The Mandelson affair is about the government’s judgment, not process",
+        "link": "https://www.ft.com/content/1ca6de4b-a178-41f8-ba2c-499393457c3f",
+        "published_date": "Mon, 20 Apr 2026 08:30:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817997"
+      },
+      "90828325594e076cb3ba49b15ab5f4ea00d71c8a37ea6bd2129eab62b818d203": {
+        "title": "Japan issues tsunami warning after major earthquake",
+        "link": "https://www.ft.com/content/2840bbee-d440-40c8-b339-3c2ad2296dbf",
+        "published_date": "Mon, 20 Apr 2026 08:24:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.817999"
+      },
+      "38934b2053e16f8f8308384d1a0d00ba54e064da54e7fb78c61656625c11ac2a": {
+        "title": "Oil rebounds as Iran threatens to retaliate for US attack on cargo ship",
+        "link": "https://www.ft.com/content/3f067df5-5016-4be1-aa61-21af3e7668e2",
+        "published_date": "Mon, 20 Apr 2026 07:17:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.818000"
       }
     },
     "Ai": {
-      "791a5d9a4f28b05cded8efdb427746f370cd9f1e212d2444b9c9a907d55339c4": {
-        "title": "北航团队为龙虾安全紧急开刀！开源OpenClaw风险防御工具，梳理9大高危风险缓解措施",
-        "link": "https://www.qbitai.com/2026/03/390918.html",
-        "published_date": "Sat, 21 Mar 2026 05:36:00 GMT",
-        "first_seen": "2026-03-21T08:19:21.315767"
-      },
       "74946b45776c3572cea6681e4151056201b6fd1b0e7c4f7c638cf329bbb209e9": {
         "title": "精准识别「界门纲目科属种」！北大彭宇新团队用细粒度树先验提升泛化，破解生物类别分层识别难题",
         "link": "https://www.qbitai.com/2026/03/390945.html",
@@ -15995,13 +16103,25 @@
         "link": "https://ai.hubtoday.app//2026-04/2026-04-20/",
         "published_date": "Mon, 20 Apr 2026 10:08:00 GMT",
         "first_seen": "2026-04-20T07:10:23.531075"
+      },
+      "176a5ee50d1a1a206077f4eb5123e396ab93e5756543f954d08cf3ab8c82223c": {
+        "title": "Mythos架构被22岁小伙“逆推”开源了！MoE和注意力借鉴DeepSeek",
+        "link": "https://www.qbitai.com/2026/04/403708.html",
+        "published_date": "Mon, 20 Apr 2026 07:59:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.959927"
+      },
+      "a3d9a8d870f573adbc61e4490049f23a5459a11749057ac4466fa749bdb015ff": {
+        "title": "全球最大规模含触觉数据集，凭什么吸引谷歌和众多高校的加入？",
+        "link": "https://www.qbitai.com/2026/04/403701.html",
+        "published_date": "Mon, 20 Apr 2026 07:55:00 GMT",
+        "first_seen": "2026-04-20T09:32:00.959934"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-20T07:10:23.648284",
-    "Finance": "2026-04-20T07:10:23.361356",
-    "Ai": "2026-04-20T07:10:23.531086"
+    "Technology": "2026-04-20T09:32:01.052343",
+    "Finance": "2026-04-20T09:32:00.818002",
+    "Ai": "2026-04-20T09:32:00.959937"
   }
 }
