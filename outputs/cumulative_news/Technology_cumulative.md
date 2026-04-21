@@ -1,7 +1,79 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 06:29
+**最后更新时间**: 2026-04-21 09:17
+
+---
+
+## 🆕 最新更新 (2026-04-21 09:17)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI时代最贵的“布”，到底有多抢手？](https://www.tmtpost.com/7961280.html)
+**发布时间**: 2026-04-21 16:40
+
+#### [梭哈AI！爱奇艺“疯了”上热搜，爱豆会失业吗？](https://www.tmtpost.com/7960502.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [龚宇的AI梦，为何成了爱奇艺的公关噩梦？](https://www.tmtpost.com/7960807.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [从FDA绿灯到国内未获批准，全球FIC折戟背后](https://www.tmtpost.com/7960894.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [DDR3第二春：一场没得选的狂欢](https://www.tmtpost.com/7960900.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [制药界Space X登场，AI制药集齐“三小龙”](https://www.tmtpost.com/7960901.html)
+**发布时间**: 2026-04-21 16:38
+
+#### [千亿液冷龙头“急刹车”，英维克一字跌停，光环与泡沫显现](https://www.tmtpost.com/7961257.html)
+**发布时间**: 2026-04-21 15:50
+
+#### [爱奇艺说入驻，艺人说没签，谁在说谎？](https://www.tmtpost.com/7961023.html)
+**发布时间**: 2026-04-21 15:11
+
+#### [汪滔不想被理解，俞浩也不想](https://www.tmtpost.com/7960969.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图](https://www.tmtpost.com/7960965.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [Claude 进了 Word，但“修订模式”不是新发明](https://www.tmtpost.com/7960339.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [关于苹果新任CEO的一切](https://www.tmtpost.com/7961034.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [库克没有辜负乔布斯](https://www.tmtpost.com/7961071.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [梁文锋不在乎赢，DeepSeek不能输](https://www.tmtpost.com/7960987.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [字节的利润去哪了？](https://www.tmtpost.com/7960950.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [爱奇艺太急了](https://www.tmtpost.com/7961125.html)
+**发布时间**: 2026-04-21 14:48
+
+#### [黄仁勋公开叫板谷歌、亚马逊，芯片业务全靠Anthropic养活？](https://www.tmtpost.com/7960426.html)
+**发布时间**: 2026-04-21 14:48
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [构建可信数据智能体的上下文层 ｜ 技术趋势](https://www.infoq.cn/article/QyXUMEdTVvStcoE1bBZK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:06
+
+#### [湖仓建设中的巴别塔：跨数据库引擎处理标识符解析规则](https://www.infoq.cn/article/dGEQOcGXJRdBxkvXzhCl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 15:00
+
+#### [Vibe Coding 的边界：3000 万开发者，实现不了 80 亿人的灵光](https://www.infoq.cn/article/5mM7VODr7TttHPVwklzl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-21 14:30
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Kimi 2.6 来了！一次性发了 5 个王炸，还有一个 Agent 版微信？](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533152&idx=1&sn=904b7943e3e9a2fcf4dd4a925af34c27)
+**发布时间**: 2026-04-21 13:06
 
 ---
 

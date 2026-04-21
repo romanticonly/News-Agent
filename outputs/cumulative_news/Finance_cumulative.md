@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-21 06:29
+**最后更新时间**: 2026-04-21 09:17
+
+---
+
+## 🆕 最新更新 (2026-04-21 09:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Ben Affleck gives Jennifer Lopez his share of $60 million, 24-bathroom Beverly Hills mansion](https://www.marketwatch.com/story/ben-affleck-gives-jennifer-lopez-his-share-of-60-million-24-bathroom-beverly-hills-mansion-eec5b224?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 09:02
+
+#### [Lizzo finally sells her Beverly Hills mansion at a big loss](https://www.marketwatch.com/story/lizzo-finally-sells-her-beverly-hills-mansion-at-a-big-loss-cad733b1?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 08:58
+
+#### [Alaska Air says it will spend more on fuel this quarter than it earned the last two years](https://www.marketwatch.com/story/alaska-air-says-it-will-spend-more-on-fuel-this-quarter-than-it-earned-the-last-two-years-587d85c8?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 08:47
+
+#### [The end of freedom of the seas: Why global shipping may never be the same](https://www.marketwatch.com/story/the-end-of-freedom-of-the-seas-why-global-shipping-may-never-be-the-same-54e0b3a3?mod=mw_rss_topstories)
+**发布时间**: 2026-04-21 07:43
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Apple’s next chief Ternus faces defining AI moment](https://www.ft.com/content/ef888edd-d12e-41d0-b38d-3d6465cf280c)
+**发布时间**: 2026-04-21 08:45
+
+#### [Robbins says No 10 created ‘atmosphere of pressure’ over Mandelson appointment](https://www.ft.com/content/0699aafc-13ff-491a-be8f-2d05fa356aa9)
+**发布时间**: 2026-04-21 07:37
+
+#### [Apple chief Tim Cook to hand over to John Ternus in September](https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615)
+**发布时间**: 2026-04-21 07:37
+
+#### [‘Kiss of death’: how the US killed a Swiss merchant bank](https://www.ft.com/content/861bbb39-9cdb-4e80-933a-46b0d7104e5e)
+**发布时间**: 2026-04-21 04:00
+
+#### [Sotheby’s strikes $100mn debt deal with KKR backed by auction fees](https://www.ft.com/content/72ecd622-e40c-4937-b31c-c9fc9c7c89d9)
+**发布时间**: 2026-04-21 04:00
 
 ---
 
