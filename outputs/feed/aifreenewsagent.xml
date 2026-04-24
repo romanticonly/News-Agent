@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Apr 2026 06:56:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Apr 2026 06:58:38 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Apr 2026 09:20:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 09:22:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-04-24日刊</title>
-      <link>https://ai.hubtoday.app//2026-04/2026-04-24/</link>
-      <description>&lt;![CDATA[2026-04-24日刊]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-04/2026-04-24/</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片</title>
-      <link>https://www.qbitai.com/2026/04/406359.html</link>
-      <description>&lt;![CDATA[DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片]]&gt;</description>
-      <pubDate>Fri, 24 Apr 2026 04:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406359.html</guid>
+      <title>Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式</title>
+      <link>https://www.qbitai.com/2026/04/406393.html</link>
+      <description>&lt;![CDATA[Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式]]&gt;</description>
+      <pubDate>Fri, 24 Apr 2026 07:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/04/406393.html</guid>
       <category>Ai</category>
     </item>
   </channel>
