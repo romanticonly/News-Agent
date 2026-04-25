@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 25 Apr 2026 06:15:00 GMT</pubDate>
-    <lastBuildDate>Sat, 25 Apr 2026 06:15:51 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Apr 2026 08:40:00 GMT</pubDate>
+    <lastBuildDate>Sat, 25 Apr 2026 08:41:00 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,115 +14,115 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践</title>
-      <link>https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Snowflake 上的本体体系：基于 Cortex Code 能力实现从架构到部署 ｜ 技术实践]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ypFQdKZIlSUC12Wm8A9g?utm_source=rss&amp;utm_medium=article</guid>
+      <title>字节养的“虾”与1500亿账本背后</title>
+      <link>https://www.tmtpost.com/7967099.html</link>
+      <description>&lt;![CDATA[字节养的“虾”与1500亿账本背后]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967099.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险</title>
-      <link>https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Cloudflare 公布 MCP 架构方案，应对企业面临的安全与治理风险]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/eWRlmwIT5ApA2OKL9RYh?utm_source=rss&amp;utm_medium=article</guid>
+      <title>最激进的“AI先锋”多邻国，已经放过员工了</title>
+      <link>https://www.tmtpost.com/7967030.html</link>
+      <description>&lt;![CDATA[最激进的“AI先锋”多邻国，已经放过员工了]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967030.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>全球变压器超级缺口，激活中国特高压产业机会</title>
-      <link>https://www.tmtpost.com/7966566.html</link>
-      <description>&lt;![CDATA[全球变压器超级缺口，激活中国特高压产业机会]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966566.html</guid>
+      <title>已求证！阿维塔高端定位不变，持续向上</title>
+      <link>https://www.tmtpost.com/7967007.html</link>
+      <description>&lt;![CDATA[已求证！阿维塔高端定位不变，持续向上]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967007.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>2026北京车展：从七大黑科技看全球最大车展</title>
-      <link>https://www.tmtpost.com/7966574.html</link>
-      <description>&lt;![CDATA[2026北京车展：从七大黑科技看全球最大车展]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966574.html</guid>
+      <title>DeepSeek V4的真正价值，不在参数里</title>
+      <link>https://www.tmtpost.com/7966576.html</link>
+      <description>&lt;![CDATA[DeepSeek V4的真正价值，不在参数里]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966576.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？</title>
-      <link>https://www.tmtpost.com/7966538.html</link>
-      <description>&lt;![CDATA[DeepSeek V4、GPT5.5会师：通向AGI的门票只有Coding？]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 10:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966538.html</guid>
+      <title>DeepSeek再放大招，国产大模型坐不住了</title>
+      <link>https://www.tmtpost.com/7966592.html</link>
+      <description>&lt;![CDATA[DeepSeek再放大招，国产大模型坐不住了]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966592.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>抖音本地生活“断舍离”</title>
-      <link>https://www.tmtpost.com/7966611.html</link>
-      <description>&lt;![CDATA[抖音本地生活“断舍离”]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966611.html</guid>
+      <title>大疆与影石，一场中国硬件的「边界」交锋</title>
+      <link>https://www.tmtpost.com/7966626.html</link>
+      <description>&lt;![CDATA[大疆与影石，一场中国硬件的「边界」交锋]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966626.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek-V4发布，黄仁勋的担忧成真了</title>
-      <link>https://www.tmtpost.com/7966555.html</link>
-      <description>&lt;![CDATA[DeepSeek-V4发布，黄仁勋的担忧成真了]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966555.html</guid>
+      <title>V4“上桌”，DeepSeek的故事更热血了</title>
+      <link>https://www.tmtpost.com/7966641.html</link>
+      <description>&lt;![CDATA[V4“上桌”，DeepSeek的故事更热血了]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966641.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GPT-5.5实测：更聪明，也更爱“说谎”</title>
-      <link>https://www.tmtpost.com/7966667.html</link>
-      <description>&lt;![CDATA[GPT-5.5实测：更聪明，也更爱“说谎”]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966667.html</guid>
+      <title>不只DeepSeek，大厂都想“抛弃”英伟达</title>
+      <link>https://www.tmtpost.com/7966656.html</link>
+      <description>&lt;![CDATA[不只DeepSeek，大厂都想“抛弃”英伟达]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966656.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>月暗与DeepSeek的“听牌”时刻</title>
-      <link>https://www.tmtpost.com/7966608.html</link>
-      <description>&lt;![CDATA[月暗与DeepSeek的“听牌”时刻]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966608.html</guid>
+      <title>字节也入局了，世界模型到底是一门怎样的生意？</title>
+      <link>https://www.tmtpost.com/7967028.html</link>
+      <description>&lt;![CDATA[字节也入局了，世界模型到底是一门怎样的生意？]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967028.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek不想只做大模型了</title>
-      <link>https://www.tmtpost.com/7966836.html</link>
-      <description>&lt;![CDATA[DeepSeek不想只做大模型了]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966836.html</guid>
+      <title>看了腾讯的Hy3 preview，我读懂了姚顺雨</title>
+      <link>https://www.tmtpost.com/7967029.html</link>
+      <description>&lt;![CDATA[看了腾讯的Hy3 preview，我读懂了姚顺雨]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967029.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>腾讯大模型重回牌桌了吗？</title>
-      <link>https://www.tmtpost.com/7966804.html</link>
-      <description>&lt;![CDATA[腾讯大模型重回牌桌了吗？]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966804.html</guid>
+      <title>谁在假冒开市客？</title>
+      <link>https://www.tmtpost.com/7966971.html</link>
+      <description>&lt;![CDATA[谁在假冒开市客？]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 15:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966971.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>AI打倒了英特尔，AI又救了英特尔</title>
-      <link>https://www.tmtpost.com/7966888.html</link>
-      <description>&lt;![CDATA[AI打倒了英特尔，AI又救了英特尔]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 09:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966888.html</guid>
+      <title>【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具</title>
+      <link>https://www.tmtpost.com/7967024.html</link>
+      <description>&lt;![CDATA[【数智周报】  月之暗面新模型Kimi K2.6发布并开源；Deepseek官网公布deepseek-v4接口文档；中国软件产业规模有望突破20万亿元大关；特斯拉中国车机将接入豆包大模型；OpenAI发布ChatGPT Images 2.0生图工具]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 14:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7967024.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>南大最新研究：年化40%的骗局面前，AI比人类更清醒</title>
-      <link>https://www.tmtpost.com/7964880.html</link>
-      <description>&lt;![CDATA[南大最新研究：年化40%的骗局面前，AI比人类更清醒]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 08:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7964880.html</guid>
+      <title>百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略</title>
+      <link>https://www.tmtpost.com/7966271.html</link>
+      <description>&lt;![CDATA[百型智能创始人韩美：Agent成了“销冠”，人类才能更专注策略]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 14:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7966271.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Edge AI Daily 早报（4月25日）</title>
-      <link>https://www.tmtpost.com/7966852.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（4月25日）]]&gt;</description>
-      <pubDate>Sat, 25 Apr 2026 08:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7966852.html</guid>
+      <title>Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践]]&gt;</description>
+      <pubDate>Sat, 25 Apr 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
   </channel>
