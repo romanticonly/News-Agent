@@ -2,42 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "4d2701c0284d726232ba9aebc7871016a5d3cfff8bc95d385b012071b0e671e1": {
-        "title": "从电价优势到低成本词元（Token）出海的叙事路径成立吗？",
-        "link": "https://www.tmtpost.com/7933712.html",
-        "published_date": "Sun, 29 Mar 2026 19:06:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624443"
-      },
-      "2dc65245b0face5b236f3cc2239fff063252e9f2e89fe791c9ae690fcad24fba": {
-        "title": "当王兴说“进攻AI”时，美团在防守什么？",
-        "link": "https://www.tmtpost.com/7933275.html",
-        "published_date": "Sun, 29 Mar 2026 17:53:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624452"
-      },
-      "11b7777eb34b1c48912c06ea8440467463082158a8701c2f25c9038701532285": {
-        "title": "云南资源底盘上的价值重估：绿色能源抬升上限，有色产业环境约束加速显性化｜上市公司观察",
-        "link": "https://www.tmtpost.com/7933482.html",
-        "published_date": "Sun, 29 Mar 2026 09:48:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624455"
-      },
-      "5dc6ab2938e27ce219ba637de7cbb8789d2d1e503d90969ad241e81d7a2a8a74": {
-        "title": "价值判断：涨停板的投资机会和风险提示（3月27日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7933478.html",
-        "published_date": "Sun, 29 Mar 2026 09:47:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624457"
-      },
-      "ae3e4f28cc823918a8e5bb820d894812b4680116d7aac1311f60493b65630ce9": {
-        "title": "巴菲特 vs 000847： 谁在市场里跑得更稳？｜济安学派",
-        "link": "https://www.tmtpost.com/7933470.html",
-        "published_date": "Sun, 29 Mar 2026 09:46:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624459"
-      },
-      "901891871531c40bfd707f28210c8ffd400c0dd113461bfada11d80a508cd531": {
-        "title": "自制电子墨水屏，以及我用它来干了什么？",
-        "link": "https://sspai.com/post/105990",
-        "published_date": "Sun, 29 Mar 2026 17:38:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.624461"
-      },
       "1e8ec8c83576084e0fa4e5ac04ecc4e7ffc3ebe060eb445a4f104cd4bb628f01": {
         "title": ".NET 11预览版2更新MAUI，带来性能提升和平台优化",
         "link": "https://www.infoq.cn/article/ldsM9ByZTPz2qhHAOqPO?utm_source=rss&utm_medium=article",
@@ -9373,81 +9337,75 @@
         "link": "http://www.geekpark.net/news/363371",
         "published_date": "Tue, 28 Apr 2026 08:16:00 GMT",
         "first_seen": "2026-04-28T10:05:57.368629"
+      },
+      "e3541b82bfa275e5a1d759c643d77406e62459b18ab0a7d0f0e83a323a0ca06d": {
+        "title": "【钛晨报】中共中央政治局召开会议，分析研究当前经济形势和经济工作；中国自2026年5月1日起对所有非洲建交国实施零关税；阿联酋决定自5月1日起退出OPEC和OPEC+",
+        "link": "https://www.tmtpost.com/7971170.html",
+        "published_date": "Wed, 29 Apr 2026 07:20:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724900"
+      },
+      "f4390eb6d760ae5d287796e5179b0d07dc4c6c5b7eb7875bd7595dd40c186443": {
+        "title": "透过财报看古井贡酒韧性：主动谋变，穿越周期",
+        "link": "https://www.tmtpost.com/7971166.html",
+        "published_date": "Tue, 28 Apr 2026 21:55:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724908"
+      },
+      "716bdb26121d329dea2d8b31452095f8cbefd4a0aa79d1c3c99c526c580c90a0": {
+        "title": "自动驾驶重卡的“iPhone时刻”来了",
+        "link": "https://www.tmtpost.com/7970665.html",
+        "published_date": "Tue, 28 Apr 2026 20:50:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724910"
+      },
+      "c07d28224f78d325b0742669d4f9ff3091ab46aaebb09dcd8f265e8466a7d8d9": {
+        "title": "大模型的“保质期”比牛奶还短",
+        "link": "https://www.tmtpost.com/7970694.html",
+        "published_date": "Tue, 28 Apr 2026 18:53:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724912"
+      },
+      "3efed34681f325ebeeb4b9f0f3ca9197604905a23efe6d41cdcc59869ed5c437": {
+        "title": "关于英伟达 L4 和物理 AI，吴新宙回应一切",
+        "link": "https://www.tmtpost.com/7970417.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724914"
+      },
+      "5e6b44eb1133029fa7f03026a35bd35a515c9910b8e94557d99b5b4a2ca56807": {
+        "title": "长盛轴承，等待下一个“宇树时刻”",
+        "link": "https://www.tmtpost.com/7970666.html",
+        "published_date": "Tue, 28 Apr 2026 18:52:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724915"
+      },
+      "635bdc76da0d54279579666a9e604242e709b364106002f37233841483cefbe8": {
+        "title": "卖了九年“算法”，营收还在3亿线：零点有数能被AI救赎吗？",
+        "link": "https://www.tmtpost.com/7970644.html",
+        "published_date": "Tue, 28 Apr 2026 18:38:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724917"
+      },
+      "a6de7ca0fdaed5a0ab1fab98dec99ae279ba090c8deeb7ed78e3d4210946c967": {
+        "title": "2026年，资本正“沿着产业集群”给AI公司定价",
+        "link": "https://www.tmtpost.com/7970692.html",
+        "published_date": "Tue, 28 Apr 2026 18:38:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724918"
+      },
+      "28bca8e21bc1af43092b44d12bd73cf4d211956859f3d5bb9502a8a1fe491503": {
+        "title": "汽车的「OpenClaw 时刻」，到了？",
+        "link": "http://www.geekpark.net/news/363403",
+        "published_date": "Tue, 28 Apr 2026 19:26:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724920"
+      },
+      "ab6df7a18de02b737cb1ad1812c9cb3523fb0a31cfb7f30054af4218176ad551": {
+        "title": "Cortex Code 入门指南：面向数据工程师的实践路径 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/j5GzrA50oPkKBXLvcjBp?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 28 Apr 2026 18:00:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724922"
+      },
+      "7fa02046a11dbdf60c2c3afb46d3cff12fba504a353ce539faf9a961266429d3": {
+        "title": "住久了没意思（二）：从有光的地方开始动手",
+        "link": "https://sspai.com/prime/story/how-to-renovate-a-rental-balcony",
+        "published_date": "Tue, 28 Apr 2026 17:50:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.724924"
       }
     },
     "Finance": {
-      "e6152cb69fca45f40b5b3c860f02acbd51d8cd7b7e5f9f79625d52485c32ffdb": {
-        "title": "U.S. stock futures sink, oil prices surge as Iran war shows no signs of letting up",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-sink-oil-prices-surge-as-iran-war-shows-no-signs-of-letting-up-5c463163?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 23:06:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706957"
-      },
-      "bc9e4a016935a5c6b6bea7d04ea98f679aaac6a07c4469ca9d838878606958a3": {
-        "title": "Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict",
-        "link": "https://www.marketwatch.com/story/investors-have-nowhere-to-hide-as-financial-markets-groan-under-the-weight-of-the-iran-conflict-41d3d2a2?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 19:30:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706965"
-      },
-      "afa4ac4f7d908b4fa588565dbba17ea91aa3ab99b2e43adfeea82f17a561e635": {
-        "title": "Nike’s stock is at 9-year lows ahead of earnings. It faces these questions as doubt grows over its turnaround.",
-        "link": "https://www.marketwatch.com/story/nikes-stock-is-at-9-year-lows-ahead-of-earnings-it-faces-these-questions-as-doubt-grows-over-its-turnaround-7861a90c?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 14:00:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706967"
-      },
-      "0b963f57a4e04000ada0a79c88795b5b580320196f99ead4c8cffad3f49f4bab": {
-        "title": "‘Several hurricanes have come close’: I’m 73 and live in a mobile home in Florida. Do I ditch my $2,400 home insurance?",
-        "link": "https://www.marketwatch.com/story/several-hurricanes-have-come-close-im-73-and-live-in-a-mobile-home-in-florida-do-i-ditch-my-2-400-home-insurance-87397157?mod=mw_rss_topstories",
-        "published_date": "Sun, 29 Mar 2026 12:42:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706969"
-      },
-      "d03c5322e7e319e4bf0d7706ca9c6560b3ac140186629a84ec4ed41cc1826222": {
-        "title": "Oil price rises past $115 as Iran conflict worsens",
-        "link": "https://www.ft.com/content/21607fce-182d-45d1-bcf2-d2a78f9339cb",
-        "published_date": "Sun, 29 Mar 2026 22:17:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706970"
-      },
-      "02092914349a832e3ac6e7eb11f3f801e18a333f58f67b7ab7bb6bb1ae07c736": {
-        "title": "Israel blocks Catholic cardinal from Holy Sepulchre on Palm Sunday",
-        "link": "https://www.ft.com/content/ec798184-1d08-46dd-8fcf-c06a2efd1977",
-        "published_date": "Sun, 29 Mar 2026 21:37:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706972"
-      },
-      "06c9f95ee12df96b56a73cf9fe17af9cf865006ea6e4791d594ce3f471a3431f": {
-        "title": "Avoid energy protectionism, UK chancellor will tell G7 allies",
-        "link": "https://www.ft.com/content/52541a81-f64d-4eaf-8201-ec2928269aee",
-        "published_date": "Sun, 29 Mar 2026 21:30:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706974"
-      },
-      "c6edca9d40c859edafb735f1d7c4579324d9de991fec476eba870ad55445b732": {
-        "title": "Distressed-debt funds target private credit downturn as ‘greatest opportunity’ since 2008",
-        "link": "https://www.ft.com/content/8c3514be-8c7b-4d13-a59a-dd8a23fb8c40",
-        "published_date": "Sun, 29 Mar 2026 20:00:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706976"
-      },
-      "a22dee811c98ce830940f2453105e8ccad2611bf33a981d3256e57bf660e16d6": {
-        "title": "US-Israeli war against Iran escalates as talks prove fruitless",
-        "link": "https://www.ft.com/content/a8dbcf5f-df38-43de-bb4c-de3780cad0ab",
-        "published_date": "Sun, 29 Mar 2026 17:52:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706977"
-      },
-      "7638f0f8c843e0ca2f45a7d196c7cd333697b7c50ab023bb74ee28f2308a819a": {
-        "title": "Apollo looks beyond New York as it plans second headquarters",
-        "link": "https://www.ft.com/content/efeca6be-c9b5-4912-b66b-15716cc914b7",
-        "published_date": "Sun, 29 Mar 2026 16:13:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706979"
-      },
-      "595a2f838c6665de75b0b7f9b47ddf464fd9b22a1375abe353afa1c4a11cec94": {
-        "title": "EU offers UK ‘emergency brake’ on numbers for new youth mobility scheme",
-        "link": "https://www.ft.com/content/4eaabc93-31dd-4cfc-b141-975e821253c3",
-        "published_date": "Sun, 29 Mar 2026 15:00:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706980"
-      },
-      "194050f79d8b5641e863563d930968fe025a715f2c0afb021fda94234fc77e02": {
-        "title": "The Iran war will cement China’s superpower status",
-        "link": "https://www.ft.com/content/47edd17c-366f-42e4-b0cf-c20e065210d2",
-        "published_date": "Sun, 29 Mar 2026 11:00:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.706981"
-      },
       "f22e70f52962632def94084d9e49e3915a29a133617b662b2405909e7d0600a2": {
         "title": "TotalEnergies made bumper profit on Middle East oil bet",
         "link": "https://www.ft.com/content/eba87bd4-7e55-4a7b-b14c-71bf486bfd31",
@@ -14655,33 +14613,129 @@
         "link": "https://www.ft.com/content/853b4ea4-0bae-4706-bc4a-3a3082ac30f6",
         "published_date": "Tue, 28 Apr 2026 08:01:00 GMT",
         "first_seen": "2026-04-28T10:05:57.109152"
+      },
+      "f3b70c5d5ce8f19089a0491ead43b37288de3c325aded57216dd96675eb5a258": {
+        "title": "Musk claims Altman ‘stole a charity’ in OpenAI trial testimony",
+        "link": "https://www.ft.com/content/a6a987e0-fd93-49c5-a161-2e217c3817b8",
+        "published_date": "Tue, 28 Apr 2026 23:04:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490843"
+      },
+      "e66cbc1e0fe3956a962e344182e4c6bd243bc3ce3a60d2a5e74ba8068ca285e9": {
+        "title": "Goldman stops bankers using Anthropic’s Claude in Hong Kong",
+        "link": "https://www.ft.com/content/aa3a7a19-ab94-4069-aea4-e192ab9abc41",
+        "published_date": "Tue, 28 Apr 2026 23:01:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490854"
+      },
+      "46020d067a6554065d7e7f2c95a9e95f85697be6cf14ca01adb827fa8558ef2e": {
+        "title": "Ex-FBI head Comey charged with threatening Trump’s life",
+        "link": "https://www.ft.com/content/69fc75c8-39c4-4bc1-925d-fb94847e3a5b",
+        "published_date": "Tue, 28 Apr 2026 22:40:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490857"
+      },
+      "ff5f3846b848d80a4cac10b16e82e144d288e408f7c348eb577f6ada1a122799": {
+        "title": "King Charles defends transatlantic relationship in speech to Congress",
+        "link": "https://www.ft.com/content/1017488d-a933-4798-9b0e-6165c77a6c76",
+        "published_date": "Tue, 28 Apr 2026 22:39:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490859"
+      },
+      "71596d7888bbe472758a7ee4f9a48cc0924fecf8af7b772626ee12894b95f07d": {
+        "title": "UK ministers gain power to force pension funds to invest in British companies",
+        "link": "https://www.ft.com/content/7beea881-a105-4197-bf58-6719917b448f",
+        "published_date": "Tue, 28 Apr 2026 22:29:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490861"
+      },
+      "814b37599309ed4b921988ed6286db6aed5772d9728acc6476f2ed7d01867c93": {
+        "title": "US ambassador to Ukraine to leave over differences with Trump",
+        "link": "https://www.ft.com/content/33d5d8d4-a7db-4647-9751-c21de8ebecb8",
+        "published_date": "Tue, 28 Apr 2026 21:42:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490862"
+      },
+      "a5efca1bff65e7608f833396b912cd10683be2ffbf1b2c0c8ba9b1f8f983d29a": {
+        "title": "Trump administration launches Disney probe after Jimmy Kimmel’s Melania joke",
+        "link": "https://www.ft.com/content/aaac7dfd-a85d-491b-bf84-6982ec9a81b8",
+        "published_date": "Tue, 28 Apr 2026 19:31:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490864"
+      },
+      "45603c4b8f529f9d4b4e8294eaac0980be42a8afd473a9fea0b78efccb994e6e": {
+        "title": "OpenAI expands Amazon deal after Microsoft loosens exclusivity terms",
+        "link": "https://www.ft.com/content/f159dd74-56a5-404b-ae54-ab4bab98b2c3",
+        "published_date": "Tue, 28 Apr 2026 18:37:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490865"
+      },
+      "430c87e58dfe5abbc56526537635ea2d31fc32ef6257db1c10d04e9a52caab07": {
+        "title": "America’s special relationship is ‘probably Israel’, says UK ambassador to US",
+        "link": "https://www.ft.com/content/d4bfac8a-37a4-4409-ac03-a31d41b08e48",
+        "published_date": "Tue, 28 Apr 2026 17:11:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490867"
+      },
+      "2ac6c10a8be9b52ff184f89518f33778d377f87d4190d23177898b8a74ef552d": {
+        "title": "Get used to the long Iran war",
+        "link": "https://www.ft.com/content/efa894e5-2431-4238-a920-3075dad1afdb",
+        "published_date": "Tue, 28 Apr 2026 11:17:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490868"
+      },
+      "5b4ba21067f515b783788b7b3d51c7b896466179d6ae9b084fc5e0b8881ce0a6": {
+        "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers",
+        "link": "https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:54:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490870"
+      },
+      "97c9ae6dfe7e5ebe4434c82034269bd2f6d2cfbce5991057ff42916469416ba9": {
+        "title": "The stock market’s comeback from the Iran-inspired selloff hasn’t been as powerful as you might think",
+        "link": "https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:31:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490872"
+      },
+      "075ad47486fa1d319e8db30898eb8a1196e301de9a7f32cdbcfc94f25647fdf8": {
+        "title": "It’s time for a Microsoft ‘reset.’ Here’s what investors should focus on now.",
+        "link": "https://www.marketwatch.com/story/its-time-for-a-microsoft-reset-heres-what-investors-should-focus-on-now-a5d9e334?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:20:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490873"
+      },
+      "6676eabb4bd09e9c0c0ce9e02117569cd163cee6803b6111d7c3d9f9f4a69489": {
+        "title": "These two countries are the most likely to leave OPEC’s orbit next",
+        "link": "https://www.marketwatch.com/story/these-two-countries-are-the-most-likely-to-leave-opecs-orbit-next-991b6823?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:17:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490875"
+      },
+      "c1e882f2e285ce5ab82b9fce3e02ab38f361bb988ba6bab241f2a52d9811adcf": {
+        "title": "Bloom Energy is riding the AI wave with a major lift from Oracle",
+        "link": "https://www.marketwatch.com/story/bloom-energy-is-riding-the-ai-wave-with-a-major-lift-from-oracle-200109b4?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:16:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490876"
+      },
+      "3c3b04ae5750c8f0be30e83d6b3d959ff55820ebdc98266df4469a5240840cb1": {
+        "title": "Here’s where Robinhood’s retail traders have flocked as the Iran conflict rages on",
+        "link": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 22:01:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490878"
+      },
+      "93a4038c56102716f805ae23dc114d9dc063e76514bdcd337c98437dba688c30": {
+        "title": "This is the most critical question facing U.S. investors right now — and it has nothing to do with Iran",
+        "link": "https://www.marketwatch.com/story/this-is-the-most-critical-question-facing-u-s-investors-right-now-and-it-has-nothing-to-do-with-iran-45bc8f2e?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 21:52:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490879"
+      },
+      "d84c05f39989567576782082c0dbd5fc6f7a8f46e4b8fd025f29b9e9c54d9c04": {
+        "title": "Why buying crypto in a bear market may be a cheaper way to play the AI boom",
+        "link": "https://www.marketwatch.com/story/buying-crypto-in-a-bear-market-is-a-cheaper-way-to-play-the-ai-boom-this-former-tiger-management-executive-says-868096eb?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 21:43:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490881"
+      },
+      "447998a0fb717d481328023abfa775b38ebdd0ccb8fbdb4929c37302ed51e541": {
+        "title": "The Elon Musk-Sam Altman trial has just begun. Here’s what’s at stake.",
+        "link": "https://www.marketwatch.com/story/the-elon-musk-sam-altman-trial-has-just-begun-heres-whats-at-stake-01df4a4c?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 21:28:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490883"
+      },
+      "179eccc6f1025d8939639866289e0c7a72a30d3329ed20d113668860f826414c": {
+        "title": "These 5 AI-proof jobs are hiring — here’s how much they pay and how to get them",
+        "link": "https://www.marketwatch.com/story/these-5-ai-proof-jobs-are-hiring-heres-how-much-they-pay-and-how-to-get-them-8ef4b0f7?mod=mw_rss_topstories",
+        "published_date": "Tue, 28 Apr 2026 21:17:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.490884"
       }
     },
     "Ai": {
-      "ec330a62f7298d86ccb2672e8080bbff594d70c08e6cfc3302d92e7f7d4c7fb9": {
-        "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
-        "link": "https://www.qbitai.com/2026/03/393186.html",
-        "published_date": "Sun, 29 Mar 2026 16:17:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.864313"
-      },
-      "8de5af67054b4bf7676c93f665b5a00bcc37bb632f3bdd32f3fa17872dd26c26": {
-        "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
-        "link": "https://www.qbitai.com/2026/03/393164.html",
-        "published_date": "Sun, 29 Mar 2026 16:11:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.864321"
-      },
-      "cd46786deeab120549c35910f2515b2e9041cc3458fd05e70d8f4b43f1ff97ad": {
-        "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
-        "link": "https://www.qbitai.com/2026/03/393125.html",
-        "published_date": "Sun, 29 Mar 2026 16:08:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.864323"
-      },
-      "45b4090f84fdaed80ddfb30c0b1c80491a248663760b6f8c3c6cfd5fe2a62650": {
-        "title": "何同学会玩：让龙虾自己3D打印自己",
-        "link": "https://www.qbitai.com/2026/03/393085.html",
-        "published_date": "Sun, 29 Mar 2026 15:21:00 GMT",
-        "first_seen": "2026-03-29T23:22:31.864324"
-      },
       "02cda02796f415f32fbe8543fe30d909ae8b7c84b59aaff4a11050495c1ba1ef": {
         "title": "2026-03-30日刊",
         "link": "https://ai.hubtoday.app//2026-03/2026-03-30/",
@@ -16403,13 +16457,31 @@
         "link": "https://www.qbitai.com/2026/04/410314.html",
         "published_date": "Tue, 28 Apr 2026 08:31:00 GMT",
         "first_seen": "2026-04-28T10:05:57.264442"
+      },
+      "268e2cde8cfba960e36a2887de2a4c17c2e4c5a83e7db5b586c1777bc7dda5d5": {
+        "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+        "link": "https://www.qbitai.com/2026/04/410506.html",
+        "published_date": "Tue, 28 Apr 2026 14:50:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.632303"
+      },
+      "7f1f05f1215c534d32c1178e2a0e807191b46a28a2a2912be1deb6c9229334d6": {
+        "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+        "link": "https://www.qbitai.com/2026/04/410463.html",
+        "published_date": "Tue, 28 Apr 2026 11:15:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.632310"
+      },
+      "bfdd07f5f6870f99ef0148a6cc6b96c4f56bc9134b4c3e861cebb25a382eff58": {
+        "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+        "link": "https://www.qbitai.com/2026/04/410450.html",
+        "published_date": "Tue, 28 Apr 2026 10:29:00 GMT",
+        "first_seen": "2026-04-28T23:44:44.632312"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-28T10:05:57.368631",
-    "Finance": "2026-04-28T10:05:57.109154",
-    "Ai": "2026-04-28T10:05:57.264445"
+    "Technology": "2026-04-28T23:44:44.724926",
+    "Finance": "2026-04-28T23:44:44.490886",
+    "Ai": "2026-04-28T23:44:44.632314"
   }
 }
