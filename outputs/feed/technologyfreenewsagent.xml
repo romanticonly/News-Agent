@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 May 2026 07:23:00 GMT</pubDate>
-    <lastBuildDate>Fri, 01 May 2026 07:23:20 GMT</lastBuildDate>
+    <pubDate>Fri, 01 May 2026 09:25:00 GMT</pubDate>
+    <lastBuildDate>Fri, 01 May 2026 09:25:56 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,187 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面</title>
-      <link>https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当国产模型追上闭源旗舰，企业 AI 编程的真正障碍才浮出水面]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/K7hpIOogPsLlPQz4lwXu?utm_source=rss&amp;utm_medium=article</guid>
+      <title>闻泰科技*ST背后：争夺安世半导体控制权之鉴</title>
+      <link>https://www.tmtpost.com/7974894.html</link>
+      <description>&lt;![CDATA[闻泰科技*ST背后：争夺安世半导体控制权之鉴]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974894.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Mistral AI 推出 Workflows，用于编排企业 AI 工作流</title>
-      <link>https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Mistral AI 推出 Workflows，用于编排企业 AI 工作流]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/W1YiyHH4UXv05AqpiHag?utm_source=rss&amp;utm_medium=article</guid>
+      <title>比起realme，刘作虎还是更偏爱一加？</title>
+      <link>https://www.tmtpost.com/7974872.html</link>
+      <description>&lt;![CDATA[比起realme，刘作虎还是更偏爱一加？]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974872.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>布隆过滤器：理论、工程权衡与Go语言实现</title>
-      <link>https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[布隆过滤器：理论、工程权衡与Go语言实现]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>产量猛增75%，销量暴跌84%，大全能源“双杀”困局</title>
+      <link>https://www.tmtpost.com/7974859.html</link>
+      <description>&lt;![CDATA[产量猛增75%，销量暴跌84%，大全能源“双杀”困局]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974859.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本</title>
-      <link>https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Spring 近期资讯： Boot 、 Security、 Integration、Modulith 和 AMQP 的第一个候选版本]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/mN7Ha6hgjccyxls2s1Gl?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>写代码的人都懂：GitHub 开始解决“大 PR 地狱”</title>
-      <link>https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[写代码的人都懂：GitHub 开始解决“大 PR 地狱”]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/6if6ZrsP9u9t13uJggTj?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533405&amp;idx=1&amp;sn=1ee7cfefd01d9fd9c666e5d4cf22dce0</link>
-      <description>&lt;![CDATA[GitHub 上狂揽 4.6 万 Star！这款 AI 终端神器终于开源了。]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 13:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533405&amp;idx=1&amp;sn=1ee7cfefd01d9fd9c666e5d4cf22dce0</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>科大讯飞，AI教育的长坡与窄门</title>
-      <link>https://www.tmtpost.com/7974528.html</link>
-      <description>&lt;![CDATA[科大讯飞，AI教育的长坡与窄门]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974528.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>10年了，为什么无人机还是送不了外卖？</title>
-      <link>https://www.tmtpost.com/7974680.html</link>
-      <description>&lt;![CDATA[10年了，为什么无人机还是送不了外卖？]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974680.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？</title>
-      <link>https://www.tmtpost.com/7974779.html</link>
-      <description>&lt;![CDATA[苹果：AI 缺位、存储涨价，照样 “稳稳幸福”？]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974779.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>幸运咖没有长出自己的模样</title>
-      <link>https://www.tmtpost.com/7974692.html</link>
-      <description>&lt;![CDATA[幸运咖没有长出自己的模样]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974692.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Meta: 烧钱堆不出顶模， 小扎又要慌</title>
-      <link>https://www.tmtpost.com/7974686.html</link>
-      <description>&lt;![CDATA[Meta: 烧钱堆不出顶模， 小扎又要慌]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974686.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>科大讯飞财报：标王的里子和面子</title>
-      <link>https://www.tmtpost.com/7974477.html</link>
-      <description>&lt;![CDATA[科大讯飞财报：标王的里子和面子]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 11:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974477.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里</title>
-      <link>https://www.tmtpost.com/7974800.html</link>
-      <description>&lt;![CDATA[AI缺位的苹果继续狂飙，权力交接的秘密藏在了Q1财报里]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974800.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>蓝莓价格“崩盘”，谁在抢占下沉红利？</title>
-      <link>https://www.tmtpost.com/7974479.html</link>
-      <description>&lt;![CDATA[蓝莓价格“崩盘”，谁在抢占下沉红利？]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 10:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974479.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报</title>
-      <link>https://www.tmtpost.com/7974414.html</link>
-      <description>&lt;![CDATA[AI巨额投入亮明牌，三大云财报冰火两重天 | 看财报]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 10:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974414.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2026北京国际车展智驾新车图鉴</title>
-      <link>https://www.tmtpost.com/7974357.html</link>
-      <description>&lt;![CDATA[2026北京国际车展智驾新车图鉴]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974357.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>巨头围剿电解质水，抢夺夏日冰柜C位</title>
-      <link>https://www.tmtpost.com/7974302.html</link>
-      <description>&lt;![CDATA[巨头围剿电解质水，抢夺夏日冰柜C位]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974302.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Token出海，讲不了中国制造的老故事</title>
-      <link>https://www.tmtpost.com/7974293.html</link>
-      <description>&lt;![CDATA[Token出海，讲不了中国制造的老故事]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974293.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>China Travel 2.0：不只是旅游，更是万亿服贸出海</title>
-      <link>https://www.tmtpost.com/7974445.html</link>
-      <description>&lt;![CDATA[China Travel 2.0：不只是旅游，更是万亿服贸出海]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974445.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>为了车主五一不抢桩，“特斯拉们”有多拼？</title>
-      <link>https://www.tmtpost.com/7974291.html</link>
-      <description>&lt;![CDATA[为了车主五一不抢桩，“特斯拉们”有多拼？]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974291.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>DeepSeek给AI装了根赛博手指，于是它能看见了</title>
-      <link>https://www.tmtpost.com/7974709.html</link>
-      <description>&lt;![CDATA[DeepSeek给AI装了根赛博手指，于是它能看见了]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974709.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>买完就拆logo，“拉夫劳伦平替”的3000家门店，装不下中产的“保罗羞耻”</title>
-      <link>https://www.tmtpost.com/7974289.html</link>
-      <description>&lt;![CDATA[买完就拆logo，“拉夫劳伦平替”的3000家门店，装不下中产的“保罗羞耻”]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 09:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7974289.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售</title>
-      <link>http://www.geekpark.net/news/363694</link>
-      <description>&lt;![CDATA[DeepSeek 发布多模态模型及技术报告；小红书官宣组织调整：柯南出任总裁；宇树发布双臂人形机器人，2.69万元起售]]&gt;</description>
-      <pubDate>Fri, 01 May 2026 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/363694</guid>
+      <title>德国受伊朗战争冲击，但这些股票仍值得拥有</title>
+      <link>https://www.tmtpost.com/7974824.html</link>
+      <description>&lt;![CDATA[德国受伊朗战争冲击，但这些股票仍值得拥有]]&gt;</description>
+      <pubDate>Fri, 01 May 2026 11:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7974824.html</guid>
       <category>Technology</category>
     </item>
   </channel>
