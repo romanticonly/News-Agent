@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-01 23:39
+**最后更新时间**: 2026-05-02 06:54
+
+---
+
+## 🆕 最新更新 (2026-05-02 06:54)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-05-02日刊](https://ai.hubtoday.app//2026-05/2026-05-02/)
+**发布时间**: 2026-05-02 09:17
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？](https://www.qbitai.com/2026/05/412713.html)
+**发布时间**: 2026-05-02 03:30
 
 ---
 
