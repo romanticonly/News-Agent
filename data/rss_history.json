@@ -2,120 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "28eb9503941639f5c733d85fde6c5cab61f0fcc126a345cdd3ba6fbecb0d470b": {
-        "title": "AMD 锐龙 AI 智能体创新应用大赛邀你定义 AI 新未来",
-        "link": "https://www.infoq.cn/article/Z18OTUTFlmqbQb5Ia4Fp?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 16:34:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850349"
-      },
-      "174e586549266fde576c07cfd114fce21a0163fdc617e101e5855b295523aa32": {
-        "title": "KubeVirt v1.8 为 Kubernetes 带来多虚拟机管理程序和机密计算功能",
-        "link": "https://www.infoq.cn/article/kwmoqShV5lx0TslYbo3j?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850359"
-      },
-      "34365c62fc7b234f5bc3e0ada192d14023b7f72f85db84ef964b748e8406daed": {
-        "title": "PyPI 供应链攻击导致 LiteLLM 遭入侵，致使敏感信息被窃取",
-        "link": "https://www.infoq.cn/article/YqWdW6lF74rlqXkJ5AMJ?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850362"
-      },
-      "2c357d1296bd04c4e73edbc9460bad9177579314355b1fb2366e485f6f84f37b": {
-        "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
-        "link": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 03 Apr 2026 14:40:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850364"
-      },
-      "ea4763e30621902da52da975dbc6a48b7b65ea557e23e5b18a6709c85383c3d0": {
-        "title": "谷歌推出最强手机端开源模型Gemma4 E2B/E4B",
-        "link": "https://www.tmtpost.com/7940798.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850365"
-      },
-      "69329e1822cd25b956f74c1e80b380162e9d28bbea9262354f71257dd2cec2fa": {
-        "title": "LibTV上不排队的Seedance 2.0，治好了我的抽卡焦虑",
-        "link": "https://www.tmtpost.com/7940810.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850367"
-      },
-      "dfc709e56efc7c0d2c24dc174b6d646b4834de54ee7658ed367cac5ea3f09c47": {
-        "title": "张雪的火种，与三个摩托手",
-        "link": "https://www.tmtpost.com/7940872.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850368"
-      },
-      "3d273ed6e1d03d7efce8ac48d7680401001c2ca3bbb56e2eae0d4ff99677a2b4": {
-        "title": "1.2亿招首席科学家，优必选如何避免Meta的坑",
-        "link": "https://www.tmtpost.com/7940926.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850370"
-      },
-      "35c6e8387a9b599c1eaeb9b242ec2d93c9019bc7a410ecacf31030b51406f5b1": {
-        "title": "一亿独居者，不想独自死在家中",
-        "link": "https://www.tmtpost.com/7940931.html",
-        "published_date": "Fri, 03 Apr 2026 16:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850372"
-      },
-      "d49e26722ec6203b1479c2ee21dce6431059b0425a78e432c982e021cadf905f": {
-        "title": "全球89%消费者计划持续购买二手商品；2025年全球智能眼镜市场出货量同比增长44.2%；印尼计划提高可再生能源生产 ｜一周出海参考",
-        "link": "https://www.tmtpost.com/7940975.html",
-        "published_date": "Fri, 03 Apr 2026 16:13:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850373"
-      },
-      "dfbf76fa6eca5a06e31629f1f744dab14ab5692a511d932939e74ced510a2701": {
-        "title": "Robotaxi 狂奔十年，却迎来了虚假黎明",
-        "link": "https://www.tmtpost.com/7940201.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850374"
-      },
-      "a92a22b618c733793c62e3789744666b0601dd4e6809ea069e1ccd7a617959d8": {
-        "title": "锂价暴击、政策托底：中国储能巨头们的竞速时刻",
-        "link": "https://www.tmtpost.com/7940694.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850376"
-      },
-      "297a27ab39d67cfce20d7c43c522721b76585741a3fc455143709884f94197ac": {
-        "title": "阿里蒋凡的压力赛：守电商、拼闪购、供AI",
-        "link": "https://www.tmtpost.com/7940288.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850377"
-      },
-      "f58a0d6ac796944601acee3c7bdbe840d1b3bd41d06e7d49c475e09ecde8b792": {
-        "title": "智谱和MiniMax，谁是中国的Anthropic？",
-        "link": "https://www.tmtpost.com/7940812.html",
-        "published_date": "Fri, 03 Apr 2026 15:29:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850379"
-      },
-      "0d5a7a156f07f702c17f07dc6dd0529c1a5f0c3e3c2646de91d1dbf7ab4c9b03": {
-        "title": "张雪像是“算法时代最后一种真人”",
-        "link": "https://www.tmtpost.com/7940766.html",
-        "published_date": "Fri, 03 Apr 2026 15:28:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850380"
-      },
-      "f7c5e699f9b0d0f313f084252a8df21402e449d6a007ab4299182de6aee32bfc": {
-        "title": "在人脑与AI共生的世界，教育将会变成怎样？",
-        "link": "https://www.tmtpost.com/7940396.html",
-        "published_date": "Fri, 03 Apr 2026 15:24:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850382"
-      },
-      "ece171acd899d3e51cb0ff8885dc94aadd64b47e80de906611a880f028768bcc": {
-        "title": "桌面CNC能复制3D打印的神话吗？ ｜ 出海参考",
-        "link": "https://www.tmtpost.com/7940765.html",
-        "published_date": "Fri, 03 Apr 2026 14:25:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850383"
-      },
-      "8fb1b4e95c94258bb197dd609ca3f21dcc19fe3728cad16bd3d1dd4b62a814cf": {
-        "title": "为了将网页变为应用程序，我们付出了多少努力？（一）",
-        "link": "https://sspai.com/post/107928",
-        "published_date": "Fri, 03 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850385"
-      },
-      "9633152008269107ba587408a2687808a3add3c11dbfe0abaac6cb537b8bd8c2": {
-        "title": "下载到本地的 Claude Code 源码，用这个 CLI 工具解读太香了。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532690&idx=1&sn=aab67b46905b4219088b3d88f6f40ddb",
-        "published_date": "Fri, 03 Apr 2026 13:45:00 GMT",
-        "first_seen": "2026-04-03T08:41:26.850386"
-      },
       "c8d98c3764b280f9c1ccf0981c5b4388203b646dc1e7bb04e5254fb415801e92": {
         "title": "智飞生物“松绑”默沙东：取消千亿保底采购，百亿巨亏后终于卸下枷锁",
         "link": "https://www.tmtpost.com/7941342.html",
@@ -14298,18 +14184,6 @@
       }
     },
     "Ai": {
-      "e9db601369de83971463646e8338aa36b669e476d0e0d2c68ee2a731eda9185d": {
-        "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
-        "link": "https://www.qbitai.com/2026/04/395279.html",
-        "published_date": "Fri, 03 Apr 2026 06:53:00 GMT",
-        "first_seen": "2026-04-03T08:41:27.040072"
-      },
-      "b0928aa320bb10492bb44923b6f2449b86bab830c5bd2e4b66e6696d9c2b4781": {
-        "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
-        "link": "https://www.qbitai.com/2026/04/395216.html",
-        "published_date": "Fri, 03 Apr 2026 06:24:00 GMT",
-        "first_seen": "2026-04-03T08:41:27.040080"
-      },
       "74f39b7dbc97d4b8e9d1fa6c5a9b3407f1dbed20090a86a784964f13aa460fa5": {
         "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
         "link": "https://www.qbitai.com/2026/04/395916.html",
@@ -15947,6 +15821,12 @@
         "link": "https://ai.hubtoday.app//2026-05/2026-05-03/",
         "published_date": "Sun, 03 May 2026 10:17:00 GMT",
         "first_seen": "2026-05-03T07:19:39.516400"
+      },
+      "fd00e47de3e06d668360da453e3ddb4524be2d2f2a46b989927f5eb4c10177e0": {
+        "title": "OpenAI参与，重卷ImageNet：终于把FID做成训练",
+        "link": "https://www.qbitai.com/2026/05/412882.html",
+        "published_date": "Sun, 03 May 2026 07:50:00 GMT",
+        "first_seen": "2026-05-03T09:12:12.004807"
       }
     }
   },
@@ -15954,6 +15834,6 @@
     "AI": "2025-11-28T05:21:58.233094",
     "Technology": "2026-05-03T07:19:39.632360",
     "Finance": "2026-05-03T07:19:39.353004",
-    "Ai": "2026-05-03T07:19:39.516408"
+    "Ai": "2026-05-03T09:12:12.004816"
   }
 }
