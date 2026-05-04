@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 03 May 2026 23:34:00 GMT</pubDate>
-    <lastBuildDate>Sun, 03 May 2026 23:34:48 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 07:44:00 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 07:44:05 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,107 +14,83 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>U.S. stock futures mixed, oil falls as Trump touts new plan to partially reopen Strait of Hormuz</title>
+      <title>More than double the gas stuck in Hormuz is wasted each year, IEA says</title>
+      <link>https://www.ft.com/content/fdc6aa8a-538a-4f1d-b1b9-a0ce0cd2a5ac</link>
+      <description>&lt;![CDATA[More than double the gas stuck in Hormuz is wasted each year, IEA says]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 05:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fdc6aa8a-538a-4f1d-b1b9-a0ce0cd2a5ac</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Iran’s covert war on opponents abroad</title>
+      <link>https://www.ft.com/content/63ddff5f-2d47-4a5b-9ba5-e543ac756717</link>
+      <description>&lt;![CDATA[Iran’s covert war on opponents abroad]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/63ddff5f-2d47-4a5b-9ba5-e543ac756717</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>America’s retail army now rules the stock market</title>
+      <link>https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581</link>
+      <description>&lt;![CDATA[America’s retail army now rules the stock market]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ee8a0604-84cb-44da-bb33-f36818944581</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The law firm that shaped Wall Street and the world</title>
+      <link>https://www.ft.com/content/81ef308d-97d2-40ca-a6f6-333be7827453</link>
+      <description>&lt;![CDATA[The law firm that shaped Wall Street and the world]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/81ef308d-97d2-40ca-a6f6-333be7827453</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Putin hunkers down for fear of assassination</title>
+      <link>https://www.ft.com/content/fe70c89e-b5d7-4f89-8eb4-83afbe721d7c</link>
+      <description>&lt;![CDATA[Putin hunkers down for fear of assassination]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fe70c89e-b5d7-4f89-8eb4-83afbe721d7c</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Airlines slash flights as fuel shortage fears mount</title>
+      <link>https://www.ft.com/content/481022cf-83f6-4d55-8a76-08f6d22b20e6</link>
+      <description>&lt;![CDATA[Airlines slash flights as fuel shortage fears mount]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/481022cf-83f6-4d55-8a76-08f6d22b20e6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Rise in US political violence fuels demand for active-shooter insurance</title>
+      <link>https://www.ft.com/content/575fb8de-0c66-4182-80fc-69e6fa097e41</link>
+      <description>&lt;![CDATA[Rise in US political violence fuels demand for active-shooter insurance]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/575fb8de-0c66-4182-80fc-69e6fa097e41</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Europe ‘naive’ in clinging to old economic model, says central banker</title>
+      <link>https://www.ft.com/content/1c256ede-d7b6-4737-88f3-442cbf3351e5</link>
+      <description>&lt;![CDATA[Europe ‘naive’ in clinging to old economic model, says central banker]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 04:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1c256ede-d7b6-4737-88f3-442cbf3351e5</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Asia’s economic pain deepens as Iran war drags on</title>
+      <link>https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b</link>
+      <description>&lt;![CDATA[Asia’s economic pain deepens as Iran war drags on]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 01:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c38d86b3-81fc-46fd-af0e-7b66e140676b</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz</title>
       <link>https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[U.S. stock futures mixed, oil falls as Trump touts new plan to partially reopen Strait of Hormuz]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 23:27:00 GMT</pubDate>
+      <description>&lt;![CDATA[Investors appear skeptical as Trump touts new plan to partially reopen Strait of Hormuz]]&gt;</description>
+      <pubDate>Mon, 04 May 2026 03:02:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/u-s-stock-futures-rise-oil-falls-as-trump-touts-new-plan-to-partially-reopen-strait-of-hormuz-9908f10f?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement</title>
-      <link>https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Become a ‘lazy’ millionaire: This one habit can add a 20% bonus to your retirement]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 20:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/become-a-lazy-millionaire-this-one-habit-can-add-a-20-bonus-to-your-retirement-cf7d715a?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.</title>
-      <link>https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[OPEC+ announces modest boost in oil production. But here’s why it’s a mostly symbolic move.]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 19:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/opec-announces-modest-boost-in-oil-production-but-heres-why-its-a-mostly-symbolic-move-2bcb4b5b?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>The market is riding high on an AI spending boom — but what could crack this rally?</title>
-      <link>https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The market is riding high on an AI spending boom — but what could crack this rally?]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 19:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-market-is-riding-high-on-an-ai-spending-boom-but-what-could-crack-this-rally-531b0854?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>S&amp;P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story</title>
-      <link>https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[S&amp;P 500 profits haven’t been this rich in at least 15 years — but there’s more to the story]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/s-p-500-profits-havent-been-this-rich-in-at-least-15-years-but-theres-more-to-the-story-c3ccaf3b?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US to ‘guide’ stranded ships out of Strait of Hormuz, says Trump</title>
-      <link>https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41</link>
-      <description>&lt;![CDATA[US to ‘guide’ stranded ships out of Strait of Hormuz, says Trump]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 22:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Greg Abel leaves unanswered questions about Berkshire’s war chest</title>
-      <link>https://www.ft.com/content/ab525fb8-6de1-4f2d-b37f-52f23ad48eac</link>
-      <description>&lt;![CDATA[Greg Abel leaves unanswered questions about Berkshire’s war chest]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 20:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/ab525fb8-6de1-4f2d-b37f-52f23ad48eac</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US pullback on long-range missiles leaves Europe exposed</title>
-      <link>https://www.ft.com/content/9651dfac-90c7-416f-bfcc-dfb1eaf0a9f7</link>
-      <description>&lt;![CDATA[US pullback on long-range missiles leaves Europe exposed]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 19:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/9651dfac-90c7-416f-bfcc-dfb1eaf0a9f7</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Banks seek to offload risk to avoid ‘choking’ on data centre debt</title>
-      <link>https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f</link>
-      <description>&lt;![CDATA[Banks seek to offload risk to avoid ‘choking’ on data centre debt]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 17:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump administration cites national security to widen clampdown on wind farms</title>
-      <link>https://www.ft.com/content/74d8cf6f-aa17-4a24-a621-e26b1bad2e1e</link>
-      <description>&lt;![CDATA[Trump administration cites national security to widen clampdown on wind farms]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 12:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/74d8cf6f-aa17-4a24-a621-e26b1bad2e1e</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>America’s political identity crisis</title>
-      <link>https://www.ft.com/content/68f5fb2d-6434-47f2-bc5a-2115dd3c82a3</link>
-      <description>&lt;![CDATA[America’s political identity crisis]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 12:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/68f5fb2d-6434-47f2-bc5a-2115dd3c82a3</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Trump’s green new deal</title>
-      <link>https://www.ft.com/content/fb275aae-355f-481f-ab30-999d861b7d42</link>
-      <description>&lt;![CDATA[Trump’s green new deal]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 11:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/fb275aae-355f-481f-ab30-999d861b7d42</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US Department of Justice loses a quarter of its lawyers</title>
-      <link>https://www.ft.com/content/a1316aae-83d9-4e2a-87aa-93de964bbbe0</link>
-      <description>&lt;![CDATA[US Department of Justice loses a quarter of its lawyers]]&gt;</description>
-      <pubDate>Sun, 03 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/a1316aae-83d9-4e2a-87aa-93de964bbbe0</guid>
       <category>Finance</category>
     </item>
   </channel>
