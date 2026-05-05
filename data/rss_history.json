@@ -2,48 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8dfcc539cd6228003342e792dd6e250b1ff0ed7c74a62fc36326206aacd7d803": {
-        "title": "隆基甩出“全栈”方案，光储市场告别“拼凑游戏”",
-        "link": "https://www.tmtpost.com/7942181.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753473"
-      },
-      "23dc43d990a7c47b4a37b6f84061b900bab750f43826903e8760fc7bf2fc8665": {
-        "title": "大厂只需要Token，不需要活人",
-        "link": "https://www.tmtpost.com/7942185.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753833"
-      },
-      "bd2699a7fca5d93a54638c45d64a91a0eaa5c6953a37965a1dfa7aab78930ea4": {
-        "title": "《浪姐》的七年之痒",
-        "link": "https://www.tmtpost.com/7942228.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753837"
-      },
-      "2dd52239d11e2fbedb09eefe8fac3176f34f8c71f4ff9c5ad5ca31b13f889af6": {
-        "title": "14.9元卖出“断货王”，中产疯抢沪上“新特产”，一年狂揽20亿",
-        "link": "https://www.tmtpost.com/7942230.html",
-        "published_date": "Sun, 05 Apr 2026 14:09:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753841"
-      },
-      "b5ceaa912eb5d03a84ecb40a43fea10826124bf0ac83795723cfb27456baf2b0": {
-        "title": "同事被“炼化”为Skill？大家把这事想简单了",
-        "link": "https://www.tmtpost.com/7942194.html",
-        "published_date": "Sun, 05 Apr 2026 14:08:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753844"
-      },
-      "4922cbfe5a56556bdff66e8103e65d40e7c68eb09a52d5ff3da4a8b4f4330f52": {
-        "title": "笑死，这个开源 skill 专门炼化你的离职同事。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532806&idx=1&sn=6e4666b2eef514f3f053794b36cc031e",
-        "published_date": "Sun, 05 Apr 2026 10:13:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753847"
-      },
-      "4bc789cace93d20b98e798e3d2714b2fc8cdb171c018f02149dd35a7093a984f": {
-        "title": "价值判断：涨停板的投资机会和风险提示（4月3日）｜证券市场观察",
-        "link": "https://www.tmtpost.com/7942217.html",
-        "published_date": "Sun, 05 Apr 2026 12:30:00 GMT",
-        "first_seen": "2026-04-05T08:32:05.753851"
-      },
       "6e2dec9d9b4d087779a97e5632e155ea4165b15e1339c327fb53bd0d1f04b52c": {
         "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
         "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
@@ -8833,6 +8791,54 @@
         "link": "https://www.tmtpost.com/7976542.html",
         "published_date": "Tue, 05 May 2026 08:06:00 GMT",
         "first_seen": "2026-05-05T07:11:29.471227"
+      },
+      "b81863a50f1a847a117f40d0bb3ae81d03f58f69ffcbec4e6a2c81c096aa2fc2": {
+        "title": "Palantir：软件末日论汹涌，最牛信仰股也松动了？",
+        "link": "https://www.tmtpost.com/7976660.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777784"
+      },
+      "07d61f76011b38d729bbfb02d692bf1fbcf382480474d10e6c6121e918a9f154": {
+        "title": "豆包开启付费订阅，国内AI商业化迎来拐点？",
+        "link": "https://www.tmtpost.com/7976659.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777791"
+      },
+      "241f8dad039527b20fa8c9c42a3d21aaae01d95d0ad787f548be5e465f1da0ea": {
+        "title": "由豆包付费想到，AI到底会长成一门什么生意",
+        "link": "https://www.tmtpost.com/7976812.html",
+        "published_date": "Tue, 05 May 2026 17:13:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777793"
+      },
+      "9983ec851ce4f001a8ea71711f5dec4163a4f0e2bc9a1cc10973ed726b6faf3d": {
+        "title": "刚刚，中国最大国产运动医学设备提供商IPO，市值超140亿",
+        "link": "https://www.tmtpost.com/7976704.html",
+        "published_date": "Tue, 05 May 2026 16:29:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777795"
+      },
+      "de93eeba1796957bee664d1c77c54ceb86895daa325f59a3deb8afccd4ab1f89": {
+        "title": "硅谷的命门，掌握在日本老师傅手里",
+        "link": "https://www.tmtpost.com/7976527.html",
+        "published_date": "Tue, 05 May 2026 16:29:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777796"
+      },
+      "71e226311266cfd1fa8b3f9e95aea166f11f5bd4aeec7c3f87cf9d5f4d0419cd": {
+        "title": "透过财报看恒林股份的增长逻辑：全球布局韧性拉满，AI家居筑长期价值",
+        "link": "https://www.tmtpost.com/7976759.html",
+        "published_date": "Tue, 05 May 2026 15:58:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777798"
+      },
+      "5bd9095326c1d95b516301eb30ee2179a954252b5e50380bf7b7e4bf624dc0ac": {
+        "title": "从付费开始：别拿豆包不当干粮",
+        "link": "https://www.tmtpost.com/7976461.html",
+        "published_date": "Tue, 05 May 2026 09:48:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777799"
+      },
+      "0d4a99730b41b43a1b78bebef0c96b78cd76705ba123ed393c461a3c3bffd99e": {
+        "title": "GitHub 上狂揽 1.8 万 Star！开源平替的 Claude Design。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533509&idx=1&sn=63efab10344f2db0e4f2965dc9bbaeab",
+        "published_date": "Tue, 05 May 2026 12:24:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.777800"
       }
     },
     "Finance": {
@@ -14187,6 +14193,42 @@
         "link": "https://www.marketwatch.com/story/if-all-six-have-hantavirus-thats-very-worrisome-this-is-what-we-know-about-the-cruise-ship-outbreak-eb1df8d5?mod=mw_rss_topstories",
         "published_date": "Tue, 05 May 2026 01:00:00 GMT",
         "first_seen": "2026-05-05T07:11:29.195553"
+      },
+      "c3f7da792aee24ff007b8eded85bdca01c4d15f171b9f0064f09ceeba8a77679": {
+        "title": "How beleaguered are beer sales? Anheuser-Busch InBev volumes rose 1% and the stock market is delighted",
+        "link": "https://www.marketwatch.com/story/how-beleaguered-are-beer-sales-anheuser-busch-inbev-volumes-rose-1-and-the-stock-market-is-delighted-71c859ca?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 09:16:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541037"
+      },
+      "6cd38ccf565d177504af816d895dae719bc6e3cf3eeb4ecc120e5bc99184054e": {
+        "title": "Michael Jackson’s Neverland estate in the spotlight with new biopic",
+        "link": "https://www.marketwatch.com/story/michael-jacksons-neverland-estate-in-the-spotlight-with-new-biopic-edef7932?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 09:05:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541045"
+      },
+      "e5d993b58f7efdd2aa21dd48ba0b3d422c92f0ed49e4e80bf1d8be2407e32427": {
+        "title": "The late Hulk Hogan’s beachfront Florida home gets $2 million price cut",
+        "link": "https://www.marketwatch.com/story/the-late-hulk-hogans-beachfront-florida-home-gets-2-million-price-cut-9a0ff189?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 09:02:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541047"
+      },
+      "53263571043bca794dc1f4c6244c0cc9890430ff778dc270c9b9ef7fbffe9acd": {
+        "title": "HSBC’s darkest scenario: stock markets down 35% and oil at $145",
+        "link": "https://www.marketwatch.com/story/hsbcs-darkest-scenario-stock-markets-down-35-and-oil-at-145-dc58c4dc?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 08:33:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541049"
+      },
+      "e909bc941634e67ad96437eedf4b4e135f327f82a19d14b550b045939fd6bb16": {
+        "title": "This is why stocks keep rallying, according to Morgan Stanley",
+        "link": "https://www.marketwatch.com/story/this-is-why-stocks-keep-rallying-according-to-morgan-stanley-6e7cc6a5?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 08:07:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541050"
+      },
+      "6c0afb60899b4ca9b6173fca3847e72fd1f6d307c88194f75966e0efbec6ab66": {
+        "title": "HSBC profits hit by $400mn ‘fraud-related’ exposure",
+        "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
+        "published_date": "Tue, 05 May 2026 08:48:00 GMT",
+        "first_seen": "2026-05-05T09:51:09.541052"
       }
     },
     "Ai": {
@@ -15790,8 +15832,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-05T07:11:29.471229",
-    "Finance": "2026-05-05T07:11:29.195556",
+    "Technology": "2026-05-05T09:51:09.777803",
+    "Finance": "2026-05-05T09:51:09.541054",
     "Ai": "2026-05-05T07:11:29.365486"
   }
 }
