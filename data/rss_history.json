@@ -2,24 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "6e2dec9d9b4d087779a97e5632e155ea4165b15e1339c327fb53bd0d1f04b52c": {
-        "title": "ESLint v10 发布，但有开发者已经在考虑换 Biome 了",
-        "link": "https://www.infoq.cn/article/5UOF2iN3SSLKqmyArYQ7?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:52:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.704211"
-      },
-      "21802deb3bf8ad49345241cf256f3743ff210de3c25f7c86cb764047e319486d": {
-        "title": "Helidon 引入 Agent 能力，Java 框架开始内建 AI 编排",
-        "link": "https://www.infoq.cn/article/TQ4A6w3oROqdUJRmfMLX?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 05 Apr 2026 21:49:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.704220"
-      },
-      "f549433fd321ee6de50d2971e6ba691eee8f01ffb7bf3c45b80e561c81ab0b59": {
-        "title": "愿君多修葺，此物最相思：从我的故事谈「数字遗产」保护",
-        "link": "https://sspai.com/post/69901",
-        "published_date": "Sun, 05 Apr 2026 16:41:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.704223"
-      },
       "7c335b4d1f85f205bf4217ff19830d0adc64ebd411434be73ba78d02611cca4e": {
         "title": "AI 时代的架构治理",
         "link": "https://www.infoq.cn/article/VFRyL5oDK269xIcp8SDi?utm_source=rss&utm_medium=article",
@@ -8839,51 +8821,33 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533509&idx=1&sn=63efab10344f2db0e4f2965dc9bbaeab",
         "published_date": "Tue, 05 May 2026 12:24:00 GMT",
         "first_seen": "2026-05-05T09:51:09.777800"
+      },
+      "12458cf9f8f0b2176ca7e88e4ba838ceac757d32b62e6f52c7ac784f882d3e04": {
+        "title": "【钛晨报】2025年全市场上市公司实现营收73.01万亿元，同比增长1.2%；伯克希尔哈撒韦一季度净利润增至101.06亿美元；主要产油国宣布6月增产",
+        "link": "https://www.tmtpost.com/7974508.html",
+        "published_date": "Wed, 06 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.909875"
+      },
+      "6600a6ee76342509dfb2a94b81f236907c699014a8af5440d7c7b3d82fc237ab": {
+        "title": "剂泰科技IPO：115亿港元押在首付款之后的持续性上",
+        "link": "https://www.tmtpost.com/7976832.html",
+        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.909883"
+      },
+      "37153bc792dfd95e18f9dc4513b62662621d6ac157697362fb051101ed2ecc84": {
+        "title": "百万上下文之后，拼什么？",
+        "link": "https://www.tmtpost.com/7976839.html",
+        "published_date": "Tue, 05 May 2026 21:10:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.909885"
+      },
+      "a8feba43421d9e7634aa19720c01630424d65a795a2c759d2bfefa0549204546": {
+        "title": "豆包也要「付费订阅」了，最高500元/月；宇树机器人在美买票坐飞机，电池被没收；「AI 面试」火爆，但 40% 求职者放弃面试｜极客早知道",
+        "link": "http://www.geekpark.net/news/363702",
+        "published_date": "Wed, 06 May 2026 05:29:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.909887"
       }
     },
     "Finance": {
-      "e5cc30a19012f335899c582aa75a24ee29c643e84f548d296f71e3b05d4d9c0e": {
-        "title": "Trump vows to destroy Iran’s power plants and bridges unless it reopens strait",
-        "link": "https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215",
-        "published_date": "Sun, 05 Apr 2026 22:32:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776584"
-      },
-      "6cce0cd0431aabfcb3d06ceee339b2fd98999bdb0acdc9d78319808dd97831e8": {
-        "title": "Iran allows Iraqi ships through Hormuz strait",
-        "link": "https://www.ft.com/content/53db0c3d-c897-4ccd-8517-5ad392dfa252",
-        "published_date": "Sun, 05 Apr 2026 15:30:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776593"
-      },
-      "b373adfd4194e1a79555b7c40cfdf5401a232d6b07c4fb006f5032c051442973": {
-        "title": "Is AI the new fracking?",
-        "link": "https://www.ft.com/content/525cc89e-1ee9-4039-a588-5039565053f9",
-        "published_date": "Sun, 05 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776595"
-      },
-      "0dabba1ccf67c666d28223016968ebf04c61705c01f3f50134afc3b4b622a1e5": {
-        "title": "‘I feel overwhelmed’: I’m 56 and only have $60,000 in my IRA. Is it too late for me?",
-        "link": "https://www.marketwatch.com/story/i-feel-overwhelmed-im-56-and-have-a-60-000-sep-ira-is-it-too-late-for-me-3671eba9?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 20:01:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776597"
-      },
-      "db758dba5d27b3d062854f60c0735e3a346d267820bb99835f4bcb4e9006b4dd": {
-        "title": "April is usually a strong month for stocks — but three factors now jeopardize the market rebound",
-        "link": "https://www.marketwatch.com/story/april-is-usually-a-strong-month-for-stocks-but-three-factors-now-jeopardize-the-market-rebound-b5cbf142?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 16:00:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776599"
-      },
-      "f7950e9853453f2bc615b2de1b9d127141024bbc5adee63582b771d09b26655e": {
-        "title": "Delta kicks off an earnings season focused on surging gas prices and the Iran war",
-        "link": "https://www.marketwatch.com/story/delta-kicks-off-an-earnings-season-focused-on-surging-gas-prices-and-the-iran-war-4a4226fc?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 14:00:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776600"
-      },
-      "804e9f4889773ce39bf87868166f811d318f2c145921d88951916e34ec7da04b": {
-        "title": "‘Our mood changes almost on a daily basis’: Why $4 gas prices feel a lot worse this time around",
-        "link": "https://www.marketwatch.com/story/were-a-wildly-fickle-bunch-gas-prices-hit-4-a-gallon-why-do-i-feel-like-im-the-only-american-who-is-genuinely-upset-7b3f2216?mod=mw_rss_topstories",
-        "published_date": "Sun, 05 Apr 2026 11:26:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.776602"
-      },
       "dabef0126008b6bc834e6203fedb6ffa4176e785968563a98e091bd938b70ab9": {
         "title": "Maga stands by Trump on Iran — for now",
         "link": "https://www.ft.com/content/0abb6d7d-dac7-4d0e-9e7c-853c170c607a",
@@ -14229,21 +14193,123 @@
         "link": "https://www.ft.com/content/520cd091-d59e-4072-b4b2-879e2eb7b7a8",
         "published_date": "Tue, 05 May 2026 08:48:00 GMT",
         "first_seen": "2026-05-05T09:51:09.541052"
+      },
+      "46e53d3d94ed9503a18ebfc955c599657ac82e08a5d5b14626a9dab65d10b6b4": {
+        "title": "Trump says US will ‘pause’ military operations to guide ships through Strait of Hormuz",
+        "link": "https://www.ft.com/content/2e483f6e-4ecc-4063-acac-9e2509ccda98",
+        "published_date": "Tue, 05 May 2026 23:20:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694488"
+      },
+      "1115b54687551bff8634e583417e8b419c4abddb18926fe73ac043a4bd54e70f": {
+        "title": "Apple reaches $250mn settlement over delayed ‘AI Siri’",
+        "link": "https://www.ft.com/content/f2c6a27e-8ed9-487c-9384-7e0f0dca3061",
+        "published_date": "Tue, 05 May 2026 20:43:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694497"
+      },
+      "a9bbd68f92921bab4f1e14b50573e11ef80f26828e1743514eddeb010a762784": {
+        "title": "Global oil reserves plunge at record pace as Middle East war strains supplies",
+        "link": "https://www.ft.com/content/3beeb26f-6c35-46a9-b116-42edbe6552fd",
+        "published_date": "Tue, 05 May 2026 19:26:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694500"
+      },
+      "d1e602e908eb45fe3a6bac453cd924dae08f1348e6a951ab6442d5c1cfbf7655": {
+        "title": "Meta plans advanced ‘agentic’ AI assistant for consumers",
+        "link": "https://www.ft.com/content/5b48360c-53f2-444a-80a8-f7034750fd62",
+        "published_date": "Tue, 05 May 2026 19:18:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694502"
+      },
+      "d83fce1f6e5b4a59adbb73e15c573e95e712225c58a385b5485650c875160221": {
+        "title": "Macron nominates former adviser to run the Bank of France",
+        "link": "https://www.ft.com/content/30987376-2fa5-46bd-98e6-fe270b1f4922",
+        "published_date": "Tue, 05 May 2026 19:11:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694503"
+      },
+      "41463850444d8c9e90f337f45fbef7a895aa3a2c85634cbd8605691cb9b29a37": {
+        "title": "SEC moves to scrap quarterly reporting requirement",
+        "link": "https://www.ft.com/content/3560d1e3-8271-453f-84d6-4a875b9efd98",
+        "published_date": "Tue, 05 May 2026 19:03:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694505"
+      },
+      "4bc4d6946e49b66aa9e0e34ef3770f14ba0957932574ad1511f392401fc395e2": {
+        "title": "US stock-lending operator charged with $450mn fraud",
+        "link": "https://www.ft.com/content/8e71321f-9823-4dda-9a71-9fdc34920122",
+        "published_date": "Tue, 05 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694506"
+      },
+      "9af1cf9479800e4d9d2f6689d3a6cc73482ff829060094bbc9560fefc41cc92a": {
+        "title": "Meta and Zuckerberg sued by publishers over ‘massive’ copyright infringement",
+        "link": "https://www.ft.com/content/079ef5b2-5c68-435f-9f67-e02bd9073610",
+        "published_date": "Tue, 05 May 2026 16:09:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694508"
+      },
+      "64573faf7a5c69fb18182b0b8b34cd302c5ee70d58835a5719f902d5be2875b2": {
+        "title": "The age of the American Pharaoh",
+        "link": "https://www.ft.com/content/aa4a49e7-2e23-44d7-988b-f3394e77e8fc",
+        "published_date": "Tue, 05 May 2026 10:51:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694528"
+      },
+      "684c92cce6afb47fbb79b8aaad7d2ac2b4e30677097b49111ab27fb7de8ceb03": {
+        "title": "The last time semiconductor stocks rose this far this quickly, the dot-com bubble burst",
+        "link": "https://www.marketwatch.com/story/the-last-time-semiconductor-stocks-rose-this-far-this-quickly-the-dot-com-bubble-burst-d7b6666b?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 23:17:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694530"
+      },
+      "b37757aa4c9e03ccdc3bb2c71e9cdade22e380de3947aa9761979ddcc25f2068": {
+        "title": "This narrow shipping lane is how Trump now wants oil tankers to navigate the Strait of Hormuz",
+        "link": "https://www.marketwatch.com/story/this-narrow-shipping-lane-is-how-trump-now-wants-oil-tankers-to-navigate-the-strait-of-hormuz-3d020281?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 23:13:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694531"
+      },
+      "29dc1e5ed7911a24bc57128ad2ef32e4128d8ee63ea7bb7961da551359c8b568": {
+        "title": "Betting on long Treasury bonds when yields near 5% has been a slam-dunk trade over the past few years. Is this time different?",
+        "link": "https://www.marketwatch.com/story/betting-on-long-treasury-bonds-when-yields-near-5-has-been-a-slam-dunk-trade-over-the-past-few-years-is-this-time-different-cd4def81?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:48:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694533"
+      },
+      "232a47de3110c8ba4855329bfc1306fc0421a348cd4e8dc23145b15bff29bf35": {
+        "title": "Cheaper protein shakes are crushing this industry stalwart",
+        "link": "https://www.marketwatch.com/story/cheaper-protein-shakes-are-crushing-this-industry-stalwart-2a675f49?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:46:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694534"
+      },
+      "d86a056ec89900eca02f886ba1e1d10f42f00f59ba3fed01ae37e1de061e5e1d": {
+        "title": "PayPal’s stock falls after earnings. Here’s what’s spooking Wall Street.",
+        "link": "https://www.marketwatch.com/story/paypals-stock-rallies-after-first-earnings-report-of-the-new-era-heres-what-to-know-4310d291?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:28:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694535"
+      },
+      "ec4ffc79e6dd600655083cab41eac234171f8c3fdf272753380f2baeb804d437": {
+        "title": "Amazon’s stock has come alive, setting the company up to join an exclusive club",
+        "link": "https://www.marketwatch.com/story/amazons-stock-has-come-alive-setting-the-company-up-to-join-an-exclusive-club-cb9e35b9?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:26:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694537"
+      },
+      "a44da48cb00a183d76554d1c9d4fefd62b04330ad835f2e9b80b28570527651f": {
+        "title": "Palantir’s stock falls despite upbeat earnings. Here are Wall Street’s quibbles.",
+        "link": "https://www.marketwatch.com/story/palantirs-stock-falls-despite-upbeat-earnings-here-are-wall-streets-quibbles-4ba334e5?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:24:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694538"
+      },
+      "23b01faca4c6e5b61013199f03b47a6cc195f27c1b6ae8a067fd612dd1599167": {
+        "title": "Micron’s stock soars as new report throws cold water on the bear case: ‘This time is different.’",
+        "link": "https://www.marketwatch.com/story/microns-stock-soars-as-new-report-throws-cold-water-on-the-bear-case-this-time-is-different-b5a5cc18?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:22:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694540"
+      },
+      "f7c5c2b880fc233f3e449a939de0467d5a97bf05e02521fc685712bb7f4e147e": {
+        "title": "Intel is now worth more than Oracle as its stock explodes higher",
+        "link": "https://www.marketwatch.com/story/intel-is-now-worth-more-than-oracle-as-its-stock-explodes-higher-7d9bfe3d?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:21:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694541"
+      },
+      "006c32ae7cc4882f4b685776ca6afebfee88aac2157b1fa32aa2717ec0fcba28": {
+        "title": "Super Micro’s stock surges as Wall Street cheers its margin recovery",
+        "link": "https://www.marketwatch.com/story/super-micros-stock-surges-as-wall-street-cheers-a-margin-recovery-80f17361?mod=mw_rss_topstories",
+        "published_date": "Tue, 05 May 2026 22:16:00 GMT",
+        "first_seen": "2026-05-05T23:39:38.694542"
       }
     },
     "Ai": {
-      "b526edc9967f7a84a587c342d53a11a2222d9d1b1b4165e9e69ca9cad73e8989": {
-        "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-        "link": "https://www.qbitai.com/2026/04/396535.html",
-        "published_date": "Sun, 05 Apr 2026 09:06:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.945235"
-      },
-      "6886a4fce91c5d1fcf8d1673aab2c09a0b30fa2efb7d111fdb623cc44bdbc730": {
-        "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-        "link": "https://www.qbitai.com/2026/04/396533.html",
-        "published_date": "Sun, 05 Apr 2026 08:53:00 GMT",
-        "first_seen": "2026-04-05T23:24:02.945242"
-      },
       "a164f886ee58b4607df45ba2834e15602a039db72a223a48d781d736665be55f": {
         "title": "2026-04-06日刊",
         "link": "https://ai.hubtoday.app//2026-04/2026-04-06/",
@@ -15832,8 +15898,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-05T09:51:09.777803",
-    "Finance": "2026-05-05T09:51:09.541054",
+    "Technology": "2026-05-05T23:39:38.909889",
+    "Finance": "2026-05-05T23:39:38.694544",
     "Ai": "2026-05-05T07:11:29.365486"
   }
 }
