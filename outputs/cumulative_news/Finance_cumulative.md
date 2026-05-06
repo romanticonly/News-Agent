@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 07:31
+**最后更新时间**: 2026-05-06 10:07
+
+---
+
+## 🆕 最新更新 (2026-05-06 10:07)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The latest sign of Sandisk’s ascent: It’s now bigger than the company that spun it off](https://www.marketwatch.com/story/the-latest-sign-of-sandisks-ascent-its-now-bigger-than-western-digital-which-spun-it-off-dec1a23e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 10:05
+
+#### [The Wegovy pill saw the fastest take-up in weight-loss drug history. Novo Nordisk only narrowly lifted guidance.](https://www.marketwatch.com/story/novo-nordisk-says-the-wegovy-pill-saw-the-fastest-take-up-in-weight-loss-drug-history-088f2d55?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 10:02
+
+#### [Oil futures fall 8% on report U.S. and Iran are in talks on memo to end the war](https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:55
+
+#### [We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?](https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:38
+
+#### [Michael Saylor said he would never sell bitcoin. Now he says he might.](https://www.marketwatch.com/story/michael-saylor-said-he-would-never-sell-bitcoin-now-he-says-he-might-f05776fc?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:31
+
+#### [I am 56, single and renewing my $400,000 term life policy. The agent says I can’t name my brother as beneficiary. Why not?](https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:15
+
+#### [This chart tells the story of the hottest stock market as Samsung values hits $1 trillion](https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:12
+
+#### [Bill Cosby cuts the price of his New York townhouse to $5.99 million](https://www.marketwatch.com/story/bill-cosby-cuts-the-price-of-his-new-york-townhouse-to-5-99-million-f6270069?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 09:01
+
+#### [Why Friday may see another spike in bond-market anxiety](https://www.marketwatch.com/story/why-friday-may-see-another-spike-in-bond-market-anxiety-bcb66488?mod=mw_rss_topstories)
+**发布时间**: 2026-05-06 08:25
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China calls for Iran war ceasefire in meeting with top envoy](https://www.ft.com/content/f932425a-5023-426e-ae89-1521dbbfc07a)
+**发布时间**: 2026-05-06 09:47
+
+#### [Oil tumbles and stocks rally on report US and Iran close to deal](https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea)
+**发布时间**: 2026-05-06 09:11
+
+#### [Diageo posts sales boost as buyers load up on drinks ahead of World Cup](https://www.ft.com/content/f0c1182f-5b4a-4ff1-8339-5ddeca1e5caf)
+**发布时间**: 2026-05-06 07:29
+
+#### [Novo Nordisk lifts forecasts after strong demand for Wegovy weight-loss pill](https://www.ft.com/content/627a884c-8757-42f9-9004-688f6a2c507a)
+**发布时间**: 2026-05-06 07:22
+
+#### [Chinese AI start-up DeepSeek nears $45bn valuation](https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7)
+**发布时间**: 2026-05-06 05:50
 
 ---
 

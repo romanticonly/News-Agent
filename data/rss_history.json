@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ab0757f663322bee7df172640f1f07613583708636e870250bfbdbdbbc7b57f3": {
-        "title": "AI 泡沫的时间大考：霍尔木兹只是导火索，内因才是炸药",
-        "link": "https://www.tmtpost.com/7942749.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.120004"
-      },
-      "aff6539416658d0ec43489f47806fc9c0d0176355618e47ff494d208715aac17": {
-        "title": "下一个十年，决定你贫富的，是它",
-        "link": "https://www.tmtpost.com/7942766.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.120015"
-      },
-      "faebdd562cece9cdfb3d8a3fb777bde57fea5e062f2735aab2d254dc9e3867ae": {
-        "title": "利润最高增长近8倍，这一轮锂电复苏红利还能吃多久？",
-        "link": "https://www.tmtpost.com/7942770.html",
-        "published_date": "Mon, 06 Apr 2026 15:39:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.120017"
-      },
-      "27344572e2c4ef762139f6e744d234c8bb7c1bfc9137cef67b479f5846ddf7fe": {
-        "title": "自动驾驶优化：从复杂性到实时工程",
-        "link": "https://www.infoq.cn/article/v42V65eJ884wfPPLdx1a?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 06 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.120019"
-      },
-      "e030d2575577afb8e85b4ca1f637ecc98b8a4f8a47e6b26a670906274a5278eb": {
-        "title": "Karpathy 开源了 Agent + Obsidian 个人知识库， 超级有启发。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532844&idx=1&sn=899a7e5cd40cec6d6ff9d9a4fa197f67",
-        "published_date": "Mon, 06 Apr 2026 11:34:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.120021"
-      },
       "c4e03e9fa7fc35418046c2cd6d93d92de8518cc3b83160a96ce67c14be395251": {
         "title": "狂卖400万瓶，“假洋牌”优思益让中产集体破防了",
         "link": "https://www.tmtpost.com/7942741.html",
@@ -8989,15 +8959,87 @@
         "link": "https://sspai.com/post/109410",
         "published_date": "Wed, 06 May 2026 08:12:00 GMT",
         "first_seen": "2026-05-06T07:31:37.149234"
+      },
+      "99850854f84331e0a72216c2dce3a39c75431971fe07828cf5ff67c07c2406c3": {
+        "title": "npmx 进入 Alpha 阶段：一个由社区驱动的 npm 注册表浏览器替代品",
+        "link": "https://www.infoq.cn/article/H3UBOv3iPlJMAgtWFEMk?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 18:00:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375183"
+      },
+      "4007d82e8f55b81ce28367dbacf6f59dd9e22de618c699e55d1a23f1723b8f96": {
+        "title": "OpenChoreo 1.0 将 AI 代理和 GitOps 引入 Kubernetes 开发平台",
+        "link": "https://www.infoq.cn/article/D7iLJ0aKtBPgS3RCQlQr?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 16:00:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375191"
+      },
+      "570945908409ff9b04d08b65374ce775c6cb572e031f3b0d48a760973d5525bb": {
+        "title": "“如果你不用更多Token，就永远逃不出底层”：AI竞赛开始变成资源战争",
+        "link": "https://www.infoq.cn/article/fdAdSjRh8TNNy6RMrjGm?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 06 May 2026 15:55:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375193"
+      },
+      "6db91ef79e908617543ffbdc57879b56c6b63ae0a5280770f5c8cfd2de4ea9d7": {
+        "title": "这届北京车展，智驾人也有春天",
+        "link": "https://www.tmtpost.com/7977748.html",
+        "published_date": "Wed, 06 May 2026 17:47:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375194"
+      },
+      "2b723e055d6e1bb6e2bbc40ee036347f532e3a250efd54b883009d92f333a661": {
+        "title": "从万元户到个人资本百亿，“中国巴菲特”陈发树是如何炼成的？",
+        "link": "https://www.tmtpost.com/7978030.html",
+        "published_date": "Wed, 06 May 2026 17:34:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375197"
+      },
+      "704eb4b64bba7ea6fddd779ef420ea6b643b92b08465f862c569167ca9803ef6": {
+        "title": "PE远低于亚马逊，资本为何没对阿里AI出价？",
+        "link": "https://www.tmtpost.com/7977823.html",
+        "published_date": "Wed, 06 May 2026 17:34:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375198"
+      },
+      "14868fc96b273352188b07c205130551ee861baafd7976eddfd9a524ba7450d4": {
+        "title": "李飞飞又开了家公司，投资人排队塞了4个亿",
+        "link": "https://www.tmtpost.com/7978097.html",
+        "published_date": "Wed, 06 May 2026 17:33:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375200"
+      },
+      "bd180eb81f386e1d9066379b1a76b649d57ccc0e01af6b29b5b6ec6bdac6338f": {
+        "title": "“耐心资本”时代，创投行业呼唤“价值工程师”",
+        "link": "https://www.tmtpost.com/7977983.html",
+        "published_date": "Wed, 06 May 2026 17:33:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375202"
+      },
+      "6a9c6b6a9bd35f0d31d877762a2f0308b652601bdcfef752f911dc6f380dddce": {
+        "title": "吞噬爱马仕：凭空消失的百亿股份与世纪资本恶战",
+        "link": "https://www.tmtpost.com/7977927.html",
+        "published_date": "Wed, 06 May 2026 15:38:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375203"
+      },
+      "0f87936a6456cbec11270a813f3ba7a3dda720bbfe4eed3fcd7f9422ca78020d": {
+        "title": "首款8K AI拇指运动相机，光子跃迁LEAPTIC Cube开启预售",
+        "link": "https://www.tmtpost.com/7977719.html",
+        "published_date": "Wed, 06 May 2026 15:28:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375205"
+      },
+      "a15727d185bad6282dae430ea4e29d33a44842dd9cf856c8e1134b7b3df749ca": {
+        "title": "把脸借给AI短剧，我却拿不回来了",
+        "link": "https://www.tmtpost.com/7977715.html",
+        "published_date": "Wed, 06 May 2026 15:28:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375207"
+      },
+      "69cfc8e817badd1ea89ec34984dc4cb8997d38ac6b5e4184f62cac8e624cf287": {
+        "title": "一瓶血清的“守城之战”：90后女掌门携江西生物冲刺IPO",
+        "link": "https://www.tmtpost.com/7977410.html",
+        "published_date": "Wed, 06 May 2026 15:23:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375208"
+      },
+      "bbbc0d26a15c1609c40fd239273fdbda13b8d2f8a20a6a715be78e3fdb391f08": {
+        "title": "为了让「上厕所」更健康，我做了一个小工具",
+        "link": "https://sspai.com/post/109296",
+        "published_date": "Wed, 06 May 2026 15:00:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.375210"
       }
     },
     "Finance": {
-      "f54df2a8f2224e4033d668ccaa8576551c41ba5b6358345742cee728055cfcf6": {
-        "title": "Chris Pratt and Katherine Schwarzenegger delist $20 million megamansion while living in Katy Perry’s home",
-        "link": "https://www.marketwatch.com/story/chris-prattandkatherine-schwarzenegger-delist-20-million-megamansion-while-living-in-katy-perrys-home-08d6697b?mod=mw_rss_topstories",
-        "published_date": "Mon, 06 Apr 2026 08:58:00 GMT",
-        "first_seen": "2026-04-06T09:01:02.165948"
-      },
       "ec877c75a9cdac4ad5e7a512750eb4538f30cd5d038d064194edb54530a505c4": {
         "title": "US health insurance shares jump as Trump administration boosts Medicare payments",
         "link": "https://www.ft.com/content/1683cb40-51af-485d-b05c-84f60f33b1bb",
@@ -14499,6 +14541,72 @@
         "link": "https://www.ft.com/content/5c321fb2-ae4c-46fa-a762-ec0bd0a2f516",
         "published_date": "Wed, 06 May 2026 01:33:00 GMT",
         "first_seen": "2026-05-06T07:31:36.888689"
+      },
+      "88afdc984f8fa78cd56f2f69feb77cd434be2d1cde9f015f04b01f05190a4e8e": {
+        "title": "The latest sign of Sandisk’s ascent: It’s now bigger than the company that spun it off",
+        "link": "https://www.marketwatch.com/story/the-latest-sign-of-sandisks-ascent-its-now-bigger-than-western-digital-which-spun-it-off-dec1a23e?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 10:05:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139037"
+      },
+      "a28c5402b8d1110ec7c3dd5452581a5ce7fba157fb7b7cfa83e9e997b92ad279": {
+        "title": "The Wegovy pill saw the fastest take-up in weight-loss drug history. Novo Nordisk only narrowly lifted guidance.",
+        "link": "https://www.marketwatch.com/story/novo-nordisk-says-the-wegovy-pill-saw-the-fastest-take-up-in-weight-loss-drug-history-088f2d55?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 10:02:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139049"
+      },
+      "d98e42230229b95cea802c09eaed2e022e2ce6d516ee08b3f102c85171c80e9c": {
+        "title": "Oil futures fall 8% on report U.S. and Iran are in talks on memo to end the war",
+        "link": "https://www.marketwatch.com/story/oil-futures-fall-after-trump-pauses-u-s-effort-to-partially-reopen-strait-of-hormuz-936c77f9?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:55:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139052"
+      },
+      "e372c8a561120af7dea54588ff6dae3bd579bb3cbc6a3cc4fc6e4dfaa4086e68": {
+        "title": "We are retirees. Are we too old to take out a mortgage in Pennsylvania so we can escape the Florida heat?",
+        "link": "https://www.marketwatch.com/story/we-are-retirees-are-we-too-old-to-take-out-a-mortgage-in-pennsylvania-so-we-can-escape-the-florida-heat-6a191bd8?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:38:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139054"
+      },
+      "3dfa674f550abd021057639f14ab42e85c48fed01e44477f069bb70d6a9159b4": {
+        "title": "Michael Saylor said he would never sell bitcoin. Now he says he might.",
+        "link": "https://www.marketwatch.com/story/michael-saylor-said-he-would-never-sell-bitcoin-now-he-says-he-might-f05776fc?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:31:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139056"
+      },
+      "e8922ea04e326f1653f459d71f13ad5b22c9a892e0935c484d73b383a1435e5c": {
+        "title": "I am 56, single and renewing my $400,000 term life policy. The agent says I can’t name my brother as beneficiary. Why not?",
+        "link": "https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139057"
+      },
+      "89fcff71d1a34d794359f5ed875e9d085c7bfb7530680fa5282a14eee22de1f6": {
+        "title": "This chart tells the story of the hottest stock market as Samsung values hits $1 trillion",
+        "link": "https://www.marketwatch.com/story/this-chart-tells-the-story-of-the-hottest-stock-market-in-the-world-as-samsung-electronics-reaches-1-trillion-in-market-cap-1bd7892b?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:12:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139059"
+      },
+      "0984f06008e328a62af25f67f817a760e8fcf2c7297a3f27ef8d96c012922c08": {
+        "title": "Bill Cosby cuts the price of his New York townhouse to $5.99 million",
+        "link": "https://www.marketwatch.com/story/bill-cosby-cuts-the-price-of-his-new-york-townhouse-to-5-99-million-f6270069?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 09:01:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139060"
+      },
+      "c18ad6ea1bb23e46c41d2747147ac5578f5c7493c37d1e8426a78b66370ca5de": {
+        "title": "Why Friday may see another spike in bond-market anxiety",
+        "link": "https://www.marketwatch.com/story/why-friday-may-see-another-spike-in-bond-market-anxiety-bcb66488?mod=mw_rss_topstories",
+        "published_date": "Wed, 06 May 2026 08:25:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139062"
+      },
+      "2fccb64d4d0fd1c9b83c3f7dabc69b1efa7c0dc9e9ec73a2497940723467afc0": {
+        "title": "China calls for Iran war ceasefire in meeting with top envoy",
+        "link": "https://www.ft.com/content/f932425a-5023-426e-ae89-1521dbbfc07a",
+        "published_date": "Wed, 06 May 2026 09:47:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139063"
+      },
+      "26f01c58d1af8d94d5004e6fae28437162b49a1d532e9215fd8756f3fbe3498c": {
+        "title": "Oil tumbles and stocks rally on report US and Iran close to deal",
+        "link": "https://www.ft.com/content/8dd8d23a-2c5d-42c5-aedb-bbc1f49fcbea",
+        "published_date": "Wed, 06 May 2026 09:11:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.139065"
       }
     },
     "Ai": {
@@ -16085,13 +16193,19 @@
         "link": "https://www.qbitai.com/2026/05/412995.html",
         "published_date": "Wed, 06 May 2026 00:22:00 GMT",
         "first_seen": "2026-05-06T07:31:37.030984"
+      },
+      "fa3c632c4ec5b3f05a6360036664fc9554142c2359ec25ebf5f9aea7b4a62edf": {
+        "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+        "link": "https://www.qbitai.com/2026/05/413265.html",
+        "published_date": "Wed, 06 May 2026 08:11:00 GMT",
+        "first_seen": "2026-05-06T10:07:54.281606"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-06T07:31:37.149236",
-    "Finance": "2026-05-06T07:31:36.888691",
-    "Ai": "2026-05-06T07:31:37.030986"
+    "Technology": "2026-05-06T10:07:54.375212",
+    "Finance": "2026-05-06T10:07:54.139067",
+    "Ai": "2026-05-06T10:07:54.281614"
   }
 }
