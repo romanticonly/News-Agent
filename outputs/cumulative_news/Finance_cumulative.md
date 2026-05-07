@@ -1,7 +1,77 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 23:40
+**最后更新时间**: 2026-05-07 13:43
+
+---
+
+## 🆕 最新更新 (2026-05-07 13:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [DoorDash’s results and outlook were mixed. The stock is soaring anyway.](https://www.marketwatch.com/story/doordashs-results-and-outlook-were-mixed-the-stock-is-soaring-anyway-4f449227?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:39
+
+#### [Bitcoin’s unusual technical action points to a crypto bull market, says Fundstrat’s Tom Lee](https://www.marketwatch.com/story/bitcoins-rare-technical-action-points-to-a-crypto-bull-market-says-fundstrats-tom-lee-4e44bfb7?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:34
+
+#### [People who make less than $40,000 a year are hurt the most by the recent increase in gas prices, says the Fed](https://www.marketwatch.com/story/everyones-paying-more-for-gas-but-only-some-are-cutting-back-heres-why-6366212e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:34
+
+#### [One Blue Owl fund cuts dividend as another sold half its SpaceX stake before IPO](https://www.marketwatch.com/story/two-funds-run-by-blue-owl-are-cutting-their-dividend-and-one-sold-half-its-spacex-stake-before-ipo-000504e0?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:27
+
+#### [Americans are behaving like they’re in a recession, this storied appliance maker warns](https://www.marketwatch.com/story/americans-are-behaving-like-theyre-in-a-recession-this-storied-appliance-maker-warns-d900b283?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:19
+
+#### [‘The S&P 500 seems to be doing particularly well’: I’m 66. Is this a good time to invest $100,000 in the stock market?](https://www.marketwatch.com/story/the-s-p-500-seems-to-be-doing-particularly-well-im-66-is-this-a-good-time-to-invest-100-000-in-the-stock-market-46fb8ff8?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:15
+
+#### [Middle managers are on the chopping block in the AI workplace. Here’s how to save your job.](https://www.marketwatch.com/story/middle-managers-are-on-the-chopping-block-in-the-ai-workplace-heres-how-to-save-your-job-e82e4efe?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 13:01
+
+#### [Investors should seek to profit from this overlooked sector, according to hedge-fund CIOs](https://www.marketwatch.com/story/investors-should-seek-to-profit-from-this-overlooked-sector-according-to-hedge-fund-cios-8362c7d5?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 12:51
+
+#### [Record oil exports could drive U.S. diesel and gas supply shortages just as summer travel starts](https://www.marketwatch.com/story/record-oil-exports-could-drive-u-s-diesel-and-gas-supply-shortages-just-as-summer-travel-starts-863d56cb?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 12:49
+
+#### [Are businesses really starting to hire again? The April jobs report will help clue us in.](https://www.marketwatch.com/story/are-businesses-really-starting-to-hire-again-the-april-jobs-report-will-help-clue-us-in-97c1730e?mod=mw_rss_topstories)
+**发布时间**: 2026-05-07 12:39
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil falls back below $100 on hopes of US-Iran deal](https://www.ft.com/content/21131ff4-35e1-4e5c-b827-1e07c9153e8e)
+**发布时间**: 2026-05-07 10:52
+
+#### [UK and US launch disease control measures over hantavirus](https://www.ft.com/content/d93941a2-027a-48d2-a65b-49f43f7ab350)
+**发布时间**: 2026-05-07 10:40
+
+#### [How the oilman’s president boosted a green transition](https://www.ft.com/content/a55fb3cb-2b04-4608-9b96-6544e8b803df)
+**发布时间**: 2026-05-07 10:00
+
+#### [Shell’s profits jump as Iran war delivers windfall](https://www.ft.com/content/4240b801-e680-4359-9962-7afe295e8e3e)
+**发布时间**: 2026-05-07 08:34
+
+#### [Maersk warns economic impact of Iran conflict will ripple for months](https://www.ft.com/content/dbc47c3a-fd89-4c4d-8246-91de6850df24)
+**发布时间**: 2026-05-07 07:25
+
+#### [Emirates to press ahead with expansion despite Middle East war](https://www.ft.com/content/17cb8949-7698-45a2-b9b8-832187e4e624)
+**发布时间**: 2026-05-07 06:00
+
+#### [Four ways Europe’s big immigration experiment has changed Spain](https://www.ft.com/content/3fe9dccf-7db2-48ac-b26a-9272251fa1d9)
+**发布时间**: 2026-05-07 04:00
+
+#### [Apple, Berkshire and the virtue of patience](https://www.ft.com/content/2a5ee111-93f1-4fd2-8d22-1b3ba2d128c6)
+**发布时间**: 2026-05-07 04:00
+
+#### [Norway in deep water over cod pact with Russia](https://www.ft.com/content/0b808cfb-dc17-4877-bee8-d7dd6b34af7b)
+**发布时间**: 2026-05-07 04:00
+
+#### [The Nordics and Canada are finding common cause](https://www.ft.com/content/895889c5-9cba-4014-8476-3de5caa1bd57)
+**发布时间**: 2026-05-07 04:00
+
+#### [Epstein’s purported suicide note released by US judge](https://www.ft.com/content/b0fd8603-903f-47fd-a782-f6c4d20d04b2)
+**发布时间**: 2026-05-07 00:29
 
 ---
 

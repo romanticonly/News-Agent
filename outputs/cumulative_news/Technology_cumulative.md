@@ -1,7 +1,137 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-06 23:40
+**最后更新时间**: 2026-05-07 13:43
+
+---
+
+## 🆕 最新更新 (2026-05-07 13:43)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [盈利提速、增长放缓：百济神州的下一程，等索托克拉接棒丨看财报](https://www.tmtpost.com/7979205.html)
+**发布时间**: 2026-05-07 21:15
+
+#### [降价留客、爆款豪赌、AI续命：影视江湖大逃杀 | 行业风向标](https://www.tmtpost.com/7979500.html)
+**发布时间**: 2026-05-07 20:06
+
+#### [直觉外科的第二曲线](https://www.tmtpost.com/7978906.html)
+**发布时间**: 2026-05-07 18:15
+
+#### [世界杯版权费有没有泡沫？](https://www.tmtpost.com/7978347.html)
+**发布时间**: 2026-05-07 18:14
+
+#### [三星花十年，退出中国人的购物车](https://www.tmtpost.com/7979243.html)
+**发布时间**: 2026-05-07 18:12
+
+#### [马斯克122天建成世界最大超算，然后拱手交给别人](https://www.tmtpost.com/7979128.html)
+**发布时间**: 2026-05-07 18:12
+
+#### [长视频的「中年危机」：用户跑了，AI能拉回来吗？](https://www.tmtpost.com/7978895.html)
+**发布时间**: 2026-05-07 18:12
+
+#### [血液制品行业市场化升级：改变、加码、相信](https://www.tmtpost.com/7978889.html)
+**发布时间**: 2026-05-07 18:12
+
+#### [解散xAI ，马斯克和Anthropic都赢麻了](https://www.tmtpost.com/7978946.html)
+**发布时间**: 2026-05-07 17:44
+
+#### [一年市值暴涨211%！荣昌生物，能否成为千亿市值新王？](https://www.tmtpost.com/7978656.html)
+**发布时间**: 2026-05-07 17:44
+
+#### [中国最大康复辅具企业刚刚在港股IPO，市值近86亿](https://www.tmtpost.com/7977520.html)
+**发布时间**: 2026-05-07 17:44
+
+#### [豆包的价格战，打出了定价权](https://www.tmtpost.com/7978796.html)
+**发布时间**: 2026-05-07 17:44
+
+#### [穿越周期！天合光能现金流率先转正，储能+太空光伏双引擎点火](https://www.tmtpost.com/7979159.html)
+**发布时间**: 2026-05-07 17:43
+
+#### [这届北京车展，被老外“包围”了](https://www.tmtpost.com/7978698.html)
+**发布时间**: 2026-05-07 17:17
+
+#### [43个仿制药被拒，别再误判医药反内卷的国家意志](https://www.tmtpost.com/7978826.html)
+**发布时间**: 2026-05-07 17:17
+
+#### [金融“风暴”，AI制造](https://www.tmtpost.com/7978949.html)
+**发布时间**: 2026-05-07 17:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [像素绽放PixelBloom 宣布完成C轮融资，全面发力AI办公解决方案Agent](https://www.infoq.cn/article/h4r6TOAQgYjEa7Dg0gig?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 18:24
+
+#### [重新思考 AI TCO：为何每 Token 成本才是唯一重要的指标](https://www.infoq.cn/article/Ot1auU07EMlexHsFJaaM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 17:45
+
+#### [腾讯AI协同办公前沿实践白皮书](https://www.infoq.cn/minibook/aljF0UJmdDAzrVEcBXwx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 17:04
+
+#### [Vitest 4.1：测试标签、原生 Node.js 执行和 AI 代理报告器](https://www.infoq.cn/article/qE1NsAwbZbmUEalctUC4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 17:00
+
+#### [马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱](https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:29
+
+#### [Kubernetes 被 AI 打回“半成品”！K8s 之父发出警告：代码生成越快，程序员越危险](https://www.infoq.cn/article/7dyslCPBMAPyLporTATv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:02
+
+#### [JobRunr 发布开源 Java AI 智能体 ClawRunr](https://www.infoq.cn/article/pk5tLlqhqQsukB3ANhFh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:00
+
+#### [VoidZero的实验性Oxc Angular编译器发布，构建性能提升高达20倍](https://www.infoq.cn/article/CBNdGC799hmFJhz5A7qH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 15:00
+
+#### [硅谷大厂开始AI-first换血：先裁3万人、再招8000个新人，传统产品经理正在被Builder淘汰！](https://www.infoq.cn/article/w9qpMpQGfmxAmxFttNt6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 14:58
+
+#### [AI Infra企业无问芯穹再获超7亿元融资！CEO夏立雪：以中国方案回答全球Token经济核心命题](https://www.infoq.cn/article/K1aiYMtOPSTswV999WZR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:49
+
+#### [NestJS v12 路线图：全面迁移至 ESM、标准模式验证及现代化工具链](https://www.infoq.cn/article/fvrTEDzOC9OTbQxbzzJi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:06
+
+#### [DPoP存储悖论：为什么基于浏览器的持有证明仍然是一个未解决的问题](https://www.infoq.cn/article/XDKzfzslwzf9vSz7xeUC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:04
+
+#### [京东 xLLM 的投机推理架构设计｜AICon上海](https://www.infoq.cn/article/wAml9HDVF8HuaQEhFesM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 10:00
+
+#### [Cursor 删库毁了一家公司？资深开发者讲了大实话：把数据库交给AI的那一刻，公司就已经没了](https://www.infoq.cn/article/ikCBSErsyohVBiZ0MbxR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-07 08:00
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 240｜少数派的编辑们最近买了啥？](https://sspai.com/post/109474)
+**发布时间**: 2026-05-07 17:03
+
+#### [一日一技｜为什么你应该关闭 iOS 的键盘声音](https://sspai.com/post/109460)
+**发布时间**: 2026-05-07 16:38
+
+#### [甘南秘境，大白高国：我的甘南自由行记](https://sspai.com/post/109367)
+**发布时间**: 2026-05-07 11:00
+
+#### [派早报：三星电子退出中国家电市场、Microsoft Edge 被曝安全隐患等](https://sspai.com/post/109448)
+**发布时间**: 2026-05-07 08:25
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [比 OpenClaw 更火的 「Agent 员工」赛道，杀出一个新王者｜AI 上新](http://www.geekpark.net/news/363804)
+**发布时间**: 2026-05-07 16:56
+
+#### [平头哥发布首款智能网卡「磐脉 920」，补齐 AI 算力最后一块短板](http://www.geekpark.net/news/363777)
+**发布时间**: 2026-05-07 09:00
+
+#### [传月之暗面新融 20 亿美元，估值超 200 亿美元；豆包曝光首个全模态理解模型；开播 24 年后， 星空卫视停播｜极客早知道](http://www.geekpark.net/news/363775)
+**发布时间**: 2026-05-07 08:31
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [你的 Mac 就是一个 AI Agent，4B 模型本地操控电脑。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533529&idx=1&sn=cb5c3b295b802b594f045376f79e2a8a)
+**发布时间**: 2026-05-07 12:53
+
+#### [GitHub上狂揽 1.1 万 Star，22 岁开发者逆向工程了 Claude Mythos。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533526&idx=1&sn=716bda7ad91edafbe1206ad84ba4843a)
+**发布时间**: 2026-05-06 14:48
 
 ---
 
