@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 May 2026 09:04:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 May 2026 09:04:52 GMT</lastBuildDate>
+    <pubDate>Fri, 08 May 2026 23:44:00 GMT</pubDate>
+    <lastBuildDate>Fri, 08 May 2026 23:44:36 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,43 +14,163 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>The AI marathon’s biggest threat suggests the finish line is nowhere in sight</title>
-      <link>https://www.marketwatch.com/story/the-ai-marathons-biggest-threat-suggests-the-finish-line-is-nowhere-in-sight-b238d0f6?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[The AI marathon’s biggest threat suggests the finish line is nowhere in sight]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/the-ai-marathons-biggest-threat-suggests-the-finish-line-is-nowhere-in-sight-b238d0f6?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.</title>
-      <link>https://www.marketwatch.com/story/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next-37c222bd?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 08:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next-37c222bd?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?</title>
-      <link>https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 07:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Reform surges in English local elections — follow the results</title>
-      <link>https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de</link>
-      <description>&lt;![CDATA[Reform surges in English local elections — follow the results]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 08:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Starmer defies calls to quit after heavy Labour council losses</title>
+      <title>Labour MPs call on Keir Starmer to quit after heavy election defeat</title>
       <link>https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b</link>
-      <description>&lt;![CDATA[Starmer defies calls to quit after heavy Labour council losses]]&gt;</description>
-      <pubDate>Fri, 08 May 2026 07:58:00 GMT</pubDate>
+      <description>&lt;![CDATA[Labour MPs call on Keir Starmer to quit after heavy election defeat]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 22:51:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump expected to fire head of Food and Drug Administration</title>
+      <link>https://www.ft.com/content/83c91e61-4397-4fcc-833f-c5c82acb4447</link>
+      <description>&lt;![CDATA[Trump expected to fire head of Food and Drug Administration]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 22:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/83c91e61-4397-4fcc-833f-c5c82acb4447</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Turkey unveils new ICBM — touted as able to hit the US mainland</title>
+      <link>https://www.ft.com/content/d2136091-9fd2-4923-b168-50539e5b27ab</link>
+      <description>&lt;![CDATA[Turkey unveils new ICBM — touted as able to hit the US mainland]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 21:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/d2136091-9fd2-4923-b168-50539e5b27ab</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>LNG carriers test Iran blockade in Strait of Hormuz</title>
+      <link>https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d</link>
+      <description>&lt;![CDATA[LNG carriers test Iran blockade in Strait of Hormuz]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 19:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump says Russia and Ukraine agree 3-day ceasefire and prisoner swap</title>
+      <link>https://www.ft.com/content/7e9cb5d9-277e-43ba-9ba1-5f45f3bef7f9</link>
+      <description>&lt;![CDATA[Trump says Russia and Ukraine agree 3-day ceasefire and prisoner swap]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 19:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7e9cb5d9-277e-43ba-9ba1-5f45f3bef7f9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Jane Street earned $10bn in first quarter as it doubled trading revenue</title>
+      <link>https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a</link>
+      <description>&lt;![CDATA[Jane Street earned $10bn in first quarter as it doubled trading revenue]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 19:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>US Democrats handed midterm election blow by Virginia court</title>
+      <link>https://www.ft.com/content/e5b481a1-c506-43b5-8669-f31a8254a829</link>
+      <description>&lt;![CDATA[US Democrats handed midterm election blow by Virginia court]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 16:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/e5b481a1-c506-43b5-8669-f31a8254a829</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>While AI pumps up portfolios, some companies sound the alarm</title>
+      <link>https://www.ft.com/content/9fc6274f-8455-4728-bda7-d2ced906bdd6</link>
+      <description>&lt;![CDATA[While AI pumps up portfolios, some companies sound the alarm]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 16:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/9fc6274f-8455-4728-bda7-d2ced906bdd6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Markets are banking on the ‘Bliss trade’</title>
+      <link>https://www.ft.com/content/60f60089-9486-481c-859c-f29b8ccbbd90</link>
+      <description>&lt;![CDATA[Markets are banking on the ‘Bliss trade’]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 15:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/60f60089-9486-481c-859c-f29b8ccbbd90</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Ryan Cohen, the rebel CEO who disdains corporate America</title>
+      <link>https://www.ft.com/content/c0023a3e-08ec-44e8-80a6-f9abb343c52e</link>
+      <description>&lt;![CDATA[Ryan Cohen, the rebel CEO who disdains corporate America]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 14:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/c0023a3e-08ec-44e8-80a6-f9abb343c52e</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Premature obituaries for populism</title>
+      <link>https://www.ft.com/content/8477bd25-0777-493e-8b66-02157fe30fd6</link>
+      <description>&lt;![CDATA[Premature obituaries for populism]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 13:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/8477bd25-0777-493e-8b66-02157fe30fd6</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.</title>
+      <link>https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[‘It saved my relationship with my mom.’ These money managers may help if you’re feeling overwhelmed helping your parents pay their bills.]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 22:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/feeling-overwhelmed-with-helping-your-parents-pay-their-bills-or-track-expenses-every-day-these-money-managers-can-help-ec399b99?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Dunkin’ is making its return to the stock market — with a new twist</title>
+      <link>https://www.marketwatch.com/story/dunkin-is-making-its-return-to-the-stock-market-with-a-new-twist-c89f1cc2?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Dunkin’ is making its return to the stock market — with a new twist]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 22:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/dunkin-is-making-its-return-to-the-stock-market-with-a-new-twist-c89f1cc2?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Gold has climbed back above a key trend line. Are more gains on the way?</title>
+      <link>https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Gold has climbed back above a key trend line. Are more gains on the way?]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 21:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/gold-has-climbed-back-above-a-key-trend-line-are-more-gains-on-the-way-6627e0f5?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming</title>
+      <link>https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[No do-overs: How one extra dollar on your Roth conversion triggers a tax bill you won’t see coming]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 21:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/no-do-overs-how-one-extra-dollar-on-your-roth-conversion-triggers-a-tax-bill-you-wont-see-coming-5b52c911?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>AMD, Micron shares surge on a big day for chip-sector outperformance</title>
+      <link>https://www.marketwatch.com/story/amd-micron-shares-surge-on-a-big-day-for-chip-sector-outperformance-fe2d5306?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[AMD, Micron shares surge on a big day for chip-sector outperformance]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 21:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/amd-micron-shares-surge-on-a-big-day-for-chip-sector-outperformance-fe2d5306?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Ageism is corporate self-sabotage — America’s ‘brain drain’ is costing shareholders billions</title>
+      <link>https://www.marketwatch.com/story/ageism-is-still-an-acceptable-bias-among-employers-and-its-costing-shareholders-billions-aa308465?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Ageism is corporate self-sabotage — America’s ‘brain drain’ is costing shareholders billions]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 20:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/ageism-is-still-an-acceptable-bias-among-employers-and-its-costing-shareholders-billions-aa308465?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?</title>
+      <link>https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I am 56, single, and renewing my $400,000 10-year term life policy. Am I making a huge mistake?]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 20:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-am-56-single-and-renewing-my-400-000-term-life-policy-the-agent-says-i-cant-name-my-brother-as-beneficiary-why-not-1770bf58?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Intel’s stock achieves a never-before-seen feat as Apple enthusiasm builds</title>
+      <link>https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Intel’s stock achieves a never-before-seen feat as Apple enthusiasm builds]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 20:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/intels-stock-could-achieve-a-never-before-seen-feat-as-apple-enthusiasm-builds-edd94237?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Kevin Warsh is right about Fed reform — but his inflation solution is a trap</title>
+      <link>https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Kevin Warsh is right about Fed reform — but his inflation solution is a trap]]&gt;</description>
+      <pubDate>Fri, 08 May 2026 19:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/kevin-warsh-is-right-about-fed-reform-but-his-inflation-solution-is-a-trap-eee3c403?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
