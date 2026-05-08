@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-08 06:27
+**最后更新时间**: 2026-05-08 09:04
+
+---
+
+## 🆕 最新更新 (2026-05-08 09:04)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The AI marathon’s biggest threat suggests the finish line is nowhere in sight](https://www.marketwatch.com/story/the-ai-marathons-biggest-threat-suggests-the-finish-line-is-nowhere-in-sight-b238d0f6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 08:57
+
+#### [Momentum stocks just saw one of the biggest reversals in five years. What usually happens next.](https://www.marketwatch.com/story/momentum-stocks-just-saw-one-of-the-biggest-reversals-in-five-years-what-usually-happens-next-37c222bd?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 08:21
+
+#### [My mother regrets paying Social Security. She says she should have invested her contributions. I disagree. Who’s right?](https://www.marketwatch.com/story/americans-are-not-great-at-managing-money-social-security-and-medicare-saved-my-father-from-financial-ruin-am-i-wrong-878bd7a2?mod=mw_rss_topstories)
+**发布时间**: 2026-05-08 07:31
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Reform surges in English local elections — follow the results](https://www.ft.com/content/63a73c94-a927-4683-be1a-9ed0e53442de)
+**发布时间**: 2026-05-08 08:51
+
+#### [Starmer defies calls to quit after heavy Labour council losses](https://www.ft.com/content/8958faa6-cbde-499b-8016-b89ef857a22b)
+**发布时间**: 2026-05-08 07:58
+
+#### [Toyota warns of $4.2bn hit from Middle East war](https://www.ft.com/content/35f4f768-d17a-4988-be35-83959e22ee6c)
+**发布时间**: 2026-05-08 06:07
+
+#### [Humans still matter more than AI in finance](https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57)
+**发布时间**: 2026-05-08 04:00
+
+#### [Billionaire James Packer among backers lined up for OnlyFans deal](https://www.ft.com/content/378da9d5-513c-4bb3-82b9-35484b95beed)
+**发布时间**: 2026-05-08 04:00
 
 ---
 
