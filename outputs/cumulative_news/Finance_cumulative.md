@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-10 07:25
+**最后更新时间**: 2026-05-10 09:19
+
+---
+
+## 🆕 最新更新 (2026-05-10 09:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tank maker KNDS pushes Berlin to decide on taking stake before IPO](https://www.ft.com/content/81f58094-c0c1-4163-b43d-e802e79de793)
+**发布时间**: 2026-05-10 09:07
 
 ---
 
