@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 May 2026 09:19:00 GMT</pubDate>
-    <lastBuildDate>Sun, 10 May 2026 09:19:56 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 23:40:00 GMT</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 23:40:28 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,43 +14,59 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>DeepSeek塞进苹果本儿，分币不花实现“龙虾自由”</title>
-      <link>https://www.tmtpost.com/7982776.html</link>
-      <description>&lt;![CDATA[DeepSeek塞进苹果本儿，分币不花实现“龙虾自由”]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7982776.html</guid>
+      <title>【钛晨报】事关综合交通运输体系、化债等，国常会最新部署；DeepSeek和阿里谈崩了？市场人士：双方应该没有进行谈判；英伟达全面布局AI生态，股权投资今年已超400亿美元</title>
+      <link>https://www.tmtpost.com/7982888.html</link>
+      <description>&lt;![CDATA[【钛晨报】事关综合交通运输体系、化债等，国常会最新部署；DeepSeek和阿里谈崩了？市场人士：双方应该没有进行谈判；英伟达全面布局AI生态，股权投资今年已超400亿美元]]&gt;</description>
+      <pubDate>Mon, 11 May 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982888.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三星的撤退与进击</title>
-      <link>https://www.tmtpost.com/7982739.html</link>
-      <description>&lt;![CDATA[三星的撤退与进击]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 16:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7982739.html</guid>
+      <title>Kimi与DeepSeek到底谁更值钱？</title>
+      <link>https://www.tmtpost.com/7982381.html</link>
+      <description>&lt;![CDATA[Kimi与DeepSeek到底谁更值钱？]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982381.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控</title>
-      <link>https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 利用 eBPF 消除部署风险，防止循环依赖导致故障失控]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 15:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/duka4AFM1UaEmx23F2ZB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>暴涨358%，存储芯片背后的“隐形血液”，快藏不住了</title>
+      <link>https://www.tmtpost.com/7982344.html</link>
+      <description>&lt;![CDATA[暴涨358%，存储芯片背后的“隐形血液”，快藏不住了]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982344.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>寻找你身边的电波——如何上中继</title>
-      <link>https://sspai.com/post/87897</link>
-      <description>&lt;![CDATA[寻找你身边的电波——如何上中继]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 14:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/87897</guid>
+      <title>以利润腰斩的代价打仗，影石没有退路</title>
+      <link>https://www.tmtpost.com/7982353.html</link>
+      <description>&lt;![CDATA[以利润腰斩的代价打仗，影石没有退路]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982353.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>推荐 7 个本周火火火的 GitHub 项目，尤其是第一个。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533561&amp;idx=1&amp;sn=d904e88426e300ddd2055e0d9b66da07</link>
-      <description>&lt;![CDATA[推荐 7 个本周火火火的 GitHub 项目，尤其是第一个。]]&gt;</description>
-      <pubDate>Sun, 10 May 2026 10:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533561&amp;idx=1&amp;sn=d904e88426e300ddd2055e0d9b66da07</guid>
+      <title>3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO</title>
+      <link>https://www.tmtpost.com/7982748.html</link>
+      <description>&lt;![CDATA[3年亏31亿、负债率达165%，清华教授创立固态电池“独角兽”冲刺IPO]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982748.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“马嘉祺”终于被大模型“稳稳接住”了</title>
+      <link>https://www.tmtpost.com/7982777.html</link>
+      <description>&lt;![CDATA[“马嘉祺”终于被大模型“稳稳接住”了]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982777.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>储能大洗牌已开始，21家上市公司，谁先被淘汰？</title>
+      <link>https://www.tmtpost.com/7982820.html</link>
+      <description>&lt;![CDATA[储能大洗牌已开始，21家上市公司，谁先被淘汰？]]&gt;</description>
+      <pubDate>Sun, 10 May 2026 19:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7982820.html</guid>
       <category>Technology</category>
     </item>
   </channel>
