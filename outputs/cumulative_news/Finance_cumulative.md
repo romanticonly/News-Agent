@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-11 23:46
+**最后更新时间**: 2026-05-12 07:38
+
+---
+
+## 🆕 最新更新 (2026-05-12 07:38)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer ‘weighing’ if premiership can be saved ahead of crucial cabinet meeting](https://www.ft.com/content/9c4c7a97-c564-4a7f-9866-1182a84e7812)
+**发布时间**: 2026-05-12 07:16
+
+#### [UK government bonds and sterling drop as pressure on Starmer grows](https://www.ft.com/content/c2455a7b-8cb5-42f9-9515-6ae664341e26)
+**发布时间**: 2026-05-12 07:08
+
+#### [Reeves’ allies say chancellor should stay in post if Starmer ousted](https://www.ft.com/content/dda9a79c-2b5c-486b-a011-52324f4b2c6f)
+**发布时间**: 2026-05-12 07:05
+
+#### [Japan says Bessent offered ‘understanding’ on yen intervention](https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12)
+**发布时间**: 2026-05-12 05:27
+
+#### [Trump loses his trade superpower](https://www.ft.com/content/66a5c6c7-1b2b-47cc-9e07-77a87625fdfa)
+**发布时间**: 2026-05-12 04:00
+
+#### [We are living in the age of asymmetry](https://www.ft.com/content/5fefc72b-aded-46d6-b509-1904204ca8b0)
+**发布时间**: 2026-05-12 04:00
+
+#### [Will AI turn us all into hipsters and artisans?](https://www.ft.com/content/622451f4-c854-4396-838a-c3b20cb98727)
+**发布时间**: 2026-05-12 04:00
+
+#### [Kevin Warsh to face resurgent inflation and an impatient Trump as Fed chair](https://www.ft.com/content/af3bc83f-8a3c-4280-aa80-9d16bbd0cb6d)
+**发布时间**: 2026-05-12 04:00
+
+#### [Amazon staff use AI tool for unnecessary tasks to inflate usage scores](https://www.ft.com/content/8ee0d3ef-9548-422d-8ff1-ebd48ad4b2ca)
+**发布时间**: 2026-05-12 04:00
+
+#### [Hedge funds bet on biofuels to profit from Iran oil price shock](https://www.ft.com/content/d6a00598-3c42-4d0d-ae6a-82ea8f086f0c)
+**发布时间**: 2026-05-12 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meet the Nvidias of power — 5 stocks winning Big Tech’s $700 billion AI energy grab](https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories)
+**发布时间**: 2026-05-11 23:49
 
 ---
 
