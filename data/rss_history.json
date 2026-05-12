@@ -2,24 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "5cc5b5fa1bbf9981792b6069936b5d8f15800b11a3549c88c426b66421cdb199": {
-        "title": "奥特曼家门口那把火，烧出了AI时代的分配矛盾",
-        "link": "https://www.tmtpost.com/7950006.html",
-        "published_date": "Sun, 12 Apr 2026 16:26:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.281569"
-      },
-      "293329ff42dbf0cd7def65378d2a6210ee004469b5fd610a0b646cdd117c8ef1": {
-        "title": "Uber Hive联邦架构：1.6万数据集、10PB数据去中心化，支撑大规模分析零停机",
-        "link": "https://www.infoq.cn/article/bFwjzUqLXLZCmqz7pBNJ?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 12 Apr 2026 15:00:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.281576"
-      },
-      "d5589698ffc5a2a67ffd293b033009cd135e12037447f647d862c68b0ad783f2": {
-        "title": "5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532957&idx=1&sn=8f27a513c9db4fb19a2a432937c634b4",
-        "published_date": "Sun, 12 Apr 2026 12:38:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.281578"
-      },
       "a9136da3159f7741a361699fab9d1d7ebf8384dd94d2d93a28e7e7625bb78f36": {
         "title": "【钛晨报】创业板改革再出发，增设第四套上市标准；马斯克的“西方微信”要上线了；王石发博回应“被抓”传闻：一切安好，造谣者交给法律",
         "link": "https://www.tmtpost.com/7950349.html",
@@ -9079,21 +9061,69 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533594&idx=1&sn=4116733fa584c8c3b10f5308499d4023",
         "published_date": "Tue, 12 May 2026 12:49:00 GMT",
         "first_seen": "2026-05-12T07:38:03.558229"
+      },
+      "bcf330f76b50aa497d12e7f95913fc74196f6dd3cf0cbc265cf1319d65d3e8fa": {
+        "title": "OpenAI 前 CTO，拿出了一个「最人性」的 AI",
+        "link": "http://www.geekpark.net/news/364044",
+        "published_date": "Tue, 12 May 2026 18:06:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547195"
+      },
+      "21c622fd827b17af8c8afb4669a6a212f54f53c8d6583d3c84b9be1713487722": {
+        "title": "模力工场039周AI应用周榜：AI 应用正悄悄变“窄”，通用工具之争逐渐退潮，垂直流程开始冒头",
+        "link": "https://www.infoq.cn/article/ac0Kvqlz4cS2PhAcwvPP?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:45:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547204"
+      },
+      "78de57e930473fd9545f4c9331fa9c80c0bf2837f67da87bcd09ecf78f37b878": {
+        "title": "谷歌在 Next '26 大会上宣布推出 GKE Agent Sandbox 和 Hypercluster，并将 Kubernetes 定位为 AI 代理",
+        "link": "https://www.infoq.cn/article/BNvwzwb29PU4AORhPqbZ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 17:02:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547206"
+      },
+      "012107d4b713da988abf4cb51037e73e1b38fea935b4b8e702f056feeb276aa5": {
+        "title": "从 Redis 到 Valkey，开源社区如何快速创新？",
+        "link": "https://www.infoq.cn/article/FDgGHIxIBa1Hytx0akyf?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 12 May 2026 15:38:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547208"
+      },
+      "50e521858966ec05f4ce6c8a201e39246a94a08b8d316c61b96b413de2ec04d7": {
+        "title": "中纪委点名，国资做LP，亏了200亿",
+        "link": "https://www.tmtpost.com/7984699.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547209"
+      },
+      "c18c86a10200ca1cc6662a23445cc8e214b8b7fd5b58aaaad95857c231cb0ab4": {
+        "title": "3000元手搓《爱死机》，这部国产AI短片为何能外网刷屏？",
+        "link": "https://www.tmtpost.com/7985284.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547211"
+      },
+      "ce92d66a44ea2c89a5bc1c46c1cd209f1eb8d6a78e1824ce1fa61991d6de5228": {
+        "title": "沃尔沃需要吉利，但不能太像吉利",
+        "link": "https://www.tmtpost.com/7985297.html",
+        "published_date": "Tue, 12 May 2026 17:39:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547212"
+      },
+      "0a8b2dd15e13998174509aad5779fea0a58bc9bf60abf21c629f32117bdb822f": {
+        "title": "200亿美金估值的可灵，值母公司七成市值",
+        "link": "https://www.tmtpost.com/7985061.html",
+        "published_date": "Tue, 12 May 2026 15:58:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547214"
+      },
+      "41e1f8b2411d9ce66b945923306c4ff5a76c07319779bf565414948451828a16": {
+        "title": "掌阅科技升级旗下AI漫剧平台，AI短剧产业自闭环将成为头部大厂的必选项？",
+        "link": "https://www.tmtpost.com/7985014.html",
+        "published_date": "Tue, 12 May 2026 15:51:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547215"
+      },
+      "1e4a8b5fc186aa53f6b217c12359058b60d90d2acd9875fa973d9798385c51fd": {
+        "title": "“缺芯少算”，长电科技千亿市值“稳了”",
+        "link": "https://www.tmtpost.com/7984929.html",
+        "published_date": "Tue, 12 May 2026 15:39:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.547217"
       }
     },
     "Finance": {
-      "4dc262c8179f6f064d94cb5b6d60cc88f478708dff6deb91a30326b887233431": {
-        "title": "Vance says US and Iran fail to reach deal",
-        "link": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
-        "published_date": "Sun, 12 Apr 2026 07:20:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.050896"
-      },
-      "18da0927dd37c002f0c2dd7f37f2623d1647bf9698dcf68eec98bdf49adf096e": {
-        "title": "Robinhood excludes some prediction markets over manipulation fears",
-        "link": "https://www.ft.com/content/84ddcfaf-f16a-481e-9986-c3e8af5653ac",
-        "published_date": "Sun, 12 Apr 2026 06:57:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.050909"
-      },
       "eb80d01431a7113fd2b28a4063daed3ac51264d7c64f2c2864d44210d0279255": {
         "title": "Stock-market futures drop, oil surges back above $100 after failed talks between U.S. and Iran over the weekend",
         "link": "https://www.marketwatch.com/story/stock-market-futures-drop-oil-surges-above-100-after-failed-talks-between-u-s-and-iran-over-the-weekend-7b741637?mod=mw_rss_topstories",
@@ -14685,21 +14715,69 @@
         "link": "https://www.marketwatch.com/story/meet-the-nvidias-of-power-5-stocks-winning-big-techs-700-billion-ai-energy-grab-9226157a?mod=mw_rss_topstories",
         "published_date": "Mon, 11 May 2026 23:49:00 GMT",
         "first_seen": "2026-05-12T07:38:03.290131"
+      },
+      "e884f782be84947435b0740c297326bb4b21099c3dd100ad4517388a578e13b7": {
+        "title": "My retirement fund is like an AI version of me. It keeps working when I’m not able to.",
+        "link": "https://www.marketwatch.com/story/my-retirement-fund-is-like-an-ai-version-of-me-it-keeps-working-when-im-not-able-to-6d053f9d?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 10:16:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288292"
+      },
+      "f8b7c65e63dbbb597f19b67cbf7ad2c0329df08ca3968ad953da0b1960f579fe": {
+        "title": "With Keir Starmer premiership on the brink, British government debt, currency and stocks fall",
+        "link": "https://www.marketwatch.com/story/with-keir-starmer-premiership-on-the-brink-british-government-debt-tumbles-further-3a113f26?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:47:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288304"
+      },
+      "78717e197fbc307e530dbbef423b27041f1479745928655bf940e02632d458ac": {
+        "title": "When couples have a PTO gap, it can take a big toll on their relationship",
+        "link": "https://www.marketwatch.com/story/when-couples-have-a-pto-gap-it-can-take-a-big-toll-on-their-relationship-e0bc1e73?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:45:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288307"
+      },
+      "bd2b9850899c57f1d7b7ea05e4f02c76e9bcad78c3d1e3ade361acf011446fae": {
+        "title": "The hottest stock market in the world finally met its match: taxes",
+        "link": "https://www.marketwatch.com/story/the-hottest-stock-market-in-the-world-finally-met-its-match-taxes-55cf54c6?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:20:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288309"
+      },
+      "72b6c4068ac9469e01de14604bde1cbdceeaddfc09e2d1a99d811e2f5d3afefb": {
+        "title": "‘She is very angry with me’: My daughter, 30, has issues with drugs. Should I take half the profit from the sale of her house?",
+        "link": "https://www.marketwatch.com/story/she-is-very-angry-with-me-my-daughter-has-drug-issues-should-i-take-half-the-profit-from-the-sale-of-her-house-e99a23d4?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:15:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288311"
+      },
+      "e3bd00460cf9c0531ec857445869c870624ae21a44f56fca67f600bee04b3548": {
+        "title": "This dot-com survivor says AI buildout is more like 1997 than 1999 — and still urges investors to have more cash",
+        "link": "https://www.marketwatch.com/story/this-dot-com-survivor-says-ai-buildout-is-more-like-1997-than-1999-and-still-urges-investors-to-have-more-cash-39300ff3?mod=mw_rss_topstories",
+        "published_date": "Tue, 12 May 2026 09:06:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288312"
+      },
+      "b58cf9033d1142a25a9e778f12ad613dc6270cdb87baa1aae0c935eb60c5e4d6": {
+        "title": "UK borrowing costs surge as Starmer leadership crisis rattles bond markets",
+        "link": "https://www.ft.com/content/4bd1dadd-3a1c-4adf-b255-0b03f7e8c36d",
+        "published_date": "Tue, 12 May 2026 10:04:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288314"
+      },
+      "22939aff19ebafc85c462fd3907439901f5e18b6cd5e32425df6ecd4faad9aa9": {
+        "title": "Chipmaker Cerebras joins OpenAI’s inner circle — for a price",
+        "link": "https://www.ft.com/content/3f77f8ad-16b8-4f97-ae55-0bd2e31122fa",
+        "published_date": "Tue, 12 May 2026 09:22:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288316"
+      },
+      "f93cbc58f82532ff81522d5876d1914388949ce94be6bdf76e57e00a70c04763": {
+        "title": "Japan says Bessent offered ‘understanding’ on yen policy",
+        "link": "https://www.ft.com/content/5c42387d-d5c2-40fc-a783-0be17b50af12",
+        "published_date": "Tue, 12 May 2026 09:02:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288318"
+      },
+      "0df8bb58a992cbdfccdf5ceb542a652035291514c5acb0ec2426feae43b5b1b9": {
+        "title": "Starmer vows to fight on",
+        "link": "https://www.ft.com/content/c2455a7b-8cb5-42f9-9515-6ae664341e26",
+        "published_date": "Tue, 12 May 2026 08:28:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.288319"
       }
     },
     "Ai": {
-      "404b625e565ef1d177567fffe722163c5617ee940d27e67f742a7c667ffee96b": {
-        "title": "36.4万超声图文对！中国团队构建首个大规模超声专属数据集，让AI真正读懂临床诊断语义丨CVPR’26",
-        "link": "https://www.qbitai.com/2026/04/399975.html",
-        "published_date": "Sun, 12 Apr 2026 07:21:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.207647"
-      },
-      "46a7fa687c6df9e991272fbaa626247a60c63bb834454d29c7e08b2bf627b888": {
-        "title": "Claude复活30年前传奇游戏，仅用一个周末",
-        "link": "https://www.qbitai.com/2026/04/399903.html",
-        "published_date": "Sun, 12 Apr 2026 07:00:00 GMT",
-        "first_seen": "2026-04-12T08:37:25.207654"
-      },
       "a0878856e41e0a49298db58b094306de107fa7b5407fff7b6d0f4fe972bdc7e1": {
         "title": "「Claude Code之父」其实是野路子来的……",
         "link": "https://www.qbitai.com/2026/04/400306.html",
@@ -16187,13 +16265,19 @@
         "link": "https://www.qbitai.com/2026/05/416034.html",
         "published_date": "Tue, 12 May 2026 04:02:00 GMT",
         "first_seen": "2026-05-12T07:38:03.438113"
+      },
+      "342bf2bce0225fe0faec346b0e883b95527113768c1d752cc60e5258266aa21e": {
+        "title": "AI第一金主黄仁勋：日均花掉20亿",
+        "link": "https://www.qbitai.com/2026/05/416540.html",
+        "published_date": "Tue, 12 May 2026 08:03:00 GMT",
+        "first_seen": "2026-05-12T10:22:29.447263"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-12T07:38:03.558231",
-    "Finance": "2026-05-12T07:38:03.290132",
-    "Ai": "2026-05-12T07:38:03.438116"
+    "Technology": "2026-05-12T10:22:29.547218",
+    "Finance": "2026-05-12T10:22:29.288321",
+    "Ai": "2026-05-12T10:22:29.447272"
   }
 }
