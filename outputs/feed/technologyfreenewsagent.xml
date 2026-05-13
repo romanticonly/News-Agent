@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 May 2026 10:12:00 GMT</pubDate>
-    <lastBuildDate>Wed, 13 May 2026 10:12:07 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 23:47:00 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 23:47:42 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,203 +14,67 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版</title>
-      <link>https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MySQL 9.7 发布：8.4 之后首个 LTS 正式版，企业级功能下放社区版]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 18:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/qOs2HdozPhbSjIqS0aYT?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】市场监管总局：严查算法违规乱象，规范市场竞争秩序；SpaceX上市效应发酵，贝索斯旗下蓝色起源也开始启动外部融资；欧佩克月报：下调今年全球原油需求增速预期至117万桶/日</title>
+      <link>https://www.tmtpost.com/7987041.html</link>
+      <description>&lt;![CDATA[【钛晨报】市场监管总局：严查算法违规乱象，规范市场竞争秩序；SpaceX上市效应发酵，贝索斯旗下蓝色起源也开始启动外部融资；欧佩克月报：下调今年全球原油需求增速预期至117万桶/日]]&gt;</description>
+      <pubDate>Thu, 14 May 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7987041.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义</title>
-      <link>https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[当 AI Agent 走进生产数据库，DBA 的角色正在被重新定义]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/79tRpwBeNjESHu3c3YLb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>无人机概念股拟3.57亿元收购天津跃峰，延伸拓展航天器配套制造领域；西南民营油服企业筹划易主，股价提前涨停；【并购一线】</title>
+      <link>https://www.tmtpost.com/7987102.html</link>
+      <description>&lt;![CDATA[无人机概念股拟3.57亿元收购天津跃峰，延伸拓展航天器配套制造领域；西南民营油服企业筹划易主，股价提前涨停；【并购一线】]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 22:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7987102.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>GitHub 如何保障现代CI/CD系统中智能体工作流的安全</title>
-      <link>https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[GitHub 如何保障现代CI/CD系统中智能体工作流的安全]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ACTA4vlLcqBOTu5vw2cR?utm_source=rss&amp;utm_medium=article</guid>
+      <title>淄博财政局拟入主威龙股份：是救赎，还是又一场资本套利局？</title>
+      <link>https://www.tmtpost.com/7986924.html</link>
+      <description>&lt;![CDATA[淄博财政局拟入主威龙股份：是救赎，还是又一场资本套利局？]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 20:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986924.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Manus 交易失败后，创始人仍在谈论 Agent 时代的成功经验</title>
-      <link>https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Manus 交易失败后，创始人仍在谈论 Agent 时代的成功经验]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/bqjNfpZk9b3UoVXav3ee?utm_source=rss&amp;utm_medium=article</guid>
+      <title>九年易主传闻终落地，久远银海寻“实力派”接盘破局</title>
+      <link>https://www.tmtpost.com/7986884.html</link>
+      <description>&lt;![CDATA[九年易主传闻终落地，久远银海寻“实力派”接盘破局]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 19:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986884.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力</title>
-      <link>https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MediaTek 发布 AI 与游戏开发新工具，聚焦端侧智能体与移动图形能力]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/i1arV0AXjw1xSdXt3kzv?utm_source=rss&amp;utm_medium=article</guid>
+      <title>增长焦虑下，骏鼎达急寻新故事，3亿押注液冷风口 | 并购一线</title>
+      <link>https://www.tmtpost.com/7986862.html</link>
+      <description>&lt;![CDATA[增长焦虑下，骏鼎达急寻新故事，3亿押注液冷风口 | 并购一线]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 19:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986862.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>把 RAG 做成主流的公司，现在开始“做空”RAG 了</title>
-      <link>https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[把 RAG 做成主流的公司，现在开始“做空”RAG 了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:47:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KKa2KiT9BxipQtZTZG79?utm_source=rss&amp;utm_medium=article</guid>
+      <title>腾讯为什么一定要买喜马拉雅？</title>
+      <link>https://www.tmtpost.com/7986071.html</link>
+      <description>&lt;![CDATA[腾讯为什么一定要买喜马拉雅？]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 18:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7986071.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己</title>
-      <link>https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[6 天、96 万行 Rust、直接合并？Claude Code 被 Bun 的内存泄漏拖垮后，Bun 让 Claude 亲手重写了自己]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 15:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/r63e4S6ZyxrGjfIOV96v?utm_source=rss&amp;utm_medium=article</guid>
+      <title>从「自我进化」到「DAA」，百度给出 Agent 时代系统答案</title>
+      <link>https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从「自我进化」到「DAA」，百度给出 Agent 时代系统答案]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/aaLabGa4T7z5m1UBiJ2O?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>收编喜马拉雅， 腾讯音乐能否打赢这场防守战？</title>
-      <link>https://www.tmtpost.com/7985828.html</link>
-      <description>&lt;![CDATA[收编喜马拉雅， 腾讯音乐能否打赢这场防守战？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985828.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>机器人行业最缺的，已经不是想象力了</title>
-      <link>https://www.tmtpost.com/7985905.html</link>
-      <description>&lt;![CDATA[机器人行业最缺的，已经不是想象力了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985905.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>从倒逼到自觉，高油价如何重塑全球能源投资格局？</title>
-      <link>https://www.tmtpost.com/7985688.html</link>
-      <description>&lt;![CDATA[从倒逼到自觉，高油价如何重塑全球能源投资格局？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985688.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>快手拆掉可灵，可灵吞噬快手</title>
-      <link>https://www.tmtpost.com/7985965.html</link>
-      <description>&lt;![CDATA[快手拆掉可灵，可灵吞噬快手]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985965.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学</title>
-      <link>https://www.tmtpost.com/7986046.html</link>
-      <description>&lt;![CDATA[20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986046.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>大厂「分拆潮」，终于轮到了AI</title>
-      <link>https://www.tmtpost.com/7986149.html</link>
-      <description>&lt;![CDATA[大厂「分拆潮」，终于轮到了AI]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986149.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI时代的产业版图重构：龙头、雁阵与掉队者</title>
-      <link>https://www.tmtpost.com/7986182.html</link>
-      <description>&lt;![CDATA[AI时代的产业版图重构：龙头、雁阵与掉队者]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986182.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>智谱找到了“AI最优解”？</title>
-      <link>https://www.tmtpost.com/7986213.html</link>
-      <description>&lt;![CDATA[智谱找到了“AI最优解”？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986213.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>药品说明书里的“尚不明确”，该消失了</title>
-      <link>https://www.tmtpost.com/7986212.html</link>
-      <description>&lt;![CDATA[药品说明书里的“尚不明确”，该消失了]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986212.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>红杉坐阵，收获一个330亿IPO</title>
-      <link>https://www.tmtpost.com/7986318.html</link>
-      <description>&lt;![CDATA[红杉坐阵，收获一个330亿IPO]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986318.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>DAA、超级个体与混合编队：李彦宏的AI时代进化论</title>
-      <link>https://www.tmtpost.com/7986488.html</link>
-      <description>&lt;![CDATA[DAA、超级个体与混合编队：李彦宏的AI时代进化论]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986488.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>突击入股、清空主业、关联并购，3倍地产股跨界追光的勇与谋</title>
-      <link>https://www.tmtpost.com/7986581.html</link>
-      <description>&lt;![CDATA[突击入股、清空主业、关联并购，3倍地产股跨界追光的勇与谋]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 17:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7986581.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>化解千亿债务后，新紫光能否摆脱“华为平替”？</title>
-      <link>https://www.tmtpost.com/7985768.html</link>
-      <description>&lt;![CDATA[化解千亿债务后，新紫光能否摆脱“华为平替”？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985768.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>快手分家：让可灵去敲钟，老铁种好地</title>
-      <link>https://www.tmtpost.com/7985734.html</link>
-      <description>&lt;![CDATA[快手分家：让可灵去敲钟，老铁种好地]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985734.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>再谈OpenAI：8000亿的估值，建不起的壁垒</title>
-      <link>https://www.tmtpost.com/7985686.html</link>
-      <description>&lt;![CDATA[再谈OpenAI：8000亿的估值，建不起的壁垒]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985686.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>快手都得靠可灵出去“养家糊口”了？</title>
-      <link>https://www.tmtpost.com/7985665.html</link>
-      <description>&lt;![CDATA[快手都得靠可灵出去“养家糊口”了？]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985665.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>国会调查Altman：不持股的CEO，如何靠&quot;体外循环&quot;建起300亿帝国</title>
-      <link>https://www.tmtpost.com/7985654.html</link>
-      <description>&lt;![CDATA[国会调查Altman：不持股的CEO，如何靠&quot;体外循环&quot;建起300亿帝国]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 16:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7985654.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>佳明本能 Instinct 3 太阳能版评测：我的智能手表终章</title>
-      <link>https://sspai.com/post/108228</link>
-      <description>&lt;![CDATA[佳明本能 Instinct 3 太阳能版评测：我的智能手表终章]]&gt;</description>
-      <pubDate>Wed, 13 May 2026 14:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/108228</guid>
+      <title>App+1 | 把笔记软件「装进」浏览器：SilverBullet.md</title>
+      <link>https://sspai.com/post/109399</link>
+      <description>&lt;![CDATA[App+1 | 把笔记软件「装进」浏览器：SilverBullet.md]]&gt;</description>
+      <pubDate>Wed, 13 May 2026 17:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/109399</guid>
       <category>Technology</category>
     </item>
   </channel>
