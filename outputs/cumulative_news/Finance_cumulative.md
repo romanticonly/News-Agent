@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 07:55
+**最后更新时间**: 2026-05-15 10:11
+
+---
+
+## 🆕 最新更新 (2026-05-15 10:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I experienced many years of poverty’: I don’t judge other people. Why do wealthy retirees look down on others?](https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories)
+**发布时间**: 2026-05-15 09:33
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Schroders looks to exit China mutual funds business after just three years](https://www.ft.com/content/af307ee3-1b50-436e-a2a2-70a197ab5c4d)
+**发布时间**: 2026-05-15 09:26
+
+#### [CIA director makes rare trip to Cuba](https://www.ft.com/content/fad11ebd-9844-4432-94d0-e87865e456b5)
+**发布时间**: 2026-05-14 23:46
 
 ---
 
