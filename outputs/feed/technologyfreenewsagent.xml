@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 May 2026 07:26:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 May 2026 07:26:53 GMT</lastBuildDate>
+    <pubDate>Sat, 23 May 2026 09:30:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 May 2026 09:30:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,155 +14,35 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6</link>
-      <description>&lt;![CDATA[推荐 3 个刚开源 Star 在慢慢攀升的 GitHub 开源项目。]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 14:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533890&amp;idx=1&amp;sn=f8244e816ac8baf3082a692784afa2d6</guid>
+      <title>【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构</title>
+      <link>https://www.tmtpost.com/7999893.html</link>
+      <description>&lt;![CDATA[【数智周报】  谷歌推出Gemini 3.5系列模型；阿里发布新一代千问旗舰模型Qwen3.7-Max；Meta内部文件曝光：拟裁员10%，全面转向AI架构]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 17:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999893.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构</title>
-      <link>https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&amp;utm_medium=article</guid>
+      <title>中国小老板，在非洲雇500人打游戏</title>
+      <link>https://www.tmtpost.com/7999824.html</link>
+      <description>&lt;![CDATA[中国小老板，在非洲雇500人打游戏]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 16:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999824.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进</title>
-      <link>https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&amp;utm_medium=article</guid>
+      <title>光伏“卖铲人”，如今成了最尴尬的债主！</title>
+      <link>https://www.tmtpost.com/7999799.html</link>
+      <description>&lt;![CDATA[光伏“卖铲人”，如今成了最尴尬的债主！]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999799.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>对话李斌：蔚来的盈利，不是靠一个爆款打出来的</title>
-      <link>https://www.tmtpost.com/7999788.html</link>
-      <description>&lt;![CDATA[对话李斌：蔚来的盈利，不是靠一个爆款打出来的]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 13:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999788.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>3小时/5分钟：迪士尼在&quot;最快乐的地方&quot;卖痛苦</title>
-      <link>https://www.tmtpost.com/7999690.html</link>
-      <description>&lt;![CDATA[3小时/5分钟：迪士尼在&quot;最快乐的地方&quot;卖痛苦]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 11:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999690.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>146亿元用于理财，阳光电源手握300亿元仍要赴港募资扩产</title>
-      <link>https://www.tmtpost.com/7999673.html</link>
-      <description>&lt;![CDATA[146亿元用于理财，阳光电源手握300亿元仍要赴港募资扩产]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 11:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999673.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI融资潮中的三种故事</title>
-      <link>https://www.tmtpost.com/7999581.html</link>
-      <description>&lt;![CDATA[AI融资潮中的三种故事]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999581.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>18亿处罚落地前，富途控股被“精准”做空</title>
-      <link>https://www.tmtpost.com/7999661.html</link>
-      <description>&lt;![CDATA[18亿处罚落地前，富途控股被“精准”做空]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999661.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>拉勾网倒了，互联网时代终结了</title>
-      <link>https://www.tmtpost.com/7999666.html</link>
-      <description>&lt;![CDATA[拉勾网倒了，互联网时代终结了]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999666.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战</title>
-      <link>https://www.tmtpost.com/7999676.html</link>
-      <description>&lt;![CDATA[2026头部车企大转向：从价格混战、爆款竞速，到比拼技术、矩阵作战]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999676.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>2万亿美元的火星船票，SpaceX开启人类史上最大IPO</title>
-      <link>https://www.tmtpost.com/7999535.html</link>
-      <description>&lt;![CDATA[2万亿美元的火星船票，SpaceX开启人类史上最大IPO]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999535.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>沃尔玛：高油价来袭！“零售一哥” 还扛得住？</title>
-      <link>https://www.tmtpost.com/7999394.html</link>
-      <description>&lt;![CDATA[沃尔玛：高油价来袭！“零售一哥” 还扛得住？]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999394.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>日产上千部短剧！AI 狂飙背后，行业早已两极分化</title>
-      <link>https://www.tmtpost.com/7996131.html</link>
-      <description>&lt;![CDATA[日产上千部短剧！AI 狂飙背后，行业早已两极分化]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7996131.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Edge AI Daily 早报（5月23日）</title>
-      <link>https://www.tmtpost.com/7999694.html</link>
-      <description>&lt;![CDATA[Edge AI Daily 早报（5月23日）]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999694.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>宝尊Q1净收入增长15%至24亿元；亚玛芬体育Q1营收大中华区涨44.5%；珀莱雅拟持股51%花知晓；雅诗兰黛公司与Puig集团终止谈判｜消研所周报</title>
-      <link>https://www.tmtpost.com/7999189.html</link>
-      <description>&lt;![CDATA[宝尊Q1净收入增长15%至24亿元；亚玛芬体育Q1营收大中华区涨44.5%；珀莱雅拟持股51%花知晓；雅诗兰黛公司与Puig集团终止谈判｜消研所周报]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999189.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>智谱凭什么一天暴涨近30%？</title>
-      <link>https://www.tmtpost.com/7999430.html</link>
-      <description>&lt;![CDATA[智谱凭什么一天暴涨近30%？]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999430.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>“超级厄尔尼诺”来袭，铜、铝、糖、油，哪个最受影响？</title>
-      <link>https://www.tmtpost.com/7999356.html</link>
-      <description>&lt;![CDATA[“超级厄尔尼诺”来袭，铜、铝、糖、油，哪个最受影响？]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:09:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999356.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>监管重拳落地：老虎、富途遭重罚，跨境炒股“野蛮时代”终结</title>
-      <link>https://www.tmtpost.com/7999493.html</link>
-      <description>&lt;![CDATA[监管重拳落地：老虎、富途遭重罚，跨境炒股“野蛮时代”终结]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 09:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999493.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>这个周末，来深圳文博会和少数派打个卡吧</title>
-      <link>https://sspai.com/post/110052</link>
-      <description>&lt;![CDATA[这个周末，来深圳文博会和少数派打个卡吧]]&gt;</description>
-      <pubDate>Sat, 23 May 2026 11:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110052</guid>
+      <title>双面尼泊尔</title>
+      <link>https://www.tmtpost.com/7999851.html</link>
+      <description>&lt;![CDATA[双面尼泊尔]]&gt;</description>
+      <pubDate>Sat, 23 May 2026 16:08:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7999851.html</guid>
       <category>Technology</category>
     </item>
   </channel>
