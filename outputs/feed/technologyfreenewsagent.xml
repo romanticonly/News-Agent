@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 24 May 2026 23:48:00 GMT</pubDate>
-    <lastBuildDate>Sun, 24 May 2026 23:48:54 GMT</lastBuildDate>
+    <pubDate>Mon, 25 May 2026 08:51:00 GMT</pubDate>
+    <lastBuildDate>Mon, 25 May 2026 08:51:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,91 +14,267 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】事关未落户常住人口住房、社保、就业、子女教育等，国务院最新部署；神舟二十三号载人飞船发射取得圆满成功；DeepSeek宣布永久降价</title>
-      <link>https://www.tmtpost.com/8000606.html</link>
-      <description>&lt;![CDATA[【钛晨报】事关未落户常住人口住房、社保、就业、子女教育等，国务院最新部署；神舟二十三号载人飞船发射取得圆满成功；DeepSeek宣布永久降价]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000606.html</guid>
+      <title>Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践</title>
+      <link>https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>近39个“小目标”，“难倒”王健林和他的好哥们</title>
-      <link>https://www.tmtpost.com/8000024.html</link>
-      <description>&lt;![CDATA[近39个“小目标”，“难倒”王健林和他的好哥们]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000024.html</guid>
+      <title>ClickHouse实战：Agentic Coding，是“神”还是“坑”？</title>
+      <link>https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[ClickHouse实战：Agentic Coding，是“神”还是“坑”？]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Mythos的面纱，成了Anthropic撬动万亿的杠杆</title>
-      <link>https://www.tmtpost.com/8000513.html</link>
-      <description>&lt;![CDATA[Mythos的面纱，成了Anthropic撬动万亿的杠杆]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000513.html</guid>
+      <title>借助 Android CLI，谷歌正让 Android 工具链更便于代理使用</title>
+      <link>https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[借助 Android CLI，谷歌正让 Android 工具链更便于代理使用]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」</title>
-      <link>https://www.tmtpost.com/7999975.html</link>
-      <description>&lt;![CDATA[DeepSeek永久降价，但梁文锋并不想做「赛博菩萨」]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999975.html</guid>
+      <title>从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势</title>
+      <link>https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>尼泊尔旅游为啥火？</title>
-      <link>https://www.tmtpost.com/8000494.html</link>
-      <description>&lt;![CDATA[尼泊尔旅游为啥火？]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000494.html</guid>
+      <title>45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了</title>
+      <link>https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从“最敢赌”到“引力井”，合肥改写城市竞争逻辑</title>
-      <link>https://www.tmtpost.com/8000403.html</link>
-      <description>&lt;![CDATA[从“最敢赌”到“引力井”，合肥改写城市竞争逻辑]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000403.html</guid>
+      <title>OpenTofu 1.12发布，带来 Terraform 从未提供的功能</title>
+      <link>https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenTofu 1.12发布，带来 Terraform 从未提供的功能]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>黄仁勋不想“认输”</title>
-      <link>https://www.tmtpost.com/8000459.html</link>
-      <description>&lt;![CDATA[黄仁勋不想“认输”]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000459.html</guid>
+      <title>Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”</title>
+      <link>https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>谁是中东储能之王？</title>
-      <link>https://www.tmtpost.com/8000324.html</link>
-      <description>&lt;![CDATA[谁是中东储能之王？]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000324.html</guid>
+      <title>人工智能无法加速软件交付</title>
+      <link>https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[人工智能无法加速软件交付]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>曾经爆火的拉勾网为何陨落？</title>
-      <link>https://www.tmtpost.com/8000461.html</link>
-      <description>&lt;![CDATA[曾经爆火的拉勾网为何陨落？]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8000461.html</guid>
+      <title>C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码</title>
+      <link>https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？</title>
-      <link>https://www.tmtpost.com/7999019.html</link>
-      <description>&lt;![CDATA[日赚6.5亿美元还不够，英伟达下一个引爆点在哪儿？]]&gt;</description>
-      <pubDate>Sun, 24 May 2026 17:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/7999019.html</guid>
+      <title>Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK</title>
+      <link>https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：GitHub 在微软治下面临技术和人员流失困境</title>
-      <link>https://sspai.com/post/110130</link>
-      <description>&lt;![CDATA[派早报：GitHub 在微软治下面临技术和人员流失困境]]&gt;</description>
-      <pubDate>Mon, 25 May 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110130</guid>
+      <title>模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code</title>
+      <link>https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI时代数据面临的新挑战和解决之道｜AICon上海</title>
+      <link>https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[AI时代数据面临的新挑战和解决之道｜AICon上海]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格</title>
+      <link>https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 09:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>DeepSeek永久降价，其实是瞄准了10万亿美元？</title>
+      <link>https://www.tmtpost.com/8001333.html</link>
+      <description>&lt;![CDATA[DeepSeek永久降价，其实是瞄准了10万亿美元？]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001333.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>语音，流量，Token，三大运营商的三生三世</title>
+      <link>https://www.tmtpost.com/8001332.html</link>
+      <description>&lt;![CDATA[语音，流量，Token，三大运营商的三生三世]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001332.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>海外科技巨头缺钱了？全球AI掀起债券融资浪潮</title>
+      <link>https://www.tmtpost.com/8001137.html</link>
+      <description>&lt;![CDATA[海外科技巨头缺钱了？全球AI掀起债券融资浪潮]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001137.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么</title>
+      <link>https://www.tmtpost.com/8001288.html</link>
+      <description>&lt;![CDATA[晶体管密度单代涨55%不靠新制程：华为“韬（τ）定律”说了什么]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:27:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001288.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【Fintech 周报】八部门联合打击非法跨境炒股；险资规模超过公募基金</title>
+      <link>https://www.tmtpost.com/8001251.html</link>
+      <description>&lt;![CDATA[【Fintech 周报】八部门联合打击非法跨境炒股；险资规模超过公募基金]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001251.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>低调的天津，悄悄干成了中国机器人产业黑马</title>
+      <link>https://www.tmtpost.com/8001002.html</link>
+      <description>&lt;![CDATA[低调的天津，悄悄干成了中国机器人产业黑马]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001002.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了</title>
+      <link>https://www.tmtpost.com/8001070.html</link>
+      <description>&lt;![CDATA[谷歌CEO最新访谈：谷歌多模态能力领先，但Coding确实落后了]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001070.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>市值已经跌去2150亿，“中药一哥”究竟怎么了？</title>
+      <link>https://www.tmtpost.com/8001064.html</link>
+      <description>&lt;![CDATA[市值已经跌去2150亿，“中药一哥”究竟怎么了？]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001064.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>月活3000万＋！欧洲线下巨头的线上平台</title>
+      <link>https://www.tmtpost.com/8001135.html</link>
+      <description>&lt;![CDATA[月活3000万＋！欧洲线下巨头的线上平台]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001135.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>重庆有张雪，天津有海光</title>
+      <link>https://www.tmtpost.com/8001184.html</link>
+      <description>&lt;![CDATA[重庆有张雪，天津有海光]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001184.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不做NPC，只做OPC的年轻人，后悔了吗？</title>
+      <link>https://www.tmtpost.com/8001133.html</link>
+      <description>&lt;![CDATA[不做NPC，只做OPC的年轻人，后悔了吗？]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001133.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不炫技，重落地：一支机器人IPO军团在天津崛起</title>
+      <link>https://www.tmtpost.com/8001146.html</link>
+      <description>&lt;![CDATA[不炫技，重落地：一支机器人IPO军团在天津崛起]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001146.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>特朗普又盯上量子计算入股，9家公司一夜暴涨</title>
+      <link>https://www.tmtpost.com/8001054.html</link>
+      <description>&lt;![CDATA[特朗普又盯上量子计算入股，9家公司一夜暴涨]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001054.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>广东有着最厚的核电家底，但AI的电力牌被浙江抢先打出去了</title>
+      <link>https://www.tmtpost.com/8001014.html</link>
+      <description>&lt;![CDATA[广东有着最厚的核电家底，但AI的电力牌被浙江抢先打出去了]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001014.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中美创新药的主战场，在所有人的视线之外</title>
+      <link>https://www.tmtpost.com/8001010.html</link>
+      <description>&lt;![CDATA[中美创新药的主战场，在所有人的视线之外]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8001010.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不“跟风”的天津机器人，用实干走出新路</title>
+      <link>https://www.tmtpost.com/7993100.html</link>
+      <description>&lt;![CDATA[不“跟风”的天津机器人，用实干走出新路]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 12:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/7993100.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？</title>
+      <link>https://www.tmtpost.com/8000499.html</link>
+      <description>&lt;![CDATA[从被“卡脖子”到定标准，天津机器人凭什么硬气出圈？]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8000499.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要</title>
+      <link>https://sspai.com/post/81257</link>
+      <description>&lt;![CDATA[被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 14:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/81257</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役</title>
+      <link>https://sspai.com/post/109450</link>
+      <description>&lt;![CDATA[五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/109450</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533995&amp;idx=1&amp;sn=b91dec98b97f0cd58f89f7cd3a6f68b2</link>
+      <description>&lt;![CDATA[让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。]]&gt;</description>
+      <pubDate>Mon, 25 May 2026 13:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247533995&amp;idx=1&amp;sn=b91dec98b97f0cd58f89f7cd3a6f68b2</guid>
       <category>Technology</category>
     </item>
   </channel>
