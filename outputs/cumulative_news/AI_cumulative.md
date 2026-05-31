@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-05-30 07:33
+**最后更新时间**: 2026-05-31 08:00
+
+---
+
+## 🆕 最新更新 (2026-05-31 08:00)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-05-31日刊](https://hex2077.dev/docs/2026-05/2026-05-31/)
+**发布时间**: 2026-05-31 12:22
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026](https://www.qbitai.com/2026/05/426819.html)
+**发布时间**: 2026-05-31 03:54
+
+#### [从Token无上限到全员Agent：MiniMax的AI Native组织进化实践](https://www.qbitai.com/2026/05/426793.html)
+**发布时间**: 2026-05-31 01:29
 
 ---
 
