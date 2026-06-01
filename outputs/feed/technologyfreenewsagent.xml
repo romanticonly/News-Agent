@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 31 May 2026 23:55:00 GMT</pubDate>
-    <lastBuildDate>Sun, 31 May 2026 23:55:46 GMT</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2026 10:11:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2026 10:11:31 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,67 +14,259 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%</title>
-      <link>https://www.tmtpost.com/8009149.html</link>
-      <description>&lt;![CDATA[【钛晨报】提升全民人工智能素养，四部门最新部署；MiniMax Group Inc.：拟于科创板上市；国家统计局：5月份制造业采购经理指数（PMI）为50.0%]]&gt;</description>
-      <pubDate>Mon, 01 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009149.html</guid>
+      <title>智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场</title>
+      <link>https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[智能体把CPU“救”回来了：英特尔押注18A至强6+，288核要接管AI调度战场]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 18:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/lxSdgQH0mHms06WrOWhT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>赢家亏本转让，输家如愿接盘？山高环能的蹊跷“便宜”不好捡</title>
-      <link>https://www.tmtpost.com/8009121.html</link>
-      <description>&lt;![CDATA[赢家亏本转让，输家如愿接盘？山高环能的蹊跷“便宜”不好捡]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 19:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009121.html</guid>
+      <title>微软推出 MDASH，用于大规模 AI 漏洞研究</title>
+      <link>https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[微软推出 MDASH，用于大规模 AI 漏洞研究]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/oWPMVX8STv5EwuP49oS6?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>小米MiMo降价99%并非营销！罗福莉发X打脸唱衰者</title>
-      <link>https://www.tmtpost.com/8009040.html</link>
-      <description>&lt;![CDATA[小米MiMo降价99%并非营销！罗福莉发X打脸唱衰者]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009040.html</guid>
+      <title>Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报</title>
+      <link>https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Opus 4.8被曝“蒸馏”中国模型；智谱盘中市值一度超小米；字节向Seed员工开放“豆包股”，正开发定制CPU｜AI周报]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 16:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/I6eTw4jyyyGIIKq9E0s5?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>阿里&quot;上货&quot;，字节&quot;练功&quot;</title>
-      <link>https://www.tmtpost.com/8009048.html</link>
-      <description>&lt;![CDATA[阿里&quot;上货&quot;，字节&quot;练功&quot;]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8009048.html</guid>
+      <title>如何解决 Kafka 和 Flink 管道中的模式膨胀问题</title>
+      <link>https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[如何解决 Kafka 和 Flink 管道中的模式膨胀问题]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 16:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4Sl5m9T5fWzm8QCQ9pUQ?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>260亿美元，“全华班”撑起全球AI编程估值最高公司</title>
-      <link>https://www.tmtpost.com/8008969.html</link>
-      <description>&lt;![CDATA[260亿美元，“全华班”撑起全球AI编程估值最高公司]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008969.html</guid>
+      <title>《奇遇旧金山》先导片：中国奇遇团集结，带你奔赴 Snowflake Summit 26！</title>
+      <link>https://www.infoq.cn/video/W5SQw2O1WvUDPdidGoy1?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[《奇遇旧金山》先导片：中国奇遇团集结，带你奔赴 Snowflake Summit 26！]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 14:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/video/W5SQw2O1WvUDPdidGoy1?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>加入“清华圈”，黄仁勋放不下中国</title>
-      <link>https://www.tmtpost.com/8008970.html</link>
-      <description>&lt;![CDATA[加入“清华圈”，黄仁勋放不下中国]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008970.html</guid>
+      <title>OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器</title>
+      <link>https://www.infoq.cn/article/TqSNB1CfplPmRM7kojaS?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[OpenJDK 近期新闻：Vector API、紧凑对象头以及 G1GC 成为 JDK 27 的默认垃圾回收器]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 13:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TqSNB1CfplPmRM7kojaS?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>东方甄选布仓、辛巴开超市：中小玩家分层应战</title>
-      <link>https://www.tmtpost.com/8008983.html</link>
-      <description>&lt;![CDATA[东方甄选布仓、辛巴开超市：中小玩家分层应战]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008983.html</guid>
+      <title>谷歌推出适用于 Genkit 应用程序的中间件架构</title>
+      <link>https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[谷歌推出适用于 Genkit 应用程序的中间件架构]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/wI9rFcfWgKIjIL1aRizG?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>“爸爸品牌”，正在集体自救</title>
-      <link>https://www.tmtpost.com/8008984.html</link>
-      <description>&lt;![CDATA[“爸爸品牌”，正在集体自救]]&gt;</description>
-      <pubDate>Sun, 31 May 2026 18:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8008984.html</guid>
+      <title>Snowflake 换了战场：守住数据之后，要管住AI</title>
+      <link>https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Snowflake 换了战场：守住数据之后，要管住AI]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 11:18:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/JCXUmEkVTBw3mjjtgwgY?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海</title>
+      <link>https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/TE9JmYeShY8qevQ2bOEy?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线</title>
+      <link>https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Anthropic在Code With Claude上发布托管式智能体、主动式工作流与能力曲线]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 09:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/4lvrePvgNC6vuCKkvZKe?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>从“卖云”到“卖Token”：运营商全面加入AI战场</title>
+      <link>https://www.tmtpost.com/8010255.html</link>
+      <description>&lt;![CDATA[从“卖云”到“卖Token”：运营商全面加入AI战场]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010255.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>一桩多码、服务费差一倍，新能源车充电也要“开盲盒”？</title>
+      <link>https://www.tmtpost.com/8010227.html</link>
+      <description>&lt;![CDATA[一桩多码、服务费差一倍，新能源车充电也要“开盲盒”？]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010227.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>泡泡玛特，“冰火两重天”</title>
+      <link>https://www.tmtpost.com/8010210.html</link>
+      <description>&lt;![CDATA[泡泡玛特，“冰火两重天”]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010210.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋成“最强外援”，420亿，宇树给投资人送了份儿童节礼物</title>
+      <link>https://www.tmtpost.com/8010316.html</link>
+      <description>&lt;![CDATA[黄仁勋成“最强外援”，420亿，宇树给投资人送了份儿童节礼物]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010316.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>汤饭，会跑出下一个米村拌饭吗？</title>
+      <link>https://www.tmtpost.com/8010157.html</link>
+      <description>&lt;![CDATA[汤饭，会跑出下一个米村拌饭吗？]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010157.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>英伟达“重新发明”PC，雷军听到号角了吗？</title>
+      <link>https://www.tmtpost.com/8010027.html</link>
+      <description>&lt;![CDATA[英伟达“重新发明”PC，雷军听到号角了吗？]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010027.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>不是说电影寒冬吗，怎么IMAX赚疯了？影院想翻身，选这条路就对了</title>
+      <link>https://www.tmtpost.com/8010206.html</link>
+      <description>&lt;![CDATA[不是说电影寒冬吗，怎么IMAX赚疯了？影院想翻身，选这条路就对了]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:46:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010206.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄仁勋对未来十年的完整判断，今天都讲明白了</title>
+      <link>https://www.tmtpost.com/8010277.html</link>
+      <description>&lt;![CDATA[黄仁勋对未来十年的完整判断，今天都讲明白了]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:41:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010277.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>MiniMax发布新模型M3，竞争转向长上下文与Agent能力</title>
+      <link>https://www.tmtpost.com/8010291.html</link>
+      <description>&lt;![CDATA[MiniMax发布新模型M3，竞争转向长上下文与Agent能力]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010291.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>千元“痛包”被00后疯抢，过气老牌强势翻红，单季狂揽130亿</title>
+      <link>https://www.tmtpost.com/8009993.html</link>
+      <description>&lt;![CDATA[千元“痛包”被00后疯抢，过气老牌强势翻红，单季狂揽130亿]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009993.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>AI御三家战争：革命、分裂与帝国反扑</title>
+      <link>https://www.tmtpost.com/8010059.html</link>
+      <description>&lt;![CDATA[AI御三家战争：革命、分裂与帝国反扑]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010059.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>在全球开出2000+店后，美国网红烘焙品牌杀进上海</title>
+      <link>https://www.tmtpost.com/8010156.html</link>
+      <description>&lt;![CDATA[在全球开出2000+店后，美国网红烘焙品牌杀进上海]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 17:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010156.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>英伟达 GTC 2026：智能体 AI 时代，全栈战略正式落地 ｜附演讲全文</title>
+      <link>https://www.tmtpost.com/8010173.html</link>
+      <description>&lt;![CDATA[英伟达 GTC 2026：智能体 AI 时代，全栈战略正式落地 ｜附演讲全文]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 16:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8010173.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>稚晖君不是智元机器人的全部</title>
+      <link>https://www.tmtpost.com/8009907.html</link>
+      <description>&lt;![CDATA[稚晖君不是智元机器人的全部]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009907.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>康方依沃西的“0.66”</title>
+      <link>https://www.tmtpost.com/8009906.html</link>
+      <description>&lt;![CDATA[康方依沃西的“0.66”]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009906.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大厂带不动AI玩具</title>
+      <link>https://www.tmtpost.com/8009861.html</link>
+      <description>&lt;![CDATA[大厂带不动AI玩具]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009861.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>当618购物变成一场考试，这届年轻人已经爱不起来了</title>
+      <link>https://www.tmtpost.com/8009798.html</link>
+      <description>&lt;![CDATA[当618购物变成一场考试，这届年轻人已经爱不起来了]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009798.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>COMPUTEX 2026：英特尔数据中心首次亮相288核CPU、480GB显存GPU，18A来了</title>
+      <link>https://www.tmtpost.com/8009766.html</link>
+      <description>&lt;![CDATA[COMPUTEX 2026：英特尔数据中心首次亮相288核CPU、480GB显存GPU，18A来了]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009766.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>小红书为什么需要男人？</title>
+      <link>https://www.tmtpost.com/8009767.html</link>
+      <description>&lt;![CDATA[小红书为什么需要男人？]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:14:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8009767.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>成本 600 元不到，我 3D 打印了一把能弹的电吉他</title>
+      <link>https://sspai.com/post/110412</link>
+      <description>&lt;![CDATA[成本 600 元不到，我 3D 打印了一把能弹的电吉他]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110412</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>把一句经文放进每天：「一日一偈」的轻阅读尝试</title>
+      <link>https://sspai.com/post/110094</link>
+      <description>&lt;![CDATA[把一句经文放进每天：「一日一偈」的轻阅读尝试]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 11:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110094</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>派早报：Anthropic 估值超过 OpenAI</title>
+      <link>https://sspai.com/post/110519</link>
+      <description>&lt;![CDATA[派早报：Anthropic 估值超过 OpenAI]]&gt;</description>
+      <pubDate>Mon, 01 Jun 2026 07:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110519</guid>
       <category>Technology</category>
     </item>
   </channel>
