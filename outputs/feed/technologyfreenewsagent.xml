@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Jun 2026 23:57:00 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2026 23:57:40 GMT</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 09:18:00 GMT</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 09:18:45 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,123 +14,339 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>【钛晨报】OpenAI计划对ChatGPT进行上线以来最大规模升级；京东、腾讯联手，就AI Agent将达成合作｜独家；算力普惠再提速，全球首个“预制算力中心底座”正式投用</title>
-      <link>https://www.tmtpost.com/8018285.html</link>
-      <description>&lt;![CDATA[【钛晨报】OpenAI计划对ChatGPT进行上线以来最大规模升级；京东、腾讯联手，就AI Agent将达成合作｜独家；算力普惠再提速，全球首个“预制算力中心底座”正式投用]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 07:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018285.html</guid>
+      <title>全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启</title>
+      <link>https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 17:07:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>10 Key Reflections on China's Tech Giant Tencent’s AI Second Half</title>
-      <link>https://www.tmtpost.com/8018365.html</link>
-      <description>&lt;![CDATA[10 Key Reflections on China's Tech Giant Tencent’s AI Second Half]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 22:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018365.html</guid>
+      <title>借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍</title>
+      <link>https://www.infoq.cn/article/Z45xgVupF2eQizy3SScr?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[借助广度优先引擎，Shopify 将 GraphQL 执行速度提升了 15 倍]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 17:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/Z45xgVupF2eQizy3SScr?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>China‘s Top Two Large Model Firms Seeking Dual Listing in Hong Kong and Chinese Mainland</title>
-      <link>https://www.tmtpost.com/8018356.html</link>
-      <description>&lt;![CDATA[China‘s Top Two Large Model Firms Seeking Dual Listing in Hong Kong and Chinese Mainland]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 21:51:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018356.html</guid>
+      <title>云知声U2，重新计算通用大模型的商业价值</title>
+      <link>https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[云知声U2，重新计算通用大模型的商业价值]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>狂砸百亿扩产，PCB巨头沪电股份，一年市值暴增2100亿</title>
-      <link>https://www.tmtpost.com/8018017.html</link>
-      <description>&lt;![CDATA[狂砸百亿扩产，PCB巨头沪电股份，一年市值暴增2100亿]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 19:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018017.html</guid>
+      <title>“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里</title>
+      <link>https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>618“静悄悄”，蕉内十年线下迷途</title>
-      <link>https://www.tmtpost.com/8017867.html</link>
-      <description>&lt;![CDATA[618“静悄悄”，蕉内十年线下迷途]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017867.html</guid>
+      <title>腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报</title>
+      <link>https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>董明珠“盟友”出手，一把套现超16亿</title>
-      <link>https://www.tmtpost.com/8017848.html</link>
-      <description>&lt;![CDATA[董明珠“盟友”出手，一把套现超16亿]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 19:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017848.html</guid>
+      <title>Claude Code 引入动态工作流，用于并行代理协调</title>
+      <link>https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Claude Code 引入动态工作流，用于并行代理协调]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>拼多多应该有AI焦虑吗</title>
-      <link>https://www.tmtpost.com/8017809.html</link>
-      <description>&lt;![CDATA[拼多多应该有AI焦虑吗]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 19:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8017809.html</guid>
+      <title>在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走</title>
+      <link>https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>英特尔与英伟达互抢地盘，乱了，都乱了</title>
-      <link>https://www.tmtpost.com/8018055.html</link>
-      <description>&lt;![CDATA[英特尔与英伟达互抢地盘，乱了，都乱了]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018055.html</guid>
+      <title>奇遇团在硅谷: 7位到50位技术领袖集结SVAI - 深度拆解 Snowflake Summit 26</title>
+      <link>https://www.infoq.cn/article/RGDB7CQSi4E0rvOXzWMC?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[奇遇团在硅谷: 7位到50位技术领袖集结SVAI - 深度拆解 Snowflake Summit 26]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 13:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/RGDB7CQSi4E0rvOXzWMC?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>钉钉需要革命派还是改良派？</title>
-      <link>https://www.tmtpost.com/8018048.html</link>
-      <description>&lt;![CDATA[钉钉需要革命派还是改良派？]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018048.html</guid>
+      <title>参加完硅谷华人 AI Meet-Up，我最大的感受不是技术</title>
+      <link>https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[参加完硅谷华人 AI Meet-Up，我最大的感受不是技术]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 13:55:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>三档恋综同期开播，2026年的观众还吃这一套吗？</title>
-      <link>https://www.tmtpost.com/8018061.html</link>
-      <description>&lt;![CDATA[三档恋综同期开播，2026年的观众还吃这一套吗？]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 18:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018061.html</guid>
+      <title>测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图</title>
+      <link>https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 13:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>蔚来理想口水战，赛力斯引辟谣，国产新能源逼急欧洲</title>
-      <link>https://www.tmtpost.com/8018127.html</link>
-      <description>&lt;![CDATA[蔚来理想口水战，赛力斯引辟谣，国产新能源逼急欧洲]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 18:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018127.html</guid>
+      <title>ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！</title>
+      <link>https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[ClickHouse 填平 Elasticsearch 护城河？日志分析新选择！]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/CumbxRGXIcmKRoZt6tAA?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Exclusive: JD.com and Tencent Partner on AI Agents</title>
-      <link>https://www.tmtpost.com/8018139.html</link>
-      <description>&lt;![CDATA[Exclusive: JD.com and Tencent Partner on AI Agents]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 16:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8018139.html</guid>
+      <title>利用尾斜杠绕过 AWS API Gateway 授权</title>
+      <link>https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[利用尾斜杠绕过 AWS API Gateway 授权]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/A0yhe6dD2Vu3V2AmyoLu?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>派早报：乘用车越造越重，12 年增重近 400 公斤</title>
-      <link>https://sspai.com/post/110847</link>
-      <description>&lt;![CDATA[派早报：乘用车越造越重，12 年增重近 400 公斤]]&gt;</description>
-      <pubDate>Mon, 08 Jun 2026 06:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110847</guid>
+      <title>汤道生对谈姚顺雨：AI下半场，腾讯比什么？</title>
+      <link>https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[汤道生对谈姚顺雨：AI下半场，腾讯比什么？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:50:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>接住来自空间站的信号：如何用手台接收 SSTV？</title>
-      <link>https://sspai.com/post/110108</link>
-      <description>&lt;![CDATA[接住来自空间站的信号：如何用手台接收 SSTV？]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 16:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/110108</guid>
+      <title>从“小而美”到“一体化”，腾讯云 TDSQL 如何拯救选型纠结？</title>
+      <link>https://www.infoq.cn/article/evoDZx1R4YVt5WZ0PwWi?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[从“小而美”到“一体化”，腾讯云 TDSQL 如何拯救选型纠结？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/evoDZx1R4YVt5WZ0PwWi?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>6 月底截止，Claude Code 免费白嫖 Qwen3.6，Token 无限量。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534361&amp;idx=1&amp;sn=816cfaa082f2a41f23f65eea2123ebe8</link>
-      <description>&lt;![CDATA[6 月底截止，Claude Code 免费白嫖 Qwen3.6，Token 无限量。]]&gt;</description>
-      <pubDate>Sun, 07 Jun 2026 10:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534361&amp;idx=1&amp;sn=816cfaa082f2a41f23f65eea2123ebe8</guid>
+      <title>别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨</title>
+      <link>https://www.infoq.cn/article/xh4lHSLWQtqo1lp4oqIA?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[别再碰瓷100 亿美元“身价”的世界模型了，李飞飞这次手把手教你分辨]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/xh4lHSLWQtqo1lp4oqIA?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Agent正把基础设施逼到极限！GitLab盈利大涨后裁员350人，下一代Git重构已启动</title>
+      <link>https://www.infoq.cn/article/72doWa3SERwCsQX5pOAy?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Agent正把基础设施逼到极限！GitLab盈利大涨后裁员350人，下一代Git重构已启动]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/72doWa3SERwCsQX5pOAy?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟</title>
+      <link>https://www.infoq.cn/article/htLxGkLT8ixjxR6bY28Y?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[拖尾请求不是故障：自适应 Hedged Request 如何降低 74% 的 p99 延迟]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/htLxGkLT8ixjxR6bY28Y?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Seal：小红书企业级 AI 个人助理的从 0 到全员覆盖｜AICon上海</title>
+      <link>https://www.infoq.cn/article/gF4722XXWC2qLhZx6Qke?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Seal：小红书企业级 AI 个人助理的从 0 到全员覆盖｜AICon上海]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/gF4722XXWC2qLhZx6Qke?utm_source=rss&amp;utm_medium=article</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注</title>
+      <link>https://www.tmtpost.com/8018862.html</link>
+      <description>&lt;![CDATA[富士达IPO闯关：上市前大额分红近1.85亿，关联交易引监管关注]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018862.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>世界杯还是那个世界杯，中国观众怎么不买账了？</title>
+      <link>https://www.tmtpost.com/8018867.html</link>
+      <description>&lt;![CDATA[世界杯还是那个世界杯，中国观众怎么不买账了？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018867.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了</title>
+      <link>https://www.tmtpost.com/8018883.html</link>
+      <description>&lt;![CDATA[SpaceX、OpenAI、Anthropic上市，AI时代的“阿波罗时刻”到了]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018883.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？</title>
+      <link>https://www.tmtpost.com/8018749.html</link>
+      <description>&lt;![CDATA[特锐德推出全球首个“算电岛”，新能源度电成本如何从0.5元变为10元 token？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018749.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>智谱与MiniMax回A遭遇“七月围城”</title>
+      <link>https://www.tmtpost.com/8018777.html</link>
+      <description>&lt;![CDATA[智谱与MiniMax回A遭遇“七月围城”]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:38:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018777.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>美的手握3200亿现金，方洪波打算做什么？</title>
+      <link>https://www.tmtpost.com/8018748.html</link>
+      <description>&lt;![CDATA[美的手握3200亿现金，方洪波打算做什么？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018748.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>全球最大自行车代工之王，去IPO了</title>
+      <link>https://www.tmtpost.com/8018704.html</link>
+      <description>&lt;![CDATA[全球最大自行车代工之王，去IPO了]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018704.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>火锅、茶饮、卤味品牌扎堆卖新鲜零食，能成吗？</title>
+      <link>https://www.tmtpost.com/8018678.html</link>
+      <description>&lt;![CDATA[火锅、茶饮、卤味品牌扎堆卖新鲜零食，能成吗？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018678.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>机器人圈杀疯了：4天4笔融资，融资、IPO一起狂奔</title>
+      <link>https://www.tmtpost.com/8018665.html</link>
+      <description>&lt;![CDATA[机器人圈杀疯了：4天4笔融资，融资、IPO一起狂奔]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018665.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>京东做的AI硬件选秀，究竟在“秀”什么？</title>
+      <link>https://www.tmtpost.com/8018537.html</link>
+      <description>&lt;![CDATA[京东做的AI硬件选秀，究竟在“秀”什么？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 12:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018537.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？</title>
+      <link>https://www.tmtpost.com/8018649.html</link>
+      <description>&lt;![CDATA[仙工智能IPO通过聆讯，“机器人大脑第一股”成色几何？]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018649.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>中国创新药正处于“第二秩序”的初期</title>
+      <link>https://www.tmtpost.com/8018637.html</link>
+      <description>&lt;![CDATA[中国创新药正处于“第二秩序”的初期]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018637.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>黄金成全球最大储备资产，揭秘央行“购金潮”背后的逻辑</title>
+      <link>https://www.tmtpost.com/8015390.html</link>
+      <description>&lt;![CDATA[黄金成全球最大储备资产，揭秘央行“购金潮”背后的逻辑]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8015390.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>钢铁上市公司AI透视：谁在深耕核心，谁在纸上谈兵</title>
+      <link>https://www.tmtpost.com/8018596.html</link>
+      <description>&lt;![CDATA[钢铁上市公司AI透视：谁在深耕核心，谁在纸上谈兵]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018596.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评</title>
+      <link>https://www.tmtpost.com/8018550.html</link>
+      <description>&lt;![CDATA[米哈游创始人放弃的AI表演，Seedance2.0、可灵、快乐马谁能成？｜测评]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018550.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>“绿电直连”的“窄门”</title>
+      <link>https://www.tmtpost.com/8018557.html</link>
+      <description>&lt;![CDATA[“绿电直连”的“窄门”]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018557.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>汤道生明确了一件事：腾讯AI先谈产品，再谈生意</title>
+      <link>https://www.tmtpost.com/8018527.html</link>
+      <description>&lt;![CDATA[汤道生明确了一件事：腾讯AI先谈产品，再谈生意]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018527.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>【Fintech 周报】香港金管局：银行业界已落实最新监管要求；中国人保原副总裁于泽被“双开”；易票联支付被罚没超4800万元</title>
+      <link>https://www.tmtpost.com/8018658.html</link>
+      <description>&lt;![CDATA[【Fintech 周报】香港金管局：银行业界已落实最新监管要求；中国人保原副总裁于泽被“双开”；易票联支付被罚没超4800万元]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018658.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Token不经济，经济不Token</title>
+      <link>https://www.tmtpost.com/8018529.html</link>
+      <description>&lt;![CDATA[Token不经济，经济不Token]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018529.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>年入30亿：泰兰尼斯与国产童鞋的「中场战事」</title>
+      <link>https://www.tmtpost.com/8018374.html</link>
+      <description>&lt;![CDATA[年入30亿：泰兰尼斯与国产童鞋的「中场战事」]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8018374.html</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>少数派正版软件 + 付费教程 618 促销活动限时开启</title>
+      <link>https://sspai.com/post/110853</link>
+      <description>&lt;![CDATA[少数派正版软件 + 付费教程 618 促销活动限时开启]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 16:11:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110853</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>2026 美加墨世界杯观赛指南</title>
+      <link>https://sspai.com/post/110681</link>
+      <description>&lt;![CDATA[2026 美加墨世界杯观赛指南]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 15:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110681</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>大语言模型正在变成大编程模型</title>
+      <link>https://sspai.com/post/110746</link>
+      <description>&lt;![CDATA[大语言模型正在变成大编程模型]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/110746</guid>
+      <category>Technology</category>
+    </item>
+    <item>
+      <title>Kimi Work 来了！10 分钟用它做一个投资大师 Skill，开源了。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534395&amp;idx=1&amp;sn=c9bbd39f9edce974bcb9020d78d3cfda</link>
+      <description>&lt;![CDATA[Kimi Work 来了！10 分钟用它做一个投资大师 Skill，开源了。]]&gt;</description>
+      <pubDate>Mon, 08 Jun 2026 11:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247534395&amp;idx=1&amp;sn=c9bbd39f9edce974bcb9020d78d3cfda</guid>
       <category>Technology</category>
     </item>
   </channel>
