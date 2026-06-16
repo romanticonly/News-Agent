@@ -2,18 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8885ad7cc82d73684b138ec5c08dd4988a3759fa8a66c4a5eff2c026ba191ed7": {
-        "title": "旧钱托底、新钱突围、代价攀升：阿里财报里的三重叙事",
-        "link": "https://www.tmtpost.com/7990090.html",
-        "published_date": "Sat, 16 May 2026 09:34:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.884100"
-      },
-      "d88d267833dfca324ac43895ca63d4ccee06a398ba00d0c78746910f8b2ac7f7": {
-        "title": "千亿之后，国寿财险还需补什么课？",
-        "link": "https://www.tmtpost.com/7990089.html",
-        "published_date": "Sat, 16 May 2026 09:34:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.884108"
-      },
       "af539560204b6c1137aa5cc5684f663740f6a48768c048a8570e33273f713081": {
         "title": "【数智周报】前世界首富贝索斯新公司募资说明书首度曝光，估值380亿美元；Anthropic正以9000亿美元估值寻求至少300亿美元融资；阿里平头哥自研GPU规模化量产",
         "link": "https://www.tmtpost.com/7990953.html",
@@ -8047,45 +8035,57 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534592&idx=1&sn=111ded134f8f79316d8954428e3f5c7f",
         "published_date": "Mon, 15 Jun 2026 14:15:00 GMT",
         "first_seen": "2026-06-15T10:50:05.096310"
+      },
+      "9c217f7865eeac4930ff690a9cf22b950c979c4524b730a344fc9b1b1a629a36": {
+        "title": "【钛晨报】事关重点行业节能降碳改造，国家发展改革委等部门最新部署；SpaceX通过IPO筹集了约857亿美元；伊朗：伊美谅解备忘录部分条款15日就开始执行",
+        "link": "https://www.tmtpost.com/8029106.html",
+        "published_date": "Tue, 16 Jun 2026 07:20:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343737"
+      },
+      "23cf08382a62b895165a293f90571d0b9ed68c93a179a05df8dc680049d8dd47": {
+        "title": "With 46 Billion Yuan Pouring into China's Embodied Intelligence Sector in YTD2026, Who's Benefitted?",
+        "link": "https://www.tmtpost.com/8029155.html",
+        "published_date": "Mon, 15 Jun 2026 22:46:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343746"
+      },
+      "67832f45eb55162901daf05782c922ccecd2b59e2f57106e3ee07729b6b5d158": {
+        "title": "Despite the Patent Spat Between DJI and Insta360, They are Replacing Sony's Hundred-Billion-Yuan Business",
+        "link": "https://www.tmtpost.com/8029149.html",
+        "published_date": "Mon, 15 Jun 2026 22:30:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343749"
+      },
+      "8abebe9faf0cad2dd73e2a399c8d2c4ae635d0b6c3a5f7a936970e6d623c6211": {
+        "title": "IPO募资未用完，上市未满两年的拉普拉斯又抛22亿定增",
+        "link": "https://www.tmtpost.com/8028941.html",
+        "published_date": "Mon, 15 Jun 2026 19:44:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343750"
+      },
+      "6f711739d7deadd5f37cd8fcbc406068c66f924fa0f0cd4fc22a4cb404071ad6": {
+        "title": "【Fintech 周报】大额存单个人认购起点拟降至20万元；今年以来不良贷款挂牌规模近1600亿元",
+        "link": "https://www.tmtpost.com/8028814.html",
+        "published_date": "Mon, 15 Jun 2026 18:48:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343752"
+      },
+      "574a3e619e6a1569d35e3cc9a878600c2e47bba09d346a7dbd4dbb6cb9002930": {
+        "title": "前 OpenAI 高管清华演讲：比失业更可怕的，是 AI 时代我们不知道“我是谁”",
+        "link": "https://www.infoq.cn/article/BVEc18iUtotFGN2mpRSI?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 22:31:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343753"
+      },
+      "e1688a032da6da2807824b6e102e1e3c75e2984cb6fafe66ddf4cbfa61ed21a0": {
+        "title": "腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会",
+        "link": "https://www.infoq.cn/article/OLS2A0uPEfmqoktKKGWg?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 22:26:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343755"
+      },
+      "bdea43c5810e34fd9b6c8ff706dc5f7f38a5c7d6a76c081ed1f68bb47d1ac41c": {
+        "title": "Java 近期新闻：JDK 27 进入收尾阶段、JDK 28 专家组、GlassFish、Infinispan、Kotlin",
+        "link": "https://www.infoq.cn/article/UkvVZm81ZerzhmEsTgHD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 15 Jun 2026 20:00:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.343756"
       }
     },
     "Finance": {
-      "6aec756e1116c0a04fef1a925aa2f35a34127ee87b057884f0e38f8550dd6e04": {
-        "title": "‘I’m already feeling anxious’: My ex-husband offered to give me a $30,000 lump sum for child support. Is there a catch?",
-        "link": "https://www.marketwatch.com/story/im-already-feeling-anxious-my-ex-husband-offered-to-give-me-a-30-000-lump-sum-for-child-support-is-there-a-catch-b1a20e20?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 22:47:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798322"
-      },
-      "95383be8cfcda7d9c276fa4e60c5432e74a071dde41e25aa4ae8555c421a7c38": {
-        "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
-        "link": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 18:13:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798335"
-      },
-      "76fa9770bd713cf20bfcf3e7e399a9d8e2a7e626ab19d52fdf2fb42bf0966723": {
-        "title": "I have $310,000 in cash from a maturing CD. Where should I put it next?",
-        "link": "https://www.marketwatch.com/story/i-have-310-000-in-cash-from-a-maturing-cd-where-should-i-put-it-next-2e6fdeee?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 17:14:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798338"
-      },
-      "2602287f21ae8d6aa2904b55ee2454cbc188d2781218b0d04fc14a64e774becf": {
-        "title": "Few Americans can afford long-term care — but this state program could be a game changer",
-        "link": "https://www.marketwatch.com/story/few-americans-can-afford-long-term-care-but-this-state-program-could-be-a-game-changer-e136b6ff?mod=mw_rss_topstories",
-        "published_date": "Sat, 16 May 2026 16:46:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798340"
-      },
-      "788d3ff60817b0176a4af2f5ae3c84eb102dadeb17aa86dec3345bc8e40f49be": {
-        "title": "Israel kills last Hamas chief who oversaw October 7 attack",
-        "link": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
-        "published_date": "Sat, 16 May 2026 15:38:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798342"
-      },
-      "0558eecece07fa31a082f6a0e64eb92c9d8b399be88679cc24e0a57e0c690215": {
-        "title": "Trump turns up the heat on Cuba",
-        "link": "https://www.ft.com/content/fb62a4c4-6615-434e-a259-bc813a27ac6a",
-        "published_date": "Sat, 16 May 2026 11:00:00 GMT",
-        "first_seen": "2026-05-16T23:40:51.798344"
-      },
       "86525dfc39a6f54397533b308963296bb267b99024c6884146aef40848f0b4ac": {
         "title": "Gulf freight rates jump as shipping companies turn to trucks to move cargo",
         "link": "https://www.ft.com/content/0c2adc44-5dcf-4273-943e-9899a1ce44ff",
@@ -12741,15 +12741,117 @@
         "link": "https://www.ft.com/content/11f71770-5872-4769-9ea5-a21f12151e10",
         "published_date": "Mon, 15 Jun 2026 02:53:00 GMT",
         "first_seen": "2026-06-15T10:50:05.207816"
+      },
+      "5dfd0ad628f118e52c89c01c114d4d904e73c9b38633f846bff931a8ae13df07": {
+        "title": "How to work in retirement without seeing your Social Security checks slashed",
+        "link": "https://www.marketwatch.com/story/how-to-work-in-retirement-without-seeing-your-social-security-checks-slashed-05d6c830?mod=mw_rss_topstories",
+        "published_date": "Tue, 16 Jun 2026 00:11:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474938"
+      },
+      "c12dd7a508bdcc732ccf4d9adab237ad04c521b60cb12dd9de4dd13c079d036f": {
+        "title": "Need a credit-score boost? Call your credit-card company and ask for this — but proceed with caution.",
+        "link": "https://www.marketwatch.com/story/need-a-credit-score-boost-call-your-credit-card-company-and-ask-for-this-but-proceed-with-caution-c1d028c5?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 23:07:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474946"
+      },
+      "15da908b4aaa9073627562993a5623204970b844eabe34780558e8499b7231e1": {
+        "title": "Roku’s sale to Fox for $22 billion raises a big question",
+        "link": "https://www.marketwatch.com/story/rokus-sale-to-fox-for-22-billion-raises-a-big-question-aecb5346?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 23:03:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474948"
+      },
+      "e54ea11c535871064d6ea143c1df48deca006d4dc50d1f5ad4bec7374b3017a4": {
+        "title": "Here’s when gas prices will come down if the U.S. deal to end the Iran war pans out",
+        "link": "https://www.marketwatch.com/story/heres-when-gas-prices-will-go-down-now-that-theres-a-deal-to-end-the-iran-war-6a482f4d?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 22:31:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474950"
+      },
+      "2a7439cbae281baf786042cc7dba2c2095fa4a3c1d9841a55af9340db1591b15": {
+        "title": "Options traders are bracing for a very busy week, with June ‘triple witching’ and launch of SpaceX contracts on deck",
+        "link": "https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 22:24:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474951"
+      },
+      "75a852fcc9a7c78a6d3e5826d156ce078a14e2b6d79b77536357c237d85c228c": {
+        "title": "Why Western Digital’s stock was the S&P 500’s biggest gainer on Monday",
+        "link": "https://www.marketwatch.com/story/why-western-digitals-stock-was-the-s-p-500s-biggest-gainer-on-monday-2aebd3e9?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 21:57:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474953"
+      },
+      "de1964dfbc89224031e352fbe6608989ae1e5e4c751b23210529f716ed503459": {
+        "title": "I’m spending $170,000 to upgrade my home for my aging parents. Can I get tax breaks?",
+        "link": "https://www.marketwatch.com/story/im-spending-170-000-to-upgrade-my-home-for-my-aging-parents-can-i-get-tax-breaks-3adf0236?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 21:54:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474954"
+      },
+      "1caf7e2587558ce28ed32a9f1c40ca9ffea0e58522291b743d3e29ef104bb301": {
+        "title": "The biggest risk to your retirement isn’t a market crash — it’s a crisis you probably haven’t planned for",
+        "link": "https://www.marketwatch.com/story/the-biggest-risk-to-your-retirement-isnt-a-market-crash-its-a-crisis-you-probably-havent-planned-for-eff75a99?mod=mw_rss_topstories",
+        "published_date": "Mon, 15 Jun 2026 21:12:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474955"
+      },
+      "1bddc261164461483c4022c1fff088b8682aa99d47c81e8ed8635b0b73846977": {
+        "title": "Gavin Newsom says Trump has ordered justice department to investigate him",
+        "link": "https://www.ft.com/content/3ebc2a6f-ed8d-4848-880c-d04c5069ee5b",
+        "published_date": "Mon, 15 Jun 2026 21:47:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474957"
+      },
+      "559a3aa7d476fe01552e0d4bd866cbee9650bd6afbc62229054d9668f22ef0ba": {
+        "title": "ConocoPhillips set to sign deal with Syria to revive gas production",
+        "link": "https://www.ft.com/content/d63c5138-bf81-4c7d-b39a-434499d09c8f",
+        "published_date": "Mon, 15 Jun 2026 21:09:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474958"
+      },
+      "394ab3347b974e80a8e30251fbaca8f6b974677fe03ffa1b8814ad37a8a78010": {
+        "title": "Trump administration considers $300bn fund for Iran if deal is upheld",
+        "link": "https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de",
+        "published_date": "Mon, 15 Jun 2026 21:03:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474959"
+      },
+      "2bb2a53ab950f8599261a11676f713e566c140ebec1453b70b225d9dde92f873": {
+        "title": "SpaceX shares gain for second day after blockbuster debut",
+        "link": "https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281",
+        "published_date": "Mon, 15 Jun 2026 20:39:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474961"
+      },
+      "2c25aa165a860520305d2b6041230e7bf314331b81f951435bed3c4b41bcd18f": {
+        "title": "Stocks surge as US-Iran deal ignites global rally",
+        "link": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
+        "published_date": "Mon, 15 Jun 2026 20:22:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474962"
+      },
+      "e9926ffed4427de9589c9fd26850e99cfcd8740a67f7d787e074f1bae885ecbb": {
+        "title": "Netanyahu faces domestic backlash over US-Iran agreement",
+        "link": "https://www.ft.com/content/9a6886c8-2ab3-4341-a5e6-a6cfc1be7386",
+        "published_date": "Mon, 15 Jun 2026 19:39:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474964"
+      },
+      "66bde75d1a95c9936ced5b0e48167c0e5ca20470aede9fb41cbc8b717d492d41": {
+        "title": "Average US petrol price falls below $4 on plan to reopen Strait of Hormuz",
+        "link": "https://www.ft.com/content/ff17e2a2-7744-4e19-9e1d-23bc5892191c",
+        "published_date": "Mon, 15 Jun 2026 19:30:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474965"
+      },
+      "19928d4bfa4a18dcd7ce5eb456a43a86124fc96ebce2a06595525c3c2506c2d1": {
+        "title": "How the US-Iran deal came together",
+        "link": "https://www.ft.com/content/adb68e67-3d04-4a60-af30-dd9b1faee62b",
+        "published_date": "Mon, 15 Jun 2026 19:16:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474966"
+      },
+      "3b7a53e9cf902ba85c0feea9e310afb4bdb6e16b70fc4e4141b1f2f450e02db4": {
+        "title": "Chipmaker Nvidia seeks to raise over $25bn in first bond deal since 2021",
+        "link": "https://www.ft.com/content/c0e7cc58-e309-4f47-b466-d577c06cbeec",
+        "published_date": "Mon, 15 Jun 2026 18:22:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474967"
+      },
+      "5522b942e2f0d16440fb176118db23f263a395dda1c3776e995c6a03fdee4247": {
+        "title": "Arson attacks targeting Keir Starmer properties originated in Russia",
+        "link": "https://www.ft.com/video/f8ad28b8-966d-45be-bafc-977f55193773",
+        "published_date": "Mon, 15 Jun 2026 14:30:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.474969"
       }
     },
     "Ai": {
-      "121df8e6c20a6ea589e0ef1334420a732ca23a932305a377ac4813bc3a8976eb": {
-        "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
-        "link": "https://www.qbitai.com/2026/05/418620.html",
-        "published_date": "Sat, 16 May 2026 13:44:00 GMT",
-        "first_seen": "2026-05-16T23:40:52.058674"
-      },
       "6fb11318096c2b761c778e8ea2ed45ff8f5ac8fa20ea4ba4bf9cfbd298614b9d": {
         "title": "2026-05-17日刊",
         "link": "https://hex2077.dev/docs/2026-05/2026-05-17/",
@@ -14099,13 +14201,25 @@
         "link": "https://www.qbitai.com/2026/06/435520.html",
         "published_date": "Mon, 15 Jun 2026 03:24:00 GMT",
         "first_seen": "2026-06-15T10:50:05.357254"
+      },
+      "13117826daf0ec85b60fa98b604421f45d95ce644f633a1b8cf49c37e6f3e30b": {
+        "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+        "link": "https://www.qbitai.com/2026/06/435848.html",
+        "published_date": "Mon, 15 Jun 2026 12:57:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.600960"
+      },
+      "aa011b0b1a0a8d96dafbe3b1fc4870ed6de1ae4f952883f3be4e29671619ec0f": {
+        "title": "2026-06-15日刊",
+        "link": "https://hex2077.dev/docs/2026-06/2026-06-15/",
+        "published_date": "Mon, 15 Jun 2026 10:53:00 GMT",
+        "first_seen": "2026-06-16T00:21:53.600967"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-06-15T10:50:05.096312",
-    "Finance": "2026-06-15T10:50:05.207821",
-    "Ai": "2026-06-15T10:50:05.357256"
+    "Technology": "2026-06-16T00:21:53.343758",
+    "Finance": "2026-06-16T00:21:53.474971",
+    "Ai": "2026-06-16T00:21:53.600970"
   }
 }
