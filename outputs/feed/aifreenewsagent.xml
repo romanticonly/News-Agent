@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 19 Jun 2026 00:17:00 GMT</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 00:19:44 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 09:24:00 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:26:15 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,91 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关</title>
-      <link>https://www.qbitai.com/2026/06/436758.html</link>
-      <description>&lt;![CDATA[AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 13:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436758.html</guid>
+      <title>2026-06-19日刊</title>
+      <link>https://hex2077.dev/docs/2026-06/2026-06-19/</link>
+      <description>&lt;![CDATA[2026-06-19日刊]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 11:06:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-19/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态</title>
-      <link>https://www.qbitai.com/2026/06/436802.html</link>
-      <description>&lt;![CDATA[魔法原子牵手万机易租，全栈产品入驻2.0平台共建租赁生态]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 13:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436802.html</guid>
+      <title>GPT发AI原创新成果了</title>
+      <link>https://www.qbitai.com/2026/06/436842.html</link>
+      <description>&lt;![CDATA[GPT发AI原创新成果了]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 03:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436842.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>香港特区政府财政司司长陈茂波一行到访 PPIO</title>
-      <link>https://www.qbitai.com/2026/06/436751.html</link>
-      <description>&lt;![CDATA[香港特区政府财政司司长陈茂波一行到访 PPIO]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 10:14:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436751.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根</title>
-      <link>https://www.qbitai.com/2026/06/436740.html</link>
-      <description>&lt;![CDATA[AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436740.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding</title>
-      <link>https://www.qbitai.com/2026/06/436674.html</link>
-      <description>&lt;![CDATA[腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436674.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评</title>
-      <link>https://www.qbitai.com/2026/06/436698.html</link>
-      <description>&lt;![CDATA[ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:39:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436698.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>全员本科生！何恺明组新作：文生图，258M参数就够了</title>
-      <link>https://www.qbitai.com/2026/06/436518.html</link>
-      <description>&lt;![CDATA[全员本科生！何恺明组新作：文生图，258M参数就够了]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436518.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>18年前不让你苦修PS的美图，这次不让你苦修AI了</title>
-      <link>https://www.qbitai.com/2026/06/436517.html</link>
-      <description>&lt;![CDATA[18年前不让你苦修PS的美图，这次不让你苦修AI了]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 09:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436517.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅</title>
-      <link>https://www.qbitai.com/2026/06/436477.html</link>
-      <description>&lt;![CDATA[哈？Q1狂烧250亿！OpenAI财报泄露全网炸锅]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 05:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436477.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>国产算力正在进入Token标准化时代</title>
-      <link>https://www.qbitai.com/2026/06/436468.html</link>
-      <description>&lt;![CDATA[国产算力正在进入Token标准化时代]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 01:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436468.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-06-18日刊</title>
-      <link>https://hex2077.dev/docs/2026-06/2026-06-18/</link>
-      <description>&lt;![CDATA[2026-06-18日刊]]&gt;</description>
-      <pubDate>Thu, 18 Jun 2026 11:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-18/</guid>
+      <title>全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化</title>
+      <link>https://www.qbitai.com/2026/06/436813.html</link>
+      <description>&lt;![CDATA[全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化]]&gt;</description>
+      <pubDate>Fri, 19 Jun 2026 03:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/436813.html</guid>
       <category>Ai</category>
     </item>
   </channel>
