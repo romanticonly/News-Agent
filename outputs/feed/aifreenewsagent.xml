@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 23 Jun 2026 08:22:00 GMT</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 08:23:44 GMT</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 23:45:00 GMT</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:47:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐</title>
-      <link>https://www.qbitai.com/2026/06/437425.html</link>
-      <description>&lt;![CDATA[57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 07:31:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437425.html</guid>
+      <title>正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持</title>
+      <link>https://www.qbitai.com/2026/06/437694.html</link>
+      <description>&lt;![CDATA[正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437694.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>可口可乐的世界杯TVC，居然是prompt生成的</title>
-      <link>https://www.qbitai.com/2026/06/437381.html</link>
-      <description>&lt;![CDATA[可口可乐的世界杯TVC，居然是prompt生成的]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 06:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437381.html</guid>
+      <title>云计算一哥，让小鹏、Kimi和猎豹都爽了一把</title>
+      <link>https://www.qbitai.com/2026/06/437672.html</link>
+      <description>&lt;![CDATA[云计算一哥，让小鹏、Kimi和猎豹都爽了一把]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:47:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437672.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>机器人全栈操作系统！老黄率先抛出“具身版安卓”</title>
-      <link>https://www.qbitai.com/2026/06/437382.html</link>
-      <description>&lt;![CDATA[机器人全栈操作系统！老黄率先抛出“具身版安卓”]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 06:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437382.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>马斯克又盯上AI基建：特斯拉要卖“算力积木”了</title>
-      <link>https://www.qbitai.com/2026/06/437340.html</link>
-      <description>&lt;![CDATA[马斯克又盯上AI基建：特斯拉要卖“算力积木”了]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 06:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437340.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…</title>
-      <link>https://www.qbitai.com/2026/06/437330.html</link>
-      <description>&lt;![CDATA[小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…]]&gt;</description>
-      <pubDate>Tue, 23 Jun 2026 00:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437330.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>2026-06-23日刊</title>
-      <link>https://hex2077.dev/docs/2026-06/2026-06-23/</link>
-      <description>&lt;![CDATA[2026-06-23日刊]]&gt;</description>
-      <pubDate>Mon, 22 Jun 2026 23:21:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-06/2026-06-23/</guid>
+      <title>刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码</title>
+      <link>https://www.qbitai.com/2026/06/437503.html</link>
+      <description>&lt;![CDATA[刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码]]&gt;</description>
+      <pubDate>Tue, 23 Jun 2026 13:37:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/06/437503.html</guid>
       <category>Ai</category>
     </item>
   </channel>
