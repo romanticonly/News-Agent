@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-26 00:04
+**最后更新时间**: 2026-06-26 08:26
+
+---
+
+## 🆕 最新更新 (2026-06-26 08:26)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The Wall Street equivalent of roster-cut day happens Friday. It’ll be one of the biggest volume days of the year.](https://www.marketwatch.com/story/the-wall-street-equivalent-of-roster-cut-day-happens-friday-itll-be-one-of-the-biggest-volume-days-of-the-year-750e8496?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 04:47
+
+#### [SpaceX FOMO is officially over. Space stocks across the board are getting punished.](https://www.marketwatch.com/story/spacex-fomo-is-officially-over-space-stocks-across-the-board-are-getting-punished-77234fe8?mod=mw_rss_topstories)
+**发布时间**: 2026-06-26 02:27
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Kevin Warsh’s tough talk on inflation reassures investors](https://www.ft.com/content/a825975a-df76-4f9c-9eb9-774329ebc29d)
+**发布时间**: 2026-06-26 04:00
+
+#### [Rheinmetall gambled on Germany’s doomed warship project — and lost](https://www.ft.com/content/e3fa2351-72bd-40e1-97e0-5a6ae0a63a2b)
+**发布时间**: 2026-06-26 04:00
+
+#### [How the DeepMind mafia brought the AI boom to London](https://www.ft.com/content/6a3a46b9-4725-469e-a909-917768a74afb)
+**发布时间**: 2026-06-26 04:00
+
+#### [The shrinking arguments for degrowth](https://www.ft.com/content/5bc6b000-83c5-462b-a368-093f23759043)
+**发布时间**: 2026-06-26 04:00
+
+#### [Brutal nights and humidity mark Europe’s record June temperatures](https://www.ft.com/content/a2ea8432-f871-40c9-89bf-a18ee091413f)
+**发布时间**: 2026-06-26 04:00
+
+#### [Donald Trump Jr set for Kalshi windfall after prediction platform gave him stake](https://www.ft.com/content/f70147b1-ee77-4d75-8587-707a49ddb605)
+**发布时间**: 2026-06-26 04:00
+
+#### [Meloni redesigns Italy’s election rules to stay in power](https://www.ft.com/content/e5ce6c30-e813-474f-a9b6-a8b26192d35a)
+**发布时间**: 2026-06-26 04:00
 
 ---
 
