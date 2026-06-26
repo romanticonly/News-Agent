@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-26 08:24
+**最后更新时间**: 2026-06-26 23:52
+
+---
+
+## 🆕 最新更新 (2026-06-26 23:52)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction](https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/)
+**发布时间**: 2026-06-26 18:30
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地](https://www.qbitai.com/2026/06/438887.html)
+**发布时间**: 2026-06-26 15:45
+
+#### [谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的](https://www.qbitai.com/2026/06/438848.html)
+**发布时间**: 2026-06-26 08:05
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-06-26日刊](https://hex2077.dev/docs/2026-06/2026-06-26/)
+**发布时间**: 2026-06-25 23:58
 
 ---
 
