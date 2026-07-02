@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Jul 2026 08:42:00 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 08:45:08 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 23:59:00 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:01:47 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,91 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-07-01日刊</title>
-      <link>https://hex2077.dev/docs/2026-07/2026-07-01/</link>
-      <description>&lt;![CDATA[2026-07-01日刊]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 10:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-01/</guid>
+      <title>具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了</title>
+      <link>https://www.qbitai.com/2026/07/441396.html</link>
+      <description>&lt;![CDATA[具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 09:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441396.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解</title>
-      <link>https://www.qbitai.com/2026/07/441246.html</link>
-      <description>&lt;![CDATA[金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 07:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441246.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”</title>
-      <link>https://www.qbitai.com/2026/07/441240.html</link>
-      <description>&lt;![CDATA[OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 07:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441240.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台</title>
-      <link>https://www.qbitai.com/2026/07/441237.html</link>
-      <description>&lt;![CDATA[群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441237.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了</title>
-      <link>https://www.qbitai.com/2026/07/441225.html</link>
-      <description>&lt;![CDATA[Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 07:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441225.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单</title>
-      <link>https://www.qbitai.com/2026/07/441183.html</link>
-      <description>&lt;![CDATA[卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 07:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441183.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割</title>
-      <link>https://www.qbitai.com/2026/07/441140.html</link>
-      <description>&lt;![CDATA[大湾区首个200亿具身大脑来了！自变量两个月连融四轮，完成交割]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 06:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441140.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>卖Token也不是稳赚不赔！硅基流动招股书来了</title>
-      <link>https://www.qbitai.com/2026/07/441127.html</link>
-      <description>&lt;![CDATA[卖Token也不是稳赚不赔！硅基流动招股书来了]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 05:52:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441127.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型</title>
-      <link>https://www.qbitai.com/2026/07/441124.html</link>
-      <description>&lt;![CDATA[Om AI联汇发布VLX：全球首个面向物理世界的端侧流式多模态模型]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 03:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441124.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>A社你解释下，啥叫Sonnet 5比Fable 5还贵？</title>
-      <link>https://www.qbitai.com/2026/07/441001.html</link>
-      <description>&lt;![CDATA[A社你解释下，啥叫Sonnet 5比Fable 5还贵？]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 01:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441001.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒</title>
-      <link>https://www.qbitai.com/2026/07/440985.html</link>
-      <description>&lt;![CDATA[视频版Nano Banana来了！内置Gemini世界知识；原版香蕉出图仅需4秒]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 01:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/440985.html</guid>
+      <title>OceanBase湖库一体，重新定义AI数据库</title>
+      <link>https://www.qbitai.com/2026/07/441386.html</link>
+      <description>&lt;![CDATA[OceanBase湖库一体，重新定义AI数据库]]&gt;</description>
+      <pubDate>Wed, 01 Jul 2026 09:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441386.html</guid>
       <category>Ai</category>
     </item>
   </channel>
