@@ -1,7 +1,82 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 08:00
+**最后更新时间**: 2026-07-02 10:34
+
+---
+
+## 🆕 最新更新 (2026-07-02 10:34)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [被骂“退出AI竞赛”，Meta改行卖算力股价暴涨10%：卖铲子比淘金更赚？](https://www.infoq.cn/article/vxgbzsNORRzQDz6xK1jv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 18:27
+
+#### [Agent 狂欢热潮下的冷思考：为什么规模化落地总是陷入僵局？](https://www.infoq.cn/article/KmDMAvlzBGgwu5A2kf7t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 17:19
+
+#### [亚马逊云科技推出 Lambda MicroVM，提供隔离式智能体与用户代码运行环境](https://www.infoq.cn/article/QbFT0uMbBd8rcZ0zEfit?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 17:18
+
+#### [行业智能体时代来临：出行、货运率先破局](https://www.infoq.cn/article/k8tlXTTbFmTGOLojQVZB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 16:21
+
+#### [如何利用 AI Agent 实现热补丁的自动化生成](https://www.infoq.cn/article/BXc66LG3pVL8ZMme0ehy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-02 16:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI大厂，正在互相设防](https://www.tmtpost.com/8050490.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [硅胶娃娃+AI，优必选就想卖宅男88万](https://www.tmtpost.com/8050479.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [推理成本砍掉一半以上，OpenAI摸着DeepSeek过河](https://www.tmtpost.com/8050492.html)
+**发布时间**: 2026-07-02 18:21
+
+#### [微信 agent，到底能不能帮腾讯赚钱？](https://www.tmtpost.com/8050426.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [内存末日，无人幸免](https://www.tmtpost.com/8050211.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [养猪成本三年降了3块钱，这轮周期为什么不一样？](https://www.tmtpost.com/8049392.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [独家｜奔驰中国新设GTM部门，避免重蹈CLA覆辙](https://www.tmtpost.com/8050076.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [AI写的书能不能出版？图书编辑没有答案](https://www.tmtpost.com/8050086.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [Meta都要变卖算力了，AI基建泡沫要破了吗？](https://www.tmtpost.com/8050077.html)
+**发布时间**: 2026-07-02 18:12
+
+#### [3900亿，深交所最大IPO来了](https://www.tmtpost.com/8050013.html)
+**发布时间**: 2026-07-02 17:54
+
+#### [微米的黄昏——当晶圆波导撞上 FAU 的精度神话](https://www.tmtpost.com/8049851.html)
+**发布时间**: 2026-07-02 17:54
+
+#### [我妈骨折了，用AI自我诊断后觉得命不久矣](https://www.tmtpost.com/8049913.html)
+**发布时间**: 2026-07-02 17:26
+
+#### [Algorithmic Arms Race: How AI-Driven Recruiting Met Automated Job Hunting](https://www.tmtpost.com/8050392.html)
+**发布时间**: 2026-07-02 16:44
+
+#### [传统商超，正集体被抛弃](https://www.tmtpost.com/8049622.html)
+**发布时间**: 2026-07-02 16:36
+
+#### [AI来了，组织“瘫”了？](https://www.tmtpost.com/8049868.html)
+**发布时间**: 2026-07-02 16:36
+
+#### [Claude Sonnet 5 发布了，但中国开发者可能用不上：一场“断供”后的国产编程模型突围战](https://www.tmtpost.com/8049454.html)
+**发布时间**: 2026-07-02 16:31
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机](https://sspai.com/post/111069)
+**发布时间**: 2026-07-02 15:00
 
 ---
 

@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-02 08:00
+**最后更新时间**: 2026-07-02 10:34
+
+---
+
+## 🆕 最新更新 (2026-07-02 10:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fear, loathing and ice cream pricing](https://www.ft.com/content/419d600c-5998-4f65-8d53-b53dfc459970)
+**发布时间**: 2026-07-02 10:00
+
+#### [Beijing plane crash pilot suffered from ‘insomnia and anxiety’, say police](https://www.ft.com/content/41d9164f-8158-4a89-90ce-59415056d4e1)
+**发布时间**: 2026-07-02 09:07
+
+#### [Russian drone campaign mapped Nato air defence gaps, study finds](https://www.ft.com/content/49ed0040-7f5d-402d-b42d-1d8eab27114c)
+**发布时间**: 2026-07-02 08:30
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘There was a catch’: My doctor friend was outraged by his hospital’s fundraising tactics. Where do we draw the line?](https://www.marketwatch.com/story/there-was-a-catch-my-doctor-friend-was-outraged-by-his-hospitals-fundraising-tactics-where-do-we-draw-the-line-797b9fff?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 09:42
+
+#### [Warsh’s throwaway comment injects life into the debasement trade, for one day at least](https://www.marketwatch.com/story/warshs-throwaway-comment-injects-life-into-the-debasement-trade-for-one-day-at-least-1c70d477?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 09:08
+
+#### [Tamera Mowry lists Bay Area house for $2.7 million as she prepares to build Napa Valley ‘dream home’](https://www.marketwatch.com/story/tamera-mowry-lists-bay-area-house-for-2-7-million-as-she-prepares-to-build-napa-valley-dream-home-feee7691?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 09:01
+
+#### [After eight years, Google loses final appeal against $4.7 billion European Union fine](https://www.marketwatch.com/story/after-eight-years-google-loses-final-appeal-against-4-7-billion-european-union-fine-46b7459a?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 08:59
+
+#### [OpenAI reportedly considers handing 5% stake to the government. Here’s why the AI lab would consider that move.](https://www.marketwatch.com/story/openai-reportedly-considers-handing-5-stake-to-the-government-heres-why-the-ai-lab-would-consider-that-move-8c2871cb?mod=mw_rss_topstories)
+**发布时间**: 2026-07-02 08:49
 
 ---
 
