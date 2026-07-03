@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-03 07:55
+**最后更新时间**: 2026-07-03 10:25
+
+---
+
+## 🆕 最新更新 (2026-07-03 10:25)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK finds lost US Declaration of Independence copy after 250 years](https://www.ft.com/content/4fd21282-82f3-443c-9270-c1efb401fe97)
+**发布时间**: 2026-07-02 23:01
 
 ---
 
