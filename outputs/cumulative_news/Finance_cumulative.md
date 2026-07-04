@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 07:36
+**最后更新时间**: 2026-07-04 09:59
+
+---
+
+## 🆕 最新更新 (2026-07-04 09:59)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Yankee pyramids: how to build a presidential library](https://www.ft.com/content/b640ab8d-4273-43be-8206-be750c004665)
+**发布时间**: 2026-07-04 04:00
 
 ---
 
