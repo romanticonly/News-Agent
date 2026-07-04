@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 09:59
+**最后更新时间**: 2026-07-04 23:52
+
+---
+
+## 🆕 最新更新 (2026-07-04 23:52)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【数智周报】  智平方完成近50亿元融资；豆包：智能体功能将于7月15日下线；可灵AI落地近30亿美元融资 ；Anthropic推出Claude Science](https://www.tmtpost.com/8052985.html)
+**发布时间**: 2026-07-04 19:38
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 17 个 6 月份牛牛牛的 GitHub 开源项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535071&idx=1&sn=0da3535ca936aedd3ac618e4179aa756)
+**发布时间**: 2026-07-04 10:13
 
 ---
 

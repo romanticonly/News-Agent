@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 09:59
+**最后更新时间**: 2026-07-04 23:52
+
+---
+
+## 🆕 最新更新 (2026-07-04 23:52)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?](https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 20:56
+
+#### [Why a founder at age 50 is twice as likely to find success as one at age 30](https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:56
+
+#### [Why June’s jobs and inflation data are bullish for bonds](https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:37
+
+#### [Insurers shifted roof-replacement costs onto homeowners thanks to a new federal rule — just in time for hail and hurricane season](https://www.marketwatch.com/story/insurers-shifted-roof-replacement-costs-onto-homeowners-thanks-to-a-new-federal-rule-just-in-time-for-hail-and-hurricane-season-e86068df?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 18:19
+
+#### [Jelly Roll’s ex-wife Bunnie Xo says he gave her their $6 million Tennessee estate in divorce](https://www.marketwatch.com/story/jelly-rolls-ex-wife-bunnie-xo-says-he-gave-her-their-6-million-tennessee-estate-in-divorce-97a6c910?mod=mw_rss_topstories)
+**发布时间**: 2026-07-04 17:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran mourners demand revenge at ayatollah’s funeral](https://www.ft.com/content/c40471ec-cac8-4ab0-8a77-34ae971a7ffc)
+**发布时间**: 2026-07-04 10:04
+
+#### [Francis Fukuyama: The problem of equality](https://www.ft.com/content/4df67e55-e52b-4ee6-be69-0504b787de69)
+**发布时间**: 2026-07-04 04:00
+
+#### [Yiyun Li: ‘Moby-Dick’ is the Great American Novel of pursuit and destruction](https://www.ft.com/content/6494edfb-300b-43bf-b25a-2821b2852ed5)
+**发布时间**: 2026-07-04 04:00
+
+#### [The massacre America forgot](https://www.ft.com/content/46ba4db6-4133-4db2-ac8f-2936273f402c)
+**发布时间**: 2026-07-04 04:00
 
 ---
 
