@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-04 23:52
+**最后更新时间**: 2026-07-05 07:53
+
+---
+
+## 🆕 最新更新 (2026-07-05 07:53)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukraine striking Russian energy infrastructure at unprecedented rate](https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf)
+**发布时间**: 2026-07-05 07:09
+
+#### [Returning to pre-Trumpian politics won’t save America](https://www.ft.com/content/5e7ca535-90a8-4f6d-934b-0a0d9b36e62d)
+**发布时间**: 2026-07-05 04:00
+
+#### [How Bending Spoons built a $23bn tech empire from struggling brands](https://www.ft.com/content/040aac86-f458-400b-a353-7ff2ee5aa34f)
+**发布时间**: 2026-07-05 04:00
+
+#### [French push to exclude UK from EU defence spending backfires](https://www.ft.com/content/9077074a-b01d-4890-a938-403befccb21c)
+**发布时间**: 2026-07-05 04:00
+
+#### [Uber stalls European food delivery push as it pursues Delivery Hero takeover](https://www.ft.com/content/53f631ef-98e4-4eec-92e4-3dd023ed25f5)
+**发布时间**: 2026-07-05 04:00
+
+#### [Oil market opens up as retail traders pour in](https://www.ft.com/content/b64227fd-3fae-4fea-bb83-4cc463fa09ed)
+**发布时间**: 2026-07-05 04:00
+
+#### [Wall Street banks recover in China amid trading boom](https://www.ft.com/content/90c1934a-505f-4c9d-9bdf-a28db14eb9f2)
+**发布时间**: 2026-07-05 04:00
+
+#### [China cools on overseas publication of scientific research](https://www.ft.com/content/64a811f1-b132-4211-8a8c-2252cf964039)
+**发布时间**: 2026-07-05 04:00
+
+#### [Donald Trump defies storms and heatwave to deliver July 4 address](https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30)
+**发布时间**: 2026-07-05 03:41
 
 ---
 
