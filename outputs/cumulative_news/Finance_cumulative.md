@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-05 23:56
+**最后更新时间**: 2026-07-06 08:55
+
+---
+
+## 🆕 最新更新 (2026-07-06 08:55)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Just a week after spin-off plan, Comcast says it will buy British broadcaster](https://www.marketwatch.com/story/just-a-week-after-spin-off-plan-comcast-says-it-will-buy-british-broadcaster-6178a2be?mod=mw_rss_topstories)
+**发布时间**: 2026-07-06 07:21
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bellingham and Kane see England through after high drama at Azteca](https://www.ft.com/content/ca365a54-fdff-47ce-862f-afbc7a59907e)
+**发布时间**: 2026-07-06 06:16
+
+#### [Honeywell spin-off in merger talks to create $27bn materials group](https://www.ft.com/content/2d0945c1-570d-4684-b5bd-78392c547c79)
+**发布时间**: 2026-07-06 05:38
+
+#### [Big investors commit billions to private credit despite turmoil](https://www.ft.com/content/ea275bbd-e411-4db5-a9d2-415666f2a923)
+**发布时间**: 2026-07-06 04:00
+
+#### [Son bets the house on AI](https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066)
+**发布时间**: 2026-07-06 04:00
+
+#### [Why OpenAI and Anthropic may struggle to float](https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75)
+**发布时间**: 2026-07-06 04:00
+
+#### [Andy Burnham needs to start by understanding how little he knows](https://www.ft.com/content/e21fde74-724f-4898-a382-88cbac975a12)
+**发布时间**: 2026-07-06 04:00
+
+#### [Shipowners turn to dirty fossil fuels and nuclear power as green hopes sail away](https://www.ft.com/content/2eb36e45-68de-4510-bec1-73da9db98480)
+**发布时间**: 2026-07-06 04:00
+
+#### [How modern drone warfare is forcing arms producers to rethink](https://www.ft.com/content/f67994f3-b3ef-4a94-a70e-29c5263a3cc3)
+**发布时间**: 2026-07-06 04:00
+
+#### [Converting car plants to make military drones will fail, warns Japan defence titan](https://www.ft.com/content/31de8d91-4dd4-4dc0-a802-80dabd6ef9a2)
+**发布时间**: 2026-07-06 02:33
 
 ---
 
