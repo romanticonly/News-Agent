@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml</link>
     <description>Finance 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 08 Jul 2026 10:04:00 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2026 10:04:49 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 23:58:00 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:58:59 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217167357570321408</feedId>
@@ -14,59 +14,163 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/financefreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over</title>
+      <title>US launches second day of strikes against Iran</title>
+      <link>https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439</link>
+      <description>&lt;![CDATA[US launches second day of strikes against Iran]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 23:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices rise after Washington renews conflict with Tehran</title>
+      <link>https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680</link>
+      <description>&lt;![CDATA[Oil prices rise after Washington renews conflict with Tehran]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 21:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump’s surprise Ukraine shift steadies nervous Nato allies</title>
+      <link>https://www.ft.com/content/907c26d7-9c1e-4bac-8da0-28216445d860</link>
+      <description>&lt;![CDATA[Trump’s surprise Ukraine shift steadies nervous Nato allies]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 21:09:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/907c26d7-9c1e-4bac-8da0-28216445d860</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Inflation fears mount at Warsh’s first Fed meeting</title>
+      <link>https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5</link>
+      <description>&lt;![CDATA[Inflation fears mount at Warsh’s first Fed meeting]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/b1eda604-0593-4f56-af1c-ccaf3619efd5</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Warsh’s minute minutes</title>
+      <link>https://www.ft.com/content/3bce2dd4-d0fc-4f3a-80a6-730d1065d4d9</link>
+      <description>&lt;![CDATA[Warsh’s minute minutes]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 18:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/3bce2dd4-d0fc-4f3a-80a6-730d1065d4d9</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Trump grants Ukraine licence to produce Patriot missiles</title>
+      <link>https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78</link>
+      <description>&lt;![CDATA[Trump grants Ukraine licence to produce Patriot missiles]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/0393e6aa-15e2-45af-ab3e-466b11b4cd78</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Ukraine intensifies attacks on Russian ships in Azov Sea</title>
+      <link>https://www.ft.com/content/90700f0e-b345-41bf-8c89-85da57c66a04</link>
+      <description>&lt;![CDATA[Ukraine intensifies attacks on Russian ships in Azov Sea]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 15:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/90700f0e-b345-41bf-8c89-85da57c66a04</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Why the US and Iran are stuck in a cycle of tit-for-tat strikes</title>
+      <link>https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d</link>
+      <description>&lt;![CDATA[Why the US and Iran are stuck in a cycle of tit-for-tat strikes]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/6a0166e3-dc5e-4d16-8feb-872ac729733d</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Alphaville LLC initiates coverage of SpaceX with Buy recommendation</title>
+      <link>https://www.ft.com/content/1344d22b-ee64-488d-bd02-170fe0c9de2b</link>
+      <description>&lt;![CDATA[Alphaville LLC initiates coverage of SpaceX with Buy recommendation]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 14:25:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/1344d22b-ee64-488d-bd02-170fe0c9de2b</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The great AI data centre cover-up</title>
+      <link>https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4</link>
+      <description>&lt;![CDATA[The great AI data centre cover-up]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’</title>
+      <link>https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Levi’s is finding new ways to win customers — by looking toward tops and ‘denim luxury’]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 23:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/levis-is-finding-new-ways-to-win-customers-by-looking-toward-tops-and-denim-luxury-b6e0890a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?</title>
+      <link>https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[I started retirement with $3 million. Now I’m 89 and down to $2 million. What if I get sick?]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 22:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/i-started-retirement-with-3-million-now-im-89-and-down-to-2-million-what-if-i-get-sick-7401056a?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.</title>
+      <link>https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Did you mess up on your taxes? The IRS just made it easier to avoid paying a penalty.]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 21:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/did-you-mess-up-on-your-taxes-the-irs-just-made-it-easier-to-avoid-paying-a-penalty-20d60ae6?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran</title>
       <link>https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Oil prices jump by the most in two months after Trump suggests U.S.-Iran cease-fire is over]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:21:00 GMT</pubDate>
+      <description>&lt;![CDATA[Oil prices extend gains after hours as U.S. forces conduct additional strikes on Iran]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 21:16:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/oil-prices-jump-by-the-most-in-two-months-after-trump-suggests-u-s-iran-cease-fire-is-over-9fa7caee?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?</title>
+      <title>Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.</title>
+      <link>https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Investors haven’t been this bullish on the dollar in a decade. How the buck can keep climbing.]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 21:01:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/traders-havent-been-this-bullish-on-the-dollar-in-a-decade-how-the-buck-can-keep-climbing-2e2bb287?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>This chart shows stamp prices over the years as USPS hikes postage again this weekend</title>
+      <link>https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[This chart shows stamp prices over the years as USPS hikes postage again this weekend]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 20:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/this-chart-shows-stamp-prices-over-the-years-as-usps-hikes-postage-again-this-weekend-affbb84b?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling</title>
+      <link>https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[The Strait of Hormuz is back under ‘full-conflict conditions’ — and energy markets are scrambling]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories</guid>
+      <category>Finance</category>
+    </item>
+    <item>
+      <title>‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?</title>
       <link>https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:16:00 GMT</pubDate>
+      <description>&lt;![CDATA[‘I’d hate to end up with an unexpected tax bill’: I’m 73 and still work full time. Can I avoid paying taxes on my Social Security benefits?]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 20:30:00 GMT</pubDate>
       <guid isPermaLink="true">https://www.marketwatch.com/story/im-73-and-still-work-full-time-can-i-avoid-paying-taxes-on-my-social-security-benefits-06ecc7c2?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>Dakota Johnson quickly sells $6 million midcentury modern home in L.A.</title>
-      <link>https://www.marketwatch.com/story/dakota-johnson-quickly-sells-6-million-midcentury-modern-home-in-l-a-b6fb5e00?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Dakota Johnson quickly sells $6 million midcentury modern home in L.A.]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 09:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/dakota-johnson-quickly-sells-6-million-midcentury-modern-home-in-l-a-b6fb5e00?mod=mw_rss_topstories</guid>
+      <title>Nvidia’s stock trades at a juicy discount, according to BofA</title>
+      <link>https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Nvidia’s stock trades at a juicy discount, according to BofA]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 19:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/nvidias-stock-trades-at-a-juicy-discount-according-to-bofa-93f46d19?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
     <item>
-      <title>After selling her $5 million Westchester home, Drew Barrymore shows off her RV</title>
-      <link>https://www.marketwatch.com/story/after-selling-her-5-million-westchester-home-drew-barrymore-shows-off-her-rv-1d2cccf7?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[After selling her $5 million Westchester home, Drew Barrymore shows off her RV]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/after-selling-her-5-million-westchester-home-drew-barrymore-shows-off-her-rv-1d2cccf7?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>Alibaba just had its best day in 10 months. Is it time for China techs to catch up?</title>
-      <link>https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[Alibaba just had its best day in 10 months. Is it time for China techs to catch up?]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/alibaba-just-had-its-best-day-in-10-months-is-it-time-for-china-techs-to-catch-up-8ccc3f7c?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>It was the world’s hottest stock market. Now South Korea’s stock market has entered bear-market territory</title>
-      <link>https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories</link>
-      <description>&lt;![CDATA[It was the world’s hottest stock market. Now South Korea’s stock market has entered bear-market territory]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 08:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/it-was-the-worlds-hottest-stock-market-now-south-koreas-stock-market-index-has-entered-bear-market-territory-95d70e3d?mod=mw_rss_topstories</guid>
-      <category>Finance</category>
-    </item>
-    <item>
-      <title>US and Iran trade strikes after attacks on tankers</title>
-      <link>https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c</link>
-      <description>&lt;![CDATA[US and Iran trade strikes after attacks on tankers]]&gt;</description>
-      <pubDate>Wed, 08 Jul 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c</guid>
+      <title>Higher gas prices aren’t the only way rising tensions with Iran will hit home</title>
+      <link>https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories</link>
+      <description>&lt;![CDATA[Higher gas prices aren’t the only way rising tensions with Iran will hit home]]&gt;</description>
+      <pubDate>Wed, 08 Jul 2026 19:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/higher-gas-prices-arent-the-only-way-rising-tensions-with-iran-will-hit-home-0a995066?mod=mw_rss_topstories</guid>
       <category>Finance</category>
     </item>
   </channel>
