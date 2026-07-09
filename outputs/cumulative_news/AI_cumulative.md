@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-09 08:17
+**最后更新时间**: 2026-07-09 23:55
+
+---
+
+## 🆕 最新更新 (2026-07-09 23:55)
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出](https://www.qbitai.com/2026/07/447508.html)
+**发布时间**: 2026-07-09 12:18
+
+#### [第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元](https://www.qbitai.com/2026/07/446843.html)
+**发布时间**: 2026-07-09 09:48
+
+#### [「没了李开复，零一万物还有什么？」一个敢问一个敢答](https://www.qbitai.com/2026/07/446778.html)
+**发布时间**: 2026-07-09 07:34
+
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [SensorFM: Towards a general intelligence and interface for wearable health data](https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/)
+**发布时间**: 2026-07-09 09:56
 
 ---
 
