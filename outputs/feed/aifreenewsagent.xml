@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 09 Jul 2026 23:55:00 GMT</pubDate>
-    <lastBuildDate>Thu, 09 Jul 2026 23:57:41 GMT</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 08:14:00 GMT</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:16:18 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出</title>
-      <link>https://www.qbitai.com/2026/07/447508.html</link>
-      <description>&lt;![CDATA[Zero-Shot提升31%！原力灵机DM0.5登场，15万小时数据喂出]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 12:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447508.html</guid>
+      <title>2026-07-10日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-10/</link>
+      <description>&lt;![CDATA[2026-07-10日刊]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 11:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-10/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元</title>
-      <link>https://www.qbitai.com/2026/07/446843.html</link>
-      <description>&lt;![CDATA[第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 09:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/446843.html</guid>
+      <title>AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」</title>
+      <link>https://www.qbitai.com/2026/07/447602.html</link>
+      <description>&lt;![CDATA[AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 04:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447602.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>SensorFM: Towards a general intelligence and interface for wearable health data</title>
-      <link>https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/</link>
-      <description>&lt;![CDATA[SensorFM: Towards a general intelligence and interface for wearable health data]]&gt;</description>
-      <pubDate>Thu, 09 Jul 2026 09:56:00 GMT</pubDate>
-      <guid isPermaLink="true">https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/</guid>
+      <title>行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0</title>
+      <link>https://www.qbitai.com/2026/07/447597.html</link>
+      <description>&lt;![CDATA[行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0]]&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 03:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/447597.html</guid>
       <category>Ai</category>
     </item>
   </channel>
