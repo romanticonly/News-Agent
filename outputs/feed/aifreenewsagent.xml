@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Jul 2026 10:57:00 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2026 10:57:51 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 23:39:00 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:41:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？</title>
-      <link>https://www.qbitai.com/2026/07/449156.html</link>
-      <description>&lt;![CDATA[WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？]]&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 09:27:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449156.html</guid>
+      <title>Agent专用搜索登顶Product Hunt，Token更省搜得更准</title>
+      <link>https://www.qbitai.com/2026/07/449327.html</link>
+      <description>&lt;![CDATA[Agent专用搜索登顶Product Hunt，Token更省搜得更准]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 15:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449327.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>从前沿创新到产业落地：西门子将亮相2026世界人工智能大会</title>
-      <link>https://www.qbitai.com/2026/07/449150.html</link>
-      <description>&lt;![CDATA[从前沿创新到产业落地：西门子将亮相2026世界人工智能大会]]&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 08:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449150.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>问界母公司突发亏损预警！一季度还在盈利</title>
-      <link>https://www.qbitai.com/2026/07/449005.html</link>
-      <description>&lt;![CDATA[问界母公司突发亏损预警！一季度还在盈利]]&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 08:17:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449005.html</guid>
+      <title>Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题</title>
+      <link>https://www.qbitai.com/2026/07/449311.html</link>
+      <description>&lt;![CDATA[Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题]]&gt;</description>
+      <pubDate>Mon, 13 Jul 2026 11:59:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/449311.html</guid>
       <category>Ai</category>
     </item>
   </channel>
