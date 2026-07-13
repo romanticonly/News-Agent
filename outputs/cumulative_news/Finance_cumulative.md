@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 08:01
+**最后更新时间**: 2026-07-13 10:57
+
+---
+
+## 🆕 最新更新 (2026-07-13 10:57)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Global stocks fall as Asian memory chipmakers hammered](https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734)
+**发布时间**: 2026-07-13 10:45
+
+#### [Ukraine’s drone swarms test Moscow air defences](https://www.ft.com/content/4194d23f-4cce-4aaa-bf22-9bf4c953e04e)
+**发布时间**: 2026-07-13 10:29
+
+#### [Investors alarmed as Asian chipmakers take stranglehold on indices](https://www.ft.com/content/734c23c8-73ed-4a4a-8150-49d12d891c30)
+**发布时间**: 2026-07-13 04:00
+
+#### [Should the US redistribute or pre-distribute wealth?](https://www.ft.com/content/f98d880c-6e7f-486c-8336-4a26186a5955)
+**发布时间**: 2026-07-13 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [These biggest and ‘least loved’ stocks are the ones to pick ahead of earnings](https://www.marketwatch.com/story/these-biggest-and-least-loved-stocks-are-the-ones-to-pick-ahead-of-earnings-f7f012e3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 10:38
+
+#### [I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?](https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 10:15
+
+#### [Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed](https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 09:27
+
+#### [My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?](https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 09:15
+
+#### [Geopolitical shock exposes SK Hynix leverage after hot ADR debut](https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 09:12
+
+#### [TSMC just reported a record month for revenue ahead of critical earnings report on Thursday](https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 09:01
+
+#### [Tennis star Jessica Pegula is a billionaire heiress — here’s a look at her family’s vast property portfolio](https://www.marketwatch.com/story/tennis-star-jessica-pegula-is-a-billionaire-heiress-heres-a-look-at-her-familys-vast-property-portfolio-81f78328?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 09:00
+
+#### [Helen Mirren relists her longtime Hollywood Hills estate for $13 million after big renovation](https://www.marketwatch.com/story/helen-mirren-relists-her-longtime-hollywood-hills-estate-for-13-million-after-big-renovation-64f0f89e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-13 08:58
 
 ---
 
