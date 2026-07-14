@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 23:41
+**最后更新时间**: 2026-07-14 13:02
+
+---
+
+## 🆕 最新更新 (2026-07-14 13:02)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why SpaceX and Tesla are ‘value’ stocks, according to this fund manager](https://www.marketwatch.com/story/why-spacex-and-tesla-are-value-stocks-according-to-this-fund-manager-5f59ff86?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 12:58
+
+#### [Consumer prices fall for first time since 2020 pandemic, but fight vs. high inflation isn’t over](https://www.marketwatch.com/story/consumer-prices-fall-for-first-time-since-2020-pandemic-but-fight-vs-high-inflation-isnt-over-1544566d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 12:34
+
+#### [I’m 45 and want to buy an apartment. How can I turn $1,000 into $250,000?](https://www.marketwatch.com/story/im-45-and-want-to-buy-an-apartment-how-can-i-turn-1-000-into-250-000-2fd4b324?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 12:15
+
+#### [Americans are getting better at paying off their $1.25 trillion credit-card debt burden](https://www.marketwatch.com/story/americans-are-getting-better-at-paying-off-their-1-25-trillion-credit-card-debt-burden-a83bea87?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 12:15
+
+#### [AI vs. robo advisers: How they stack up against each other —and human financial advisers](https://www.marketwatch.com/story/ai-vs-robo-advisers-how-they-stack-up-against-each-other-and-human-financial-advisers-3132bb3d?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 12:00
+
+#### [Bank of America’s stock falls despite blockbuster earnings report](https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 11:55
+
+#### [IBM’s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss](https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 11:50
+
+#### [Another warning sign is flashing for tech stocks — and this one comes from outside the U.S.](https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories)
+**发布时间**: 2026-07-14 11:40
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US inflation fell more than expected to 3.5% in June as oil prices tumbled](https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b)
+**发布时间**: 2026-07-14 12:40
+
+#### [Washington and Tehran send warnings by missile](https://www.ft.com/content/42a27e37-9868-4465-9bde-8b5261088608)
+**发布时间**: 2026-07-14 12:24
+
+#### [IBM shares plunge 23% on profit warning](https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95)
+**发布时间**: 2026-07-14 11:57
+
+#### [Democrats are not in great shape](https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac)
+**发布时间**: 2026-07-14 10:55
+
+#### [Wall Street banks post blockbuster profits as equities trading booms](https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e)
+**发布时间**: 2026-07-14 09:29
+
+#### [SoftBank’s Son ridicules AI critics for ‘spitting upwards’](https://www.ft.com/content/fc0d48f4-a2ce-45b1-a0ad-83a0a8409f00)
+**发布时间**: 2026-07-14 05:09
+
+#### [RIP the US state department](https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d)
+**发布时间**: 2026-07-14 04:00
+
+#### [Spain begins Gibraltar airport checks as Brexit reaches the Rock](https://www.ft.com/content/47f8712c-825b-447b-abe5-16b73717fcc3)
+**发布时间**: 2026-07-14 04:00
 
 ---
 

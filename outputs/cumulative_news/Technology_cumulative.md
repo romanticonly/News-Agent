@@ -1,7 +1,144 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-13 23:41
+**最后更新时间**: 2026-07-14 13:02
+
+---
+
+## 🆕 最新更新 (2026-07-14 13:02)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [大晟文化：预计2026上半年归母净利润-3,600万元至-2,300万元](https://www.tmtpost.com/8064743.html)
+**发布时间**: 2026-07-14 20:39
+
+#### [老黄的赌局](https://www.tmtpost.com/8063393.html)
+**发布时间**: 2026-07-14 19:25
+
+#### [AI进入“重工业时代”：万亿算力基建，如何赚钱？](https://www.tmtpost.com/8063974.html)
+**发布时间**: 2026-07-14 19:25
+
+#### [路线分野与终局迷雾：Rokid不想做下一个黑莓](https://www.tmtpost.com/8064197.html)
+**发布时间**: 2026-07-14 19:20
+
+#### [中国机器人，让美国人焦虑了](https://www.tmtpost.com/8064381.html)
+**发布时间**: 2026-07-14 19:20
+
+#### [AI融资489亿背后的焦虑：技术领先者，如何跨越心智鸿沟](https://www.tmtpost.com/8063785.html)
+**发布时间**: 2026-07-14 18:59
+
+#### [烟台这座老工业城市，在AI时代跑出了两只大牛股](https://www.tmtpost.com/8064246.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [“不听劝”的印奇，为什么坚持做智能体手机？ ｜ 对话阶跃星辰](https://www.tmtpost.com/8064239.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [物理AI，让自动驾驶迎来了“第二春”](https://www.tmtpost.com/8064199.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [AI大厂进军医药，但资本市场等不了十年](https://www.tmtpost.com/8064038.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [LibTV把100+AI视频魔法，封装进了这个全球最大的Skill商店里｜测评](https://www.tmtpost.com/8064076.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [佛得角迷上中国“三蹦子”](https://www.tmtpost.com/8064542.html)
+**发布时间**: 2026-07-14 18:58
+
+#### [AI下半场，买“云”不买“芯”？](https://www.tmtpost.com/8063945.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [市值蒸发超5000亿，“酱油茅”海天怎么就不香了？](https://www.tmtpost.com/8063964.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [机器人大脑，值钱的生意还是卖炭的苦活？](https://www.tmtpost.com/8063781.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [有点推荐、良品铺子、金粒门、绝味，哪家最“新鲜”？](https://www.tmtpost.com/8063715.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [上半年又吸金千亿美元，国产创新药BD为何还能“疯狂”？](https://www.tmtpost.com/8063707.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [哈兰德想来中国，入境游接得住吗？](https://www.tmtpost.com/8064373.html)
+**发布时间**: 2026-07-14 18:57
+
+#### [三笔“1元购”撬动20cm涨停，药易购“自救式”产业整合前路仍难测丨并购一线](https://www.tmtpost.com/8064443.html)
+**发布时间**: 2026-07-14 18:07
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [回到第一性原理：塑造 Snowflake 的理念，以及下一步 ｜ Summit 2026](https://www.infoq.cn/video/ffZEu3m2LMOy0cPEbYXl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 19:00
+
+#### [治理 Agentic Enterprise：营销领导者当下必须知道的事 ｜ 技术趋势](https://www.infoq.cn/article/kMa4NtkHgLNFMJ02bIjJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 18:40
+
+#### [随时随地构建：CoCo 现已进入你的桌面、手机与 Slack ｜ 技术趋势](https://www.infoq.cn/article/GDIRmc9ZvzZVT7bWVPCz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 18:01
+
+#### [Agentic Enterprise：Snowflake AI 如何重新定义工作 ｜ Summit 2026](https://www.infoq.cn/video/7hqd5Z9AFMA6h9mtcrtA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:43
+
+#### [用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环](https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:25
+
+#### [快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践](https://www.infoq.cn/article/SEXa3rsGTsStXM7lV7al?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:18
+
+#### [AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用](https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:00
+
+#### [SpaceX联手Cursor的首个AI产品曝光！全能办公智能体内测中，ChatGPT Work迎来劲敌](https://www.infoq.cn/article/uwozdp7L5ex4Z2r7iZRC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 15:10
+
+#### [模型广场邀请有礼，「荐」者有份！](https://www.infoq.cn/article/1iqM9w4qxPJgCfZrickm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 14:42
+
+#### [Node.js 26 带来默认启用的 Temporal API、V8 14.6 和一些功能弃用](https://www.infoq.cn/article/3ZmFy6tOFQgP7OI3BHwm?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 14:31
+
+#### [亚马逊云科技扩展了 DevOps 代理，新增基于 AI 的发布管理功能，可在代码投入生产前进行验证](https://www.infoq.cn/article/Af9AUfyturjojjQvv6QI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:36
+
+#### [连Claude Code都搞不定的巨型代码库，我们靠一个“自愈循环”给盘活了](https://www.infoq.cn/article/hSKvPpuMW3Y1GyyHtt3I?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:08
+
+#### [Fable 5 访问权限再延一周，但Anthropic 的“黑心账本”越来越藏不住了](https://www.infoq.cn/article/eRwadJmvQIvuqaDZKBiz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 11:03
+
+#### [从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践](https://www.infoq.cn/article/RivZJwpYltVDJX5imMUX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:30
+
+#### [可复制的 AI Coding 全栈实战：比 OpenSpec 更轻量、更丝滑](https://www.infoq.cn/article/XfXRhsGiL3CchrQNV4zj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:13
+
+#### [面向 Agentic 负载的下一代 LLM 推理引擎设计实践｜AICon深圳](https://www.infoq.cn/article/fjkG0xhaV42S8sfCayFy?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 10:00
+
+#### [从 AI 取数到智能分析：企业级数据 Agent 的多阶段演进与工程化落地](https://www.infoq.cn/article/LfO7mzdhxMWTtICFuTNb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 09:53
+
+#### [Block将约450个JVM仓库迁入monorepo以降低依赖漂移](https://www.infoq.cn/article/kCkoct1dbzjvDBsmjOFx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 09:44
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 149｜派友热议睡眠数据化、观穹 6×24 望远镜与 RG Rotate 旋转屏掌机](https://sspai.com/post/112320)
+**发布时间**: 2026-07-14 17:27
+
+#### [具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能](https://sspai.com/post/112287)
+**发布时间**: 2026-07-14 15:00
+
+#### [iOS / iPadOS 27 Public Beta 公测版来了：升降级指南 & 注意事项](https://sspai.com/post/112288)
+**发布时间**: 2026-07-14 12:07
+
+#### [派早报：全球智能手机出货量创 13 年来最低水平等](https://sspai.com/post/112286)
+**发布时间**: 2026-07-14 08:25
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 Skill 让 Claude Code 看懂视频，还挺实用的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535343&idx=1&sn=5c13d73a81e83427597b51786885aa1f)
+**发布时间**: 2026-07-14 14:32
 
 ---
 
