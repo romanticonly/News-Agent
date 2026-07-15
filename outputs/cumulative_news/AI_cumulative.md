@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-15 09:45
+**最后更新时间**: 2026-07-15 23:45
+
+---
+
+## 🆕 最新更新 (2026-07-15 23:45)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)
+**发布时间**: 2026-07-15 18:06
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布](https://www.qbitai.com/2026/07/450841.html)
+**发布时间**: 2026-07-15 09:45
+
+#### [主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！](https://www.qbitai.com/2026/07/450831.html)
+**发布时间**: 2026-07-15 09:18
 
 ---
 
