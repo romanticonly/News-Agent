@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-18 06:55
+**最后更新时间**: 2026-07-18 09:15
+
+---
+
+## 🆕 最新更新 (2026-07-18 09:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Martin Wolf: the next crash — why this time might not be different](https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
+
+#### [Your odyssey to see ‘The Odyssey’ matters](https://www.ft.com/content/4e809577-0133-4eae-b897-082b2026270c?syn-25a6b1a6=1)
+**发布时间**: 2026-07-18 04:00
 
 ---
 
