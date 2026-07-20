@@ -1,7 +1,84 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-19 09:44
+**最后更新时间**: 2026-07-20 03:14
+
+---
+
+## 🆕 最新更新 (2026-07-20 03:14)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [西班牙夺冠，中国赞助商赢麻了](https://www.tmtpost.com/8071599.html)
+**发布时间**: 2026-07-20 10:55
+
+#### [具身智能还在“前GPT时代”](https://www.tmtpost.com/8071481.html)
+**发布时间**: 2026-07-20 10:54
+
+#### [具身智能的“ChatGPT时刻”，可能不会同一天到来](https://www.tmtpost.com/8071091.html)
+**发布时间**: 2026-07-20 10:51
+
+#### [都怪Kimi](https://www.tmtpost.com/8071406.html)
+**发布时间**: 2026-07-20 10:36
+
+#### [华尔街搬起Kimi砸自己的脚](https://www.tmtpost.com/8071531.html)
+**发布时间**: 2026-07-20 10:36
+
+#### [WAIC，机器人变了](https://www.tmtpost.com/8071436.html)
+**发布时间**: 2026-07-20 10:30
+
+#### [China’s Humanoid Rental Gold Rush Ends as Service Infrastructure Takes Over](https://www.tmtpost.com/8071553.html)
+**发布时间**: 2026-07-20 10:23
+
+#### [太空算力：当AI竞争开始延伸到地球之外](https://www.tmtpost.com/8071099.html)
+**发布时间**: 2026-07-20 09:31
+
+#### [Edge AI Daily 早报（7月20日）](https://www.tmtpost.com/8071369.html)
+**发布时间**: 2026-07-20 08:55
+
+#### [32亿募资画饼六年后九成补流：露笑科技碳化硅"产业化"的虚与实｜ 钛媒体深度](https://www.tmtpost.com/8066646.html)
+**发布时间**: 2026-07-20 08:30
+
+#### [【钛晨报】中国国新、中国诚通两家央企宣布增持；月之暗面已向投资人发送上市议案，预计最快六个月内在港IPO；世界人工智能合作组织未来将重点开展三方面工作](https://www.tmtpost.com/8071084.html)
+**发布时间**: 2026-07-20 07:20
+
+#### [A股现金流百强榜：谁能真正把钱收回来？](https://www.tmtpost.com/8071343.html)
+**发布时间**: 2026-07-20 00:49
+
+#### [广东上市公司价值重估：金融与硬科技抬升上限，先进制造分层加速](https://www.tmtpost.com/8071341.html)
+**发布时间**: 2026-07-20 00:48
+
+#### [价值判断：跌停板的投资机会和风险提示（7月17日）｜上市公司观察](https://www.tmtpost.com/8071333.html)
+**发布时间**: 2026-07-20 00:48
+
+#### [价值判断：涨停板的投资机会和风险提示（7月17日）｜上市公司观察](https://www.tmtpost.com/8071328.html)
+**发布时间**: 2026-07-20 00:48
+
+#### [论坛直击｜向内探索量子、向外寻求太空：一场”新算力文明”的起点对话](https://www.tmtpost.com/8071079.html)
+**发布时间**: 2026-07-19 22:32
+
+#### [服务就业优先战略 赋能财会行业发展 第23届ACCA全国就业力大赛圆满收官](https://www.tmtpost.com/8065653.html)
+**发布时间**: 2026-07-19 22:32
+
+#### [国际足联腐败史：英国老头、足球的权力共生网络与“免死金牌”](https://www.tmtpost.com/8067353.html)
+**发布时间**: 2026-07-19 20:42
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Agent 会执行，但谁来帮它记住过去？](https://www.infoq.cn/article/p0QuXLlwDxeg3Td9l67t?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 10:51
+
+#### [为敏感的云系统设计连续授权](https://www.infoq.cn/article/1KqNGCc9UamMzojQYs9h?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 09:22
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：锂电池消费税分阶段恢复征收](https://sspai.com/post/112498)
+**发布时间**: 2026-07-20 07:11
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 1 万 Star 的企业 AI 平台，真的能让业务用起来了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535489&idx=1&sn=2b122137eb37e19d8cf958519c1e1693)
+**发布时间**: 2026-07-19 17:27
 
 ---
 
