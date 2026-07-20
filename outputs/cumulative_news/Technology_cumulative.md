@@ -1,7 +1,73 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 03:14
+**最后更新时间**: 2026-07-20 07:51
+
+---
+
+## 🆕 最新更新 (2026-07-20 07:51)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个](https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 15:17
+
+#### [专访孙元浩：乘坐星环号，把数据库“移民火星”的人](https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 15:07
+
+#### [一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践](https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:47
+
+#### [业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳](https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:44
+
+#### [企业级 Harness Engineering 实践：运营、数据、Coding 与办公智能体工程化落地｜AICon深圳](https://www.infoq.cn/article/mbMDGFkUMj9oCaj2ICUq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:36
+
+#### [GMI Cloud联合InfoQ、10+企业重磅发布《中国AI产业核心要素出海发展白皮书》，汇聚 AI 产业共识，盘点出海方法论](https://www.infoq.cn/article/cm9JyEjFfV4toUJabQ80?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:30
+
+#### [AI 红利分层，“底座夯实”的团队获益最高——《DevData 2026 研发效能基准报告》正式发布！](https://www.infoq.cn/article/qgQoeipS5mb1feHBpTpp?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:27
+
+#### [九章云极DataCanvas亮相WAIC 2026，以AI规模化生产体系赋能智能新底座](https://www.infoq.cn/article/tdDBIY9mFVPWbKtOqqFU?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 14:01
+
+#### [谷歌发布A2UI v0.9：可移植、框架无关的生成式UI](https://www.infoq.cn/article/StwWE73yux5uZgyaDaIL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 13:02
+
+#### [企业 AI：方法论易得，交付力难求](https://www.infoq.cn/article/PVEe5yav0IC8MygcVeOM?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 11:32
+
+#### [Grab构建安全的智能体AI工作负载平台](https://www.infoq.cn/article/yQb5j83sxQhXB1EDJrS1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-20 11:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Kimi K3投研能力首发实测！现已搭载AlphaEngineee](https://www.tmtpost.com/8071494.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [光伏的下一程，不在组件厂，而在硅片与胶膜之间](https://www.tmtpost.com/8070768.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [超级IP周星驰又一次大获全胜](https://www.tmtpost.com/8071288.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [当AI盯上了太空的免费太阳丨WAIC见闻录①](https://www.tmtpost.com/8071292.html)
+**发布时间**: 2026-07-20 15:15
+
+#### [WAIC上，具身智能的十宗“最”](https://www.tmtpost.com/8071756.html)
+**发布时间**: 2026-07-20 13:59
+
+#### [人机互动的进化，Soul如何重新定义实时多模态交互丨WAIC2026](https://www.tmtpost.com/8071740.html)
+**发布时间**: 2026-07-20 13:04
+
+#### [具身智能还在“前GPT时代” | WAIC观察](https://www.tmtpost.com/8071481.html)
+**发布时间**: 2026-07-20 10:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [2026 年再看 iPhone 8 Plus，它还够用吗？](https://sspai.com/post/112425)
+**发布时间**: 2026-07-20 11:00
 
 ---
 
