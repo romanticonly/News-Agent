@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-20 07:51
+**最后更新时间**: 2026-07-20 10:38
+
+---
+
+## 🆕 最新更新 (2026-07-20 10:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Scared of the AI trade? Here are three investment themes instead, says Goldman Sachs](https://www.marketwatch.com/story/scared-of-the-ai-trade-here-are-three-investment-themes-instead-says-goldman-sachs-e620a510?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 10:36
+
+#### [I will claim Social Security early. Why do so few people talk about the elephant in the room?](https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 10:30
+
+#### [Why it’s time to retire the Magnificent Seven as a stock-market talking point, say these strategists](https://www.marketwatch.com/story/no-one-talks-about-faang-anymore-now-its-time-to-retire-magnificent-seven-as-well-citigroup-argues-ddf312c5?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 10:02
+
+#### [Is an opportunity to buy chip stocks nearing? These two big Wall Street banks are divided.](https://www.marketwatch.com/story/is-an-opportunity-to-buy-chip-stocks-nearing-these-two-big-wall-street-banks-are-divided-ba1b03af?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 09:35
+
+#### [Inflation is broadening out, says Goldman economist](https://www.marketwatch.com/story/inflation-is-broadening-out-says-goldman-economist-44fa437f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 09:32
+
+#### [We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?](https://www.marketwatch.com/story/we-have-8-million-in-traditional-iras-should-we-tap-them-to-buy-a-house-and-take-the-tax-hit-c2478daa?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 09:30
+
+#### [If history is a guide, there’s still another week before earnings will start to move the stock market](https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 09:18
+
+#### [Sean ‘Diddy’ Combs sells $55 million Miami mansion he tried to use for bail](https://www.marketwatch.com/story/sean-diddy-combs-sells-55-million-miami-mansion-he-tried-to-use-for-bail-3cd2cb02?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 09:02
+
+#### [‘Full House’ creator Jeff Franklin relists $45 million Beverly Hills home built on site of Manson murders](https://www.marketwatch.com/story/full-house-creator-jeff-franklin-relists-45-million-beverly-hills-home-built-on-site-of-manson-murders-4d6a3f07?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 08:59
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil touches $90 as Iran hits tankers](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 09:08
+
+#### [Lockheed to build cheaper Patriot missile to counter drone threat](https://www.ft.com/content/f567af77-801a-48b2-ba59-cf033f599701?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 07:54
+
+#### [Portfolio construction in the shadow of the AI bubble](https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 05:30
+
+#### [Morgan Stanley cashes in on AI boom with debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Iran’s currency tumbles on renewed conflict](https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
 
 ---
 
