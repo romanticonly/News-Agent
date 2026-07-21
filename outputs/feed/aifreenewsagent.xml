@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Jul 2026 23:44:00 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Jul 2026 23:46:16 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 07:25:00 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:27:35 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践</title>
-      <link>https://www.qbitai.com/2026/07/455963.html</link>
-      <description>&lt;![CDATA[WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践]]&gt;</description>
-      <pubDate>Mon, 20 Jul 2026 10:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455963.html</guid>
+      <title>2026-07-21日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-21/</link>
+      <description>&lt;![CDATA[2026-07-21日刊]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-21/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作</title>
+      <link>https://www.qbitai.com/2026/07/455993.html</link>
+      <description>&lt;![CDATA[国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455993.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师</title>
+      <link>https://www.qbitai.com/2026/07/455979.html</link>
+      <description>&lt;![CDATA[阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师]]&gt;</description>
+      <pubDate>Tue, 21 Jul 2026 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455979.html</guid>
       <category>Ai</category>
     </item>
   </channel>
