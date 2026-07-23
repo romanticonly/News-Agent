@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-23 07:27
+**最后更新时间**: 2026-07-23 10:10
+
+---
+
+## 🆕 最新更新 (2026-07-23 10:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why beat-and-raise earnings reports are no longer enough to push the stock market higher](https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 09:48
+
+#### [Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager](https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 09:34
+
+#### [‘It would feel like a burden’: My stepmother, 96, owns the house I grew up in. Is it wrong to tell her I don’t want to inherit it?](https://www.marketwatch.com/story/it-would-feel-like-a-burden-my-stepmother-96-owns-the-house-i-grew-up-in-is-it-wrong-to-tell-her-i-dont-want-to-inherit-it-9d5810c2?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 09:31
+
+#### [The late James Van Der Beek’s former Beverly Hills home up for rent for $13,950 a month](https://www.marketwatch.com/story/the-late-james-van-der-beeks-former-beverly-hills-home-up-for-rent-for-13-950-a-month-c6caf118?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 09:01
+
+#### [Texas Instruments shares are sliding, and its rival is doing even worse. What’s going on in the world of analog semiconductors.](https://www.marketwatch.com/story/texas-instruments-shares-are-sliding-and-its-rival-is-doing-even-worse-whats-going-on-in-the-world-of-analog-semiconductors-e999a8ac?mod=mw_rss_topstories)
+**发布时间**: 2026-07-23 08:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil price surge drives global bond sell-off](https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 08:22
+
+#### [Oil jumps to $98 after Houthis attack two Saudi Arabian tankers](https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 07:50
 
 ---
 
