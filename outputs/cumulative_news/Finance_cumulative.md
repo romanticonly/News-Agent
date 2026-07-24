@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-24 07:25
+**最后更新时间**: 2026-07-24 10:05
+
+---
+
+## 🆕 最新更新 (2026-07-24 10:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I’m still confused’: I sold $80,000 in shares on June 30, so why didn’t I receive my dividend?](https://www.marketwatch.com/story/im-still-confused-i-sold-80-000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-d066016c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 10:00
+
+#### [Here’s what each additional month of Iran-conflict disruption means for oil prices](https://www.marketwatch.com/story/heres-what-each-additional-month-of-iran-conflict-disruption-means-for-oil-prices-e980e9d9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 09:49
+
+#### [I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?](https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 09:30
+
+#### [Hollywood home of Martin Short’s late daughter is listed for $1.8 million](https://www.marketwatch.com/story/hollywood-home-of-martin-shorts-late-daughter-is-listed-for-1-8-million-632e4a12?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 09:03
+
+#### [Wise Group shares tank after U.S. bank charter rejected. What’s next for the fintech.](https://www.marketwatch.com/story/wise-group-shares-tank-after-u-s-bank-charter-rejected-whats-next-for-the-fintech-91be430f?mod=mw_rss_topstories)
+**发布时间**: 2026-07-24 08:06
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil falls back below $100 as Trump weighs ‘massive attack’](https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1)
+**发布时间**: 2026-07-24 07:26
+
+#### [Trump’s dubious nuclear deal with Saudi Arabia](https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a?syn-25a6b1a6=1)
+**发布时间**: 2026-07-23 17:56
 
 ---
 
