@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jul 2026 10:03:00 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jul 2026 10:05:29 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 23:51:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 23:53:43 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场</title>
-      <link>https://www.qbitai.com/2026/07/459402.html</link>
-      <description>&lt;![CDATA[领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 08:50:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/459402.html</guid>
+      <title>合肥又押中AI独角兽：多模态赛道，3个月融了21亿</title>
+      <link>https://www.qbitai.com/2026/07/460154.html</link>
+      <description>&lt;![CDATA[合肥又押中AI独角兽：多模态赛道，3个月融了21亿]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:42:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460154.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？</title>
-      <link>https://www.qbitai.com/2026/07/459262.html</link>
-      <description>&lt;![CDATA[近百名玩家涌入具身数据：一年融资44.7亿，谁能真靠“卖数据”赚钱？]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 07:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/459262.html</guid>
+      <title>国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源</title>
+      <link>https://www.qbitai.com/2026/07/460041.html</link>
+      <description>&lt;![CDATA[国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 14:19:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460041.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里</title>
-      <link>https://www.qbitai.com/2026/07/458617.html</link>
-      <description>&lt;![CDATA[世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里]]&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 07:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/458617.html</guid>
+      <title>菲尔兹奖得主王虹，也发过NeurIPS</title>
+      <link>https://www.qbitai.com/2026/07/460042.html</link>
+      <description>&lt;![CDATA[菲尔兹奖得主王虹，也发过NeurIPS]]&gt;</description>
+      <pubDate>Fri, 24 Jul 2026 11:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/460042.html</guid>
       <category>Ai</category>
     </item>
   </channel>
