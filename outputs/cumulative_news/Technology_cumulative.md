@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-25 23:49
+**最后更新时间**: 2026-07-26 07:30
+
+---
+
+## 🆕 最新更新 (2026-07-26 07:30)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 与前沿部署工程：商业决策智能实践 ｜ Summit 2026](https://www.infoq.cn/video/TV8xhCYdGPx6a38TuzEh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 15:03
+
+#### [先有一致性，才有智能：AI 分析背后的隐性工程 ｜ Summit 2026](https://www.infoq.cn/video/HDxIGC63e5vUWIy7q6qd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 14:00
+
+#### [从迷雾到抓手：让 AI 融入工作本身，释放团队潜能 ｜ Summit 2026](https://www.infoq.cn/video/ffh5hpEOijNNrYtkpNDA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 10:00
+
+#### [Agentic-Native 增长：Zilliz 如何用 AI Agent 支撑超线性业务扩张｜AICon深圳](https://www.infoq.cn/article/w9Xu1REwNa9kLUkjdBJA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-26 10:00
+
+#### [基于 Snowflake 扩展研究数据平台 ｜ Summit 2026](https://www.infoq.cn/video/GpMwjr8xkYwGHXLoDYs0?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-25 11:00
+
+#### [最新发布：用 AI 构建面向 AI-Ready 管道的连接能力 ｜ Summit 2026](https://www.infoq.cn/video/NvAaNKQjNJ4VkBiyUBuZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-24 16:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI坑惨手机圈：大盘崩了，高通们也得靠涨价续命](https://www.tmtpost.com/8079723.html)
+**发布时间**: 2026-07-26 13:00
+
+#### [均价赶超BBA的极氪，陷入“海外锁车”风波](https://www.tmtpost.com/8079582.html)
+**发布时间**: 2026-07-26 09:31
+
+#### [Opus 5冲上第一，还需要Fable 5吗？](https://www.tmtpost.com/8079583.html)
+**发布时间**: 2026-07-26 09:31
+
+#### [特斯拉正在变成一家AI公司](https://www.tmtpost.com/8078858.html)
+**发布时间**: 2026-07-26 09:06
+
+#### [光模块的"科技股幻觉"：当芯片厂商开始定义游戏规则](https://www.tmtpost.com/8075155.html)
+**发布时间**: 2026-07-26 09:06
+
+#### [当AI学会“看人下菜碟”](https://www.tmtpost.com/8078572.html)
+**发布时间**: 2026-07-26 09:03
+
+#### [归零，重新出发：一位投资人的认知重构](https://www.tmtpost.com/8079652.html)
+**发布时间**: 2026-07-26 09:00
+
+#### [Edge AI Daily 早报（7月26日）](https://www.tmtpost.com/8079667.html)
+**发布时间**: 2026-07-26 07:56
 
 ---
 
