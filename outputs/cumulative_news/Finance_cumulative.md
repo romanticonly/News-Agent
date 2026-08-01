@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 07:23
+**最后更新时间**: 2026-08-01 09:49
+
+---
+
+## 🆕 最新更新 (2026-08-01 09:49)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Fifa abandons $20bn investment plan after global backlash](https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 08:44
+
+#### [Trouble at lunchtime as Hong Kong private club spat escalates](https://www.ft.com/content/da564e49-d7bb-48c9-a5d9-b847b596b23e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-01 02:10
+
+#### [Google Earth AI tool pulled after spate of fake satellite images](https://www.ft.com/content/06b7545b-94a0-4a5d-9c21-0c7852771b41?syn-25a6b1a6=1)
+**发布时间**: 2026-07-31 20:03
 
 ---
 

@@ -1,7 +1,70 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-01 07:23
+**最后更新时间**: 2026-08-01 09:49
+
+---
+
+## 🆕 最新更新 (2026-08-01 09:49)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WAIC 收官真心话：数百家机器人刷屏背后，AI 究竟重写了什么？](https://www.infoq.cn/article/D9d8F0SUE4gCrXbbyU8N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 17:20
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI大厂，打起了“Token奶茶大战”](https://www.tmtpost.com/8088011.html)
+**发布时间**: 2026-08-01 17:06
+
+#### [数百万本书，被Claude“阅后即焚”](https://www.tmtpost.com/8088012.html)
+**发布时间**: 2026-08-01 16:41
+
+#### [字节为什么一定要拆飞书？](https://www.tmtpost.com/8088001.html)
+**发布时间**: 2026-08-01 16:41
+
+#### [蔡崇信这场离婚，没瓜可吃才是最该看懂的事](https://www.tmtpost.com/8088043.html)
+**发布时间**: 2026-08-01 16:33
+
+#### [一群富豪的牛津梦，标价108万](https://www.tmtpost.com/8087957.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [“榨”出硅的极限：怎么让GPU不“闲着”？](https://www.tmtpost.com/8088046.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [自研大模型的马斯克，把豆包装进了特斯拉](https://www.tmtpost.com/8087804.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [车型越多，死得越快？全球车企正在抛弃车海战术](https://www.tmtpost.com/8087383.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [撤档、提档、空降、点映，什么制造了史上最激烈的暑期档](https://www.tmtpost.com/8087665.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [Qwen还是看到了开源的好](https://www.tmtpost.com/8087652.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [重组ToB业务，字节在赌什么？](https://www.tmtpost.com/8087590.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [“非洲之王”传音控股：“V型”反弹之后，市场在犹豫什么？](https://www.tmtpost.com/8087203.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [苹果的5万亿美元时刻：最强财报，最弱AI](https://www.tmtpost.com/8087556.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [独家|行深智能创始人退出公司管理，C轮资方全面接管](https://www.tmtpost.com/8087401.html)
+**发布时间**: 2026-08-01 16:19
+
+#### [存储巨头赚翻了，下游扛不住了](https://www.tmtpost.com/8087502.html)
+**发布时间**: 2026-08-01 16:19
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [3 个最近在 GitHub 上非常火火火的项目，最后一个有创意。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535657&idx=1&sn=8d2c507794ca4e7133a1e15aeac20eee)
+**发布时间**: 2026-08-01 11:26
+
+#### [知名搜索框架 Firecrawl 开源的 Web Agent。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535657&idx=2&sn=b1bdc5b6ee5442e783e2dbeb226bab68)
+**发布时间**: 2026-08-01 11:26
 
 ---
 
