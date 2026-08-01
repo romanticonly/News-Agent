@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-31 10:26
+**最后更新时间**: 2026-08-01 07:23
+
+---
+
+## 🆕 最新更新 (2026-08-01 07:23)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [FCC禁令之后，具身智能企业还能站上CES2027么？｜ 出海参考](https://www.tmtpost.com/8087586.html)
+**发布时间**: 2026-08-01 14:31
+
+#### [谁在成为人形机器人的Tier 1？](https://www.tmtpost.com/8087356.html)
+**发布时间**: 2026-08-01 10:18
+
+#### [少投入不是苹果的免死金牌](https://www.tmtpost.com/8087406.html)
+**发布时间**: 2026-08-01 10:18
+
+#### [AI 重构公司，字节肢解飞书，豆包接驳抖音](https://www.tmtpost.com/8087238.html)
+**发布时间**: 2026-08-01 10:08
+
+#### [ChinaJoy的确一年不如一年](https://www.tmtpost.com/8087712.html)
+**发布时间**: 2026-08-01 10:06
+
+#### [AI来了，大厂中层不好混了](https://www.tmtpost.com/8087825.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [Seedance 2.5，要给机器人打工了](https://www.tmtpost.com/8087245.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [阿里距离AI Coding两连冠只差5个月](https://www.tmtpost.com/8087204.html)
+**发布时间**: 2026-08-01 09:56
+
+#### [华尔街最著名的“乌鸦嘴”，这次又盯上了英伟达](https://www.tmtpost.com/8087840.html)
+**发布时间**: 2026-08-01 09:46
+
+#### [Edge AI Daily 早报（8月1日）](https://www.tmtpost.com/8087806.html)
+**发布时间**: 2026-08-01 08:16
+
+#### [从裁员到降本，宝马打响一场利润保卫战](https://www.tmtpost.com/8087700.html)
+**发布时间**: 2026-07-31 22:55
+
+#### [皇氏集团三月两易股权受让方，顶级投资人溢价接盘真实意图待解](https://www.tmtpost.com/8087582.html)
+**发布时间**: 2026-07-31 20:29
+
+#### [Autonomous Intelligence and the End of Productivity Software](https://www.tmtpost.com/8087563.html)
+**发布时间**: 2026-07-31 19:34
+
+#### [晶圆级芯片，正在升温](https://www.tmtpost.com/8085583.html)
+**发布时间**: 2026-07-31 18:51
+
+#### [为什么大疆Pocket 4在闲鱼涨价卖，而影石Luna Ultra却被“贴钱甩”？](https://www.tmtpost.com/8085617.html)
+**发布时间**: 2026-07-31 18:51
+
+#### [“寒王”包人均超百万“大红包”，但想拿到不容易](https://www.tmtpost.com/8085653.html)
+**发布时间**: 2026-07-31 18:50
+
+#### [教培五周年，教培行业如何了](https://www.tmtpost.com/8086313.html)
+**发布时间**: 2026-07-31 18:50
+
+#### [从计算到存储：二维半导体产业链正在形成](https://www.tmtpost.com/8085581.html)
+**发布时间**: 2026-07-31 18:46
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [92% 工程师都在用 AI 后，Uber 开始给 AI “限额”了](https://www.infoq.cn/article/Iu2dhFs8JiFqoUGuXJ4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 14:05
+
+#### [Quick BI 数据分析智能体的可靠工程实践｜AICon深圳](https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+#### [硬停止规则：从 3 个 HCM 单体应用到 120 个领域微服务](https://www.infoq.cn/article/1GC0U88AkvaWbqO1DNlR?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-01 10:00
+
+#### [Agent 成本失控背后：上下文、人工审核与维护成本正在被低估｜请回答 WAIC 2026](https://www.infoq.cn/article/x4PTF8mgDBvtQQYa8B97?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:48
+
+#### [下一个国民级 AI 产品，或许就诞生于一人之手](https://www.infoq.cn/article/uZNH5KLzR1efgGEG0wEq?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:44
+
+#### [Agent 形态一天一个样，Infra 到底该为谁而建？| 请回答 WAIC 2026](https://www.infoq.cn/article/spxwy17ZcfM3BIctR4PL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-31 18:39
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [「弯道超车」赛车入门指北：进站不只为换胎，策略里的那本时间账](https://sspai.com/post/112701)
+**发布时间**: 2026-08-01 12:54
+
+#### [本月玩什么｜节奏天国、斯普拉遁 涂击队、刺客信条：黑旗 记忆重置](https://sspai.com/post/112962)
+**发布时间**: 2026-07-31 18:49
+
+#### [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/112961)
+**发布时间**: 2026-07-31 17:57
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [Seedance 2.5发布，单次视频时长翻倍；美团上线外卖「等灯停表」功能；长鑫科技突破 4 万亿](http://www.geekpark.net/news/368270)
+**发布时间**: 2026-08-01 08:42
 
 ---
 
