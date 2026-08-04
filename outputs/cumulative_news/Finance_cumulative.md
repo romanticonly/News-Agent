@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-04 07:30
+**最后更新时间**: 2026-08-04 10:25
+
+---
+
+## 🆕 最新更新 (2026-08-04 10:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [If I marry my girlfriend, 67, will she lose her Supplemental Security Income and divorced spouse benefits?](https://www.marketwatch.com/story/if-i-marry-my-girlfriend-67-will-she-lose-her-supplemental-security-income-and-divorced-spouse-benefits-9340bab9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 10:15
+
+#### [I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?](https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 10:00
+
+#### [AI displacement in the workplace is increasing – and affecting young people most](https://www.marketwatch.com/story/ai-displacement-in-the-workplace-is-increasing-and-affecting-young-people-most-22ab61cc?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 09:39
+
+#### [Energy shock delivers 144% boost in profits for BP](https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 09:25
+
+#### [Meg Ryan finds a buyer for picturesque $15.25 million Hamptons property](https://www.marketwatch.com/story/meg-ryan-finds-a-buyer-for-picturesque-15-25-million-hamptons-property-7d40dda5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-04 09:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Ukrainian drones hit Wildberries warehouses in overnight strikes](https://www.ft.com/content/4d9d5f1a-df3e-490e-9567-f7f7f968f3a4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 08:57
+
+#### [BP to sell $4bn US biogas business as profits more than double](https://www.ft.com/content/fa298199-b824-4ca9-a3a0-440eb320ac61?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 07:24
+
+#### [HSBC resumes share buybacks as quarterly profits soar to $10.1bn](https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 05:39
+
+#### [How the UAE is building an African empire](https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-04 04:00
 
 ---
 
