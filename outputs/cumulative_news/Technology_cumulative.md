@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 07:31
+**最后更新时间**: 2026-08-05 10:20
+
+---
+
+## 🆕 最新更新 (2026-08-05 10:20)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [一个 npm 恶意包，2小时毁掉数十亿下载？GitHub 终于给自动升级按下暂停键](https://www.infoq.cn/article/mHKwxgo5SqfmtZEESCrN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 18:00
+
+#### [IPO冲刺中，智元机器人核心班底“华为化”：前谷歌科学家从合伙人名单消失](https://www.infoq.cn/article/mFDVYdsliuDByQKcWFkh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 17:00
+
+#### [AICon 深圳 2026 全日程揭晓｜聚焦 Agent 工程化，构建可靠智能的技术路径](https://www.infoq.cn/article/1Xo5TimSeStpOARWhElb?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 16:14
+
+#### [可观测性厂商 AI 大战开始：Grafana、Datadog、Splunk 全部入场](https://www.infoq.cn/article/0slNEHoKwzuJdxD7D1fJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 16:00
+
+#### [Ming-Flash-Omni：全模态统一大模型的关键技术与实践](https://www.infoq.cn/article/OlBv9DATXabu0bb4kAPt?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:57
+
+#### [开出AI界最高薪的Anthropic，抱怨员工为钱而来？全网“阴阳”：和你死活反开源一样](https://www.infoq.cn/article/qYp5NCloR64emA3Bq11F?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 15:25
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [特斯拉舍不得中国制造，却想把中国业务挡在SpaceX门外](https://www.tmtpost.com/8090989.html)
+**发布时间**: 2026-08-05 17:54
+
+#### [康师傅估值折价的根源，是对周期和赛道的错判](https://www.tmtpost.com/8091883.html)
+**发布时间**: 2026-08-05 17:40
+
+#### [八毛发全国的申通快递，因安全问题栽跟头了](https://www.tmtpost.com/8092118.html)
+**发布时间**: 2026-08-05 17:23
+
+#### [AI的钱，被谁赚走了？](https://www.tmtpost.com/8091813.html)
+**发布时间**: 2026-08-05 17:23
+
+#### [微软换心 Polaris：一场给 FTC 的合规考勤，和端侧入口税的预售票](https://www.tmtpost.com/8091729.html)
+**发布时间**: 2026-08-05 17:11
+
+#### [景泽生物三闯港交所：促排卵针获批一年多，商业化收入为何挂零？](https://www.tmtpost.com/8091669.html)
+**发布时间**: 2026-08-05 17:04
+
+#### [碧桂园错过长鑫490亿，和它身后的民企十年](https://www.tmtpost.com/8092226.html)
+**发布时间**: 2026-08-05 16:38
+
+#### [黄仁勋联合70家巨头的反垄断檄文：硅谷“大分裂”背后，一场关乎算力基本盘的生死博弈](https://www.tmtpost.com/8092004.html)
+**发布时间**: 2026-08-05 16:36
+
+#### [还没把英伟达送上天，SpaceX股价先跌入地了](https://www.tmtpost.com/8092106.html)
+**发布时间**: 2026-08-05 16:35
+
+#### [模拟芯片，好起来了](https://www.tmtpost.com/8091411.html)
+**发布时间**: 2026-08-05 16:35
+
+#### [700亿牛蛙产业，困于抗生素](https://www.tmtpost.com/8092313.html)
+**发布时间**: 2026-08-05 16:35
+
+#### [孙正义的"作业"，终于开始交了](https://www.tmtpost.com/8091510.html)
+**发布时间**: 2026-08-05 16:35
+
+#### [模型打底、千问办公上桌，阿里再战 AI 局](https://www.tmtpost.com/8091528.html)
+**发布时间**: 2026-08-05 16:35
+
+#### [失控的硅谷AI越狱连续剧](https://www.tmtpost.com/8092249.html)
+**发布时间**: 2026-08-05 16:35
+
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [办公 Agent 爆火，模型大战进入下一阶段](http://www.geekpark.net/news/368429)
+**发布时间**: 2026-08-05 16:42
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Bookology：从藏书到笔记，打造你的私人阅读档案](https://sspai.com/post/112953)
+**发布时间**: 2026-08-05 15:15
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [盘点 2 个看起来贼炫酷酷酷的 GitHub 项目，炒的还挺火的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535746&idx=1&sn=5dc86d578fc19500339d592aceea6f82)
+**发布时间**: 2026-08-05 13:21
 
 ---
 
