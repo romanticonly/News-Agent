@@ -1,7 +1,85 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-05 10:20
+**最后更新时间**: 2026-08-05 23:46
+
+---
+
+## 🆕 最新更新 (2026-08-05 23:46)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [【钛晨报】商务部新闻发言人就对美系列涉华消极措施实施反制答记者问；宇树科技开启科创板IPO初步询价，市场预估IPO市值或将超400亿元；段永平持仓从7.65%降至5.55%，泡泡玛特澄清：不是主动减持](https://www.tmtpost.com/8092739.html)
+**发布时间**: 2026-08-06 07:20
+
+#### [艾斯迪：客户高度集中，资金紧张仍分红，临上会剔除补流项目｜IPO观察](https://www.tmtpost.com/8092274.html)
+**发布时间**: 2026-08-05 22:48
+
+#### [35亿定增获受理与创始人被刑拘同期发酵：ST人福的国资改造与旧局清算](https://www.tmtpost.com/8092748.html)
+**发布时间**: 2026-08-05 22:47
+
+#### [森峰激光三重困局：净利润连续下滑，重营销轻研发，实控人对赌债务悬顶｜IPO观察](https://www.tmtpost.com/8092284.html)
+**发布时间**: 2026-08-05 22:47
+
+#### [当电竞显示不再卷参数，谁在定义下一代屏幕？](https://www.tmtpost.com/8090539.html)
+**发布时间**: 2026-08-05 21:00
+
+#### [暑期热浪下的冷思考：租车行业暗战升级，头部角逐全场景生态](https://www.tmtpost.com/8092604.html)
+**发布时间**: 2026-08-05 19:13
+
+#### [The Office Agent Race Shifts From Chatbots to Organizational Work](https://www.tmtpost.com/8092632.html)
+**发布时间**: 2026-08-05 18:51
+
+#### [顺丰终于又找到了一个单价更高的业务](https://www.tmtpost.com/8092473.html)
+**发布时间**: 2026-08-05 18:43
+
+#### [默沙东“接棒”计划](https://www.tmtpost.com/8092468.html)
+**发布时间**: 2026-08-05 18:43
+
+#### [五路零售巨头入场，竞速硬折扣](https://www.tmtpost.com/8090393.html)
+**发布时间**: 2026-08-05 18:25
+
+#### [三星中国，再退一步](https://www.tmtpost.com/8092456.html)
+**发布时间**: 2026-08-05 18:22
+
+#### [为什么供应链“计划-执行-反馈”闭环是人类迄今最难的AI问题](https://www.tmtpost.com/8092454.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [特斯拉还在画饼，中国机器人已经霸榜全球前五](https://www.tmtpost.com/8092448.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [Anthropic百亿美元算力长协浮出水面](https://www.tmtpost.com/8092430.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [长鑫科技上市史，在巨头裂缝里照进光](https://www.tmtpost.com/8092230.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [AMD的"第二名诅咒"](https://www.tmtpost.com/8092165.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [4万吨产能、台积电认证，为什么撑不起多氟多2%的营收](https://www.tmtpost.com/8092005.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [李嘉诚岳父家族，冲刺港股IPO](https://www.tmtpost.com/8092124.html)
+**发布时间**: 2026-08-05 18:21
+
+#### [平安好医生：杠杆上的舞者](https://www.tmtpost.com/8092048.html)
+**发布时间**: 2026-08-05 18:21
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [近 300万人围观卡帕西亲测 Opus 5：两小时写完 5500 行代码， 却连自己写的游戏都玩不了](https://www.infoq.cn/article/YdQ7vD3WwZpib8yuzNfF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 22:59
+
+#### [苹果指控 OpenAI挖人、拿零件、偷文件，OpenAI 晒聊天记录全面反击！马斯克：别信 OpenAI](https://www.infoq.cn/article/rvVpcZspLiqGpPQq6HPw?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 22:36
+
+#### [不碰核心代码、把7-Zip压缩速度提高97%：一个“外行”与 AI 的极致优化实验](https://www.infoq.cn/article/Qp04AcNuAM8YqtVQHyu3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-05 18:45
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [196 张盗版碟，和我的游戏启蒙史](https://sspai.com/post/112831)
+**发布时间**: 2026-08-05 17:24
 
 ---
 
