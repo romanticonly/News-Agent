@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-08 05:34
+**最后更新时间**: 2026-08-08 23:17
+
+---
+
+## 🆕 最新更新 (2026-08-08 23:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How can we minimize taxes in retirement with a $2.3 million nest egg — while buying homes in Florida and New England?](https://www.marketwatch.com/story/how-can-we-minimize-taxes-in-retirement-with-a-2-3-million-nest-egg-while-buying-homes-in-florida-and-new-england-9e2449aa?mod=mw_rss_topstories)
+**发布时间**: 2026-08-08 19:00
+
+#### [Don’t worry about what other people have saved for retirement. Here’s how to find your perfect number.](https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-08 18:37
+
+#### [I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?](https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-08 18:30
+
+#### [‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?](https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories)
+**发布时间**: 2026-08-08 18:30
+
+#### [Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?](https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories)
+**发布时间**: 2026-08-08 17:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tehran says US must ‘rectify its behaviour’ before Iran reopens strait](https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 16:20
+
+#### [Greg Abel finally puts Buffett’s cash pile to work](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 15:36
+
+#### [US Senate narrowly confirms Todd Blanche as US attorney-general](https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 14:24
+
+#### [Landmark crypto bill stalls in US Senate despite $225mn spending push](https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 11:00
 
 ---
 
