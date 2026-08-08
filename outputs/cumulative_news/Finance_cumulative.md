@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-07 23:24
+**最后更新时间**: 2026-08-08 05:34
+
+---
+
+## 🆕 最新更新 (2026-08-08 05:34)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Forget Asimov. Philip K Dick saw the future](https://www.ft.com/content/bdcf7729-3b03-49ec-82fb-b5773fdaa990)
+**发布时间**: 2026-08-08 04:00
+
+#### [The exciting boring decade](https://www.ft.com/content/10f9922c-4667-4fb9-b2a0-6f3264ef0b09?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 04:00
+
+#### [The US bares its financial weak spot](https://www.ft.com/content/fb49381a-3e09-4666-85b0-7a171e01394e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 04:00
+
+#### [China’s biggest travel site grapples with watchdog’s reservations](https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-08 00:54
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’](https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-07 20:54
 
 ---
 
