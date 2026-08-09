@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-08 23:17
+**最后更新时间**: 2026-08-09 05:40
+
+---
+
+## 🆕 最新更新 (2026-08-09 05:40)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investors return to European stocks as strong earnings lift Iran war gloom](https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 04:00
+
+#### [How a made-up agency found its way into Nigeria’s budget](https://www.ft.com/content/4b71db50-0edb-42f3-bd74-faeb7c739e53?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 04:00
+
+#### [The Bayeux Tapestry loan is a model for the Parthenon Marbles](https://www.ft.com/content/d45a8e1b-1d45-4a3d-a3d2-5a3ce15b0e9d)
+**发布时间**: 2026-08-09 04:00
+
+#### [France faces budget showdown as presidential election looms](https://www.ft.com/content/0ac50644-398f-49ec-895d-a2494254dabd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 04:00
+
+#### [Turkey’s cyber law shifts sweeping powers to presidency](https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 04:00
+
+#### [The bank behind China’s AI listings bonanza](https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 01:22
 
 ---
 
