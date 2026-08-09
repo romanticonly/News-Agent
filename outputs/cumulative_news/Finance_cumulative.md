@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-09 05:40
+**最后更新时间**: 2026-08-09 23:20
+
+---
+
+## 🆕 最新更新 (2026-08-09 23:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures dip as investors await inflation data, grapple with more Iran uncertainty](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-09 23:15
+
+#### [The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.](https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-09 19:11
+
+#### [S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.](https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-09 14:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran replaces top security official at crucial moment in talks over Strait of Hormuz](https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 22:23
+
+#### [Organised crime suspect Daniel Kinahan extradited from Dubai to Ireland](https://www.ft.com/content/a6a000a4-3578-41d0-a898-aeef5f1dbaa0)
+**发布时间**: 2026-08-09 21:37
+
+#### [Trump is dismantling US guardrails, warn former security officials](https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 16:00
+
+#### [Netanyahu rejects Trump’s Gaza disarmament plan](https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 15:17
+
+#### [America’s hidden M&A boom](https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 15:00
+
+#### [Could AI create a ‘permanent underclass’?](https://www.ft.com/content/ddf44cf7-0ab5-4e7e-9b1f-e5e8e34181e6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-09 11:30
 
 ---
 
