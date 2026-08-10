@@ -1,7 +1,35 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-09 23:20
+**最后更新时间**: 2026-08-10 06:07
+
+---
+
+## 🆕 最新更新 (2026-08-10 06:07)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic](https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+#### [How the UAE won over Washington](https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+#### [Putin’s war machine scours the home front for recruits](https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+#### [New York is having a summer for the ages](https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+#### [German economy minister warns AfD’s rise could deter investors](https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+#### [Europe faces rocket launcher shortage by 2030, space agency chief warns](https://www.ft.com/content/b3a4fbe1-1d0a-47a0-8a6a-148f2a482678?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 03:02
 
 ---
 
