@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 09:05
+**最后更新时间**: 2026-08-10 23:23
+
+---
+
+## 🆕 最新更新 (2026-08-10 23:23)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga](https://www.marketwatch.com/story/ebay-may-dodge-a-gamestop-takeover-but-theres-a-new-twist-in-the-ryan-cohen-saga-d779b753?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:54
+
+#### [Archer strikes deal with Boeing in latest bid to transform aviation through AI](https://www.marketwatch.com/story/archer-strikes-deal-with-boeing-in-latest-bid-to-transform-aviation-through-ai-dac15322?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:52
+
+#### [Apple’s stock could underperform, especially without an ‘all-glass’ iPhone, this analyst warns](https://www.marketwatch.com/story/apples-stock-could-underperform-especially-without-an-all-glass-iphone-this-analyst-warns-fc9a750c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:49
+
+#### [Intel plans to sell $15 billion worth of stock after it has risen 400% in a year](https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year-395effce?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:46
+
+#### [This Nvidia change could spell good news for Micron](https://www.marketwatch.com/story/this-nvidia-change-could-spell-good-news-for-micron-80449e59?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:42
+
+#### [SpaceX’s stock moves above its IPO price for the first time in almost a month](https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:39
+
+#### [Here’s who stands to gain the most from a Jeff Bezos-Liverpool FC deal](https://www.marketwatch.com/story/heres-who-stands-to-gain-the-most-from-a-jeff-bezos-liverpool-fc-deal-24db9b94?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 22:33
+
+#### [Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings](https://www.marketwatch.com/story/rocket-lab-reveals-some-big-plans-but-its-stock-is-dropping-on-mixed-earnings-4012ba2b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 21:37
+
+#### [Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.](https://www.marketwatch.com/story/fed-chair-kevin-warsh-promises-2-inflation-but-skyrocketing-u-s-debt-makes-that-a-pipe-dream-ba448651?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 21:32
+
+#### [I looked into buying a house in Singapore as an investment. Here’s why I didn’t — despite the 2% mortgage rate.](https://www.marketwatch.com/story/i-looked-into-buying-a-house-in-singapore-as-an-investment-heres-why-i-didnt-despite-the-2-mortgage-rate-50c79bcf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 21:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI’s head of ethics leaves start-up less than one year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 22:35
+
+#### [Trump media group racks up losses and pushes into nuclear fusion](https://www.ft.com/content/039049ee-bd0b-4e16-8a1c-77704933d56a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 22:10
+
+#### [Wall Street giants partner with Nvidia on $500bn AI financing deal](https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 21:42
+
+#### [Iran’s supreme leader tightens grip with top appointments](https://www.ft.com/content/34299f83-9c49-4332-9d0f-d4f369d7a233?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 21:30
+
+#### [Yen sinks as effect of US-Japan intervention fades](https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 20:17
+
+#### [AI will boost oil and gas production more than green energy, report finds](https://www.ft.com/content/8f16a902-3e80-462c-add8-b841494d1808?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 17:38
+
+#### [Just how big is the hidden leverage of AI hyperscalers?](https://www.ft.com/content/a0a07cce-6d19-4b1e-a73b-9855a06ba7b3)
+**发布时间**: 2026-08-10 12:27
+
+#### [Trump and the failure of the Fafo doctrine](https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 11:51
+
+#### [Mark Zuckerberg attacks ‘closed’ AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 10:00
+
+#### [Your move, BoJ](https://www.ft.com/content/8ca25b96-f8eb-49b1-a259-b7314ef4741a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 05:30
 
 ---
 
