@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 06:07
+**最后更新时间**: 2026-08-10 09:05
+
+---
+
+## 🆕 最新更新 (2026-08-10 09:05)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [How ‘Ted Lasso’ turned an affluent London neighborhood into a tourist hotspot](https://www.marketwatch.com/story/how-ted-lasso-turned-an-affluent-london-neighborhood-into-a-tourist-hotspot-a7cbf0eb?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 09:04
+
+#### [From ‘Billionaire Bunker’ to Beverly Hills: The properties that make up Jeff Bezos’ $500 million real estate empire](https://www.marketwatch.com/story/from-billionaire-bunker-to-beverly-hills-the-properties-that-make-up-jeff-bezos-500-million-real-estate-empire-5aec38c3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 09:02
+
+#### [Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well](https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories)
+**发布时间**: 2026-08-10 08:21
 
 ---
 
