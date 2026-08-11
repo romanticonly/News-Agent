@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-10 23:23
+**最后更新时间**: 2026-08-11 05:46
+
+---
+
+## 🆕 最新更新 (2026-08-11 05:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [EU border checks double queues at major airports](https://www.ft.com/content/42137dd8-8fdc-4d66-b193-ca52d51bd929?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 04:01
+
+#### [The AI threat to India’s IT jobs machine](https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 04:00
+
+#### [Maga ignores the many meanings of Mount Rushmore](https://www.ft.com/content/d5abcd42-b3b4-4241-8fd1-1c53217ea81e)
+**发布时间**: 2026-08-11 04:00
+
+#### [Does Africa have too few people?](https://www.ft.com/content/6069de36-4e15-4b5f-b9e1-dd85c2b29673?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 04:00
+
+#### [Spain’s migrant amnesty a ‘very bad idea’, says Swedish PM](https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 04:00
+
+#### [Can a 30-person start-up build Britain’s answer to OpenAI?](https://www.ft.com/content/02e29d7f-9e3e-4977-a5d3-ea3f2d9efd10?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 04:00
+
+#### [Hong Kong set to include trading firms in ‘big bang’ tax reforms](https://www.ft.com/content/c9c7c2dc-979e-49b2-a57f-77bb461bb7db?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 02:50
+
+#### [Shein IPO pitched to investors at sub-$30bn valuation](https://www.ft.com/content/62d3a32d-8a38-4136-b32c-36f25099b91f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-10 14:15
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure](https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 02:28
+
+#### [This is the ZIP code with the hottest housing market in the country right now](https://www.marketwatch.com/story/this-is-the-hottest-zip-code-where-homes-are-selling-fast-2c642716?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 00:15
 
 ---
 
