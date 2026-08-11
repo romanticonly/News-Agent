@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 08:43
+**最后更新时间**: 2026-08-11 23:29
+
+---
+
+## 🆕 最新更新 (2026-08-11 23:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?](https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 22:30
+
+#### [Lumentum sees sales more than double as AI demand swells](https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 22:22
+
+#### [Is $1 million enough for a household to retire? The answer keeps changing.](https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 22:00
+
+#### [Super Micro’s earnings report brings more good news, and the stock is climbing](https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 21:49
+
+#### [CoreWeave’s stock soars as earnings show major AI momentum](https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 21:17
+
+#### [I found a $100 bill in the communal washer at my Airbnb. What should I do?](https://www.marketwatch.com/story/im-dreaming-of-cocktails-at-chateau-marmont-i-found-100-in-my-airbnbs-communal-washer-what-should-i-do-9694ecca?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 21:15
+
+#### [‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?](https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 21:00
+
+#### [We live on a farm and have $2.2 million saved for retirement. We’re ready to retire abroad. Can we afford it?](https://www.marketwatch.com/story/we-live-on-a-farm-and-have-2-2-million-saved-for-retirement-were-ready-to-retire-abroad-can-we-afford-it-85e56105?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 20:58
+
+#### [Cava reports sales growth even as some customers steer clear of lettuce](https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 20:41
+
+#### [Oracle’s stock has taken a hit as AI spending concerns resurface](https://www.marketwatch.com/story/oracles-stock-has-taken-a-hit-as-ai-spending-concerns-resurface-bdb9bf09?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 20:32
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Panama Canal fees hit record high as El Niño and Iran war choke shipping](https://www.ft.com/content/38083cb5-3892-40a1-b90f-102109f96b17?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 21:07
+
+#### [US fires on ship it says violated Iran blockade](https://www.ft.com/content/ac651a05-9285-4020-85e2-47fcd8936320?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 20:51
+
+#### [Moscow releases former US Marine after four-year stint in Russian prison](https://www.ft.com/content/c1296b77-a8a4-4cfc-aebc-a2f0d62af25f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 17:51
+
+#### [US judge cites ‘concerning’ irregularities in Adani fraud case](https://www.ft.com/content/5010fd54-5982-47c7-801a-e0a354a71c31?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 17:29
+
+#### [Will failure in Iran reshape how the US fights?](https://www.ft.com/content/5bdb67a5-5c53-46aa-8a04-d0480e700ee4)
+**发布时间**: 2026-08-11 16:23
+
+#### [Democratic socialist leads Wisconsin race in new threat to party leadership](https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 13:00
+
+#### [Humans cannot remain passengers in the back of the AGI car](https://www.ft.com/content/33094bff-546e-4ac2-a949-af2e9daaa3f0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 12:44
+
+#### [Volatility tumbles as markets shrug off Middle East risks](https://www.ft.com/content/39fde44e-9a63-401e-8f8e-ddf5d7f512e4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 12:20
+
+#### [Goldman staff named as suspects in Brazil investigation](https://www.ft.com/content/248cdbf4-b047-45d3-b543-a343135132b0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 07:47
+
+#### [How investors killed AstraZeneca’s $400bn megadeal](https://www.ft.com/content/2eb0a79c-f5cd-415c-9f72-3c8d576329c1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-11 05:59
 
 ---
 

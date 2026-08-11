@@ -1,7 +1,89 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 08:43
+**最后更新时间**: 2026-08-11 23:29
+
+---
+
+## 🆕 最新更新 (2026-08-11 23:29)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [AI 硬件都在做加法，阅星曈靠一块「减法屏」拿下近 5000 万融资](http://www.geekpark.net/news/368690)
+**发布时间**: 2026-08-11 21:00
+
+#### [对话格式塔彭雷：AI 的下一站，是解读人的大脑](http://www.geekpark.net/news/368694)
+**发布时间**: 2026-08-11 21:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [昀冢科技定增豪赌MLCC背后：连亏4年，资产负债率超92%](https://www.tmtpost.com/8099434.html)
+**发布时间**: 2026-08-11 20:57
+
+#### [新消费四姐妹这一年](https://www.tmtpost.com/8098990.html)
+**发布时间**: 2026-08-11 18:38
+
+#### [字节AI，不装了：收税12%、不蒸馏、赌5万亿](https://www.tmtpost.com/8098796.html)
+**发布时间**: 2026-08-11 18:38
+
+#### [苹果的买方霸权，第一次在中国失效](https://www.tmtpost.com/8098899.html)
+**发布时间**: 2026-08-11 18:38
+
+#### [晶泰控股：AI for Science的“炼金术士”](https://www.tmtpost.com/8098872.html)
+**发布时间**: 2026-08-11 18:38
+
+#### [英伟达调动5000亿美元，算力金融化加速](https://www.tmtpost.com/8098887.html)
+**发布时间**: 2026-08-11 18:38
+
+#### [宇树成了400亿灵心巧手的软肋？](https://www.tmtpost.com/8099160.html)
+**发布时间**: 2026-08-11 18:37
+
+#### [摩尔线程为何着急要上港股](https://www.tmtpost.com/8099121.html)
+**发布时间**: 2026-08-11 18:19
+
+#### [保险股PEV跌破0.5倍：是黄金坑，还是价值陷阱？](https://www.tmtpost.com/8099005.html)
+**发布时间**: 2026-08-11 18:19
+
+#### [医药CXO集体大涨：谁是真实复苏，谁在跟风炒作？](https://www.tmtpost.com/8099053.html)
+**发布时间**: 2026-08-11 18:19
+
+#### [华为、理想、小鹏、小米，拆完七篇论文：「世界模型与VLA」到底争的什么？](https://www.tmtpost.com/8099113.html)
+**发布时间**: 2026-08-11 18:19
+
+#### [虎牙发布2026年Q2财报: 总收入连续六季同比增长 收入结构进一步优化](https://www.tmtpost.com/8099201.html)
+**发布时间**: 2026-08-11 17:23
+
+#### [从推荐到成交，豆包开始算一笔新账](https://www.tmtpost.com/8098784.html)
+**发布时间**: 2026-08-11 17:01
+
+#### [戚薇授权AI数字分身，演员开始批量生产自己](https://www.tmtpost.com/8098760.html)
+**发布时间**: 2026-08-11 16:55
+
+#### [中国机器人公司上市潮：宇树之后，如何定价？](https://www.tmtpost.com/8098819.html)
+**发布时间**: 2026-08-11 16:55
+
+#### [王兴重仓王兴兴，这盘棋到底有多大？](https://www.tmtpost.com/8098120.html)
+**发布时间**: 2026-08-11 16:40
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [把 AI 视频的钱花在刀刃上，不是每一刀上](https://www.infoq.cn/article/pqWqcoySQ5HdKz96vSo3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 19:11
+
+#### [代理技能 Ponytail 在贡献者提出质疑后修正了自身的基准测试结果](https://www.infoq.cn/article/uHECxUzeafk9Nbzpxi25?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 17:48
+
+#### [为 Agentic Enterprise 实现 ROI：企业高管需要关注的 3 个关键因素](https://www.infoq.cn/article/fe63sMOT127Pu7QpHP3a?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-11 17:19
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 153 | 派友们的吃灰工作流、太空美学复古落地灯与实用帆布钱包](https://sspai.com/post/113304)
+**发布时间**: 2026-08-11 17:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一个 Skill.md 拿下 1.8 万星，这个 GitHub 项目让 AI 先说重点。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535898&idx=1&sn=d7b494068dc8ac1d6f9f3dd833dee54f)
+**发布时间**: 2026-08-11 13:00
 
 ---
 
