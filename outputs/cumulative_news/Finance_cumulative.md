@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 05:46
+**最后更新时间**: 2026-08-11 08:43
+
+---
+
+## 🆕 最新更新 (2026-08-11 08:43)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks.](https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 08:40
+
+#### [The Bessent bond-market scorecard doesn’t look as strong as it once did](https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 07:35
+
+#### [‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?](https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 06:15
 
 ---
 
