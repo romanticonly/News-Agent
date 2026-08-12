@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-11 23:29
+**最后更新时间**: 2026-08-12 06:08
+
+---
+
+## 🆕 最新更新 (2026-08-12 06:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Taiwan hits out at China over naval drill with Indonesia](https://www.ft.com/content/e0ca4cab-c8ba-47d6-9465-13e2d73285fc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 05:14
+
+#### [China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack](https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:11
+
+#### [JD Vance asked Ukraine to halt strikes on tankers using Russian port](https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:00
+
+#### [China’s great jobs squeeze](https://www.ft.com/content/a3803e70-cb4d-444f-a31e-05be2f2c44f6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:00
+
+#### [How to stop global warming](https://www.ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:00
+
+#### [Europe’s carbon mechanism is a tariff by another name](https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889)
+**发布时间**: 2026-08-12 04:00
+
+#### [Singapore Airlines loses almost $800mn on Air India bet — with more pain forecast](https://www.ft.com/content/5ed01c06-573f-4864-bc11-6cea70593197?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 02:59
+
+#### [Top Democrat demands briefing on secret mission to extract Trump from Turkey](https://www.ft.com/content/2af69d91-5fef-4e6e-b2f5-3297aeb65e5b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 02:26
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Cava’s sales surge as diners swap lettuce for grain bowls and pitas amid food-safety scare](https://www.marketwatch.com/story/cava-reports-sales-growth-even-as-some-customers-steer-clear-of-lettuce-044b7f51?mod=mw_rss_topstories)
+**发布时间**: 2026-08-11 20:41
 
 ---
 
