@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 08:58
+**最后更新时间**: 2026-08-12 23:29
+
+---
+
+## 🆕 最新更新 (2026-08-12 23:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [China’s next economic ambition: workshop for the Muslim world](https://www.marketwatch.com/story/now-china-wants-to-become-the-shop-floor-for-the-muslim-world-9ffd785a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:35
+
+#### [Nebius adds to the excitement around neocloud stocks with upbeat earnings of its own](https://www.marketwatch.com/story/nebius-adds-to-the-excitement-around-neocloud-stocks-with-upbeat-earnings-of-its-own-cd2aa36e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:34
+
+#### [Lumentum’s stock surges, giving a further boost to the optical-networking trade](https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:31
+
+#### [Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?](https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:00
+
+#### [Super Micro gives a big sales forecast, but analysts wonder how long the momentum can last](https://www.marketwatch.com/story/super-micro-stock-is-rallying-after-results-heres-what-wall-street-is-saying-631e9253?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 22:00
+
+#### [SpaceX’s stock is getting a Grok-fueled boost](https://www.marketwatch.com/story/spacexs-stock-is-getting-a-grok-fueled-boost-e99497b4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 21:59
+
+#### [Alphabet’s stock slips as Nvidia’s $500 billion financing deal threatens custom chips](https://www.marketwatch.com/story/alphabets-stock-slips-as-nvidias-500-billion-financing-deal-threatens-custom-chips-c4166a59?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 21:55
+
+#### [Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back](https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 21:19
+
+#### [Goldman’s latest deal underscores how ‘boomer candy’ ETFs are now big business on Wall Street](https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 21:12
+
+#### [Chip stocks are closing in on a bull market. Here’s why some analysts are nervous.](https://www.marketwatch.com/story/chip-stocks-are-closing-in-on-a-bull-market-heres-why-some-analysts-are-nervous-2a180b75?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 21:08
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Wall Street giants bet Nvidia’s AI chips will defy the laws of finance](https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 21:11
+
+#### [Karoline Leavitt to step down as White House press secretary](https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 20:37
+
+#### [US inflation falls to 3.4% in July](https://www.ft.com/content/52727749-4360-4463-8822-dc3bfd8ef279?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 20:22
+
+#### [Mark Walter’s insurers rush to unwind affiliated investments](https://www.ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 18:44
+
+#### [US press groups sue Trump over fast access to Truth Social posts](https://www.ft.com/content/3309f3ea-c633-4727-887b-540a929d63e7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 16:35
+
+#### [Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise](https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 16:12
+
+#### [Why must a socialist also be woke?](https://www.ft.com/content/1b0a8ed9-d55a-49ea-971e-39e01e588632?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 11:30
+
+#### [How a bad trade pushed a US mortgage giant into a $2bn lifeline](https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:00
+
+#### [Poorer Americans are struggling to make ‘ends meet’, top Fed official says](https://www.ft.com/content/56c300d3-3632-476e-96d6-da84d4558bda?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 04:00
 
 ---
 
