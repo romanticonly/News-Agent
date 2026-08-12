@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 06:08
+**最后更新时间**: 2026-08-12 08:58
+
+---
+
+## 🆕 最新更新 (2026-08-12 08:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A stock just surged on news Situational Awareness had bought it. But its current fate is unclear.](https://www.marketwatch.com/story/a-stock-just-surged-on-news-situational-awareness-had-bought-it-but-its-current-fate-is-unclear-00f17a97?mod=mw_rss_topstories)
+**发布时间**: 2026-08-12 08:22
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [World prepares for one of nature’s greatest spectacles: a total solar eclipse](https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 07:17
+
+#### [Tata chair resigns as succession row escalates](https://www.ft.com/content/89c3c50c-1fc5-4673-b67d-ddc0b824c6c5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 07:13
+
+#### [Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race](https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1)
+**发布时间**: 2026-08-12 06:17
 
 ---
 
