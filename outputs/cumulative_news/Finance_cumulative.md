@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-13 08:59
+**最后更新时间**: 2026-08-13 23:30
+
+---
+
+## 🆕 最新更新 (2026-08-13 23:30)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.](https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:40
+
+#### [‘My wife and I are both retired’: Should we dip into our $2.3 million investments to pay off our 2.9% $300,000 mortgage?](https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:31
+
+#### [Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains](https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:09
+
+#### [Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown](https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:07
+
+#### [Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.](https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:05
+
+#### [Markets are looking eerily calm as investors chase FOMO rally](https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 22:05
+
+#### [Workday’s stock sees a record surge. Could a buyout spark a software revival?](https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 21:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US sells 30-year bonds at highest borrowing costs since 2001](https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 21:21
+
+#### [FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire](https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 20:04
+
+#### [Trump enlists US tech groups for cyber privateering push](https://www.ft.com/content/a468c20b-cf1d-4a36-87b8-4eb15666e6c4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 18:03
+
+#### [AI has opened up big holes in cyber security](https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 17:14
+
+#### [Nearly 14,000 crypto holders face security risk after data breach](https://www.ft.com/content/a91356ef-67bd-4bd9-947b-b272423f1318?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 17:11
+
+#### [Sun, sea and bombs in Odesa](https://www.ft.com/content/d0464e03-c3fd-4e8b-9ffa-573762e97e16?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 10:00
+
+#### [Trump’s DoJ to target taxpayer theft after retreat on white-collar crime](https://www.ft.com/content/145f1b61-0a68-45b4-afb8-62fc74381ce4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
 
 ---
 
