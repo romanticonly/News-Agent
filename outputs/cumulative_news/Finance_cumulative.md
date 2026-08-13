@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-12 23:29
+**最后更新时间**: 2026-08-13 06:10
+
+---
+
+## 🆕 最新更新 (2026-08-13 06:10)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Boardroom battle at India’s $280bn behemoth heralds start of ‘Noel Tata era’](https://www.ft.com/content/525d9d60-f902-4b89-ad34-ba96d03be97e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:50
+
+#### [Anthropic investors bet on $2tn valuation in record IPO](https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wanted: a leader to rescue the UN](https://www.ft.com/content/8349e039-a02c-4586-92d8-7f95d3fcd15a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Trump is taxing the dark matter that pays America’s way](https://www.ft.com/content/7ff4321e-3f96-4f7b-8f2d-4fefa4773a5d)
+**发布时间**: 2026-08-13 04:00
+
+#### [What your out-of-office really means](https://www.ft.com/content/46caeb96-13a3-4231-ae9a-7230225d09b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [‘Endearing’ rise in women buying their own diamonds, says Swarovski boss](https://www.ft.com/content/93dcc888-6998-48a5-86f7-3303e0770f12?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Wealth managers cut fees to win AI’s paper millionaires](https://www.ft.com/content/aa0ca006-5af4-4f94-9789-3e56f9f53e1d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+#### [Russian ghost fleet tankers use ‘Mad Max’ nets to fend off Ukraine’s drones](https://www.ft.com/content/f2f2a881-1d4d-47db-a7d9-c6c50ee29a6a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-13 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?](https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-13 01:00
 
 ---
 
