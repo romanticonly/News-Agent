@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-13 23:30
+**最后更新时间**: 2026-08-14 06:08
+
+---
+
+## 🆕 最新更新 (2026-08-14 06:08)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Investigation into Farage to resume after he wins Clacton by-election](https://www.ft.com/content/1bc8c77b-f3e2-4ad4-aefc-94b3f48426c6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 05:35
+
+#### [OpenAI and Anthropic in price war as Chinese AI rivals gain ground](https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [The exodus from Israel](https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [The quest to find the world’s best honey](https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [Pakistan and the new great game of Risk](https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [JPMorgan debanked Polymarket over regulatory concerns](https://www.ft.com/content/4e3774b6-52e5-4b8a-be76-0bb87495e1f0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [US investment giant T Rowe says it will take years to stem outflows](https://www.ft.com/content/d0cf28db-bc8d-4fc1-85b6-7b59ab67a451?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 04:00
+
+#### [AI frenzy drives Chinese tech valuations to multiples of US peers](https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 01:43
+
+#### [Trump launches tariffs targeting Chinese drone technology](https://www.ft.com/content/5ca83d6d-2c13-4d5e-b564-881f89189b3e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 00:40
 
 ---
 
