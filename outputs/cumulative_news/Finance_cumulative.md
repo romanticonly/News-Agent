@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 08:56
+**最后更新时间**: 2026-08-14 23:11
+
+---
+
+## 🆕 最新更新 (2026-08-14 23:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Nvidia discloses $21bn stake in SpaceX](https://www.ft.com/content/6f66a76d-0b2d-4301-886c-87ecc046731b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 22:28
+
+#### [Jane Street suffers $15bn hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 21:55
+
+#### [Former Cambridge professor Jason Arday found dead](https://www.ft.com/content/ed316b14-6cea-4b8d-a358-f2a33cd083da?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 21:24
+
+#### [Americans sour on Trump’s economy as affordability strains intensify](https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 18:49
+
+#### [Unhappy voters are suffering from ‘Baumol’s disease’](https://www.ft.com/content/da83fd36-a963-4092-8aa3-d4f349b399ae)
+**发布时间**: 2026-08-14 17:32
+
+#### [Luigi Mangione admits shooting UnitedHealthcare CEO](https://www.ft.com/content/68873521-58fa-435d-b46f-6309612964b2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 17:25
+
+#### [Investors pile back into US stocks as bullishness returns to Wall Street](https://www.ft.com/content/d4897d94-0d69-445a-9466-5150840c801e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 14:35
+
+#### [Daniel Kinahan, Ireland’s most wanted man, faces his day in court](https://www.ft.com/content/0095afa5-5945-49cf-b21e-cd502abd1d87?syn-25a6b1a6=1)
+**发布时间**: 2026-08-14 12:45
+
+#### [Jane Street has paid up large to avoid its numbers leaking out](https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f)
+**发布时间**: 2026-08-14 12:20
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock](https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 21:34
+
+#### [16 beaten-down AI stocks that are beloved by BofA analysts](https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 19:09
+
+#### [Parents putting money in ‘Trump accounts’ could get a $2,500 tax break. Here’s how.](https://www.marketwatch.com/story/parents-putting-money-in-trump-accounts-could-get-a-2-500-tax-break-heres-how-fb6fb2f7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:51
+
+#### [A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits](https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:47
+
+#### [Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.](https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:45
+
+#### [Sandisk’s stock has rebounded nearly 35% this week. This is the latest catalyst.](https://www.marketwatch.com/story/sandisks-stock-is-extending-its-major-rebound-this-is-the-latest-spark-69898f46?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:24
+
+#### [I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?](https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 18:01
+
+#### [Think interest rates are high now? These charts offers a different perspective.](https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 17:51
+
+#### [Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO](https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-14 17:40
 
 ---
 
