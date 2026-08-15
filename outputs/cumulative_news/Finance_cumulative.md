@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-14 23:11
+**最后更新时间**: 2026-08-15 05:16
+
+---
+
+## 🆕 最新更新 (2026-08-15 05:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OpenAI upheaval mounts as Sam Altman readies IPO push](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [America’s AI election](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)
+**发布时间**: 2026-08-15 04:00
+
+#### [Which is the next No 1 city on Earth?](https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [Traders are spoiling for a fight over the yen](https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [Geneva super-rich rocked by luxury home burglary spree](https://www.ft.com/content/c0d1c0ce-96c0-4824-a211-139acbddd200?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
+
+#### [China poised to lift travel ban on Manus founders](https://www.ft.com/content/fa479d50-7c79-4b6d-99c3-3830e37c1503?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 04:00
 
 ---
 
