@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-15 05:16
+**最后更新时间**: 2026-08-15 23:09
+
+---
+
+## 🆕 最新更新 (2026-08-15 23:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?](https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 20:30
+
+#### [I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?](https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 20:00
+
+#### [Think interest rates are high now? These charts offer a different perspective.](https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 19:01
+
+#### [Owning a home is overrated. Renting is now often a much better money move.](https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 18:23
+
+#### [An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.](https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 18:05
+
+#### [Ballet flats are so popular that even brands like Birkenstock and Crocs are cashing in on the trend](https://www.marketwatch.com/story/ballet-flats-are-so-popular-that-even-brands-like-birkenstock-and-crocs-are-cashing-in-on-the-trend-3d44997c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 17:08
+
+#### [Will Trump accounts and grandparent 529s bring down the price of college in the future?](https://www.marketwatch.com/story/will-trump-accounts-and-grandparent-529s-bring-down-the-price-of-college-in-the-future-88459da7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 16:52
+
+#### [Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.](https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 16:16
+
+#### [Social Security recipients will get more money next year. Here’s how much the COLA may boost benefits.](https://www.marketwatch.com/story/social-security-recipients-will-get-more-money-next-year-heres-how-much-benefits-may-rise-dfa50c98?mod=mw_rss_topstories)
+**发布时间**: 2026-08-15 15:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Israeli strikes kill 11 in Lebanon two months into truce](https://www.ft.com/content/1bd69e67-266f-4a4a-9c49-eb3c83bcb295?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 16:13
+
+#### [Ukraine left exposed as Patriot launchers run empty](https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 12:00
+
+#### [US aircraft carrier furore is emblem of growing disquiet over Iran war](https://www.ft.com/content/4bd6537f-db17-4013-be3f-c70a1299183c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 12:00
+
+#### [Burnham calls for ‘reflection’ over death of Jason Arday](https://www.ft.com/content/cdec2138-2272-450e-81b8-2fdc9fa61983?syn-25a6b1a6=1)
+**发布时间**: 2026-08-15 11:45
+
+#### [AI vs the people](https://www.ft.com/content/5f8858b8-7468-4438-b269-e1b1947b1926)
+**发布时间**: 2026-08-15 04:00
 
 ---
 
