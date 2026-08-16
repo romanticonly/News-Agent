@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 15 Aug 2026 08:12:00 GMT</pubDate>
-    <lastBuildDate>Sat, 15 Aug 2026 08:14:35 GMT</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 05:16:00 GMT</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 05:18:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,35 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%</title>
-      <link>https://www.qbitai.com/2026/08/473876.html</link>
-      <description>&lt;![CDATA[至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 06:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473876.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>根治AI音乐通病！这家国产音乐模型正面挑战SUNO</title>
-      <link>https://www.qbitai.com/2026/08/473866.html</link>
-      <description>&lt;![CDATA[根治AI音乐通病！这家国产音乐模型正面挑战SUNO]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 06:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473866.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude</title>
-      <link>https://www.qbitai.com/2026/08/473669.html</link>
-      <description>&lt;![CDATA[源神启动！一张消费级显卡跑“Opus级”Agent，Qwen3.8-27B多项榜单反超Claude]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 06:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473669.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了</title>
-      <link>https://www.qbitai.com/2026/08/473597.html</link>
-      <description>&lt;![CDATA[DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了]]&gt;</description>
-      <pubDate>Sat, 15 Aug 2026 05:53:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/473597.html</guid>
+      <title>2026-08-16日刊</title>
+      <link>https://hex2077.dev/docs/2026-08/2026-08-16/</link>
+      <description>&lt;![CDATA[2026-08-16日刊]]&gt;</description>
+      <pubDate>Sun, 16 Aug 2026 10:57:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-16/</guid>
       <category>Ai</category>
     </item>
   </channel>

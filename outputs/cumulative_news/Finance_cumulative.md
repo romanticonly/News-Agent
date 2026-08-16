@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-15 23:09
+**最后更新时间**: 2026-08-16 05:18
+
+---
+
+## 🆕 最新更新 (2026-08-16 05:18)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Most US voters say they are worse off under Trump — FT poll](https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:01
+
+#### [Are Americans making peace with the spectre of socialism?](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:00
+
+#### [BlackBerry: From phone dinosaur to tech champion](https://www.ft.com/content/a026e094-7017-4ff8-8344-213573e973ed)
+**发布时间**: 2026-08-16 04:00
+
+#### [Can we stop with the public ‘blasterbating’, actually?](https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:00
+
+#### [World’s largest carmakers seek to avert motor oil crisis](https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:00
+
+#### [European companies count the costs and gains of extreme heat](https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:00
+
+#### [Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong](https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 01:52
 
 ---
 
