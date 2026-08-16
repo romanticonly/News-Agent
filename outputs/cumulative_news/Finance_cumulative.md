@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-16 05:18
+**最后更新时间**: 2026-08-16 08:15
+
+---
+
+## 🆕 最新更新 (2026-08-16 08:15)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Singapore Inc’s AI ace card in rivalry with Hong Kong](https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 01:52
 
 ---
 
