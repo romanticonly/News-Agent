@@ -1,7 +1,53 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-16 08:15
+**最后更新时间**: 2026-08-16 23:10
+
+---
+
+## 🆕 最新更新 (2026-08-16 23:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures little changed as investors ponder the Fed’s next move](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-16 22:52
+
+#### [My friend’s mother died. Can she stop Medicaid from taking the family home?](https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-16 17:30
+
+#### [Here’s the real reason oil prices aren’t moving higher](https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories)
+**发布时间**: 2026-08-16 13:00
+
+#### [The Mediterranean diet is the best out there. Here’s why Americans struggle with it.](https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-16 12:00
+
+#### [Walmart and Target are about to reveal the health of the U.S. consumer](https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories)
+**发布时间**: 2026-08-16 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Jamie Dimon warns UK chancellor against higher bank taxes](https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 19:00
+
+#### [Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night](https://www.ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 18:43
+
+#### [California billionaires add millions to bolster fight against wealth tax](https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 17:55
+
+#### [US considers sanctions on Brazil judge in new test of diplomatic ties](https://www.ft.com/content/4bfa3d64-cf64-448d-823e-44c4577370b4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 17:26
+
+#### [Canadian business braced for 50% US tariffs](https://www.ft.com/content/d14b21c8-6a63-4593-b455-480b18792ac8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 17:15
+
+#### [Ukraine presses drone attacks on Moscow and Russian logistics](https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 11:34
+
+#### [How economics is changing](https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 11:00
+
+#### [‘Capitalism’s not working’: why Democrats are turning to socialism](https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 04:00
 
 ---
 
