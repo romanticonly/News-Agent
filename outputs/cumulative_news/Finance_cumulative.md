@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 05:26
+**最后更新时间**: 2026-08-17 08:28
+
+---
+
+## 🆕 最新更新 (2026-08-17 08:28)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump orders Pentagon to scale back military drills with South Korea](https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 07:39
+
+#### [Why Maga came for Europe](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
 
 ---
 
