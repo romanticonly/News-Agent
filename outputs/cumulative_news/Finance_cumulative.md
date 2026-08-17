@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 08:28
+**最后更新时间**: 2026-08-17 23:12
+
+---
+
+## 🆕 最新更新 (2026-08-17 23:12)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why this popular Treasury-bond ETF is trading at its lowest since 2004](https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 22:33
+
+#### [There’s a 49% chance the Dow will finish this year up double digits. Here’s why.](https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 21:22
+
+#### [The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.](https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 21:15
+
+#### [Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending](https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 20:43
+
+#### [A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.](https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 20:28
+
+#### [SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google](https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 20:18
+
+#### [Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years](https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 19:48
+
+#### [‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?](https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories)
+**发布时间**: 2026-08-17 19:04
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US pauses construction of border wall through national park in Texas](https://www.ft.com/content/6aafe865-0bd0-4b18-bf9e-5073fcd91c35?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 21:31
+
+#### [Mark Carney in last-ditch effort to avoid Trump’s latest tariffs](https://www.ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 19:42
+
+#### [Chelsea shareholders Walter and Boehly in talks to sell stakes to Clearlake](https://www.ft.com/content/71a498fa-4ce7-4c0b-ab14-7b7f46b2b9c6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 17:06
+
+#### [Crime and punishment in the Middle East](https://www.ft.com/content/a53ad482-510e-4855-90f3-b9f2bf7f6aac)
+**发布时间**: 2026-08-17 16:55
+
+#### [US tech stock correction likely, warn ECB economists](https://www.ft.com/content/cb4b22ab-4183-4d19-be60-6d2fab86d86d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 14:40
+
+#### [The realignment of the Middle East](https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 14:12
+
+#### [Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations](https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 11:25
+
+#### [A leaderboard of the biggest trading losses of all time](https://www.ft.com/content/340bf9e7-0e67-4d19-b671-3dc8186efb99)
+**发布时间**: 2026-08-17 07:28
 
 ---
 
