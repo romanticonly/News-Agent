@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-16 23:10
+**最后更新时间**: 2026-08-17 05:26
+
+---
+
+## 🆕 最新更新 (2026-08-17 05:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Private credit under strain as troubled loans swell](https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
+
+#### [How Maga came for Europe](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
+
+#### [America and the politics of respect](https://www.ft.com/content/5f6cdb7a-3b05-487f-a02e-3b9fb0b42e00?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
+
+#### [The new AI super-rich are reshaping the market for jets, yachts and cars](https://www.ft.com/content/ac79a102-1620-48bf-a36b-416aac25de1d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
+
+#### [Portugal and Spain struggle as EU housing black spots](https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1)
+**发布时间**: 2026-08-17 04:00
+
+#### [The next China shock will come from open-source AI](https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e)
+**发布时间**: 2026-08-17 01:00
+
+#### [Trump says US will scale back military drills with South Korea](https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-16 23:01
 
 ---
 
