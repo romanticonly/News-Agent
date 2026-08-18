@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-18 05:22
+**最后更新时间**: 2026-08-18 23:12
+
+---
+
+## 🆕 最新更新 (2026-08-18 23:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Canada faces deadline to stop US tariffs on $20bn of exports](https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 22:58
+
+#### [Mark Walter sought loan from Apollo backed by Lakers stake](https://www.ft.com/content/59c06284-d1fd-4223-8e70-e68956b219da?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 21:47
+
+#### [UAE suspends trade with Iran after saying it fired missiles at Gulf state](https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 21:43
+
+#### [Ukraine’s ousted defence minister calls for wartime election](https://www.ft.com/content/7bf79169-f84f-44a2-b64d-c1a3d1fb7d08?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 21:24
+
+#### [US chip stocks slide as government borrowing costs hit multiyear highs](https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 20:36
+
+#### [Soaring diesel prices rip across US economy](https://www.ft.com/content/8a5cd515-191d-42f9-9b0c-1b817a1bc044?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 19:33
+
+#### [AI phobia is America’s new consensus](https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 10:57
+
+#### [Russia warns UK of ‘consequences’ over Ukraine’s use of British-made drones](https://www.ft.com/content/3a96c015-2c9f-4897-97ea-d3f13571aa71?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 10:40
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?](https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 22:45
+
+#### [‘Too many people go bankrupt’: Should Medicare provide catastrophic coverage?](https://www.marketwatch.com/story/too-many-people-go-bankrupt-should-medicare-provide-catastrophic-coverage-f7c653da?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 22:31
+
+#### [Meta is facing its ‘Big Tobacco’ moment — and investors can profit](https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 21:59
+
+#### [AI chip stocks were riding high. Here’s why Micron and others are now pulling back.](https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 21:08
+
+#### [Hidden Valley Ranch dressing may be a victim of this summer’s salad scare](https://www.marketwatch.com/story/hidden-valley-ranch-dressing-may-be-a-victim-of-this-summers-salad-scare-f8537cd5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 20:46
+
+#### [After an Alzheimer’s diagnosis it’s not to late to get your finances in order](https://www.marketwatch.com/story/getting-diagnosed-with-dementia-isnt-the-end-its-a-time-to-take-financial-action-f52769b6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 20:44
+
+#### [Here’s a ‘ridiculously cheap’ way to protect yourself against a stock-market selloff](https://www.marketwatch.com/story/heres-a-ridiculously-cheap-way-to-protect-yourself-against-a-stock-market-selloff-67d3b312?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 20:07
+
+#### [My co-workers complain about minor things and make every meeting miserable. How should I deal with them?](https://www.marketwatch.com/story/how-do-i-deal-with-co-workers-who-constantly-complain-about-the-dumbest-problems-44060bc7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 19:54
+
+#### [America’s growing debt pile will be the big focus Wednesday as global bond rout deepens](https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 19:52
 
 ---
 
