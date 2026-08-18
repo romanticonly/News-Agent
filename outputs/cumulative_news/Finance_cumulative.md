@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-17 23:12
+**最后更新时间**: 2026-08-18 05:22
+
+---
+
+## 🆕 最新更新 (2026-08-18 05:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Seoul rattled by Trump’s threat to drills at heart of US alliance](https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:18
+
+#### [Trump’s cuts to South Korean drills stir doubts about US resolve in Asia](https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [AI hasn’t gone rogue. It’s worse than that](https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [The difficult truth about Jason Arday](https://www.ft.com/content/5f927594-03a1-4652-8189-2aa7a19dcec4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [Can canned cocktails revive the booze business?](https://www.ft.com/content/cf29e18e-c4d8-4a27-b7c7-3cf56d6eccf2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [‘Not worth the squeeze’: global private equity makes zero deals in China](https://www.ft.com/content/55cb2786-c7ef-438e-8830-c3dc2c1452ce?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [Chris Hohn’s hedge fund bets on Italian luxury hotels](https://www.ft.com/content/351cf8e1-cdef-46a9-ac32-b2e76c72ed1a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [Airlines in ‘stand-off’ over price cuts as jet fuel costs ease](https://www.ft.com/content/9d8f4215-4d19-43df-ab81-b9f8adb057c8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
+
+#### [Trump ballroom official held quiet Kremlin talks](https://www.ft.com/content/d88a8878-425d-4225-bda4-576c6c42734e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-18 04:00
 
 ---
 
