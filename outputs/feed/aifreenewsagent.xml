@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Aug 2026 05:18:00 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Aug 2026 05:20:46 GMT</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 08:20:00 GMT</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:22:25 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-19日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-19/</link>
-      <description>&lt;![CDATA[2026-08-19日刊]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-19/</guid>
+      <title>写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”</title>
+      <link>https://www.qbitai.com/2026/08/475476.html</link>
+      <description>&lt;![CDATA[写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 07:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475476.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>郭富城换车，30万级顶配华为全家桶</title>
-      <link>https://www.qbitai.com/2026/08/475009.html</link>
-      <description>&lt;![CDATA[郭富城换车，30万级顶配华为全家桶]]&gt;</description>
-      <pubDate>Wed, 19 Aug 2026 00:59:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475009.html</guid>
+      <title>从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑</title>
+      <link>https://www.qbitai.com/2026/08/475460.html</link>
+      <description>&lt;![CDATA[从沙子到会“思考”的智能材料，张朝阳与物理学家刘若微揭秘世界的底层逻辑]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 06:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475460.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>AI for Science开始“动手”了：机器人正式走进国家级实验室</title>
+      <link>https://www.qbitai.com/2026/08/475332.html</link>
+      <description>&lt;![CDATA[AI for Science开始“动手”了：机器人正式走进国家级实验室]]&gt;</description>
+      <pubDate>Wed, 19 Aug 2026 06:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/475332.html</guid>
       <category>Ai</category>
     </item>
   </channel>

@@ -1,7 +1,58 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 05:20
+**最后更新时间**: 2026-08-19 08:22
+
+---
+
+## 🆕 最新更新 (2026-08-19 08:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [食品巨头的捡货清单，5只值得关注的标的](https://www.tmtpost.com/8108829.html)
+**发布时间**: 2026-08-19 16:12
+
+#### [从“梁圣”变“梁子”，DeepSeek涨价的阳谋与不得已](https://www.tmtpost.com/8107830.html)
+**发布时间**: 2026-08-19 15:56
+
+#### [4400亿！宇树的狂欢和隐忧](https://www.tmtpost.com/8108614.html)
+**发布时间**: 2026-08-19 15:56
+
+#### [旺旺减不掉的糖，和一代消费者回不去的口味](https://www.tmtpost.com/8107348.html)
+**发布时间**: 2026-08-19 15:23
+
+#### [维嘉科技多重疑点待解：两度低价转让股权引争议，高估值与科创属性受拷问｜IPO观察](https://www.tmtpost.com/8108724.html)
+**发布时间**: 2026-08-19 15:13
+
+#### [瑞丰高材拟4~5亿控股觅拓新材，康鹏科技潜伏5年能否成最大赢家？|并购一线](https://www.tmtpost.com/8108685.html)
+**发布时间**: 2026-08-19 15:08
+
+#### [瑞士生物科技企业CellX Biosolutions研发微流控装置，捕获并开发化学污染物生物降解产品](https://www.tmtpost.com/8108490.html)
+**发布时间**: 2026-08-19 15:05
+
+#### [半个月两个IPO，合肥成为中国第四城](https://www.tmtpost.com/8108504.html)
+**发布时间**: 2026-08-19 15:05
+
+#### [M3发布后，MiniMax走了一员大将](https://www.tmtpost.com/8107688.html)
+**发布时间**: 2026-08-19 15:05
+
+#### [当开源大模型开始谈分成](https://www.tmtpost.com/8107377.html)
+**发布时间**: 2026-08-19 13:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Java 近期新闻：Shenandoah GC、TeamCity CVE、A2A Java SDK、Camel、Gradle、GlassFish](https://www.infoq.cn/article/aJvM0NaOObTK34dOAUTC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 16:11
+
+#### [网易传媒 AI 另辟赛道：近千亿研发，蜜蜂AI杀入年轻人社区](https://www.infoq.cn/article/eUqDCgNhzkbNpNxS7dYI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 15:02
+
+#### [Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销](https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-19 14:24
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了](https://sspai.com/post/113588)
+**发布时间**: 2026-08-19 15:20
 
 ---
 

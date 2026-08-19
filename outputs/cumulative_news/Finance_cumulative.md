@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 05:20
+**最后更新时间**: 2026-08-19 08:22
+
+---
+
+## 🆕 最新更新 (2026-08-19 08:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [My male co-workers with kids expect me to pick up their slack because I don’t have children. Do I push back?](https://www.marketwatch.com/story/my-male-co-workers-with-kids-expect-me-to-pick-up-their-slack-because-i-dont-have-children-do-i-push-back-700f3a2a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 08:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Why Britain needs a Messi budget](https://www.ft.com/content/117e3a76-0b5c-4e99-a6da-3421cb8d5da7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 04:00
 
 ---
 
