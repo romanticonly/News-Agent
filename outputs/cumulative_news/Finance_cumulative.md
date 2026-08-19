@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-18 23:12
+**最后更新时间**: 2026-08-19 05:20
+
+---
+
+## 🆕 最新更新 (2026-08-19 05:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iran eyes military targets in Europe if Trump escalates war, insiders say](https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 04:00
+
+#### [America’s brands lose their magic](https://www.ft.com/content/59ed10fc-0e58-454c-9f93-d4d258ccfd9c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 04:00
+
+#### [Remigration binds Maga to Europe’s far right](https://www.ft.com/content/34a99573-0fa1-422b-9263-147f9ed7be6c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 04:00
+
+#### [Global food security may be collateral in Ukraine war](https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838)
+**发布时间**: 2026-08-19 04:00
+
+#### [Venezuela abandons Nicolás Maduro to fate in US jail](https://www.ft.com/content/51d68f38-df09-4f78-bb80-02a4b4684235)
+**发布时间**: 2026-08-19 04:00
+
+#### [Trump says deal reached with Canada and pauses tariffs](https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 02:34
+
+#### [China eases limits on Nvidia H200 chips as AI race escalates](https://www.ft.com/content/6c5650fb-969d-4d4e-80d6-8d11002a8cf7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 02:09
+
+#### [Chinese humanoid robot maker surges 600% in trading debut](https://www.ft.com/content/14cd8246-7fb1-4f8f-81b4-8de11ced79e5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 02:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump holds off on new 50% tariffs for Canadian goods](https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 02:42
+
+#### [Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.](https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 00:00
+
+#### [‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?](https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 23:30
+
+#### [My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?](https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-18 23:15
 
 ---
 
