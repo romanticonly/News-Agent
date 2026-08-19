@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-19 08:22
+**最后更新时间**: 2026-08-19 23:13
+
+---
+
+## 🆕 最新更新 (2026-08-19 23:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Retirees: This investment gives you a guaranteed 5% safe withdrawal rate](https://www.marketwatch.com/story/retirees-this-investment-gives-you-a-guaranteed-5-safe-withdrawal-rate-facdfd76?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 23:01
+
+#### [The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful](https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 22:02
+
+#### [ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.](https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 21:50
+
+#### [China wants its consumers to spend more. Its young people would rather rent.](https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 21:44
+
+#### [Marvell’s stock pops on news of Google chip deal — and Broadcom’s falls](https://www.marketwatch.com/story/marvells-stock-soars-on-news-of-google-chip-deal-and-broadcoms-falls-c2a7f559?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 21:26
+
+#### [Why the Treasury market’s newfound calm could break down in September](https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 21:10
+
+#### [‘I brought my Super Bowl ring to the open houses’: Seahawks player shares story of getting his real-estate license](https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 21:00
+
+#### [The national debt just hit $40 trillion. Here’s how it can hurt Americans.](https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 20:36
+
+#### [Moderna’s cancer-vaccine breakthrough drives broad biopharma stock rally](https://www.marketwatch.com/story/modernas-cancer-vaccine-breakthrough-drives-broad-biopharma-stock-rally-ff2816aa?mod=mw_rss_topstories)
+**发布时间**: 2026-08-19 20:28
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Hudson River posts $11.4bn trading windfall as it seizes on market tumult](https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 21:26
+
+#### [US government debt hits $40tn as borrowing rises at historic rate](https://www.ft.com/content/673f8c35-1433-479f-803f-0597cbe7ef74?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 20:18
+
+#### [Moderna shares nearly triple on skin cancer vaccine success](https://www.ft.com/content/a98a77e2-5156-4189-b971-974a7e60130f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 20:15
+
+#### [Zelenskyy fires top aide as corruption allegations pile up](https://www.ft.com/content/5799e5fa-c836-443b-935d-eb9fb58681b6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 19:06
+
+#### [Fed officials express rising concern over persistently high inflation](https://www.ft.com/content/aad0fdbb-f3bf-4b99-b826-7bde552b9d81?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 18:31
+
+#### [US Treasury to boost long-term bond purchases in bid to steady market](https://www.ft.com/content/777c9014-2f12-45cf-8224-6bbe808c62cb?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 18:02
+
+#### [Private credit risks remain at large](https://www.ft.com/content/b58c7ea1-1b97-4f1f-b19d-2544041ec0a8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 17:17
+
+#### [Charlesbank nears law firm deal as private equity pushes deeper into US legal sector](https://www.ft.com/content/e7fdcb9f-7560-4b6f-9524-8766f752dfcf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 16:05
+
+#### [Putin pledges help for Wildberries warehouses hit by Ukraine](https://www.ft.com/content/bed337a0-8917-4026-a406-b5ed832f36e6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 15:45
+
+#### [Europe should wish Marco Rubio a bright future](https://www.ft.com/content/763bf6a1-31de-4c6a-9591-963440f0562b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-19 11:20
 
 ---
 
