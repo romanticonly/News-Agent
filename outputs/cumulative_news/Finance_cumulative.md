@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 08:23
+**最后更新时间**: 2026-08-20 23:15
+
+---
+
+## 🆕 最新更新 (2026-08-20 23:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?](https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 22:45
+
+#### [Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?](https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 22:00
+
+#### [We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?](https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 21:01
+
+#### [Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt](https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 19:40
+
+#### [Sports betting to build wealth is becoming the new American dream](https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 19:14
+
+#### [The bond market is going to burst the stock-market bubble](https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 19:06
+
+#### [Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped](https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 19:01
+
+#### [Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in](https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 18:20
+
+#### [‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?](https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-20 18:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Walmart shares tumble as sales growth slows to six-year low](https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 20:52
+
+#### [Guggenheim loan trades in distressed territory after investor call](https://www.ft.com/content/7069ffff-9534-489d-bf25-9965a1bc48bc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 18:43
+
+#### [Quant funds rocked as Treasury boosts buybacks and Moderna shares leap](https://www.ft.com/content/d3fbfcb7-ce89-4b46-8267-c2fed9c67134?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 18:00
+
+#### [The US Treasury is buying long bonds, but not very many](https://www.ft.com/content/150aa8bf-54d1-448f-bdc9-14152ce3d76c)
+**发布时间**: 2026-08-20 17:37
+
+#### [Nvidia looks well placed to benefit from the next stage of the AI boom](https://www.ft.com/content/b388be2e-67bd-4056-abd2-234e17819a98?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 17:17
+
+#### [US long-term bonds slide as Bessent intervention fails to soothe investors](https://www.ft.com/content/0c01cdd9-93e8-469c-8f09-a6d68c91fbc3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 16:20
+
+#### [Investors cut bets on US and UK rate rises](https://www.ft.com/content/93992d7a-e20d-4f35-a958-c7a9f3b84c02?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 12:55
+
+#### [Trump wants Washington museums to be less ‘woke’ on US slavery](https://www.ft.com/content/659a00b4-be9b-467b-a676-cb73e2d3d64d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [War comes to Putin’s favourite Black Sea resort](https://www.ft.com/content/565f7434-f648-45a8-b0d4-b04a529c39cd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
 
 ---
 
