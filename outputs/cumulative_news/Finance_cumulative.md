@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 23:15
+**最后更新时间**: 2026-08-21 05:22
+
+---
+
+## 🆕 最新更新 (2026-08-21 05:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Japanese inflation picks up as Iran war disruption bites](https://www.ft.com/content/4e128c45-b84c-4fc3-98bf-c5033c201ea6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:54
+
+#### [Scott Bessent takes on bond vigilantes in $32tn Treasury market](https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:00
+
+#### [The battle over golf’s future](https://www.ft.com/content/d286cb7f-c63e-42a6-86db-d0a9ad0f296a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:00
+
+#### [Feminism didn’t kill the male breadwinner model, the economy did](https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:00
+
+#### [HSBC spends $68mn on biggest cull of senior bankers since financial crisis](https://www.ft.com/content/d8bc75ee-77c6-4810-967c-0c2cff69bf7a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:00
+
+#### [Ukraine seeks Musk’s help to hit Russian missile launchers](https://www.ft.com/content/ff536e6e-dc56-45e3-b5e0-2dfb28148cb6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 04:00
+
+#### [North Korea’s economy enjoys rare ‘dash for flash’](https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab)
+**发布时间**: 2026-08-21 03:21
+
+#### [Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy](https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 02:16
+
+#### [What is Bessent doing with the $32tn Treasury market — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 23:08
 
 ---
 
