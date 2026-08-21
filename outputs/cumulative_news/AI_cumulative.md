@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-08-21 05:20
+**最后更新时间**: 2026-08-21 23:11
+
+---
+
+## 🆕 最新更新 (2026-08-21 23:11)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [An AI tool for prioritizing candidate biomarkers from wearable sensor data](https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/)
+**发布时间**: 2026-08-21 17:02
+
+#### [How mobility gives language models a deeper understanding of place](https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/)
+**发布时间**: 2026-08-21 10:54
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [最大运力自动驾驶轻卡落地，来自无人车巨头](https://www.qbitai.com/2026/08/476778.html)
+**发布时间**: 2026-08-21 11:47
+
+#### [明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景](https://www.qbitai.com/2026/08/476733.html)
+**发布时间**: 2026-08-21 09:44
+
+#### [雷鸟iO发布：两天续航、全天候主动式AI，轻至34g](https://www.qbitai.com/2026/08/476628.html)
+**发布时间**: 2026-08-21 09:00
+
+#### [机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作](https://www.qbitai.com/2026/08/476596.html)
+**发布时间**: 2026-08-21 07:17
+
+#### [科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面](https://www.qbitai.com/2026/08/476591.html)
+**发布时间**: 2026-08-21 06:40
+
+#### [WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌](https://www.qbitai.com/2026/08/476532.html)
+**发布时间**: 2026-08-21 05:38
+
+#### [设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会](https://www.qbitai.com/2026/08/476525.html)
+**发布时间**: 2026-08-21 05:09
 
 ---
 

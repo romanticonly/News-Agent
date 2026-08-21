@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-21 05:22
+**最后更新时间**: 2026-08-21 23:12
+
+---
+
+## 🆕 最新更新 (2026-08-21 23:12)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports](https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 22:27
+
+#### [US-Canada trade deal goes down to the wire](https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 22:02
+
+#### [Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar](https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 21:46
+
+#### [Iran’s president calls to end war with US from ‘position of strength’](https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1)
+**发布时间**: 2026-08-21 18:51
+
+#### [Natalie Harp, the devoted ‘human printer’ in Trump’s entourage](https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 15:22
+
+#### [Citadel offloads 80% of portfolio scooped up from Situational Awareness](https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 14:50
+
+#### [The bond scare and the balance of power](https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d)
+**发布时间**: 2026-08-21 14:10
+
+#### [What is Jane Street?](https://www.ft.com/content/ef1d7530-a514-4b18-9a0f-8843cac02929)
+**发布时间**: 2026-08-21 12:30
+
+#### [What is Bessent doing — and will it work?](https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 23:08
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [You can now Venmo your kid’s college tuition. But should you?](https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 21:20
+
+#### [Soon you can buy Medicare Advantage plans at Costco. What you need to know.](https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 21:17
+
+#### [Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch](https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 20:34
+
+#### [I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?](https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 20:11
+
+#### [Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh](https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 20:11
+
+#### [Former JPMorgan exec takes on Social Security advisory role](https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 19:11
+
+#### [‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?](https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 19:00
+
+#### [Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’](https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories)
+**发布时间**: 2026-08-21 18:29
 
 ---
 

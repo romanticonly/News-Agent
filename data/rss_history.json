@@ -2,282 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "ed8ba1df0b97fd00a1d9d69d58142114f4641ff5c2da4735df3a5733cb375737": {
-        "title": "王宁，站在库克和段永平中间",
-        "link": "https://www.tmtpost.com/8075141.html",
-        "published_date": "Wed, 22 Jul 2026 14:53:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216243"
-      },
-      "044768ae6037ca4e2a37e651d5d92dcbf99305fd1ad7fbdedf9aba579cf7177a": {
-        "title": "大模型没有定价权，只有定价窗口",
-        "link": "https://www.tmtpost.com/8074547.html",
-        "published_date": "Wed, 22 Jul 2026 14:53:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216252"
-      },
-      "a3d2236616716ac9d2ec4f5d2e6b1ec8070e16918b2bb21d21902d7d0e3a419d": {
-        "title": "Kimi K3爆火引发“算力荒”，“不着急上市”的杨植麒急了？",
-        "link": "https://www.tmtpost.com/8074520.html",
-        "published_date": "Wed, 22 Jul 2026 14:32:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216254"
-      },
-      "a30ecc03dcbade6793098011f5aa4b47b166ebf22ff7ff136d597f3fde079473": {
-        "title": "Kimi“熔断”，杨植麟也“摸高”",
-        "link": "https://www.tmtpost.com/8074456.html",
-        "published_date": "Wed, 22 Jul 2026 14:32:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216256"
-      },
-      "c59e117d66d66c6b23a35b43d86694c66ac0d9418bfaeea3ca400d60ccff9339": {
-        "title": "安谋科技公开新一代NPU架构 并牵头发起开源AI操作系统联盟",
-        "link": "https://www.tmtpost.com/8073630.html",
-        "published_date": "Wed, 22 Jul 2026 12:50:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216258"
-      },
-      "5f9119b9726a5a83f4d5883ba77b14db18b4d2ac5efcbb979805f82ead1b4948": {
-        "title": "京东押注物理 AI，打通数字到物理世界的链路",
-        "link": "https://www.tmtpost.com/8072404.html",
-        "published_date": "Wed, 22 Jul 2026 12:35:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216260"
-      },
-      "c9b2387618bab310df47848f0262021e99d6a9b24c3eb2e4d568b0f00c357660": {
-        "title": "西部数据展示百TB硬盘路线图：HAMR与ePMR双线并进，2029年冲刺100TB",
-        "link": "https://www.tmtpost.com/8074085.html",
-        "published_date": "Wed, 22 Jul 2026 12:31:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216261"
-      },
-      "7543001d4ededd8e5871fbb6ebed6090917573451659d34a83c0d159c6b007a4": {
-        "title": "摩尔线程公布万卡级集群训练成绩 称国产芯片可训出前沿模型",
-        "link": "https://www.tmtpost.com/8074857.html",
-        "published_date": "Wed, 22 Jul 2026 12:29:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216263"
-      },
-      "f9b03b7eea78e446154bd299c9f7d2036c113eb79c8a2093e3f9b8999a0ce996": {
-        "title": "大厂AI入口大战升级，谁是最能干活的桌面Agent？",
-        "link": "https://www.tmtpost.com/8074357.html",
-        "published_date": "Wed, 22 Jul 2026 11:57:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216264"
-      },
-      "00f9d2531ef06bf984d026e463ed39d3d3b602a7b7a0dff5b42b220cbef1ae8d": {
-        "title": "马斯克神话",
-        "link": "https://www.tmtpost.com/8074387.html",
-        "published_date": "Wed, 22 Jul 2026 11:57:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216266"
-      },
-      "de935d33e3b49c98878f02ccea9011edbcde95bc1ca16127a581ab13b35c3445": {
-        "title": "Anthropic正在批量制造自己的张磊徐新",
-        "link": "https://www.tmtpost.com/8074901.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216267"
-      },
-      "b30b4cfb90c355a705d97b2fbf8f2b24b6345de502a2584a6cfaa0f92259d958": {
-        "title": "AI落地，还差一口气",
-        "link": "https://www.tmtpost.com/8074363.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216269"
-      },
-      "75062e82cdf8e502d38e9684a39f0ea7c7791ce50bcb6bab8e706badebee17cc": {
-        "title": "在下一个模型发布之前",
-        "link": "https://www.tmtpost.com/8074346.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216270"
-      },
-      "754001a84d3183801a4787ef1fb56b028e32e4141193ff6f77256842e04a5b8e": {
-        "title": "这届世界杯，阿迪达斯的事业运也太好了",
-        "link": "https://www.tmtpost.com/8074330.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216272"
-      },
-      "f34477e053fb5bdc6e8ee4eb78e2160b7569a3ed0b97234a6385d2f3c51fa90e": {
-        "title": "远程办公大PK：WorkBuddy vs DuMate",
-        "link": "https://www.tmtpost.com/8074541.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216274"
-      },
-      "9c689fa8201ec3115e1c10616dd807357fb8c77b2d08c622bc4285b7b656260c": {
-        "title": "8.5亿美元首付款，“杀死”一家Biotech",
-        "link": "https://www.tmtpost.com/8074795.html",
-        "published_date": "Wed, 22 Jul 2026 11:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216275"
-      },
-      "560e82ce82803e5b383aaaac7d9e21cfd65448587b094694e536cb4f3fc3c877": {
-        "title": "Kimi K3其实“贱卖”了",
-        "link": "https://www.tmtpost.com/8074764.html",
-        "published_date": "Wed, 22 Jul 2026 10:50:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216277"
-      },
-      "bb84e479d06f1bd2dc9ca3ed20d54fdbc1dc0d8d408a189429bb1ee32a4e7a5e": {
-        "title": "赛力斯的“Wintel时刻”",
-        "link": "https://www.tmtpost.com/8074310.html",
-        "published_date": "Wed, 22 Jul 2026 10:50:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216278"
-      },
-      "77082cbc56a08159adca91873e480f838d38bcc826070ac786b12f97af3aa06d": {
-        "title": "西部数据 Tim Rausch：AI不是只有GPU，数据最终还要回到存储系统",
-        "link": "https://www.infoq.cn/article/d5wZmCfW9GSEA7FMg40C?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 14:12:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216280"
-      },
-      "29cb166f7e1fbc72532d21be2d2b7662952e34c5d0d498f66f2958f1cd86efda": {
-        "title": "Uber 如何构建具备区域故障容错能力的 OpenSearch 集群",
-        "link": "https://www.infoq.cn/article/o3bsr8iSF5bHNa6H4zrt?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 14:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216282"
-      },
-      "563acec008d09ec6b3f6d5b183edb0d1d34ab5522473ca274ae0a58769a02a3d": {
-        "title": "智算集群基础设施运维通用技术要求",
-        "link": "https://www.infoq.cn/minibook/YooWx1oj7EFSLmGAj1mp?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 12:54:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216283"
-      },
-      "25859b55812f9c808e2453d9ad684ff15e6236ae64c2131bd697cc71965fe15e": {
-        "title": "2025龙蜥开源社区操作系统白皮书",
-        "link": "https://www.infoq.cn/minibook/VzOLqfq7R99d9jbZHlHh?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 12:36:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216285"
-      },
-      "0c6228043c18f83743c020130ca800923139a84b3dccabd884b12a966b3118ab": {
-        "title": "Jiuwen Symbiosis深度解析：从数字世界走向物理世界，为Physical AI打造Symbiosis (共生)",
-        "link": "https://www.infoq.cn/article/BmyIPDkVKj11vspmB6su?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 12:10:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216287"
-      },
-      "ce6ed7c01504d38c3399d0222a80c85cfd43923e5dd9a7542d4111a48184ff39": {
-        "title": "Google Cloud Workbench Notebooks 扩展将 VS Code 与 Google Cloud 的 Jupyter Notebooks 连接了起来",
-        "link": "https://www.infoq.cn/article/xKwcWiDKrEymUNaLwkAL?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 11:01:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216288"
-      },
-      "1864372ca82125c9e806b8cbaaec78562fd3dfbb9ae23e20c575f57e808d047f": {
-        "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎｜AICon深圳",
-        "link": "https://www.infoq.cn/article/OJ0K1cGSLUNW0i07JGfL?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216289"
-      },
-      "5a4f5a10643ca0508e68caf812b99555de4e3dfae826608e960da736a6ef353e": {
-        "title": "跟上 AI 的节奏：为演进式架构构建上下文存储库",
-        "link": "https://www.infoq.cn/article/XEta3vMDDHVIeS6qQe2P?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 09:50:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216291"
-      },
-      "b9ffd71c12b2a1ac7383af521883ac09d8bb0139c6c28731db0977d6d45301d7": {
-        "title": "角落新声｜我的上帝模式，一名设计师创作环境的演变",
-        "link": "https://sspai.com/post/112109",
-        "published_date": "Wed, 22 Jul 2026 10:04:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216292"
-      },
-      "91be8fd0df8319b7399561f4bb05940091b6863aef04b759c751a9c51ef99482": {
-        "title": "派早报：Google 推出 Gemini 3.6 Flash、Unity 7 引擎发布等",
-        "link": "https://sspai.com/post/112597",
-        "published_date": "Wed, 22 Jul 2026 08:30:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.216294"
-      },
-      "c9d01628ba68186c350cd6df5cd89e697ea3753a739bbe2c3b53d33850232b24": {
-        "title": "OpenAI承认为了偷答案，GPT-5.6 Sol 一路“杀进”生产系统：AI自主攻击时代真的来了",
-        "link": "https://www.infoq.cn/article/P8G7TAsIP0rkeFFLxAf0?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 17:46:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984743"
-      },
-      "323288831437affabcaabcf9c3c04e1167013dfa606eff8a17441763287809b6": {
-        "title": "阿里千问发布 Qwen-Image-3.0，文本输入长度提升4.5倍",
-        "link": "https://www.infoq.cn/article/jXQ5oQeOcEjLkuq2Qc0y?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 17:42:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984752"
-      },
-      "588a3ec70bd2fc056bf4f6f1220a791d58c5c0e6fc9a2b20e7a3f17872950d4e": {
-        "title": "不靠最强模型也能赢？谷歌正用一款“冷冻”芯片复制搜索时代的“全栈碾压”",
-        "link": "https://www.infoq.cn/article/QGd73qDEWeoy1HxshQMH?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 16:45:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984754"
-      },
-      "e962ce8729650d3f2a210a07caa91bc59da65e350ef8f049a0c125496a5725cf": {
-        "title": "云原生基础设施正成为可信代理式 AI 的基础",
-        "link": "https://www.infoq.cn/article/oM4mt43K2Ss3Qd7zdhhr?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 22 Jul 2026 16:25:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984755"
-      },
-      "22654d7e97b5e3922b5c9ee46ade3089099e9c42a3abedc61ed7a3aee7e054b4": {
-        "title": "暑期遭遇定档难",
-        "link": "https://www.tmtpost.com/8074955.html",
-        "published_date": "Wed, 22 Jul 2026 17:42:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984756"
-      },
-      "832ec8042c561936cde2b607ffb78984d06d3389ed4272c2373750b327f9a7da": {
-        "title": "一位游荡者的新疆消费观察",
-        "link": "https://www.tmtpost.com/8074967.html",
-        "published_date": "Wed, 22 Jul 2026 17:41:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984757"
-      },
-      "d00dfe965e86af7046b00c0f2651a98a34f788f754fa06d1509bf5342ab7099c": {
-        "title": "刘强东的第二张物流网",
-        "link": "https://www.tmtpost.com/8074740.html",
-        "published_date": "Wed, 22 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984759"
-      },
-      "5be0c741340f1857dd8851b999c12620dd0cece0f03483e9689a95d77b01c75d": {
-        "title": "风向变了！三大运营商集体“卖铲”",
-        "link": "https://www.tmtpost.com/8074796.html",
-        "published_date": "Wed, 22 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984760"
-      },
-      "2c9397cfe4bccd239d8ba3f1eff120df439edec8d3184cd1b6f00203c381b1f1": {
-        "title": "大模型正在“变小”？",
-        "link": "https://www.tmtpost.com/8074930.html",
-        "published_date": "Wed, 22 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984761"
-      },
-      "6ee9b0e9945b29ccd4c5f54394bfe08c58f6c1f25153e290f3bb070487566f90": {
-        "title": "连达芬奇手术机器人都开始降本了！",
-        "link": "https://www.tmtpost.com/8074923.html",
-        "published_date": "Wed, 22 Jul 2026 17:15:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984762"
-      },
-      "b6c592f7183b2192ff54f71c2ef0dec1d67109026b0d65fa8f0eeec51a2e3257": {
-        "title": "十年雅迪717，“智能痛车” 让Z世代集体“上头”",
-        "link": "https://www.tmtpost.com/8075115.html",
-        "published_date": "Wed, 22 Jul 2026 16:58:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984763"
-      },
-      "0dc999e1f20ffdfbda63559fe01813144905384e48a1da61b4ced3955fd1eab7": {
-        "title": "AI竞争，为什么先比算力？",
-        "link": "https://www.tmtpost.com/8074544.html",
-        "published_date": "Wed, 22 Jul 2026 16:32:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984764"
-      },
-      "42e29ebb9e1d140f3786eeed6feb4f547a81fdf7d38ca5c4d2850b7906a75c95": {
-        "title": "小红书能留住男人吗？",
-        "link": "https://www.tmtpost.com/8074728.html",
-        "published_date": "Wed, 22 Jul 2026 16:18:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984766"
-      },
-      "79ee4d8d47db22df5db4678778309ecd9881f00df817a10b9e8590bcba375f7b": {
-        "title": "上海WAIC深度观察：模型隐身，Agent疯野",
-        "link": "https://www.tmtpost.com/8074627.html",
-        "published_date": "Wed, 22 Jul 2026 16:18:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984767"
-      },
-      "c96bbfd8e17ae84c32321e388d8e682192599b5f7da9fc3de915a85b1829566d": {
-        "title": "智能眼镜不是一张榜单：Meta之外，中国玩家的四条路线",
-        "link": "https://www.tmtpost.com/8074531.html",
-        "published_date": "Wed, 22 Jul 2026 16:01:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984768"
-      },
-      "6c62543b4597c78ba471b7739ca32d06e8f458863d1796652a71d7d545368d4f": {
-        "title": "AI在企业中为什么没有体现价值？丨WAIC2026",
-        "link": "https://www.tmtpost.com/8075237.html",
-        "published_date": "Wed, 22 Jul 2026 15:36:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984769"
-      },
-      "c77215bc0b0c9a4e2e8eafa242b74559ba30e4289756aee0b43dca58d2fbf5b6": {
-        "title": "平价雪糕归来，社区超市能撬动冷饮市场么？",
-        "link": "https://www.tmtpost.com/8074495.html",
-        "published_date": "Wed, 22 Jul 2026 15:35:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984770"
-      },
-      "6757d60c56a483fd83f79eeb9b1ca21cb0545bac3242c343a9b4d061cef0f881": {
-        "title": "滤镜背后的色彩科学：LUT 是什么？",
-        "link": "https://sspai.com/post/111550",
-        "published_date": "Wed, 22 Jul 2026 15:00:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.984771"
-      },
       "c13dc67faeb097d22661511ae0aa253f829ce42e535ab806250e1fccec8fea0d": {
         "title": "【钛晨报】体育强国建设“十五五”规划发布，到2030年产业规模破7万亿元；OpenAI计划到2030年云支出达7500亿美元；北京国管：已统筹自有资金累计投入近百亿元布局股票市场",
         "link": "https://www.tmtpost.com/8075793.html",
@@ -10435,105 +10159,183 @@
         "link": "http://www.geekpark.net/news/369114",
         "published_date": "Fri, 21 Aug 2026 08:05:00 GMT",
         "first_seen": "2026-08-21T05:22:52.312652"
+      },
+      "2b62d00fbf09803abeeb2a07e9c09da4478b554899fbef8c0ee8dc6349f364e8": {
+        "title": "“割裂”的市场：十万亿级中国银发经济的真实地图丨行业风向标",
+        "link": "https://www.tmtpost.com/8112352.html",
+        "published_date": "Fri, 21 Aug 2026 21:09:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867278"
+      },
+      "a9215e70b7c705de8eaf923c326734c8630a23c1c4b9a4e12bdecfdc6370b76e": {
+        "title": "王振辉重返京东，先接住外卖大战的沉没成本",
+        "link": "https://www.tmtpost.com/8111529.html",
+        "published_date": "Fri, 21 Aug 2026 18:51:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867290"
+      },
+      "74a027e704be959db20d931b4c11e9ac7a80d5a51568dba4c80d684fff9082d8": {
+        "title": "用AI治疗癌症！背后巨头Moderna，股价暴涨177%",
+        "link": "https://www.tmtpost.com/8112046.html",
+        "published_date": "Fri, 21 Aug 2026 18:49:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867292"
+      },
+      "553a4c4acba64cf2aabd5167331fa56e652b88f761aa9e7fe97914133b9f82ab": {
+        "title": "吴妈劝大家别害怕",
+        "link": "https://www.tmtpost.com/8111959.html",
+        "published_date": "Fri, 21 Aug 2026 18:49:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867295"
+      },
+      "09cb487b2e1a2c748c71db452c10a1d01d7f93099823e0887476ec132ef5de28": {
+        "title": "硅基负极材料的“窄门”",
+        "link": "https://www.tmtpost.com/8111920.html",
+        "published_date": "Fri, 21 Aug 2026 18:49:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867297"
+      },
+      "ee69b72f73769be764cfcb9011642136fe465b4904ce34783bbc3c64357ee524": {
+        "title": "“大疆教父”李泽湘，第4个机器人IPO来了",
+        "link": "https://www.tmtpost.com/8112070.html",
+        "published_date": "Fri, 21 Aug 2026 18:28:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867299"
+      },
+      "2221bb50a4b4177eb2429bf141e65492dc23f11b1cd70f168523980483d57d74": {
+        "title": "一线调研：谁在为农夫山泉的“印钞机”负重前行？",
+        "link": "https://www.tmtpost.com/8111937.html",
+        "published_date": "Fri, 21 Aug 2026 18:28:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867301"
+      },
+      "f06d15e344ddadbc916c3e0ab1245f3da2f6f33c112f0590493810a3300463ad": {
+        "title": "Moderna癌症疫苗III期成功，中国mRNA产业链的机会在哪里？",
+        "link": "https://www.tmtpost.com/8111837.html",
+        "published_date": "Fri, 21 Aug 2026 18:12:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867303"
+      },
+      "e6048e1caa47f0988ff1eeee5e8bdf85b9a24d2fc803b8950ee844567c1cdde3": {
+        "title": "在B站看完红果全集之后",
+        "link": "https://www.tmtpost.com/8111785.html",
+        "published_date": "Fri, 21 Aug 2026 18:12:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867305"
+      },
+      "bb3971144a1a30c18795d0e7675e21f6f72a9ffa1b824c2b3a1802361f292c2c": {
+        "title": "电脑手机“养”不活的维修人，拼命挤进机器人行业",
+        "link": "https://www.tmtpost.com/8112057.html",
+        "published_date": "Fri, 21 Aug 2026 18:12:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867307"
+      },
+      "0bc74f0bdbbab64d04b48b34b59b3d78319d3a4b7d064e4db8249d1ef38d36cd": {
+        "title": "阿里的游戏梦，卖了100亿",
+        "link": "https://www.tmtpost.com/8111539.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867308"
+      },
+      "aa2ee696ad0cbd172b9aef5b3c7185762732cbb963b3a6e412a68ec9bbf96659": {
+        "title": "腾讯“测试中”的Agent钱包，被亚马逊抢先了",
+        "link": "https://www.tmtpost.com/8111610.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867310"
+      },
+      "d34c264f9029456cc0d7e2cf66ea94d1e3bf1d07d7ce4ac3afab484ae067eab8": {
+        "title": "具身机器人的万亿狂欢，在等待工厂的一张复购单",
+        "link": "https://www.tmtpost.com/8111584.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867311"
+      },
+      "9d020fbb4b92e391449ff69f4fdbc0ef44416964d8b91eaee643ce59bc02e25d": {
+        "title": "“龙餐馆”出海，百年还没通关",
+        "link": "https://www.tmtpost.com/8111615.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867313"
+      },
+      "3f2e04afed303ec9d6cde46b4e4bbf6f083cccf8979974a05f063d939ab0b3c6": {
+        "title": "10亿美金开局，今年这个赛道几乎都融到钱了",
+        "link": "https://www.tmtpost.com/8111730.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867314"
+      },
+      "2b52c43e2265b2d47f90109d163c77025b21bc046b9e93fd79f0dff82fb604e4": {
+        "title": "具身大佬，为这几个问题“吵翻”了",
+        "link": "https://www.tmtpost.com/8111784.html",
+        "published_date": "Fri, 21 Aug 2026 17:53:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867316"
+      },
+      "2da5c3c64fe59051d21996dfe54ba8aa2cb1dba3f9effffd72729472cbd0ab88": {
+        "title": "神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米",
+        "link": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 19:41:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867318"
+      },
+      "cfc908e7cb49abbf5476d34efbe9a3d91091b685f8521c0f8a415dedabda22b9": {
+        "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+        "link": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 19:34:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867319"
+      },
+      "f645b0a07230bbca7a8c24cf2728c458b1494d78acd518eaa35cb322745f8300": {
+        "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+        "link": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 19:31:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867321"
+      },
+      "e477b388ac9efa127c1d64d39bd5ee859fdfa1ffde6c85ff7ad04ffcc5a695c3": {
+        "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
+        "link": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 17:00:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867322"
+      },
+      "bcf8b9424ca4b6a39d45839c1101c2e355f7547c8dad2b88aeb214dc1f665f9a": {
+        "title": "视频生成迎来“Claude Code时刻”，MiniMax Design “杀入” Adobe、Canva 腹地",
+        "link": "https://www.infoq.cn/article/7FAcAhVUw89VJNwuOwrc?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 16:55:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867324"
+      },
+      "542eca948fe08bab0fd6bb39fb43c62e07105c5c972ffdef7c5b57508db852bb": {
+        "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
+        "link": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 16:47:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867327"
+      },
+      "67b4d563a40742e77d91bef7f04f7166d4f3177547feda1ea739434e5630485f": {
+        "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
+        "link": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 21 Aug 2026 14:25:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867328"
+      },
+      "b644cac244b3e33ae58ee6e014ac12e8388c303622a8dd1eafd2f9a6d80deb76": {
+        "title": "MiniMax，做视频领域的 Claude Code 的野心已经藏不住了",
+        "link": "http://www.geekpark.net/news/369201",
+        "published_date": "Fri, 21 Aug 2026 18:58:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867330"
+      },
+      "24671732ce7f8f447bf1c58f292f9afca53374d2e195d7ac17d9c3b8a179a9fb": {
+        "title": "从单点突破到全数 SOTA，阿里打响「模型团战」第一枪",
+        "link": "http://www.geekpark.net/news/369200",
+        "published_date": "Fri, 21 Aug 2026 18:15:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867332"
+      },
+      "1527eabb1f2e544a3fcd040fddb70ce5fa0acb299c8bc70bc4ed770155d67261": {
+        "title": "前 TikTok 产品经理创业，AI 视频共创平台 Wapoo 获千万美元天使融资",
+        "link": "http://www.geekpark.net/news/369162",
+        "published_date": "Fri, 21 Aug 2026 14:15:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867335"
+      },
+      "d8af34a3476ae8d09cba33f41d3a523e06d7c0b3428869a3f0c4637dc46f131f": {
+        "title": "小红书悄悄开源发布了自己的大模型，内容平台也要造底座",
+        "link": "http://www.geekpark.net/news/369161",
+        "published_date": "Fri, 21 Aug 2026 14:12:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867336"
+      },
+      "8928a1ea3d4355108fc6d066eb4644f18f2a76a9b8d78d92ac03371bead948a6": {
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "link": "https://sspai.com/post/113693",
+        "published_date": "Fri, 21 Aug 2026 18:08:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867338"
+      },
+      "e02307a08f08694c7f9bae1780de9794de85af344d1b70961404632be5f2d31e": {
+        "title": "挖到 15 个宝藏插件，网友把 DeepSeek Harness 玩出了花。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536097&idx=1&sn=091f144430361965e333b86109bf3a05",
+        "published_date": "Fri, 21 Aug 2026 13:17:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.867340"
       }
     },
     "Finance": {
-      "9cf85b0bf766bdb6c0111a8b960db59ea6124b6a4129fcf990af027c08021b2b": {
-        "title": "The US has collected about $13bn of Venezuela’s oil money. Where is it?",
-        "link": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047194"
-      },
-      "74bfeac51a925b8c1703c15cb007fe46a48df290ace46073f174ca72179a7c2a": {
-        "title": "The UK’s biggest university is a private company",
-        "link": "https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047205"
-      },
-      "bd4fbad943b08c7f292e2d79146c0771889ec867ffcd1bc48204cf24cfcd8062": {
-        "title": "Who will win the war of neo-mercantilists?",
-        "link": "https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047208"
-      },
-      "3b944b50d81c7cf893bf4611809ad0fad8bc79249ee64eb3f083f8af18eefd09": {
-        "title": "The high price of insider information",
-        "link": "https://www.ft.com/content/155c520f-cecc-4de2-8816-0728e66e2054?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047210"
-      },
-      "958f9fa819a505a000a37d66c331538b2b988ec16331a4b898555e973a689239": {
-        "title": "Samsung in talks to invest in Mistral at €20bn valuation",
-        "link": "https://www.ft.com/content/67a5d255-c6e9-4269-b8a0-3105db69c1ec?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047211"
-      },
-      "e09514fb2a8a00eb1528bf4444cc2c19e38d8adae7e897ec306d97e19880d645": {
-        "title": "UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek",
-        "link": "https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 04:00:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047213"
-      },
-      "d5999540b684bd0559c049309b81e02bdf29c953b2a0fe4be05813387728f7bb": {
-        "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
-        "link": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 00:11:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047215"
-      },
-      "a57cc70c82c68a5f6877c89a5074cfe838db2197d983b187ef4cd28c41d68f20": {
-        "title": "This is the ideal retirement strategy if you want to keep your healthcare costs down",
-        "link": "https://www.marketwatch.com/story/heres-how-to-time-your-retirement-to-keep-your-healthcare-costs-down-b1a4d427?mod=mw_rss_topstories",
-        "published_date": "Tue, 21 Jul 2026 23:56:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.047216"
-      },
-      "814fc6ef3612a253e4a6d75fb1116d95296c2c75b31c533b399f5c583d2b3034": {
-        "title": "The ECB is expected to hold rates. But analysts say hawkish hints could be coming — and a hike isn’t impossible",
-        "link": "https://www.marketwatch.com/story/the-ecb-is-expected-to-hold-rates-but-analysts-say-hawkish-hints-could-be-coming-and-a-hike-isnt-impossible-b92463bf?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 10:01:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859108"
-      },
-      "102cbd2ba581e0d6b12adbdf9d3fe5d9b37017cd77abb2e0eb8a117cd75990f9": {
-        "title": "This could be the right time to buy a momentum fund",
-        "link": "https://www.marketwatch.com/story/this-could-be-the-right-time-to-buy-a-momentum-fund-05e7a1fa?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 10:00:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859119"
-      },
-      "bd6bc2529caf463bb15c27fc0e71140d2f2cfb80f290c39e1561fd70bdfa0ea5": {
-        "title": "Goldman Sachs and Morgan Stanley had a monster quarter. Analysts say these giants could be next.",
-        "link": "https://www.marketwatch.com/story/goldman-sachs-and-morgan-stanley-had-a-monster-quarter-analysts-say-these-giants-could-be-next-47b42e15?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 09:44:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859121"
-      },
-      "51251a919cfa51531846a525a7ab13d2f75f466fe74d6cead48e93747de143a4": {
-        "title": "I have children from my first marriage. Should my second husband inherit my house if I die?",
-        "link": "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 09:15:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859123"
-      },
-      "f7ca080785dc7e9225fa5db74f236483b030538ca594da391760d985d906bb68": {
-        "title": "Matt Damon’s carefully-curated property portfolio",
-        "link": "https://www.marketwatch.com/story/matt-damons-carefully-curated-property-portfolio-162d984b?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 09:02:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859124"
-      },
-      "70947454790bd64051b7365afd71b347a98fb452f71abf3a07b22bb9ab3c8079": {
-        "title": "There’s a mathematical formula to determining when Trump will TACO — and here’s when a pivot is expected",
-        "link": "https://www.marketwatch.com/story/theres-a-mathematical-formula-to-determining-when-trump-will-taco-and-heres-when-a-pivot-is-expected-3d49a664?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 08:10:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859125"
-      },
-      "a72346e452f329365849f997e54ce9188878fa50b4a76e491e8dc2a27d57c1a8": {
-        "title": "Here’s the surprising twist to the news OpenAI products went rogue and tried to steal an exam",
-        "link": "https://www.marketwatch.com/story/heres-the-surprising-twist-to-the-news-openai-products-went-rogue-and-tried-to-steal-an-exam-660e0128?mod=mw_rss_topstories",
-        "published_date": "Wed, 22 Jul 2026 07:55:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859126"
-      },
-      "2d86b24705611792efd1235da07902ab6132923810adc4a6d251f5c69283ce19": {
-        "title": "Oil rises past $95 after Trump threatens further Iran escalation",
-        "link": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-        "published_date": "Wed, 22 Jul 2026 08:08:00 GMT",
-        "first_seen": "2026-07-22T10:12:20.859128"
-      },
       "8ef977a30b4dd12af320f25c4dfb787a27f77490c94c52e806bbb12b211ecd01": {
         "title": "‘I have a $2,000 deductible’: I reported a cracked windshield on my Hertz rental car. Can they charge me?",
         "link": "https://www.marketwatch.com/story/i-have-a-2-000-deductible-i-reported-a-cracked-windshield-on-my-hertz-rental-car-can-they-charge-me-1e07d28a?mod=mw_rss_topstories",
@@ -15069,69 +14871,105 @@
         "link": "https://www.ft.com/content/83500ff8-31df-4031-9edd-8b3de5aff3e3?syn-25a6b1a6=1",
         "published_date": "Fri, 21 Aug 2026 02:16:00 GMT",
         "first_seen": "2026-08-21T05:22:52.395845"
+      },
+      "4cfede5c9e275858237f7107716e43236af597c9dcc1e9eb31dac7a8c959ea5d": {
+        "title": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
+        "link": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 22:27:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962958"
+      },
+      "0c11163efea652eca73de3034d3e700bc23ea95828a99f4e9257e7d707eaa771": {
+        "title": "US-Canada trade deal goes down to the wire",
+        "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 22:02:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962968"
+      },
+      "a1192f25838550ea36c0d0940c6e877dfad0927d6f00e8dcfb8b74e4e17be250": {
+        "title": "Bitcoin and gold surge as Bessent’s intervention in bond market hits dollar",
+        "link": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 21:46:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962971"
+      },
+      "1f6a339258dec7e7f540e53192e9fbc3c543c8329f44bb4ed3039ce3ec5e398a": {
+        "title": "Iran’s president calls to end war with US from ‘position of strength’",
+        "link": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
+        "published_date": "Fri, 21 Aug 2026 18:51:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962972"
+      },
+      "364c4570c5c10a842bf9803240af4c726ab2b2c0e56bab90faa157596795c359": {
+        "title": "Natalie Harp, the devoted ‘human printer’ in Trump’s entourage",
+        "link": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 15:22:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962975"
+      },
+      "46286953de5b42b924aed7d25fadb9dcc7317910bfb6b4207a9c2e528489c2a6": {
+        "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
+        "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1",
+        "published_date": "Fri, 21 Aug 2026 14:50:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962977"
+      },
+      "7066f0f08d38eb9ab6cc2882055d9676b780216bf3d2e7c227ee50fb2e4dbce4": {
+        "title": "The bond scare and the balance of power",
+        "link": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
+        "published_date": "Fri, 21 Aug 2026 14:10:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962978"
+      },
+      "aac784f31b62e3101b7d0a3277324551d4418b3e6d2fa2658398b78cb139f64b": {
+        "title": "What is Jane Street?",
+        "link": "https://www.ft.com/content/ef1d7530-a514-4b18-9a0f-8843cac02929",
+        "published_date": "Fri, 21 Aug 2026 12:30:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962980"
+      },
+      "e20a27646df822d1e7a6b52da151d8ea3a5353aad3ee5436dfe7c55b7a1b7114": {
+        "title": "You can now Venmo your kid’s college tuition. But should you?",
+        "link": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 21:20:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962981"
+      },
+      "18a6b7abf013779574b335049af80fe79d4ce5406e98d3bb5bb30b67462ec474": {
+        "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
+        "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 21:17:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962983"
+      },
+      "0aff1823fb90204942293a04692ec96efc558e6eafd0bb8b28d04acfd88c1cd0": {
+        "title": "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+        "link": "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 20:34:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962985"
+      },
+      "40d5fcd8f92136c585c5565ae6058737c2302c2d28e047c00b27d0d94fff1e71": {
+        "title": "I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?",
+        "link": "https://www.marketwatch.com/story/im-leaving-my-grandkids-money-but-they-must-pass-financial-literacy-classes-to-get-it-is-that-fair-8a630648?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 20:11:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962987"
+      },
+      "f784bb1bef464876490b151cbc0c5820a522e811c9be49ef98678bb39b63d2f1": {
+        "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+        "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 20:11:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962988"
+      },
+      "0413ae1b4dbd381c9408e6d92fc90b8bf436feb2cb95404a2a1d45228cccabf6": {
+        "title": "Former JPMorgan exec takes on Social Security advisory role",
+        "link": "https://www.marketwatch.com/story/former-jpmorgan-exec-takes-on-social-security-advisory-role-d0cf6e4f?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 19:11:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962990"
+      },
+      "297e605ae3ba23d0e7243d83c5ff69d1c6e0484a60df3b2497d50b7935fd4c77": {
+        "title": "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
+        "link": "https://www.marketwatch.com/story/its-truly-a-tragedy-my-daughter-hasnt-spoken-to-me-for-4-years-but-it-has-nothing-to-do-with-politics-86c4bcf6?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 19:00:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962991"
+      },
+      "10bf2ced1c2c78960566d2b7830330e29ebd1274573b19ae6f7f691012fedcee": {
+        "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
+        "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
+        "published_date": "Fri, 21 Aug 2026 18:29:00 GMT",
+        "first_seen": "2026-08-21T23:12:28.962993"
       }
     },
     "Ai": {
-      "af6fe40386b195dffa344125933bf227ad04846c1c5eed79f18b79fa73bac64c": {
-        "title": "2026-07-22日刊",
-        "link": "https://hex2077.dev/docs/2026-07/2026-07-22/",
-        "published_date": "Wed, 22 Jul 2026 10:38:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366683"
-      },
-      "08416e0d12fd44e2ddf744bca5763237818a91250359a19963d7b7ff9e8239b6": {
-        "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
-        "link": "https://www.qbitai.com/2026/07/457049.html",
-        "published_date": "Wed, 22 Jul 2026 04:10:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366692"
-      },
-      "571075e8423d9c39f0f91ec452102c87d046f17694427a804be194ad1073fd88": {
-        "title": "天立启鸣发布教育AGI白皮书：破解教育“不可能三角”",
-        "link": "https://www.qbitai.com/2026/07/457040.html",
-        "published_date": "Wed, 22 Jul 2026 03:54:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366694"
-      },
-      "2fc86c000292c6f526dcee1ada9db096cbef3ea937996a6df9ceffa8cc6cc14d": {
-        "title": "我在WAIC 2026看见的十大趋势",
-        "link": "https://www.qbitai.com/2026/07/456974.html",
-        "published_date": "Wed, 22 Jul 2026 03:46:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366696"
-      },
-      "5f6965d82b5af8ff12e0b480ad22eb274a420b223014a79e0f9ac067980b72a3": {
-        "title": "懂你、能交付、专业操作：金山办公田然给出AI办公助理的三项标准",
-        "link": "https://www.qbitai.com/2026/07/456910.html",
-        "published_date": "Wed, 22 Jul 2026 03:24:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366697"
-      },
-      "f562d8fd992017e503852539b1f062964bdc14a4bc094a813330bd3792998a45": {
-        "title": "物理AI的闭环，终于有人跑通了：日冕+远图万台级部署计划官宣",
-        "link": "https://www.qbitai.com/2026/07/456728.html",
-        "published_date": "Wed, 22 Jul 2026 03:06:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366699"
-      },
-      "28eec14dc2688d01451f5f1904d65ec513e57de6bfee1c535762ea8bd006fb94": {
-        "title": "AI医疗卷了10年终于悟了：不用替代医生，而是给医院装上超强buff",
-        "link": "https://www.qbitai.com/2026/07/456555.html",
-        "published_date": "Wed, 22 Jul 2026 02:59:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366700"
-      },
-      "47107877874d21b928b0e649f63d3e67356730f1451a84880274fa17cee5e127": {
-        "title": "酷哇科技亮相WAIC 2026，解密行业首个双层智能体世界模型",
-        "link": "https://www.qbitai.com/2026/07/456178.html",
-        "published_date": "Wed, 22 Jul 2026 01:46:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366701"
-      },
-      "426c21561bac0f097af003bf038fe92dfe396b080074057d0d4e70b5ad870780": {
-        "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
-        "link": "https://www.qbitai.com/2026/07/456061.html",
-        "published_date": "Wed, 22 Jul 2026 00:34:00 GMT",
-        "first_seen": "2026-07-22T07:29:37.366703"
-      },
-      "7c37758acab6b201bb07f5ee20b8c774381b86935d6e23972572ffb231f58330": {
-        "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-        "link": "https://www.qbitai.com/2026/07/457117.html",
-        "published_date": "Wed, 22 Jul 2026 07:31:00 GMT",
-        "first_seen": "2026-07-22T10:12:21.083857"
-      },
       "4e3c5cf2935d1136d1cef9a9d3eb803756dc6844a749aac77ce1081bf26e4e34": {
         "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
         "link": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
@@ -16631,13 +16469,61 @@
         "link": "https://www.qbitai.com/2026/08/476141.html",
         "published_date": "Thu, 20 Aug 2026 09:42:00 GMT",
         "first_seen": "2026-08-21T05:22:52.548733"
+      },
+      "44dbc6e138f6896e9de9a8113bd65d70ae427d2e935abcc06f89339a6d4135e1": {
+        "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+        "link": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+        "published_date": "Fri, 21 Aug 2026 17:02:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101821"
+      },
+      "a580917d164c8aed670f3ae155b6d3c94bba6f697276a1850cadf5a2c829ce0a": {
+        "title": "How mobility gives language models a deeper understanding of place",
+        "link": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+        "published_date": "Fri, 21 Aug 2026 10:54:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101830"
+      },
+      "5309160ae25803ef587d26c1d1a2c61ea9fbe96bf32bc68a7308c152f40cddd3": {
+        "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+        "link": "https://www.qbitai.com/2026/08/476778.html",
+        "published_date": "Fri, 21 Aug 2026 11:47:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101832"
+      },
+      "47eb67ce63e9e01778548ecd34dad821fc1ee05d88f39981b29f1b682ff2823a": {
+        "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+        "link": "https://www.qbitai.com/2026/08/476733.html",
+        "published_date": "Fri, 21 Aug 2026 09:44:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101833"
+      },
+      "21176a46ffbd3e4c4d894c3d310c4a3441d50c69f3206827859b2b59a61fe06f": {
+        "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+        "link": "https://www.qbitai.com/2026/08/476628.html",
+        "published_date": "Fri, 21 Aug 2026 09:00:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101835"
+      },
+      "d9c744b0ea43f0f88d2310003ff72cfb4a96b98c7e14c735341472fbbf9cdd6f": {
+        "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+        "link": "https://www.qbitai.com/2026/08/476596.html",
+        "published_date": "Fri, 21 Aug 2026 07:17:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101837"
+      },
+      "a6b0316e74f320f3d88555bb3edc70cf296fb44fd339e65255996d2cd9111dd5": {
+        "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+        "link": "https://www.qbitai.com/2026/08/476591.html",
+        "published_date": "Fri, 21 Aug 2026 06:40:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101838"
+      },
+      "32a2b8ab41f6b356b340a6504ce0783edd3236fdf3f4869b4af9ce1debe606c8": {
+        "title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+        "link": "https://www.qbitai.com/2026/08/476532.html",
+        "published_date": "Fri, 21 Aug 2026 05:38:00 GMT",
+        "first_seen": "2026-08-21T23:12:29.101839"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-21T05:22:52.312655",
-    "Finance": "2026-08-21T05:22:52.395848",
-    "Ai": "2026-08-21T05:22:52.548735"
+    "Technology": "2026-08-21T23:12:28.867343",
+    "Finance": "2026-08-21T23:12:28.962996",
+    "Ai": "2026-08-21T23:12:29.101841"
   }
 }
