@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-21 23:12
+**最后更新时间**: 2026-08-22 05:17
+
+---
+
+## 🆕 最新更新 (2026-08-22 05:17)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Canada vows to match US tariffs as trade talks collapse](https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:51
+
+#### [The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel](https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Who counts in Trump’s America?](https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Bossing the bond market around never works](https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Europe’s fatal beauty](https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Qatar cuts state spending at home and abroad as war shrinks economy](https://www.ft.com/content/efe10069-cbe3-4071-a091-26afa74fb4b3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [EU slips further behind US in race for critical minerals](https://www.ft.com/content/c6220205-ee40-4b71-95c0-d53399a17cd1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Germany becomes Europe’s largest regulated cannabis market](https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce)
+**发布时间**: 2026-08-22 04:00
 
 ---
 
