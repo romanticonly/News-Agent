@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-22 05:17
+**最后更新时间**: 2026-08-22 08:16
+
+---
+
+## 🆕 最新更新 (2026-08-22 08:16)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel](https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
+
+#### [Greenwich moon time? The high-stakes race to set lunar clocks](https://www.ft.com/content/d09e9c05-60c8-4c8a-8230-a5476a049b88?syn-25a6b1a6=1)
+**发布时间**: 2026-08-21 20:00
 
 ---
 
