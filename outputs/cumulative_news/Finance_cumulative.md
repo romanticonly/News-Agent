@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-22 08:16
+**最后更新时间**: 2026-08-22 23:10
+
+---
+
+## 🆕 最新更新 (2026-08-22 23:10)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Canada announces retaliatory tariffs on U.S. goods after trade talks break down](https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-22 20:31
+
+#### [‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?](https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories)
+**发布时间**: 2026-08-22 20:30
+
+#### [‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?](https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories)
+**发布时间**: 2026-08-22 20:15
+
+#### [Why an announcement from the Treasury sparked a rally in gold and bitcoin this week](https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-22 13:00
+
+#### [Move over, credit cards: Social-media stars are tapping magic wands to buy things](https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-22 12:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16](https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 19:29
+
+#### [Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says](https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2)
+**发布时间**: 2026-08-22 18:17
+
+#### [Mark Carney says Canada is now ‘at war’ with US over trade](https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 17:22
+
+#### [How Germany’s doctors, lawyers and dentists got burnt by private markets bets](https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 04:00
 
 ---
 
