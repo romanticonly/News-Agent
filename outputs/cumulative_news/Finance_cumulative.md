@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-22 23:10
+**最后更新时间**: 2026-08-23 05:22
+
+---
+
+## 🆕 最新更新 (2026-08-23 05:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US buyers snap up Europe’s asset managers at fastest rate in decades](https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 04:30
+
+#### [Are America’s vast Gulf bases worth rebuilding?](https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 04:00
+
+#### [Why is the far right so obsessed with knights?](https://www.ft.com/content/ef65c99c-b58c-430c-b6be-8036f042cc1e)
+**发布时间**: 2026-08-23 04:00
+
+#### [Europe can do better than US-style air conditioning](https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9)
+**发布时间**: 2026-08-23 04:00
+
+#### [Investors try to catch ‘falling knife’ with bets on risky funds during chip rout](https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 04:00
+
+#### [India’s reliance on Russian oil hits all-time high](https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 04:00
+
+#### [Mark Carney says Canada ‘at war’ with US over trade](https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-22 17:22
 
 ---
 
