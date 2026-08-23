@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 05:22
+**最后更新时间**: 2026-08-23 23:11
+
+---
+
+## 🆕 最新更新 (2026-08-23 23:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Stock futures flat as U.S. and Canada appear headed for trade war](https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories)
+**发布时间**: 2026-08-23 23:03
+
+#### [Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test](https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories)
+**发布时间**: 2026-08-23 13:00
+
+#### [The Treasury’s bond-market intervention isn’t working. So what comes next?](https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-23 12:00
+
+#### [I’m turning 70. Here’s how I’m making this decade the richest of my retirement.](https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories)
+**发布时间**: 2026-08-23 12:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [An economic D-Day is coming for Iran](https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804)
+**发布时间**: 2026-08-23 21:30
+
+#### [Warsh seeks to soothe investors’ nerves as signs of economic strain mount](https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 18:00
+
+#### [Yahoo, the internet’s ‘OG’, wants to win over Gen Z](https://www.ft.com/content/50c666af-1979-4411-9d62-34e18cc0ecc9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 18:00
+
+#### [Trump accused of risking more pain for Americans with Canada trade war](https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 17:28
+
+#### [Zelenskyy rejects election call from fired defence minister](https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35)
+**发布时间**: 2026-08-23 11:26
+
+#### [Alibaba announces $10.2bn share placement as Chinese companies expand AI investment](https://www.ft.com/content/e4ab027e-ed41-48b7-89ac-8250d3054ae6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 08:33
+
+#### [Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245?syn-25a6b1a6=1)
+**发布时间**: 2026-08-23 08:23
 
 ---
 
