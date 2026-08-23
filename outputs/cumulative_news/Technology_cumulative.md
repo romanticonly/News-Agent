@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 05:22
+**最后更新时间**: 2026-08-23 08:16
+
+---
+
+## 🆕 最新更新 (2026-08-23 08:16)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [阿里七年来最大的资本运作](https://www.tmtpost.com/8113306.html)
+**发布时间**: 2026-08-23 16:03
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索](https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-08-23 14:09
 
 ---
 
