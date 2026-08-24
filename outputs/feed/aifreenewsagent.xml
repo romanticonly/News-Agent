@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 24 Aug 2026 05:27:00 GMT</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2026 05:29:29 GMT</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 08:32:00 GMT</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:34:58 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-24日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-24/</link>
-      <description>&lt;![CDATA[2026-08-24日刊]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 10:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-24/</guid>
+      <title>单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布</title>
+      <link>https://www.qbitai.com/2026/08/478469.html</link>
+      <description>&lt;![CDATA[单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 07:04:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478469.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WRC 2026｜原生全模态世界模型：从模拟世界到交互世界</title>
-      <link>https://www.qbitai.com/2026/08/478421.html</link>
-      <description>&lt;![CDATA[WRC 2026｜原生全模态世界模型：从模拟世界到交互世界]]&gt;</description>
-      <pubDate>Mon, 24 Aug 2026 05:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478421.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝</title>
-      <link>https://www.qbitai.com/2026/08/478358.html</link>
-      <description>&lt;![CDATA[前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝]]&gt;</description>
-      <pubDate>Sun, 23 Aug 2026 23:19:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478358.html</guid>
+      <title>8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！</title>
+      <link>https://www.qbitai.com/2026/08/478447.html</link>
+      <description>&lt;![CDATA[8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！]]&gt;</description>
+      <pubDate>Mon, 24 Aug 2026 06:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478447.html</guid>
       <category>Ai</category>
     </item>
   </channel>

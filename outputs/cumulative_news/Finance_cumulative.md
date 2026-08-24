@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 05:29
+**最后更新时间**: 2026-08-24 08:34
+
+---
+
+## 🆕 最新更新 (2026-08-24 08:34)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [There are six stocks that hedge funds and mutual funds are both overweight — and SpaceX is one](https://www.marketwatch.com/story/there-are-six-stocks-that-hedge-funds-and-mutual-funds-are-both-overweight-and-spacex-is-one-2a17ffb1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 08:10
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Can AI glasses replace the smartphone?](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
 
 ---
 
