@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-23 23:11
+**最后更新时间**: 2026-08-24 05:29
+
+---
+
+## 🆕 最新更新 (2026-08-24 05:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Does AI belong on your face?](https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
+
+#### [A ‘democratised’ financial crisis is still a crisis](https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
+
+#### [US widens AI-driven investment gap with Europe](https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
+
+#### [Germany must ditch doubts over private capital, says investment tsar](https://www.ft.com/content/7c88554e-8e08-4d9e-a696-daeb82817876?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
+
+#### [Saudi Arabia holds talks over state-backed war insurance as costs jump](https://www.ft.com/content/fce79e4a-3979-4af9-b8e5-27aeb890e53b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 04:00
 
 ---
 
