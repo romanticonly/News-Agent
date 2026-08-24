@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 08:34
+**最后更新时间**: 2026-08-24 23:13
+
+---
+
+## 🆕 最新更新 (2026-08-24 23:13)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [SEC subpoenas Wall Street banks over Situational Awareness](https://www.ft.com/content/c36d4e57-1ea2-47a5-8f6d-f390369aedc4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 22:56
+
+#### [US Supreme Court allows Trump restrictions on mail-in ballots](https://www.ft.com/content/b89d51c9-2206-4213-b0d3-8a826262c9d8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 22:04
+
+#### [Trump says US to increase tariffs on Canadian cars to 50%](https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 21:40
+
+#### [First Brands forced into liquidation by bankruptcy court](https://www.ft.com/content/0ed63607-bf79-41d5-8052-f78eeae99d61?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 21:31
+
+#### [Scott Bessent threatens Iran’s economic partners with more sanctions](https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 19:12
+
+#### [Treasury market interventions are only a band-aid](https://www.ft.com/content/d6c9e705-ef30-4896-880b-8e88941e0f58?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 17:16
+
+#### [Canadian businesses fear ‘vortex of downward pressures’ from Trump’s tariffs](https://www.ft.com/content/7522bdde-49f8-4bf0-a930-6591b40eb5e4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 15:05
+
+#### [How Shein’s $100bn dream unravelled](https://www.ft.com/content/5c8aaa6d-5170-4688-beeb-f1319e5ff29e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 15:00
+
+#### [Revisiting the Lockerbie bombing, 37 years later](https://www.ft.com/content/895d08d0-5cb9-45f4-9a90-cbfdd164a0dd)
+**发布时间**: 2026-08-24 11:57
+
+#### [An offer Canada could only refuse](https://www.ft.com/content/c806d2ce-efed-47a0-9abb-508e218b62b5?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 11:31
+
+#### [Iran threatens 46 ships in Strait of Hormuz transit crackdown](https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-24 11:14
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer](https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 21:55
+
+#### [SpaceX plans to put Nvidia-powered AI satellites in orbit next year](https://www.marketwatch.com/story/spacex-plans-to-put-nvidia-powered-ai-satellites-in-orbit-next-year-ab57083c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 21:26
+
+#### [Here’s how overvalued the stock market really is](https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 20:54
+
+#### [Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.](https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 20:53
+
+#### [It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong](https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 20:50
+
+#### [Ford’s $3 billion Canadian bet is getting caught in trade-war crosshairs](https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 20:22
+
+#### [Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation](https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 19:40
+
+#### [My father-in-law passed away, leaving a house with tenants. Do I evict them?](https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 19:30
+
+#### [Trump’s trade war with Canada could lead the U.S. back to quantitative easing](https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 19:03
 
 ---
 
