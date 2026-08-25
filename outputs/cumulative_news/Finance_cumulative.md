@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-25 08:28
+**最后更新时间**: 2026-08-25 23:16
+
+---
+
+## 🆕 最新更新 (2026-08-25 23:16)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?](https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 23:01
+
+#### [Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers](https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 22:57
+
+#### [Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.](https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 22:45
+
+#### [Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card](https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 21:01
+
+#### [Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot](https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 21:00
+
+#### [Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs](https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 20:59
+
+#### [This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon](https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 20:56
+
+#### [SpaceX to build Musk’s vision for a spaceport that until now ‘only existed in science fiction’](https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 20:54
+
+#### [Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets](https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 20:11
+
+#### [Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.](https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 20:07
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US audit regulator scraps investor advocate role as Trump-era revamp accelerates](https://www.ft.com/content/8f387dc3-44a3-423d-8b69-c0864513a493?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 22:34
+
+#### [Syria’s Kurds dissolve military force and integrate fighters with Damascus](https://www.ft.com/content/0909f58d-ccfd-4da6-add2-d8b9f420b4c7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 21:43
+
+#### [Trump administration pauses immigrant visa applications](https://www.ft.com/content/857fb8e1-eec6-443e-97e8-f6876302aabc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 21:33
+
+#### [SpaceX commits $100bn to Louisiana space base](https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 18:57
+
+#### [Canada announces $20bn retaliatory tariffs as US trade war escalates](https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 17:22
+
+#### [Iranian tankers gather off Sri Lankan coast](https://www.ft.com/content/ef62e345-2a76-46b4-8a69-9d02a306126b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 16:22
+
+#### [The drip-drip US debt crisis](https://www.ft.com/content/7588a11f-ff57-4c1a-b4cf-2a55a6d8c6b2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 15:20
+
+#### [‘Embarrassing’: US officials recoil from Trump’s Canada attacks](https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 14:55
+
+#### [The old asbestos town at the heart of the rare earths race](https://www.ft.com/content/a40460fa-88fa-437f-99c6-828b2636f300?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
 
 ---
 
