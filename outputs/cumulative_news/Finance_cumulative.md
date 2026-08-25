@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-24 23:13
+**最后更新时间**: 2026-08-25 05:23
+
+---
+
+## 🆕 最新更新 (2026-08-25 05:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US grain farmers pummelled as Iran war triggers surge in costs](https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
+
+#### [US affordability tracker: the data that could decide the 2026 midterm elections](https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
+
+#### [The threats to ‘Swiss Made’](https://www.ft.com/content/db7494b8-c590-4a50-8644-211d154a8f7b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
+
+#### [Socialists and Maga are both wrong about economic liberalism](https://www.ft.com/content/02e197fb-e6dc-426b-a952-72cc906a2733)
+**发布时间**: 2026-08-25 04:00
+
+#### [The little-known French company trying to unseat Palantir in Europe](https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
+
+#### [JPMorgan eases approach on lending against shares to court AI’s new wealth](https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 04:00
+
+#### [Iranians queue for petrol as US blockade bites](https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776)
+**发布时间**: 2026-08-25 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?](https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories)
+**发布时间**: 2026-08-24 23:45
 
 ---
 
