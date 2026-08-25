@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Aug 2026 05:21:00 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 05:23:46 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 08:25:00 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:28:10 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,59 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-25日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-25/</link>
-      <description>&lt;![CDATA[2026-08-25日刊]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 10:54:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-25/</guid>
+      <title>开源国产8B模型，比肩闭源Image 2了！</title>
+      <link>https://www.qbitai.com/2026/08/479192.html</link>
+      <description>&lt;![CDATA[开源国产8B模型，比肩闭源Image 2了！]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 06:53:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479192.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机</title>
-      <link>https://www.qbitai.com/2026/08/478839.html</link>
-      <description>&lt;![CDATA[人民教育音像数字出版社与小猿达成合作 “中小学课本学习智能体”首落小猿AI学习机]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 04:08:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478839.html</guid>
+      <title>半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司</title>
+      <link>https://www.qbitai.com/2026/08/479132.html</link>
+      <description>&lt;![CDATA[半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 06:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479132.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求</title>
-      <link>https://www.qbitai.com/2026/08/478479.html</link>
-      <description>&lt;![CDATA[WAIC CONNECT | AI出海，不聊虚的！CONNECT带你拿下马来西亚真正的AI采购需求]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 04:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478479.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜</title>
-      <link>https://www.qbitai.com/2026/08/478791.html</link>
-      <description>&lt;![CDATA[具身大满贯还全开源！原力灵机DM0.5登顶RoboDojo，且clone且珍惜]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 02:22:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478791.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>VC开始靠AI预测未来了</title>
-      <link>https://www.qbitai.com/2026/08/478774.html</link>
-      <description>&lt;![CDATA[VC开始靠AI预测未来了]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 02:16:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478774.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线</title>
-      <link>https://www.qbitai.com/2026/08/478690.html</link>
-      <description>&lt;![CDATA[WRC 2026｜生数科技发布最新研究成果，提出通用世界模型五级发展路线]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 01:46:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478690.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>ResNet作者任少卿机器人创业！公司注册就独角兽了</title>
-      <link>https://www.qbitai.com/2026/08/478675.html</link>
-      <description>&lt;![CDATA[ResNet作者任少卿机器人创业！公司注册就独角兽了]]&gt;</description>
-      <pubDate>Tue, 25 Aug 2026 00:35:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478675.html</guid>
+      <title>AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project</title>
+      <link>https://www.qbitai.com/2026/08/479096.html</link>
+      <description>&lt;![CDATA[AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project]]&gt;</description>
+      <pubDate>Tue, 25 Aug 2026 05:48:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/479096.html</guid>
       <category>Ai</category>
     </item>
   </channel>

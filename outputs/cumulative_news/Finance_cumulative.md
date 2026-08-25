@@ -1,7 +1,26 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-25 05:23
+**最后更新时间**: 2026-08-25 08:28
+
+---
+
+## 🆕 最新更新 (2026-08-25 08:28)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.](https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 08:00
+
+#### [Investors poured into Canadian ETFs right before trade talks broke down](https://www.marketwatch.com/story/investors-poured-into-canadian-etfs-right-before-trade-talks-broke-down-c8bea8ee?mod=mw_rss_topstories)
+**发布时间**: 2026-08-25 07:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [OnlyFans owner received $700mn in dividends before his death this year](https://www.ft.com/content/8472a7c3-64bb-4526-9aea-9c98c1af0e2a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 06:00
+
+#### [Nvidia employee charged with smuggling advanced chips into China](https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-25 05:31
 
 ---
 
