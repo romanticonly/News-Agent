@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-25 23:16
+**最后更新时间**: 2026-08-26 05:23
+
+---
+
+## 🆕 最新更新 (2026-08-26 05:23)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Bessent’s bond intervention puts US Treasury on collision course with Fed](https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [How chicken conquered the world](https://www.ft.com/content/6cbabfff-c549-42ce-b4a8-4a6535bf165b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [The bankers cashing in on Italy’s wealth boom](https://www.ft.com/content/73134cc3-2ff4-43db-8d49-019bf1abb385?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance](https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [Institutional investors back Blackstone and KKR funds for wealthy individuals](https://www.ft.com/content/6b355049-3122-4167-8a8a-ce37da73463d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [Four Russian bankers made millions from EU sanctions](https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
+
+#### [China challenges Korean champions in flash memory race](https://www.ft.com/content/1b1c357f-6a1c-4ce3-bb47-980c3de4d3d2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 03:31
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are older Americans spoiling the economy for everyone else?](https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 01:41
+
+#### [5 cheap U.S. cities to retire in — if you can deal with this one thing](https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 01:35
 
 ---
 
