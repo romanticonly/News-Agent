@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-26 08:29
+**最后更新时间**: 2026-08-27 04:09
+
+---
+
+## 🆕 最新更新 (2026-08-27 04:09)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [What to know about Hugging Face, the open-source AI startup reportedly catching Nvidia’s eye](https://www.marketwatch.com/story/what-to-know-about-hugging-face-the-open-source-ai-startup-reportedly-catching-nvidias-eye-243771f8?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 03:17
+
+#### [CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’](https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 00:43
+
+#### [Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office](https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 00:14
+
+#### [Salesforce’s stock gets an Anthropic boost — and more highlights from earnings](https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 22:50
+
+#### [I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?](https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 22:30
+
+#### [Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit](https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-26 21:58
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [KKR to pay record $250mn to settle DoJ lawsuit](https://www.ft.com/content/6b1ec818-7989-4779-8af2-bd7026528b5e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 02:06
+
+#### [What does PwC’s China setback mean for the Big Four?](https://www.ft.com/content/37b8967f-1e6b-4fa9-b261-6f7765cdc6a0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 01:30
+
+#### [Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticism](https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 00:47
+
+#### [Lisa Cook says Trump has no grounds to fire her over ‘inadvertent’ mortgage paperwork](https://www.ft.com/content/fba48322-ea6e-4905-ae68-1d57209129ac?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 23:26
+
+#### [Dating, delinquents and the power of second chances](https://www.ft.com/content/14a302c1-0bf0-41d9-a502-3df169c0db42?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 23:01
+
+#### [Anthropic agrees $45bn AI data centre deal with UK start-up Nscale](https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 21:48
+
+#### [OpenAI says it took a week to detect its AI models had hacked Hugging Face](https://www.ft.com/content/3fc189d6-28e7-4a2b-b77e-5c94bf513955?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 19:00
+
+#### [Hundreds reported missing after flash flood on Nepal border with China](https://www.ft.com/content/a97acd81-ed7c-4d27-a9c9-298348242e37?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 17:41
+
+#### [Meta to pay up to $18bn to settle children’s social media harm case](https://www.ft.com/content/21dcbd96-ee57-445c-a9ba-0938c49b91c0?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 16:05
+
+#### [The multiplying risks of financing data centres](https://www.ft.com/content/9cb63980-cd43-419d-a7e5-42039b9fd01e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-26 04:00
 
 ---
 
