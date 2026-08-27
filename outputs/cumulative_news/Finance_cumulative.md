@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-27 04:09
+**最后更新时间**: 2026-08-27 15:58
+
+---
+
+## 🆕 最新更新 (2026-08-27 15:58)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [A new tax on these companies would help Washington shrink the deficit](https://www.marketwatch.com/story/a-new-tax-on-these-companies-would-help-washington-shrink-the-deficit-354456ee?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 15:57
+
+#### [Is my wealth manager’s fee too high? I’m paying 1.2%, but he’s not doing much.](https://www.marketwatch.com/story/is-my-wealth-managers-fee-too-high-im-paying-1-2-but-hes-not-doing-much-84524deb?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 15:37
+
+#### [Salesforce’s stock rockets 20% and gives the software sector a major lift](https://www.marketwatch.com/story/salesforce-stock-is-jumping-what-wall-street-is-saying-about-its-earnings-and-its-anthropic-relationship-853ada85?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 15:36
+
+#### [How Foot Locker went from a sneakerhead destination to a store struggling to get rid of old shoes](https://www.marketwatch.com/story/how-foot-locker-went-from-a-sneakerhead-destination-to-a-store-struggling-to-get-rid-of-old-shoes-8dd1183a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 15:25
+
+#### [My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?](https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 14:30
+
+#### [Copper’s record run is sending three clear messages about the state of financial markets today](https://www.marketwatch.com/story/bond-jitters-ai-demand-and-tariff-threats-inside-the-new-darling-of-the-hard-asset-trade-copper-944fb585?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 13:58
+
+#### [Is Nvidia heading for $1 trillion in annual revenue? One analyst now thinks that’s possible.](https://www.marketwatch.com/story/nvidia-stock-is-climbing-after-another-set-of-blockbuster-results-heres-what-wall-street-is-saying-a2260a62?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 13:55
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Uefa prepares criminal complaint against Fifa’s Infantino](https://www.ft.com/content/7729314c-4928-485e-bfe8-5d6749d65cd2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 15:34
+
+#### [Don’t draw the wrong conclusion from Treasury yields](https://www.ft.com/content/a919761d-dab1-4a6e-93fe-f69910192c1c)
+**发布时间**: 2026-08-27 14:45
+
+#### [Humanoid robots will be useful, just not as we imagined](https://www.ft.com/content/52e03e5d-12f7-41e2-a62e-3822200ea7b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 13:36
+
+#### [Jes Staley told Congress it was ‘incredible’ Epstein’s abuse continued after jail](https://www.ft.com/content/5250dd00-5bfc-44ce-80d6-2295c020efb8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 11:37
+
+#### [Nvidia forecasts 70% sales growth fuelled by relentless AI boom](https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 09:50
+
+#### [Jane Street’s growing pains](https://www.ft.com/content/ea9c073d-4e9d-4e8a-98c0-68e278faa081?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 04:00
+
+#### [Bitcoin treasury companies shed $80bn in value as business model unwinds](https://www.ft.com/content/79884de5-774a-4633-ba92-be4184eb22c1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 04:00
+
+#### [Junior consultants called back to office as AI increases need for human skills](https://www.ft.com/content/7fd9c234-a92b-4ab2-ba1f-969cf9a23f52?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 04:00
 
 ---
 
