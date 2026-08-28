@@ -1,7 +1,62 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-27 15:58
+**最后更新时间**: 2026-08-28 06:26
+
+---
+
+## 🆕 最新更新 (2026-08-28 06:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US corporate profits surge to record as worker payouts wilt](https://www.ft.com/content/6f3ada65-c56c-499c-8eb6-008fac58949d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+#### [The cowboy clinics selling unproven longevity treatments](https://www.ft.com/content/007e0862-ffe7-4b8f-a540-05a19d1a45dc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+#### [Is China’s ‘wise camel’ the winner from the US-Iran war?](https://www.ft.com/content/42935d28-2998-4c1b-a2f3-82ec0e462ec4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+#### [Saudi Arabia shakes up flagship real estate project](https://www.ft.com/content/5d7957b7-6ad8-48d3-a84e-87f3c6eac326?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+#### [Zero-interest convertible bonds set for record year](https://www.ft.com/content/8e93c159-2c02-444a-9f22-dcda14bc451f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+#### [China bets on exports of cheap 3D-printed drone killers](https://www.ft.com/content/547e5366-b476-4695-81e6-579fc452bed6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 01:37
+
+#### [Trump orders Lake Ontario to be renamed ‘Lake America’ in new slight to Canada](https://www.ft.com/content/6f0cdf31-de96-4058-92a9-f6684b5e1ef6?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 20:34
+
+#### [The devastating forces behind the deadly Himalayan flood](https://www.ft.com/content/0d794bd6-a7ec-465a-ba97-452c9928df4e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 18:07
+
+#### [Canada poaches 48 top US-based academics](https://www.ft.com/content/8cc488a5-54c2-41f9-8b87-327ff591be6a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-27 16:11
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Judge says Trump administration’s blacklist of Anthropic was illegal](https://www.marketwatch.com/story/judge-says-trump-administrations-blacklist-of-anthropic-was-illegal-5d3411e7?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 03:16
+
+#### [Marvell boosts its forecasts, but the stock slides as Wall Street wonders if there’s more to the story](https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 00:20
+
+#### [SpaceX’s $100 billion spaceport plan has investors asking where all the money is coming from](https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 00:02
+
+#### [CrowdStrike’s stock jumps after record-breaking earnings. Wall Street is lapping it up.](https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 22:53
+
+#### [Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show](https://www.marketwatch.com/story/good-good-golf-ad-fallout-deepens-as-callaway-ends-partnership-retailers-pull-gear-and-golf-channel-delays-show-33546426?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 22:17
+
+#### [The options market is signaling further gains for the S&P 500, but one indicator is flashing a warning](https://www.marketwatch.com/story/the-s-p-500-is-nearing-an-especially-positive-price-and-the-options-market-suggests-a-surge-is-likely-a54d866d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 22:12
+
+#### [20 stocks likely to lose money even if the bull market continues](https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories)
+**发布时间**: 2026-08-27 20:48
 
 ---
 
