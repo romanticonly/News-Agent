@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-28 06:26
+**最后更新时间**: 2026-08-28 19:41
+
+---
+
+## 🆕 最新更新 (2026-08-28 19:41)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Meet Generation Renter — young Americans who no longer expect to ever own a home](https://www.marketwatch.com/story/meet-generation-renter-young-americans-who-no-longer-expect-ever-to-own-a-home-3cff63a9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 19:01
+
+#### [Should I use my financial institution’s ‘free’ advisers?](https://www.marketwatch.com/story/should-i-use-my-financial-institutions-free-advisers-or-hire-an-independent-78b7eff4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 17:00
+
+#### [The biggest risk to retirement plans may no longer be a stock market crash or inflation](https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 16:46
+
+#### [I’m 56 with $1.4 million and want to retire in 5 years. Do I move to California, New York or overseas?](https://www.marketwatch.com/story/im-56-with-1-4-million-and-want-to-retire-in-5-years-do-i-move-to-california-new-york-or-overseas-7cf10b08?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 16:44
+
+#### [Is it a bad idea to withdraw from my retirement account to pay off my last $1,000 in credit-card debt?](https://www.marketwatch.com/story/is-it-a-bad-idea-to-withdraw-from-my-retirement-account-to-pay-off-my-last-1-000-in-credit-card-debt-2adb80be?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 16:31
+
+#### [Why you shouldn’t use AI to pick a Medicare plan](https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 15:53
+
+#### [3 charts that show why Americans no longer believe hard work is enough for financial success](https://www.marketwatch.com/story/3-charts-that-show-why-americans-no-longer-believe-hard-work-is-enough-for-financial-success-526faf74?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 15:45
+
+#### [U.S. economy created fewer new jobs in 2025-2026, it turns out. Just how bad was it?](https://www.marketwatch.com/story/the-u-s-economy-created-fewer-new-jobs-in-2025-26-than-initially-reported-heres-how-big-the-change-is-175efd60?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 15:26
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump loses bid to challenge hush-money conviction in federal court](https://www.ft.com/content/14564843-5960-44c6-8683-944422c042a4?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 18:48
+
+#### [US manufacturing is booming — but it’s no thanks to Trump’s tariffs](https://www.ft.com/content/b625e314-ecf9-4385-a687-7a8f8c1bec23?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 17:00
+
+#### [Hawkish Warsh hints Fed will raise rates if inflation does not fall soon](https://www.ft.com/content/d15851dc-9177-4bfe-9039-8d9994a2e4b3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 16:50
+
+#### [Read: Warsh’s Jackson Hole address in full](https://d1e00ek4ebabms.cloudfront.net/production/uploaded-files/warsh20260828a-368f962a-6c63-42b1-906c-5f65f27d83d6.pdf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 16:44
+
+#### [Warsh settles some nerves at Jackson Hole](https://www.ft.com/content/646b812e-c9de-49ba-90f3-f9d12205f876?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 16:38
+
+#### [Chinese rescue workers reach border crossing destroyed by Himalayan flood](https://www.ft.com/content/65478d4a-7edd-45b6-884e-144b22b50a0f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 16:33
+
+#### [US Treasury imposes limits on Egyptian bank for doing business with Iran](https://www.ft.com/content/40d1e3df-f220-4740-8c57-cf5e78890bb3?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 14:00
+
+#### [Former IMF deputy Gita Gopinath: ‘It’s straight-out protectionism’](https://www.ft.com/content/f983d0be-e58b-4e61-bd67-59e487dad9fe?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 11:30
+
+#### [Liechtenstein prince tightens grip in succession shake-up](https://www.ft.com/content/c25c1bdf-8acf-4ccc-bc67-c31bc9fb83bc?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
 
 ---
 
