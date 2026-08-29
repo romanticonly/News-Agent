@@ -2,108 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "804e98944db8081af46633aecc279026d1e000a98ec45013bca3eb4a63f676c2": {
-        "title": "【钛晨报】央行等九部门：加强科技金融领域数据开放共享和融合运用；公开发售获16.84倍认购，中际旭创今日登陆港交所；智驾“小蓝灯”相关国标已启动制修订",
-        "link": "https://www.tmtpost.com/8084357.html",
-        "published_date": "Thu, 30 Jul 2026 07:20:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634405"
-      },
-      "320c5c722db9fc9f39b8e50af1dc71b8b9be68aa6ffbb99700b7b8eecda96450": {
-        "title": "减亏势头戛然而止、上市六年累亏21.5亿，百奥泰何时走出“烧钱”循环？丨看财报",
-        "link": "https://www.tmtpost.com/8084081.html",
-        "published_date": "Wed, 29 Jul 2026 19:36:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634414"
-      },
-      "1c2f3400e6ef3d9b3b74823e9b1b5db0000de918fd5269e02ca07a97d3ac7082": {
-        "title": "小米大模型拿下“全球第一”，有实力也是侥幸",
-        "link": "https://www.tmtpost.com/8083875.html",
-        "published_date": "Wed, 29 Jul 2026 18:53:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634416"
-      },
-      "316dba20ac50e4be57034e0cd082e26aa691268b91bd31a70acddd21bb22135f": {
-        "title": "3万亿长鑫，吞吃OVM",
-        "link": "https://www.tmtpost.com/8083510.html",
-        "published_date": "Wed, 29 Jul 2026 18:52:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634418"
-      },
-      "b3253bf993a6179f6556574e4b7f3ab75f84a7c50014d0a1ca4ec18122305468": {
-        "title": "情感陪护机器人，不能阻止优必选股价下跌",
-        "link": "https://www.tmtpost.com/8083214.html",
-        "published_date": "Wed, 29 Jul 2026 18:51:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634419"
-      },
-      "323570ddbda9a2daa7459cfbfef99c70d78f2635246099aaf1f61e54d14a5f64": {
-        "title": "全面解读阿斯利康半年报：肿瘤、罕见病成超强增长极，2030年冲击5400亿",
-        "link": "https://www.tmtpost.com/8082738.html",
-        "published_date": "Wed, 29 Jul 2026 18:43:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634421"
-      },
-      "007d241e0f970a09551a507a8b54d77a8d4ae446dc737d6e34189a9b8c9222b2": {
-        "title": "美团，正在退到AI身后",
-        "link": "https://www.tmtpost.com/8082998.html",
-        "published_date": "Wed, 29 Jul 2026 18:43:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634422"
-      },
-      "1c83eeee807af91b80ad38aa5b15b52e648da5bc25c10abd5fbc19af68fe1552": {
-        "title": "5.78亿期权套保背后：农产品企业的\"金融化焦虑\"",
-        "link": "https://www.tmtpost.com/8083115.html",
-        "published_date": "Wed, 29 Jul 2026 18:43:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634423"
-      },
-      "988c9756beef7c0ffd7682faffd631cac35ab35c0acd2318b5d472927aa91626": {
-        "title": "海力士营业利润大涨557%，股价为什么跌了？",
-        "link": "https://www.tmtpost.com/8083482.html",
-        "published_date": "Wed, 29 Jul 2026 18:40:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634425"
-      },
-      "5e60c1307eb3cd0db21c6f0225227addf2b1bce5fd0a56bc1f54566c321d4d13": {
-        "title": "澜起科技的“惊魂三日”",
-        "link": "https://www.tmtpost.com/8083567.html",
-        "published_date": "Wed, 29 Jul 2026 18:36:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634426"
-      },
-      "4ec61c51bb4b7cb9c9d12f56a180c750e9a3537de9f6c5757867d3bf613d23c9": {
-        "title": "成立1年融资3轮，前字节女高管创业，跑赢GPT-5登顶编程榜",
-        "link": "https://www.tmtpost.com/8083966.html",
-        "published_date": "Wed, 29 Jul 2026 18:32:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634428"
-      },
-      "41401bbec1b04676268ae46e397a14480a7a88c01503293f6fe407b0260d6fe4": {
-        "title": "半年上线22万部AI漫剧，为什么赚到钱的不到1%？",
-        "link": "https://www.tmtpost.com/8083982.html",
-        "published_date": "Wed, 29 Jul 2026 18:32:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634429"
-      },
-      "f246069e6448648ca490dc331dfaec0265cc2d682a33da27d5f4552b790afc35": {
-        "title": "如何在虚拟的AI空间，搭建一个真实可感的影像世界",
-        "link": "https://www.tmtpost.com/8083831.html",
-        "published_date": "Wed, 29 Jul 2026 18:32:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634431"
-      },
-      "af61d85ab3895d98eb1fb0139bdc1e8eada878d67665649049e8bd0c4c122fb2": {
-        "title": "上海、安徽都涨价，魏家凉皮当不成大学食堂了",
-        "link": "https://www.tmtpost.com/8083896.html",
-        "published_date": "Wed, 29 Jul 2026 18:28:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634432"
-      },
-      "f0706fc501c1334a8eb75888418543923b84a012c1ad0967b0ec1fa201330227": {
-        "title": "深度对话：做AI的最佳伙伴：定义Token从“生产”到“应用”的确定性旅程",
-        "link": "https://www.infoq.cn/video/G3qIla4jAZtDLCGhqvKx?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Jul 2026 19:12:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634433"
-      },
-      "fa495d9a60d7d03dc3bc79187b39768d1949d0ab3b6fe94c9cf1b5b87c5454eb": {
-        "title": "基于虚拟分段和原生播放的节拍同步移动音频流",
-        "link": "https://www.infoq.cn/article/5gHaEtygF94JOKLKyDBg?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 29 Jul 2026 19:00:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634435"
-      },
-      "3eeda7bbfaa69141e38543e07c165a2bb7b09d591d65771b9e362087e66ce576": {
-        "title": "离 AI 最近的老牌写作工具不聊 AI：iA Writer 8.0 大版本更新",
-        "link": "https://sspai.com/post/112787",
-        "published_date": "Wed, 29 Jul 2026 17:30:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.634436"
-      },
       "76e905edc13b86eff92274ccaadc754f5992b0e9a73a9888d355c9ff9017f57b": {
         "title": "巨头AI资本支出增速放缓初现端倪，Meta和微软同日释放新信号",
         "link": "https://www.tmtpost.com/8085091.html",
@@ -10105,117 +10003,99 @@
         "link": "https://sspai.com/post/68623",
         "published_date": "Fri, 28 Aug 2026 15:04:00 GMT",
         "first_seen": "2026-08-28T19:41:44.191224"
+      },
+      "2f14a99a85339d29d102ff5f6af1b0d9de838c2dbf87131468abcc133a4041c6": {
+        "title": "孙宇晨往事",
+        "link": "https://www.tmtpost.com/8121579.html",
+        "published_date": "Sat, 29 Aug 2026 11:24:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693263"
+      },
+      "9cca6581db991428f34fe96a33c13bf7f7f45877cd6e9c3e80084a8b5be7bd11": {
+        "title": "46枚、45枚、10枚、5枚，人形机器人运动会的奖牌数到底在测什么",
+        "link": "https://www.tmtpost.com/8120414.html",
+        "published_date": "Sat, 29 Aug 2026 11:22:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693275"
+      },
+      "e03650cc4f96a82d4a03b72211cfcddfb159642eb0267beadf42e7bd54c0fe95": {
+        "title": "打不过就加入？三大唱片巨头豪掷5亿，入股AI绘图“鼻祖”",
+        "link": "https://www.tmtpost.com/8121144.html",
+        "published_date": "Sat, 29 Aug 2026 11:21:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693279"
+      },
+      "9839975cc1245def8522e1bfb585fa67fa11facc662a07e9e9290c9ff98f4222": {
+        "title": "孙宇晨被“崩”了？背靠2275亿元“加密帝国”",
+        "link": "https://www.tmtpost.com/8121095.html",
+        "published_date": "Sat, 29 Aug 2026 11:01:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693281"
+      },
+      "c7ded39a802d663e31a388c9229b7ad2266532d56a8828ca870a2f2c960dfca2": {
+        "title": "净利润下降94%，影石证明自己",
+        "link": "https://www.tmtpost.com/8121124.html",
+        "published_date": "Sat, 29 Aug 2026 11:01:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693283"
+      },
+      "c6a7a94969377c3ad80f55911a4d00876235d573ff981318095c9ba74b0ce3bb": {
+        "title": "20亿美元押注中性原子：Pasqal借壳纳斯达克首日大涨",
+        "link": "https://www.tmtpost.com/8121564.html",
+        "published_date": "Sat, 29 Aug 2026 10:37:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693285"
+      },
+      "b223d9c1251e262bdf0aa4366e19a58cba2242d8669a658fdb79abf82008b683": {
+        "title": "长江存储IPO，向左是长鑫存储，向右是宇树科技",
+        "link": "https://www.tmtpost.com/8120972.html",
+        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693286"
+      },
+      "9e2e6ea7543e6b43be30d3ab3e97c800d1e9ef6301a7d98960c386c056333137": {
+        "title": "豪掷400亿元！孙正义惨亏割肉后，又“接盘”机器人了",
+        "link": "https://www.tmtpost.com/8120970.html",
+        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693288"
+      },
+      "51d938ae6b242143a354a231bc3a218cd153a79927017096355e0a0a4e1ca5cc": {
+        "title": "景甜的第二张“欠条”，孙宇晨的第二次拉黑",
+        "link": "https://www.tmtpost.com/8121090.html",
+        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693290"
+      },
+      "534de2f41a301cfca3e928c4dddbd9b42c1b25dd102d37bfc038f9ff26751193": {
+        "title": "智元，两场硬仗一起打",
+        "link": "https://www.tmtpost.com/8121408.html",
+        "published_date": "Sat, 29 Aug 2026 10:31:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693292"
+      },
+      "257c8ab269df7c240fb2cf9646d7166c9b5692d62975a10eef2d054fbdfc1e06": {
+        "title": "从“AI时代已开始”到“最动荡的转型期”：盖茨这三年看见了什么",
+        "link": "https://www.tmtpost.com/8121501.html",
+        "published_date": "Sat, 29 Aug 2026 09:59:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693294"
+      },
+      "f7604431e58f66209664b6d1db7b19a819cebdab581a73bdc632e5e8c76e40bd": {
+        "title": "快、厚、稳：三家银行中报，都躲不过那个三角",
+        "link": "https://www.tmtpost.com/8119633.html",
+        "published_date": "Sat, 29 Aug 2026 08:26:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693295"
+      },
+      "c30aac612930501297eb2a846c54d266a3a48ce9ab05f93efbf06788634ba733": {
+        "title": "Edge AI Daily 早报（8月29日）",
+        "link": "https://www.tmtpost.com/8121473.html",
+        "published_date": "Sat, 29 Aug 2026 08:23:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693297"
+      },
+      "9c956cd1480019c4721fc796108d88d4f5eb8e10c9a987e235f47d3419c3fc2e": {
+        "title": "2026 烟灶选购指南",
+        "link": "https://sspai.com/post/112775",
+        "published_date": "Sat, 29 Aug 2026 09:20:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693298"
+      },
+      "f5bfab579f81edb021c032593c0ba4a3f940874c14f15f67ae87c9391d55a2fc": {
+        "title": "Anthropic 将发招股书，预计募资 1300 亿美元超越 SpaceX；腾讯发布 HY4 preview 模型；科隆游戏展多个展位失窃",
+        "link": "http://www.geekpark.net/news/369549",
+        "published_date": "Sat, 29 Aug 2026 08:32:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.693300"
       }
     },
     "Finance": {
-      "e07752c9983189563b80369c96a7da4f831bee3ff159d5bc6a3020dbec13de0d": {
-        "title": "Digital avatar of Jair Bolsonaro tests Brazil’s AI election rules",
-        "link": "https://www.ft.com/content/e18c380f-c25d-4e91-8135-d9c2424ab720?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 23:26:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744970"
-      },
-      "0de29281794b9a0517598d90d6214f3bdca0fc9e7475d29b96c5aa62ae3767ee": {
-        "title": "Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market",
-        "link": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 22:20:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744976"
-      },
-      "7640dc921dc6159f85d1a916e349cd9ed637d43568bb486c37ecfba2aee48f03": {
-        "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
-        "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 22:04:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744978"
-      },
-      "44ab2dc0f9b63382c84294a8215a089fbab0552e4fc54604dcffb331be88a8e1": {
-        "title": "Microsoft’s cloud business boosts sales as capex climbs to $41bn",
-        "link": "https://www.ft.com/content/da7c4472-cb30-4b82-b321-d82c1859419e?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 21:31:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744980"
-      },
-      "bf1f01ea641f06c01b21e0d68927051a95f20fb26323dc02fe371f35e9d9d386": {
-        "title": "Infantino defends $20bn Fifa commercial venture after mounting backlash",
-        "link": "https://www.ft.com/content/b97720c3-b6d7-455e-84ca-1e4339003644?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 21:25:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744982"
-      },
-      "feaf9f0f315693ad3cdc365530ba85841e4f162a26593f8eb1da0f96039a6729": {
-        "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
-        "link": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 21:01:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744983"
-      },
-      "5c6bbe28b5021ce8d77238c829225329bed1aaa51b32346850309a825328f8e5": {
-        "title": "Oil prices surge after Trump says Iran will ‘get a beating’ for missile attack",
-        "link": "https://www.ft.com/content/b2fe912f-01ef-4daa-874e-a180dfeb728c?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 20:05:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744984"
-      },
-      "f297e9e31f91cc7c024f6308bba44955f1f088e7b8882fcb2078bcd8b6558feb": {
-        "title": "Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19",
-        "link": "https://www.ft.com/content/35811ce1-84a7-4a59-aa91-15c6bdd24392?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 17:59:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744986"
-      },
-      "b43b840a21c6334a26c27b92169f7f28bc2856d58c409c66354e37920a7f1a5f": {
-        "title": "US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply",
-        "link": "https://www.ft.com/content/86f37415-cc80-4ea6-bc03-87c96cb831f4?syn-25a6b1a6=1",
-        "published_date": "Wed, 29 Jul 2026 17:03:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744987"
-      },
-      "7d72c3c56e4bc4794b9ec40e913782026dbf59761b1f726d9386ba77e29970e6": {
-        "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
-        "link": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 22:44:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744989"
-      },
-      "c24418b7c1cc72fc588412ea82016e5a6970b7e6a244e1e3a4c040a8de7a1aca": {
-        "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
-        "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 22:30:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744990"
-      },
-      "4305117d84453e4fd351289106110c61417d9835912852d3107107bff888d30b": {
-        "title": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
-        "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 22:22:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744991"
-      },
-      "83be0e63c3eabbcd7e4403be17c1f583c37522307d4e4aad4d6fd7445f2cb6a9": {
-        "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-        "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 22:01:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744993"
-      },
-      "19d34dc53372b6f25e717ec444a9eebe8f27e08b2165c9ca321c49257848232c": {
-        "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
-        "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 21:56:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744994"
-      },
-      "30d720f2059b4305c9e066308e50cd1160bff8dd2e4df32e7d8e961ce79796a3": {
-        "title": "Bond market is calling Warsh’s bluff on inflation fight as yields surge",
-        "link": "https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 21:43:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744996"
-      },
-      "90fff423195a56ee372896cf7b1c8d3329fd8c1b1b37666691f00e86d58ef1c5": {
-        "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
-        "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 21:43:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744997"
-      },
-      "811d4408774d0efec552bba44b369f819d47288aeb6ba669595d11ab71fbfecb": {
-        "title": "Starbucks is becoming cool again. Here’s how it pulled off its turnaround.",
-        "link": "https://www.marketwatch.com/story/starbucks-is-becoming-cool-again-heres-how-it-pulled-off-its-turnaround-d2949e64?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 21:09:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.744998"
-      },
-      "ef3732eba0dc7ab20b944bcfdce8a4cb5bc67846e6c6feb8ed7d5adc0841b525": {
-        "title": "Qualcomm’s stock falls as memory woes weigh on earnings",
-        "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-memory-woes-weigh-on-earnings-fc2b6317?mod=mw_rss_topstories",
-        "published_date": "Wed, 29 Jul 2026 21:07:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.745000"
-      },
       "458b52be2e792e40842f6a9c117fbc046cd198aa7f79e886cef0641a116ca22b": {
         "title": "One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan",
         "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
@@ -14607,15 +14487,63 @@
         "link": "https://www.ft.com/content/f983d0be-e58b-4e61-bd67-59e487dad9fe?syn-25a6b1a6=1",
         "published_date": "Fri, 28 Aug 2026 11:30:00 GMT",
         "first_seen": "2026-08-28T19:41:44.294784"
+      },
+      "839e0fc2aefcf5ac7eb46883733f72d2663ed41bb64c68779733aea7826ba11e": {
+        "title": "Trump says US to take control of 65bn barrels of Venezuelan oil",
+        "link": "https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1",
+        "published_date": "Sat, 29 Aug 2026 00:36:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777796"
+      },
+      "7b6b618597fb2a1c74fb1363c2c8f7e5ab72e069e8792f8d198ba31b4e7040de": {
+        "title": "China’s actors written out of dramas as AI doubles ready to take their roles",
+        "link": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
+        "published_date": "Fri, 28 Aug 2026 20:00:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777805"
+      },
+      "f3ec309c1daa6de10ac9fc5980ad15078c78e3d61b1dbce369f88490732a20d7": {
+        "title": "Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.",
+        "link": "https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 22:15:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777807"
+      },
+      "176b1618d122918be4e2940f0ca9113d6bb060ea9e3f61569108418a32682f93": {
+        "title": "Microsoft’s stock seals its longest winning streak of the year as AI software fears fade",
+        "link": "https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 21:34:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777809"
+      },
+      "bf85e89c563a136362d0526f0f3cff3a2df8f09570e442328409e12571f69ea8": {
+        "title": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+        "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 20:58:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777810"
+      },
+      "f8fb2a886a685cee61caf6ad5a8ed6bba8b3f10d884b1e810cb82a3ad1a69079": {
+        "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
+        "link": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 20:45:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777812"
+      },
+      "150f3684b1efc4634cae75ed9080cd294a1bb2e0a071c05242481173f6aeaeb7": {
+        "title": "Dolly Parton’s music, books and theme park see spikes in interest following her death",
+        "link": "https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 20:21:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777813"
+      },
+      "89fa4c67f7a0b49b16c71e63f1b0ef92e87fb4e4f15f3b50dabbf2a91ceb64b2": {
+        "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
+        "link": "https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 20:10:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777814"
+      },
+      "388860147aec7fa000f65f44c0ea58737f807b2fab291384c61a5ce19088d924": {
+        "title": "AI wants to help you pick a Medicare plan. Should you let it?",
+        "link": "https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories",
+        "published_date": "Fri, 28 Aug 2026 20:05:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.777816"
       }
     },
     "Ai": {
-      "086a63922d64203d4c0fc3edfc4e6905c1a1e19d0e7691cb257ae5f3c47e7c8f": {
-        "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-        "link": "https://www.qbitai.com/2026/07/462943.html",
-        "published_date": "Wed, 29 Jul 2026 11:25:00 GMT",
-        "first_seen": "2026-07-29T23:52:23.518159"
-      },
       "35994e42e63d9d90bd78fdcd8c86b6f66d85fa1bb95274d6380f2bba18a92b3d": {
         "title": "2026-07-30日刊",
         "link": "https://hex2077.dev/docs/2026-07/2026-07-30/",
@@ -16175,13 +16103,19 @@
         "link": "https://www.qbitai.com/2026/08/480591.html",
         "published_date": "Fri, 28 Aug 2026 07:20:00 GMT",
         "first_seen": "2026-08-28T19:41:44.451020"
+      },
+      "5db34bc9613e0d9c6c2b39f42e70f5bbcc39f723358fe52b53072d832af4abff": {
+        "title": "2026-08-29日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-29/",
+        "published_date": "Sat, 29 Aug 2026 10:27:00 GMT",
+        "first_seen": "2026-08-29T03:58:44.917153"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-28T19:41:44.191226",
-    "Finance": "2026-08-28T19:41:44.294787",
-    "Ai": "2026-08-28T19:41:44.451022"
+    "Technology": "2026-08-29T03:58:44.693302",
+    "Finance": "2026-08-29T03:58:44.777818",
+    "Ai": "2026-08-29T03:58:44.917161"
   }
 }

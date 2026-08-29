@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-28 19:41
+**最后更新时间**: 2026-08-29 03:58
+
+---
+
+## 🆕 最新更新 (2026-08-29 03:58)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US to take control of 65bn barrels of Venezuelan oil](https://www.ft.com/content/2f88581f-4fbc-46a2-8127-830bb630c2f2?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 00:36
+
+#### [China’s actors written out of dramas as AI doubles ready to take their roles](https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 20:00
+
+#### [The cult $4.99 rotisserie chicken defying inflation](https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1)
+**发布时间**: 2026-08-28 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.](https://www.marketwatch.com/story/does-a-2-beneficiary-inherit-100-if-the-98-beneficiary-dies-in-a-car-accident-asking-for-a-friend-67aacc06?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 22:15
+
+#### [Microsoft’s stock seals its longest winning streak of the year as AI software fears fade](https://www.marketwatch.com/story/microsofts-stock-seals-its-longest-winning-streak-of-the-year-as-ai-software-fears-fade-e5669f5b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 21:34
+
+#### [Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason](https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 20:58
+
+#### [My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?](https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 20:45
+
+#### [Dolly Parton’s music, books and theme park see spikes in interest following her death](https://www.marketwatch.com/story/dolly-partons-music-books-and-theme-park-see-spikes-in-interest-following-her-death-c497bd04?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 20:21
+
+#### [Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word](https://www.marketwatch.com/story/kevin-warsh-gets-what-every-fed-chair-hopes-for-a-bond-market-that-trust-his-words-5103dad5?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 20:10
+
+#### [AI wants to help you pick a Medicare plan. Should you let it?](https://www.marketwatch.com/story/why-you-shouldnt-use-ai-to-pick-a-medicare-plan-5db7c50f?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 20:05
+
+#### [Meet Generation Renter — young Americans who don’t expect to ever own a home](https://www.marketwatch.com/story/meet-generation-renter-young-americans-who-no-longer-expect-ever-to-own-a-home-3cff63a9?mod=mw_rss_topstories)
+**发布时间**: 2026-08-28 19:01
 
 ---
 
