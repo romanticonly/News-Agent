@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-29 03:58
+**最后更新时间**: 2026-08-29 11:25
+
+---
+
+## 🆕 最新更新 (2026-08-29 11:25)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s going on.](https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 11:00
+
+#### [‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?](https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 11:00
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Swiss wealth managers urge delay to ownership register after Liechtenstein hack](https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 11:00
+
+#### [Dozens killed in Russian strike on ammunition depot near Kyiv](https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84)
+**发布时间**: 2026-08-29 09:54
+
+#### [US campaign to isolate Iran closes in on Dubai](https://www.ft.com/content/930386eb-b5d4-4a62-a258-f7ab46401655?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 08:55
+
+#### [Did AI write this? It’s getting harder to tell](https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
+
+#### [How finance redeemed itself](https://www.ft.com/content/63981a46-5849-4c1b-b5df-bfacd85c9d93?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
+
+#### [Risk of a new age of financial repression is rising](https://www.ft.com/content/ba4b940e-4a44-473b-9846-eaba9434b65f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
+
+#### [Airbus seeks US space unit sale as it shifts to European-built satellites](https://www.ft.com/content/130a5c43-f7cd-4317-95b8-fe7bc446ec51?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
+
+#### [Nasa to launch $4.3bn space telescope to scan universe](https://www.ft.com/content/cb0e3db3-0d28-423e-9313-0615bf749e1b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
 
 ---
 
