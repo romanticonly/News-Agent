@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-29 11:25
+**最后更新时间**: 2026-08-30 00:51
+
+---
+
+## 🆕 最新更新 (2026-08-30 00:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil deal with US is denounced by both sides of Venezuelan politics](https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 22:38
+
+#### [Warsh charts a forward-looking path for the Fed at Jackson Hole](https://www.ft.com/content/4319c6b7-5a25-41a7-836f-ca068ac4fe60?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 16:28
+
+#### [Warsh puts Fed on collision course with Trump ahead of midterms](https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 12:57
+
+#### [Zero-sum thinking will fuel resentment and scarcity](https://www.ft.com/content/492134e9-49eb-4f13-b70a-b2b595ed0e2a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Why would someone lock up money by rolling it into a 401(k)?](https://www.marketwatch.com/story/why-would-someone-lock-up-money-by-rolling-it-into-a-401-k-2c742e90?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 13:00
+
+#### [5 affordable cities to retire in the U.S. right now](https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:50
+
+#### [Tim Cook wasn’t a ‘product guy’ — so he re-engineered Apple instead](https://www.marketwatch.com/story/tim-cook-wasnt-a-product-guy-so-he-re-engineered-apple-instead-03ca53f4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:30
+
+#### [Where are all the new jobs? Hiring slows again — and it probably won’t speed up soon.](https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:00
+
+#### [I’m managing a pathological liar who never does her work. How do I deal with her?](https://www.marketwatch.com/story/im-managing-a-pathological-liar-who-never-does-her-work-how-do-i-deal-with-her-e3c06081?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 12:00
+
+#### [Corporate earnings have been growing at a blistering pace. Here’s why that’s not likely to last.](https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories)
+**发布时间**: 2026-08-29 11:30
 
 ---
 
