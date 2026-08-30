@@ -1,7 +1,39 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-30 00:51
+**最后更新时间**: 2026-08-30 10:11
+
+---
+
+## 🆕 最新更新 (2026-08-30 10:11)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Iceland rejects reopening talks on EU entry](https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 09:40
+
+#### [Nepal rescue effort intensifies as death toll passes 700](https://www.ft.com/content/32978145-d33e-4ee3-957b-39fcc722d2be?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 09:25
+
+#### [What’s the fiscal hit from higher yields?](https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5)
+**发布时间**: 2026-08-30 04:12
+
+#### [Rising bond yields add tens of billions to G7 countries’ debt costs](https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [Summer might be ending, but we can hold on to some of its magic](https://www.ft.com/content/ba323075-bf96-4acf-af32-1e5967be0590?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [Your body is not a machine](https://www.ft.com/content/360e9a56-287d-4d94-8a90-9cc88d49c807)
+**发布时间**: 2026-08-30 04:00
+
+#### [‘SmashCos’: Europe’s oil majors create new generation of independent companies](https://www.ft.com/content/60be9ebd-f1be-4f36-b907-c1a99718e2b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [EU to help tourism hotspots crack down on Airbnb-style holiday rentals](https://www.ft.com/content/c4c13303-bc80-41de-81fc-65e9a70791c9?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 04:00
+
+#### [US oil deal denounced by both sides of Venezuelan politics](https://www.ft.com/content/b3c98ca2-fe67-459d-89ff-4728993110b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-29 22:38
 
 ---
 
