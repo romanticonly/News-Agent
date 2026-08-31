@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-31 00:59
+**最后更新时间**: 2026-08-31 11:14
+
+---
+
+## 🆕 最新更新 (2026-08-31 11:14)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Consultants head for a showdown — with their own clients](https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 10:01
+
+#### [Japan’s bonds and yen under pressure after Warsh’s Jackson Hole speech](https://www.ft.com/content/1c4f488f-32bc-4b49-a0c8-c55d95f5422b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 07:32
+
+#### [Tim Cook’s Apple legacy by the numbers](https://www.ft.com/content/886acdbf-7a9d-4af3-a2e7-3c4a2e446370?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 04:00
+
+#### [Will financial innovation dethrone the dollar?](https://www.ft.com/content/1481e787-77dc-4d54-8871-8ffb369e5dd3)
+**发布时间**: 2026-08-31 04:00
+
+#### [LIV Golf prepares for imminent bankruptcy filing](https://www.ft.com/content/5051e92f-371f-4a46-bdee-e8877b68caf8?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 04:00
+
+#### [Banks and insurers brace for biggest German pension upheaval in 20 years](https://www.ft.com/content/4090d0ca-8ec6-4d89-aacc-f0ca72aeb038?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 04:00
+
+#### [Alejandro Betancourt: the man who would be Trump’s ‘viceroy’ in Venezuela](https://www.ft.com/content/9dbf9c9a-b3e2-4701-b584-dca72b349716?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 00:58
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Historic $7.5 million L.A. home restored by ‘Rocky Horror’ actor Tim Curry finds a buyer just hours after his death](https://www.marketwatch.com/story/historic-7-5-million-l-a-home-restored-by-rocky-horror-actor-tim-curry-finds-a-buyer-just-hours-after-his-death-4934687a?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 09:02
+
+#### [Here’s what Prince Harry and Meghan Markle’s California mansion could really be worth, and how much it costs to keep it up](https://www.marketwatch.com/story/heres-what-prince-harry-and-meghan-markles-california-mansion-could-really-be-worth-and-how-much-it-costs-to-keep-it-up-93a3c5fa?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 08:59
+
+#### [Brent oil tops $90 after first U.S. and Iran fighting in a month](https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 08:55
 
 ---
 
