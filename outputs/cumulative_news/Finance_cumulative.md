@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-30 10:11
+**最后更新时间**: 2026-08-31 00:59
+
+---
+
+## 🆕 最新更新 (2026-08-31 00:59)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories)
+**发布时间**: 2026-08-30 23:52
+
+#### [These charts show how leverage-happy investors are transforming the stock market](https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-30 13:00
+
+#### [Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage](https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories)
+**发布时间**: 2026-08-30 12:30
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US and Iran exchange fire for the first time in more than a month](https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 23:47
+
+#### [Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund](https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 21:11
+
+#### [Big Tech profits get $160bn boost from gains on stakes in other AI companies](https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 19:00
+
+#### [Americans feel they have lost their agency](https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 15:00
+
+#### [Controversial Venezuelan executive courts investors after Trump oil deal](https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 12:12
+
+#### [Friends with fiscal benefits](https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1)
+**发布时间**: 2026-08-30 11:00
 
 ---
 
