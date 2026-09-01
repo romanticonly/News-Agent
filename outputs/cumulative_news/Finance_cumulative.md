@@ -1,7 +1,59 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-01 01:29
+**最后更新时间**: 2026-09-01 09:39
+
+---
+
+## 🆕 最新更新 (2026-09-01 09:39)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Are rising bond rates really so bad? Maybe not, say these exports](https://www.marketwatch.com/story/are-rising-bond-rates-really-so-bad-maybe-not-say-these-exports-1af9e683?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 09:31
+
+#### [From the U.K. to Japan, bond yields are jumping as U.S. bonds tumble](https://www.marketwatch.com/story/from-the-u-k-to-japan-bond-yields-are-jumping-as-u-s-bonds-tumble-d8b71075?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 09:20
+
+#### [‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?](https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 09:15
+
+#### [The ultimate retreat and status symbol: These A-list celebrities have their own private islands](https://www.marketwatch.com/story/the-ultimate-retreat-and-status-symbol-these-a-list-celebrities-have-their-own-private-islands-6869ff6a?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 09:04
+
+#### [Inside Robert De Niro’s property portfolio, including a Hamptons estate and his own ski slope](https://www.marketwatch.com/story/inside-robert-de-niros-property-portfolio-including-a-hamptons-estate-and-his-own-ski-slope-0ed53160?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 08:59
+
+#### [Shein shares fall up to 10% after long-awaited trading debut](https://www.marketwatch.com/story/shein-shares-fall-up-to-10-after-long-awaited-trading-debut-edecb6ee?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 08:41
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Shein shares slide as much as 10% in Hong Kong debut](https://www.ft.com/content/06e22622-3e92-46a5-842f-bfa269687aaa?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 09:05
+
+#### [Global bond sell-off deepens amid inflation fears](https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 09:04
+
+#### [Eurozone inflation rises to 3.3% in August](https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 09:01
+
+#### [Partners Group replaces chief executive as pressure grows on flagship fund](https://www.ft.com/content/0d5b67bd-a07f-47da-9e9b-505df1b4ff33?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 08:35
+
+#### [More Warshology](https://www.ft.com/content/bcc5aa85-4d23-4a7c-9147-c52aa69027bc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 05:30
+
+#### [Revolut’s mission to dominate banking](https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
+
+#### [It was billed as effortless London luxury. Then tenants found out the rules](https://www.ft.com/content/e9b9a8fa-bbce-44a0-adc4-c1f1cc9f2113?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
+
+#### [A real-world trial for work in the age of AI](https://www.ft.com/content/337b3e33-88b9-462d-9dfb-d2f24c8e67d6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
+
+#### [Wall Street banks push Big Law to cut fees because of AI](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
 
 ---
 
