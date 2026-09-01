@@ -1,7 +1,71 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-31 11:14
+**最后更新时间**: 2026-09-01 01:29
+
+---
+
+## 🆕 最新更新 (2026-09-01 01:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US Army secretary resigns after tension with Pete Hegseth](https://www.ft.com/content/0d72d3c1-8786-44f0-b88a-ca41b6286a31?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 00:22
+
+#### [Retired Jewish police chief to stand for Arab-Israeli party in parliamentary election](https://www.ft.com/content/a4017f9f-9a97-445b-b8fb-f4f0d2cf4344)
+**发布时间**: 2026-08-31 21:45
+
+#### [Europeans shun Russian finance minister at US-hosted G20 meeting](https://www.ft.com/content/16285abd-6bc2-4a38-942c-5206c79f4c4b?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 21:32
+
+#### [Supreme Court allows construction of Trump’s White House ballroom to continue](https://www.ft.com/content/60b3e8d9-df14-422c-b513-9d23850b5291?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 21:27
+
+#### [Trump says data centre critics ‘want to end up backwards and poor’](https://www.ft.com/content/744c448c-858e-4398-85dc-a66cecd02abb?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 17:19
+
+#### [Whose fiscal problems would you prefer?](https://www.ft.com/content/0f74b589-3fdf-447d-aa44-9570496bf7c7?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 14:17
+
+#### [Consultants head for an AI showdown — with their own clients](https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 10:01
+
+#### [Darializa Avila Chevalier: The face of America’s socialist insurgency](https://www.ft.com/content/2ca855a9-be0d-4915-b4f0-b48355c6aa4a?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 04:00
+
+#### [The dawn of physical AI](https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1)
+**发布时间**: 2026-08-31 04:00
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Amazon’s stock slips as the FTC alleges billions of dollars in hidden ad fees](https://www.marketwatch.com/story/amazons-stock-slips-as-the-ftc-alleges-billions-of-dollars-in-hidden-ad-fees-4ae44ee4?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 22:24
+
+#### [‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?](https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 22:00
+
+#### [The S&P 500 usually falls in September. Why this year should be different.](https://www.marketwatch.com/story/the-s-p-500-usually-falls-in-september-why-this-year-should-be-different-77ebb626?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:36
+
+#### [‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?](https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:34
+
+#### [Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get into the market](https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:33
+
+#### [Maybe the snowbirds are right? One state dominates this list of best places to retire.](https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:23
+
+#### [23 best-performing stocks of August, as the software industry continues its recovery](https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:16
+
+#### [Tesla’s stock among S&P 500’s top gainers as investors prepare for a Cybercab launch](https://www.marketwatch.com/story/teslas-stock-is-leading-s-p-500-gainers-as-investors-prepare-for-a-cybercab-launch-f23a0d52?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 21:01
+
+#### [This maneuver is boosting oil shipments through the Strait of Hormuz](https://www.marketwatch.com/story/this-maneuver-is-boosting-oil-shipments-through-the-strait-of-hormuz-070d8fa3?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 20:56
+
+#### [With Warsh running the Fed, should bond investors be worried?](https://www.marketwatch.com/story/should-bond-investors-worry-with-warsh-running-the-fed-0a99c5ac?mod=mw_rss_topstories)
+**发布时间**: 2026-08-31 20:55
 
 ---
 
