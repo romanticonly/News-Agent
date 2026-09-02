@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-01 09:39
+**最后更新时间**: 2026-09-02 00:38
+
+---
+
+## 🆕 最新更新 (2026-09-02 00:38)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dell’s AI servers drive a stellar earnings performance, and a raised outlook](https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 00:19
+
+#### [Palo Alto Networks’ stock falls despite strong AI cybersecurity demand](https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 00:18
+
+#### [Dow drops below a key chart level, warning of more trouble ahead](https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 21:56
+
+#### [Which workers are using AI surprisingly often? Dry cleaners and construction workers.](https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 21:02
+
+#### [This could be the 10-year Treasury’s tipping point into the danger zone](https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 20:36
+
+#### [Global oil prices surge to a 6-week high after the U.S. strikes Iran in Hormuz](https://www.marketwatch.com/story/global-oil-prices-extend-move-over-90-after-report-of-two-tankers-struck-in-hormuz-0effd708?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 20:13
+
+#### [How these homeowners pulled off buying a house in their early 20s](https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories)
+**发布时间**: 2026-09-01 20:03
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China derails consensus on communiqué after US-hosted G20](https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 23:57
+
+#### [Tim Cook to be paid $47mn as Apple’s executive chair](https://www.ft.com/content/8efaf87c-e5bf-4cfe-8403-16690ed4c265?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 23:38
+
+#### [US diesel prices soar as Trump hauls in refiners](https://www.ft.com/content/697253e0-01d3-44fe-85e5-d4d9af207a3c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 21:18
+
+#### [Russia secretly helping Iran develop supersonic cruise missiles](https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 20:00
+
+#### [US launches further strikes on Iran as conflict flares up](https://www.ft.com/content/c557ccc2-9fe7-4725-8a1c-c40a0948e8d3?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 19:59
+
+#### [AI hits college graduates in the heart of America’s data centre boom](https://www.ft.com/content/9334212a-3cc4-426c-9cbe-57cb48033603?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 18:28
+
+#### [GoPro: a totally normal, unremarkable piece of merger activity](https://www.ft.com/content/e7cc6fc2-74ae-497b-92bf-d8254dd161fa)
+**发布时间**: 2026-09-01 17:33
+
+#### [Action camera maker GoPro to be acquired after decade-long decline](https://www.ft.com/content/5f643674-bf2b-48f1-bc3e-a7fe54820c99?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 15:49
+
+#### [Saudi and South Korean oil tankers hit in Strait of Hormuz](https://www.ft.com/content/bbbce2e1-6542-4806-9c26-d35e8c3b702e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 12:06
+
+#### [The pitfalls in Trump’s Venezuela oil play](https://www.ft.com/content/58840205-448b-4d17-9dd7-0313c8b8ed81?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
+
+#### [Big banks want a cut of lawyers’ AI savings](https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 04:00
 
 ---
 

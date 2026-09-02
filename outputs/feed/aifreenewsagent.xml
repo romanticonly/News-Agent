@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 01 Sep 2026 09:37:00 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2026 09:39:07 GMT</lastBuildDate>
+    <pubDate>Wed, 02 Sep 2026 00:36:00 GMT</pubDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:38:50 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,51 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-09-01日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-01/</link>
-      <description>&lt;![CDATA[2026-09-01日刊]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 11:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-01/</guid>
+      <title>Mapping global methane emissions from space with deep learning</title>
+      <link>https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</link>
+      <description>&lt;![CDATA[Mapping global methane emissions from space with deep learning]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="true">https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>GitHub最热架构图Agent，开发者故事看哭了</title>
-      <link>https://www.qbitai.com/2026/09/482469.html</link>
-      <description>&lt;![CDATA[GitHub最热架构图Agent，开发者故事看哭了]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 08:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482469.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>急急急用电！马斯克开造燃气轮机叶片</title>
-      <link>https://www.qbitai.com/2026/09/482451.html</link>
-      <description>&lt;![CDATA[急急急用电！马斯克开造燃气轮机叶片]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 08:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482451.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>A社化身A割！Claude官宣永久提额25%，结果到手反而少17%</title>
-      <link>https://www.qbitai.com/2026/09/482406.html</link>
-      <description>&lt;![CDATA[A社化身A割！Claude官宣永久提额25%，结果到手反而少17%]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 08:15:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482406.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning</title>
-      <link>https://www.qbitai.com/2026/09/482337.html</link>
-      <description>&lt;![CDATA[自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 05:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482337.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>AIVC只是前菜！复旦提出生命算子，统一生命建模</title>
-      <link>https://www.qbitai.com/2026/09/482300.html</link>
-      <description>&lt;![CDATA[AIVC只是前菜！复旦提出生命算子，统一生命建模]]&gt;</description>
-      <pubDate>Tue, 01 Sep 2026 04:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482300.html</guid>
+      <title>3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径</title>
+      <link>https://www.qbitai.com/2026/09/482512.html</link>
+      <description>&lt;![CDATA[3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径]]&gt;</description>
+      <pubDate>Tue, 01 Sep 2026 12:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/482512.html</guid>
       <category>Ai</category>
     </item>
   </channel>
