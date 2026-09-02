@@ -1,7 +1,47 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-02 00:38
+**最后更新时间**: 2026-09-02 09:15
+
+---
+
+## 🆕 最新更新 (2026-09-02 09:15)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Dell shares rise as demand jumps for AI servers — here’s what Wall Street analysts are saying happens next](https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 09:03
+
+#### [‘Mean Girls’ star Amanda Seyfried lists longtime L.A. home for $3.2 million after relocating to rural N.Y.](https://www.marketwatch.com/story/mean-girls-star-amanda-seyfried-lists-longtime-l-a-home-for-3-2-million-after-relocating-to-rural-n-y-f86667ff?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 09:02
+
+#### [Sarah Michelle Gellar and Freddie Prinze Jr. cut the price of their $10 million L.A. mansion](https://www.marketwatch.com/story/sarah-michelle-gellar-and-freddie-prinze-jr-cut-the-price-of-their-10-million-l-a-mansion-c4adbd1c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 08:58
+
+#### [AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top](https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 06:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [European gas prices hit three-year high](https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 08:36
+
+#### [The wheels are coming off the US world order](https://www.ft.com/content/c51dec0b-977e-463e-9590-daff0d91a8a6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 04:00
+
+#### [EU accelerates plans to break up diplomatic service](https://www.ft.com/content/1e55d948-98e5-4c1a-8a09-51e1311fcf63?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 04:00
+
+#### [The Takaichi revolution](https://www.ft.com/content/4abc4d57-fa90-4d33-99ea-ee165be7a79d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 01:04
+
+#### [China derails consensus after US-hosted G20](https://www.ft.com/content/dcefdf76-9bac-4b34-80c2-eab80b559f53?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 23:57
+
+#### [Tim Cook handed $47mn pay deal as Apple’s executive chair](https://www.ft.com/content/8efaf87c-e5bf-4cfe-8403-16690ed4c265?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 23:38
+
+#### [China’s real robot revolution is not about humanoids](https://www.ft.com/content/2bb2b670-999d-499c-ad56-47702b3830b1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-01 23:01
 
 ---
 
