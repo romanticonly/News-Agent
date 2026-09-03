@@ -1,7 +1,50 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-03 00:49
+**最后更新时间**: 2026-09-03 09:17
+
+---
+
+## 🆕 最新更新 (2026-09-03 09:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything](https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 09:15
+
+#### [Why alarming bond yields might drop sooner than investors think](https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 09:13
+
+#### [Here’s your chance to rent ‘haunted’ Hollywoodland house from Holly Madison](https://www.marketwatch.com/story/heres-your-chance-to-rent-haunted-hollywoodland-house-from-holly-madison-1b92be34?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 09:02
+
+#### [Broadcom stock fall as investors weigh guidance. Here’s what Wall Street analysts are saying.](https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 09:00
+
+#### [There’s a new record number of 401(k) millionaires as retirement savings hold at all-time highs](https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 04:01
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Yen jumps as traders bet on Japan interest rate rises](https://www.ft.com/content/22abbb77-1344-4871-9692-97a779b1ba77?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 08:55
+
+#### [KPMG warned Guggenheim unit over deficiencies in internal controls](https://www.ft.com/content/70e8e4e6-def9-4683-9aa3-4bf7351474e4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
+
+#### [Europe’s seven fantasy M&A deals](https://www.ft.com/content/d4e5956a-200c-47d1-9241-f15f495c2cf2?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
+
+#### [The port that built Dubai: war exposes a dangerous dependence](https://www.ft.com/content/daab8d53-7c4f-479b-be84-d073ba32897e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
+
+#### [Fixing the AI industry’s PR problem](https://www.ft.com/content/115c886f-23e4-4a8d-9656-5d7fc9480803?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
+
+#### [VW, Amazon and others name blacklisted groups among potential suppliers](https://www.ft.com/content/70fdf5c3-6b3a-494d-a141-85aba60d14d5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
+
+#### [Sweden’s election frontrunner vows green reset](https://www.ft.com/content/b6b02edc-980d-45c8-96d1-c4f53cb41daa?syn-25a6b1a6=1)
+**发布时间**: 2026-09-03 04:00
 
 ---
 
