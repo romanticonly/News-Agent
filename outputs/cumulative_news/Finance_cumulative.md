@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-02 09:15
+**最后更新时间**: 2026-09-03 00:49
+
+---
+
+## 🆕 最新更新 (2026-09-03 00:49)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors](https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 00:25
+
+#### [Snowflake’s stock soars as the company blows away estimates with its AI-fueled forecast](https://www.marketwatch.com/story/snowflakes-stock-soars-as-the-company-blows-away-estimates-with-its-ai-fueled-forecast-5b5cf36c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 00:23
+
+#### [HPE follows in Dell’s footsteps as it rides the AI server boom to a big earnings beat](https://www.marketwatch.com/story/hpe-follows-in-dells-footsteps-as-it-rides-the-ai-server-boom-to-a-big-earnings-beat-ec46eaea?mod=mw_rss_topstories)
+**发布时间**: 2026-09-03 00:22
+
+#### [We’re in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?](https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 21:45
+
+#### [Nvidia’s stock is climbing as investors get more confidence in an expanding base of AI customers](https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 21:38
+
+#### [‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?](https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 21:31
+
+#### [Palantir’s stock is slumping. Why bond yields and Google may be to blame.](https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 21:12
+
+#### [How Oracle’s ‘extremely controversial’ stock could more than double from here](https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 21:11
+
+#### [How GoPro went from viral camera sensation to a victim of smartphone ubiquity](https://www.marketwatch.com/story/how-gopro-went-from-viral-camera-sensation-to-a-victim-of-smartphone-ubiquity-ad704150?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 20:57
+
+#### [SpaceX’s big AI advantage is why this analyst thinks the stock could double](https://www.marketwatch.com/story/spacexs-big-ai-advantage-is-why-this-analyst-thinks-the-stock-could-double-6efcdd91?mod=mw_rss_topstories)
+**发布时间**: 2026-09-02 19:45
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Elliott builds stake in Deutsche Telekom and opposes T-Mobile US merger](https://www.ft.com/content/16034441-608c-42de-90ff-1a2b7607fc79?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 23:05
+
+#### [Steve Ballmer banned by NBA over improper payment to basketball star](https://www.ft.com/content/6b74303c-0190-4e86-8a7b-feaf3dd29658?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 22:25
+
+#### [Struggling Republicans urge Trump to open Maga Inc’s $400mn war chest](https://www.ft.com/content/8f699fbc-cb01-4846-837c-0d1528a620d0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 21:42
+
+#### [Pentagon chaos deepens after Driscoll quits in clash with Hegseth](https://www.ft.com/content/c74c483e-82ff-4b53-b59b-2404e659555a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 20:51
+
+#### [JPMorgan curbed lending to Jane Street as trading firm muscled into bonds](https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 20:44
+
+#### [Trump administration backs OpenAI in New York Times copyright battle](https://www.ft.com/content/d5d6e4c9-718a-4d98-b094-97157565f336?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 18:44
+
+#### [Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’](https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 17:23
+
+#### [A vital tenet of US equity markets is under threat](https://www.ft.com/content/38d5c39f-901f-4306-9412-f7e1d7553174?syn-25a6b1a6=1)
+**发布时间**: 2026-09-02 14:45
 
 ---
 
