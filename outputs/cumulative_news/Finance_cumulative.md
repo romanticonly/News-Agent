@@ -1,7 +1,41 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-04 00:31
+**最后更新时间**: 2026-09-04 09:11
+
+---
+
+## 🆕 最新更新 (2026-09-04 09:11)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Don’t Say Good Luck’ star Melanie Lynskey dreams of buying a New Zealand home but can’t afford it](https://www.marketwatch.com/story/dont-say-good-luck-star-melanie-lynskey-dreams-of-buying-a-new-zealand-home-but-cant-afford-it-9aa50cd5?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 09:01
+
+#### [Snowflake has a secret weapon that’s powering its stock toward a huge gain](https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 00:35
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Giorgia Meloni celebrates Italy’s longest-serving government since 1945](https://www.ft.com/content/0c1d2ab0-3f3d-468e-92d5-218ddc23d885?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 07:09
+
+#### [UK is failing to capitalise on Brexit, says top Trump trade official](https://www.ft.com/content/0d2beac3-ef62-4cbf-959e-b5c6b9703081?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
+
+#### [The Texas experiment](https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
+
+#### [America must learn AI lessons from Astro Boy](https://www.ft.com/content/68751904-522a-41cc-85e0-08015fe75059?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
+
+#### [The university degree is losing its lustre](https://www.ft.com/content/54cf40cd-149f-40db-b603-21aecd5f66ec?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
+
+#### [Manager of Norway’s $2tn oil fund proposes slashing US Treasury holdings](https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
+
+#### [Trump-linked companies race to secure deals for Venezuela’s oil](https://www.ft.com/content/939e55ad-1d5c-45cf-995d-1db6754c8f6b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
 
 ---
 
