@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-04 09:11
+**最后更新时间**: 2026-09-05 00:29
+
+---
+
+## 🆕 最新更新 (2026-09-05 00:29)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.](https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 21:46
+
+#### [Tesla’s stock falls as Cybercab launch lands with a thud](https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 20:18
+
+#### [Micron is doubling down on AI memory chips. That could pay off big time for investors.](https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 20:12
+
+#### [Will a data center hurt your home’s value? Research says no. Sellers disagree.](https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 20:03
+
+#### [Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more](https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 20:00
+
+#### [Why Oracle’s stock looks like a compelling buy ahead of earnings](https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 19:59
+
+#### [I’m 68. Should I spend half my 401(k) to buy a home with a mortgage?](https://www.marketwatch.com/story/im-68-should-i-spend-half-my-401-k-to-buy-a-home-with-a-mortgage-285e5ada?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 19:52
+
+#### [Think you maxed out your 401(k)? The real limit is actually almost $50,000 higher.](https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories)
+**发布时间**: 2026-09-04 19:49
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump vows to open Maga Inc’s $400mn war chest after Republican pressure](https://www.ft.com/content/e2524b81-a089-4022-869c-1fa54da24285?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 21:44
+
+#### [Maga’s favourite combat sport takes off in China](https://www.ft.com/content/966cbb76-93a1-4215-a610-cea5709f3d6a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 20:00
+
+#### [Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO](https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 19:46
+
+#### [US economy smashes forecast with 162,000 jobs added in August](https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 19:04
+
+#### [John Ternus, Apple’s new ‘wicked calm’ CEO](https://www.ft.com/content/7347b9fc-ba63-48fb-b06d-b9fe5e9b046a?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 17:00
+
+#### [Trump’s Iran war sends US diesel prices to record high](https://www.ft.com/content/aa71ca9a-b64f-41b6-8e6f-00ce03a47553?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 11:08
+
+#### [Fear not the bond market skinny dippers](https://www.ft.com/content/3a232341-a470-4270-84a7-5c0e5782db3b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 11:00
+
+#### [Fox News presenter and Trump ally Maria Bartiromo departs after 12 years](https://www.ft.com/content/c3e515b8-2207-4bf2-8a85-d5bce0d6f9df?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 09:04
+
+#### [Anthropic’s $2tn IPO puts powerful external trustees in spotlight](https://www.ft.com/content/9536c7b9-c600-48ec-8fe2-453b0ca187e9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-04 04:00
 
 ---
 
