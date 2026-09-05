@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-05 00:29
+**最后更新时间**: 2026-09-05 08:42
+
+---
+
+## 🆕 最新更新 (2026-09-05 08:42)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How nationalists, theocrats and tech titans turned their backs on the future](https://www.ft.com/content/bd134250-00d8-4bfd-bf4b-d32479ac0fed)
+**发布时间**: 2026-09-05 04:00
+
+#### [The other side of the 1990s](https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
+
+#### [The gloves are starting to come off in markets](https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
+
+#### [EU counterterror envoy urges pressure on social platforms over youth extremism](https://www.ft.com/content/18900164-fa33-4d6d-a39e-6898043cd62f?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
+
+#### [AI boom reverses the trend of ever-cheaper electronics](https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa)
+**发布时间**: 2026-09-05 04:00
+
+#### [US Republicans revolt against Flock AI surveillance as tech backlash intensifies](https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
+
+#### [Jefferies fund caught with $500mn exposure to second alleged invoice fraud](https://www.ft.com/content/6bde3e74-9a7c-4528-9b9c-42a14eec0414?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
 
 ---
 
