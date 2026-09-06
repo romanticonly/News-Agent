@@ -1,7 +1,33 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-06 00:19
+**最后更新时间**: 2026-09-06 09:02
+
+---
+
+## 🆕 最新更新 (2026-09-06 09:02)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump’s approval rating falls to all-time low in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:01
+
+#### [Russian gold floods through Hong Kong in wake of western sanctions](https://www.ft.com/content/39b0c966-b153-4706-9325-2f6176ba3752?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+#### [The risky mission to de-mine the Strait of Hormuz](https://www.ft.com/content/04031dbe-7412-441e-8aaa-89a9ee6c7439?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+#### [Iceland’s ‘no’ exposes EU complacency](https://www.ft.com/content/646c7152-a720-4ef9-8b84-e37188b9a8f4?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+#### [LVMH sheds boom-time gains as luxury ‘feelgood factor’ fades](https://www.ft.com/content/02f36de6-b6ce-4a17-a474-bd5fa000f1a1?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+#### [Insurers pile on risk as payouts fall to lowest level in 20 years](https://www.ft.com/content/a0e69cf2-c3d4-412b-b78b-a6171b7ed020?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
+
+#### [UBS demands new junior bankers show AI proficiency](https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:00
 
 ---
 
