@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-05 08:42
+**最后更新时间**: 2026-09-06 00:19
+
+---
+
+## 🆕 最新更新 (2026-09-06 00:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.](https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 23:45
+
+#### [Why does almost nobody want to befriend older people like me — except scammers?](https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 23:07
+
+#### [Why the jobs report will actually be good for bonds](https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 18:26
+
+#### [7% mortgage rates are already here, some buyers and mortgage experts say](https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 18:09
+
+#### [Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.](https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories)
+**发布时间**: 2026-09-05 16:34
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump envoys take Ukraine peace proposal to meeting with Putin](https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 22:22
+
+#### [US regulator sues ISS as it steps up scrutiny of proxy advisers](https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 21:35
+
+#### [US strikes three Iranian oil tankers in response to attacks on warships](https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 20:05
+
+#### [Trump and Musk Super Pacs boost spending on midterm elections](https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 17:37
+
+#### [Russia-Ukraine peace talks could begin next year, ex-MI6 chief says](https://www.ft.com/content/4826a106-9cd4-45bc-8436-69e2519d0205)
+**发布时间**: 2026-09-05 15:50
+
+#### [‘Sowing doubt’: Trump’s attempt to overhaul voting causes headaches for state officials](https://www.ft.com/content/47ac914f-ab0e-441b-9152-9ef06dc17741?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 13:00
+
+#### [Pro-Israel groups fight to help Republicans keep control of Congress](https://www.ft.com/content/c98f4d9b-ec17-4bc0-a137-dbd12a23cba6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 11:00
+
+#### [Treasury sell-off piles pressure on weakest US borrowers](https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 11:00
+
+#### [Is Keynesianism dead?](https://www.ft.com/content/e1afdbf1-eb21-45c0-ad88-1ec0913b1f7c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-05 04:00
 
 ---
 
