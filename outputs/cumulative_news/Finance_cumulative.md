@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-06 09:02
+**最后更新时间**: 2026-09-07 00:26
+
+---
+
+## 🆕 最新更新 (2026-09-07 00:26)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Five killed as Amazon cargo plane overshoots runway in Miami](https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 23:05
+
+#### [Far-right AfD surges to first place in German state elections](https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 22:06
+
+#### [Germany’s Merz on the ropes after far right delivers devastating blow](https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 21:53
+
+#### [Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials](https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 20:00
+
+#### [Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow](https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 17:46
+
+#### [Starting gun fired on autumn election campaign season](https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 17:15
+
+#### [Pete Hegseth’s Pentagon purge](https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52)
+**发布时间**: 2026-09-06 13:35
+
+#### [European SpaceX rival launches rocket into orbit](https://www.ft.com/content/fb5be0ff-5a5c-4006-98c5-2ddcfa3c1175?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 11:03
+
+#### [Trump’s approval rating falls to lowest yet in FT poll](https://www.ft.com/content/9bcce1fa-997e-49f2-9530-f1255e4cb28b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-06 04:01
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.](https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories)
+**发布时间**: 2026-09-06 13:00
 
 ---
 
