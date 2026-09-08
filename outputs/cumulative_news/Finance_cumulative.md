@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-08 00:48
+**最后更新时间**: 2026-09-08 09:13
+
+---
+
+## 🆕 最新更新 (2026-09-08 09:13)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [All about the stunning homes of the Season 35 cast of ‘Dancing With the Stars’](https://www.marketwatch.com/story/all-about-the-stunning-homes-of-the-season-35-cast-of-dancing-with-the-stars-d8f7a0a0?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 09:04
+
+#### [Goldman Sachs flips on oil-price forecasts and says $120 Brent could be next.](https://www.marketwatch.com/story/goldman-sachs-reverses-engines-on-oil-price-forecasts-and-raises-the-specter-of-120-per-barrel-crude-d8da110c?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 09:02
+
+#### [‘Captain America’ star Chris Evans sells his L.A. home, but at $1 million under asking price](https://www.marketwatch.com/story/captain-america-star-chris-evans-sells-his-l-a-home-but-at-1-million-under-asking-price-cfb2852d?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 09:01
+
+#### [Why the Dow is being dragged down by a Swiss company’s bad news](https://www.marketwatch.com/story/why-the-dow-is-being-dragged-down-by-a-swiss-companys-bad-news-7d3eaa06?mod=mw_rss_topstories)
+**发布时间**: 2026-09-08 08:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [The complicated implications of the spectacular ‘Apollo premium’](https://www.ft.com/content/98d06e87-83f0-45dc-b69b-418fc789ac96)
+**发布时间**: 2026-09-08 08:22
+
+#### [Singapore gives world’s highest-paid PM a $1mn pay rise](https://www.ft.com/content/f06ee0ea-adcf-44ec-80c9-bb616885d8de?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 07:29
+
+#### [Mistral raises record €3bn as Europe strains to keep pace in AI race](https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 05:00
+
+#### [Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO](https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [The $2tn monster](https://www.ft.com/content/4f28ef6c-f727-4d36-88a3-bbdbd13ddfbf?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [AI is ushering in an era of mass toe-treading at work](https://www.ft.com/content/ed214778-2a6d-4862-99b5-abc256daff92?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [The crisis for Merz and the CDU](https://www.ft.com/content/22eacb3c-6cab-490d-a117-75ba90a2d35c?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [Hedge fund Millennium seeks tax deal to boost Geneva presence](https://www.ft.com/content/200221ed-8712-4e43-8160-23b7b9c40a04?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [Global shipping rules are collapsing, say maritime nations](https://www.ft.com/content/c6517e52-b855-487c-8408-7071936cf3b0?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
+
+#### [‘Apollo premium’ drives up debt costs for group’s portfolio companies](https://www.ft.com/content/0facf3c4-147e-4696-9849-d68a4b744bd6?syn-25a6b1a6=1)
+**发布时间**: 2026-09-08 04:00
 
 ---
 
