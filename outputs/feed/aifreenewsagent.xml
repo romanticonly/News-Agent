@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Sep 2026 09:30:00 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Sep 2026 09:35:43 GMT</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 00:35:00 GMT</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:36:16 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-09-20日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-20/</link>
-      <description>&lt;![CDATA[2026-09-20日刊]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 03:04:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-20/</guid>
+      <title>刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！</title>
+      <link>https://www.qbitai.com/2026/09/492973.html</link>
+      <description>&lt;![CDATA[刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 14:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492973.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上</title>
-      <link>https://www.qbitai.com/2026/09/492849.html</link>
-      <description>&lt;![CDATA[《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上]]&gt;</description>
-      <pubDate>Sun, 20 Sep 2026 02:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492849.html</guid>
+      <title>华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？</title>
+      <link>https://www.qbitai.com/2026/09/493068.html</link>
+      <description>&lt;![CDATA[华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 14:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/493068.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>一张3090就能跑！全栈国产模型，把AI办公搬到企业本地</title>
+      <link>https://www.qbitai.com/2026/09/492946.html</link>
+      <description>&lt;![CDATA[一张3090就能跑！全栈国产模型，把AI办公搬到企业本地]]&gt;</description>
+      <pubDate>Sun, 20 Sep 2026 12:22:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/492946.html</guid>
       <category>Ai</category>
     </item>
   </channel>
