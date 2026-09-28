@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Sep 2026 01:15:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 01:17:30 GMT</lastBuildDate>
+    <pubDate>Mon, 28 Sep 2026 11:17:00 GMT</pubDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:19:38 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,27 +14,11 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</title>
-      <link>https://www.qbitai.com/2026/09/498633.html</link>
-      <description>&lt;![CDATA[量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 14:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498633.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门</title>
-      <link>https://www.qbitai.com/2026/09/498605.html</link>
-      <description>&lt;![CDATA[量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 13:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498605.html</guid>
-      <category>Ai</category>
-    </item>
-    <item>
-      <title>又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录</title>
-      <link>https://www.qbitai.com/2026/09/498584.html</link>
-      <description>&lt;![CDATA[又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录]]&gt;</description>
-      <pubDate>Sun, 27 Sep 2026 13:40:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498584.html</guid>
+      <title>2026-09-28日刊</title>
+      <link>https://hex2077.dev/docs/2026-09/2026-09-28/</link>
+      <description>&lt;![CDATA[2026-09-28日刊]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 02:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-28/</guid>
       <category>Ai</category>
     </item>
   </channel>
