@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 28 Sep 2026 11:17:00 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Sep 2026 11:19:38 GMT</lastBuildDate>
+    <pubDate>Tue, 29 Sep 2026 02:21:00 GMT</pubDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:23:32 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-09-28日刊</title>
-      <link>https://hex2077.dev/docs/2026-09/2026-09-28/</link>
-      <description>&lt;![CDATA[2026-09-28日刊]]&gt;</description>
-      <pubDate>Mon, 28 Sep 2026 02:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-09/2026-09-28/</guid>
+      <title>李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地</title>
+      <link>https://www.qbitai.com/2026/09/499098.html</link>
+      <description>&lt;![CDATA[李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 00:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/499098.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路</title>
+      <link>https://www.qbitai.com/2026/09/498877.html</link>
+      <description>&lt;![CDATA[工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路]]&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 12:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/09/498877.html</guid>
       <category>Ai</category>
     </item>
   </channel>
