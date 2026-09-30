@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml</link>
     <description>Technology 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Sep 2026 10:59:00 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Sep 2026 10:59:15 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 01:43:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:43:12 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217164540264016896</feedId>
@@ -14,347 +14,99 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/technologyfreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>亚马逊云科技无法恢复仅存储在受损的中东可用区的数据</title>
-      <link>https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[亚马逊云科技无法恢复仅存储在受损的中东可用区的数据]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响</title>
+      <link>https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&amp;utm_medium=article</link>
+      <description>&lt;![CDATA[Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&amp;utm_medium=article</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？</title>
-      <link>https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道</title>
+      <link>http://www.geekpark.net/news/372005</link>
+      <description>&lt;![CDATA[OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 08:25:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372005</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？</title>
-      <link>https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:07:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&amp;utm_medium=article</guid>
+      <title>除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」</title>
+      <link>http://www.geekpark.net/news/372003</link>
+      <description>&lt;![CDATA[除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 02:59:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372003</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&amp;utm_medium=article</guid>
+      <title>AMD 82 亿美元收购 World Labs，买的不只是世界模型</title>
+      <link>http://www.geekpark.net/news/372000</link>
+      <description>&lt;![CDATA[AMD 82 亿美元收购 World Labs，买的不只是世界模型]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 19:21:00 GMT</pubDate>
+      <guid isPermaLink="true">http://www.geekpark.net/news/372000</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏</title>
-      <link>https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:37:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP?utm_source=rss&amp;utm_medium=article</guid>
+      <title>Edge AI Daily 早报（9月30日）</title>
+      <link>https://www.tmtpost.com/8156593.html</link>
+      <description>&lt;![CDATA[Edge AI Daily 早报（9月30日）]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 08:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156593.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>金句抢先看 | 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？</title>
-      <link>https://www.infoq.cn/video/HsaJfo3DKR9XC0LeeV30?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[金句抢先看 | 每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:06:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/video/HsaJfo3DKR9XC0LeeV30?utm_source=rss&amp;utm_medium=article</guid>
+      <title>【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底</title>
+      <link>https://www.tmtpost.com/8156446.html</link>
+      <description>&lt;![CDATA[【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 07:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156446.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性</title>
-      <link>https://www.infoq.cn/article/vWO5oOkToq5WYFE18WiB?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[MariaDB 13 扩展 Oracle 兼容性，改善开发者体验与可观测性]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 16:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/vWO5oOkToq5WYFE18WiB?utm_source=rss&amp;utm_medium=article</guid>
+      <title>删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷</title>
+      <link>https://www.tmtpost.com/8156522.html</link>
+      <description>&lt;![CDATA[删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 23:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156522.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？</title>
-      <link>https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[大模型下沉车规芯片：超六成的车企座舱，为何选中了同一个“端侧大脑”？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:49:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/O5pKYU5hfR2DgrXP6zRE?utm_source=rss&amp;utm_medium=article</guid>
+      <title>8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元</title>
+      <link>https://www.tmtpost.com/8156362.html</link>
+      <description>&lt;![CDATA[8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 21:49:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156362.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>SolidStart 2：以 Vite 8 取代 Vinxi，进入维护模式后逐步完成历史使命</title>
-      <link>https://www.infoq.cn/article/v0NAyDPc0bZ2T8HMWfv2?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[SolidStart 2：以 Vite 8 取代 Vinxi，进入维护模式后逐步完成历史使命]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:42:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/v0NAyDPc0bZ2T8HMWfv2?utm_source=rss&amp;utm_medium=article</guid>
+      <title>押注固态电池设备“三年后”：金银河15亿定增卡位</title>
+      <link>https://www.tmtpost.com/8156391.html</link>
+      <description>&lt;![CDATA[押注固态电池设备“三年后”：金银河15亿定增卡位]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 21:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156391.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>设计安全、可扩展的人脸验证系统</title>
-      <link>https://www.infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[设计安全、可扩展的人脸验证系统]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 14:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/wLJHYzKDUdt5wSyZ06Fp?utm_source=rss&amp;utm_medium=article</guid>
+      <title>跨界医疗梦碎，永和智控持续甩卖资产</title>
+      <link>https://www.tmtpost.com/8156335.html</link>
+      <description>&lt;![CDATA[跨界医疗梦碎，永和智控持续甩卖资产]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 20:32:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8156335.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案</title>
-      <link>https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[从新型存储介质PCM方案到PCIe 6.0 SSD，德明利率先推出面向AI基础设施的分层存储全栈方案]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 14:29:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/SrmkSf6vOfRt6lLuudZb?utm_source=rss&amp;utm_medium=article</guid>
+      <title>ARR真的是大模型企业的黄金指标吗？</title>
+      <link>https://www.tmtpost.com/8154376.html</link>
+      <description>&lt;![CDATA[ARR真的是大模型企业的黄金指标吗？]]&gt;</description>
+      <pubDate>Tue, 29 Sep 2026 19:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.tmtpost.com/8154376.html</guid>
       <category>Technology</category>
     </item>
     <item>
-      <title>释放隐藏的商业价值：行业领袖如何将庞杂数据转化为即时行动 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/imwpHlbHtUjoHmzjah8Q?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[释放隐藏的商业价值：行业领袖如何将庞杂数据转化为即时行动 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 14:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/imwpHlbHtUjoHmzjah8Q?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报</title>
-      <link>https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[82 亿美元、全股票交易：AMD 收购 World Labs，李飞飞直接向苏姿丰汇报]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/KaaKQS6x5KiSlHa5UVVz?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AI 数据平台，要补的恰恰是“模型不知道的事”</title>
-      <link>https://www.infoq.cn/article/uwfvFTWwH5Qupo2lBxF6?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[AI 数据平台，要补的恰恰是“模型不知道的事”]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:24:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/uwfvFTWwH5Qupo2lBxF6?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>研发投入增长 40%，拼多多的增长逻辑变了</title>
-      <link>https://www.infoq.cn/article/dxTImF8q7TADGd4TZp6m?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[研发投入增长 40%，拼多多的增长逻辑变了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:20:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/dxTImF8q7TADGd4TZp6m?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势</title>
-      <link>https://www.infoq.cn/article/AmYfVbwTlVyApFszqKx3?utm_source=rss&amp;utm_medium=article</link>
-      <description>&lt;![CDATA[自主数据工程：迈向真正智能体成熟度的五个阶段 ｜ 技术趋势]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 10:36:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.infoq.cn/article/AmYfVbwTlVyApFszqKx3?utm_source=rss&amp;utm_medium=article</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>9个月时间，从参股到到控股：连亏4年半的园林股份，拿华澜微赌翻身</title>
-      <link>https://www.tmtpost.com/8156072.html</link>
-      <description>&lt;![CDATA[9个月时间，从参股到到控股：连亏4年半的园林股份，拿华澜微赌翻身]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156072.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>风险篇幅接近业务两倍，Anthropic招股书在测试什么</title>
-      <link>https://www.tmtpost.com/8156087.html</link>
-      <description>&lt;![CDATA[风险篇幅接近业务两倍，Anthropic招股书在测试什么]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8156087.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>消失的网页，膨胀的APP</title>
-      <link>https://www.tmtpost.com/8155983.html</link>
-      <description>&lt;![CDATA[消失的网页，膨胀的APP]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155983.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Manus 要做AI时代的“全家桶”</title>
-      <link>https://www.tmtpost.com/8155978.html</link>
-      <description>&lt;![CDATA[Manus 要做AI时代的“全家桶”]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155978.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>卖碳收入超10亿？小鹏不只靠卖车赚钱了</title>
-      <link>https://www.tmtpost.com/8155908.html</link>
-      <description>&lt;![CDATA[卖碳收入超10亿？小鹏不只靠卖车赚钱了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155908.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>82亿美元，硅谷上演顶级版“Girls help girls”</title>
-      <link>https://www.tmtpost.com/8155853.html</link>
-      <description>&lt;![CDATA[82亿美元，硅谷上演顶级版“Girls help girls”]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:12:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155853.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>信达生物跟辉瑞的关系，这下要更铁了</title>
-      <link>https://www.tmtpost.com/8155840.html</link>
-      <description>&lt;![CDATA[信达生物跟辉瑞的关系，这下要更铁了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155840.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Agent扎堆金融：一场真正的AI大考开始了</title>
-      <link>https://www.tmtpost.com/8155852.html</link>
-      <description>&lt;![CDATA[Agent扎堆金融：一场真正的AI大考开始了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155852.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>十年蜕变之作，荣耀Magic9系列写下越级答案</title>
-      <link>https://www.tmtpost.com/8155188.html</link>
-      <description>&lt;![CDATA[十年蜕变之作，荣耀Magic9系列写下越级答案]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:02:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155188.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Agent进入企业核心业务，模型之外还有多少难题？</title>
-      <link>https://www.tmtpost.com/8155430.html</link>
-      <description>&lt;![CDATA[Agent进入企业核心业务，模型之外还有多少难题？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 18:01:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155430.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>三峡新材并购珠海赛纬：玻璃巨头的跨界赌局与电解液玩家的两度IPO碎梦｜并购一线</title>
-      <link>https://www.tmtpost.com/8155917.html</link>
-      <description>&lt;![CDATA[三峡新材并购珠海赛纬：玻璃巨头的跨界赌局与电解液玩家的两度IPO碎梦｜并购一线]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:58:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155917.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>海目星抛22.6亿定增计划，激光设备商跨界押注AI与固态电池</title>
-      <link>https://www.tmtpost.com/8155935.html</link>
-      <description>&lt;![CDATA[海目星抛22.6亿定增计划，激光设备商跨界押注AI与固态电池]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:57:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155935.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>湖南裕能：接力融资押扩产，“铁锂一哥”和他身后的周期赌局 | 深度</title>
-      <link>https://www.tmtpost.com/8155901.html</link>
-      <description>&lt;![CDATA[湖南裕能：接力融资押扩产，“铁锂一哥”和他身后的周期赌局 | 深度]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:48:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155901.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>一台机床、一辆汽车、一架飞机......5 万亿融资租赁行业的“能力竞赛”</title>
-      <link>https://www.tmtpost.com/8154650.html</link>
-      <description>&lt;![CDATA[一台机床、一辆汽车、一架飞机......5 万亿融资租赁行业的“能力竞赛”]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8154650.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Muse企服版刚成立，百亿美金上市企业CEO就跳槽加入</title>
-      <link>https://www.tmtpost.com/8155944.html</link>
-      <description>&lt;![CDATA[Muse企服版刚成立，百亿美金上市企业CEO就跳槽加入]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155944.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>豆包盯上了出行酒旅等生意</title>
-      <link>https://www.tmtpost.com/8155968.html</link>
-      <description>&lt;![CDATA[豆包盯上了出行酒旅等生意]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:43:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155968.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>金银比逼近70，银价为何比金价更脆弱？</title>
-      <link>https://www.tmtpost.com/8155947.html</link>
-      <description>&lt;![CDATA[金银比逼近70，银价为何比金价更脆弱？]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155947.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>这下真不用A8才敢进薛记炒货店了</title>
-      <link>https://www.tmtpost.com/8155938.html</link>
-      <description>&lt;![CDATA[这下真不用A8才敢进薛记炒货店了]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155938.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>罗伯特·杜根 ：你大爷还是你大爷</title>
-      <link>https://www.tmtpost.com/8155921.html</link>
-      <description>&lt;![CDATA[罗伯特·杜根 ：你大爷还是你大爷]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:41:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.tmtpost.com/8155921.html</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Anthropic 招股书里，最耐人寻味的 7 个细节</title>
-      <link>http://www.geekpark.net/news/371994</link>
-      <description>&lt;![CDATA[Anthropic 招股书里，最耐人寻味的 7 个细节]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:12:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371994</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>三个月，5000 人：拼多多在这里搭起一座新业务基地</title>
-      <link>http://www.geekpark.net/news/371850</link>
-      <description>&lt;![CDATA[三个月，5000 人：拼多多在这里搭起一座新业务基地]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 14:53:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371850</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶</title>
-      <link>http://www.geekpark.net/news/371493</link>
-      <description>&lt;![CDATA[Manus 正式发布 2.0！个人 AI 助手、云电脑、远程控制，Manus 想做 AI 时代全家桶]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 13:27:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371493</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道</title>
-      <link>http://www.geekpark.net/news/371359</link>
-      <description>&lt;![CDATA[AMD 82 亿美元收购李飞飞 AI 创业公司；Manus 推出个人 AI 助手 CUE；今年低价手机将减少 2.3 亿部｜极客早知道]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 08:07:00 GMT</pubDate>
-      <guid isPermaLink="true">http://www.geekpark.net/news/371359</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单</title>
-      <link>https://sspai.com/post/115153</link>
-      <description>&lt;![CDATA[社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 17:03:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/115153</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>更懂你的心，也更懂你：Apple Watch Series 12 体验</title>
-      <link>https://sspai.com/post/115061</link>
-      <description>&lt;![CDATA[更懂你的心，也更懂你：Apple Watch Series 12 体验]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 15:44:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/115061</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>可塑的白昼：ColorOS17 深度评测</title>
-      <link>https://sspai.com/post/114728</link>
-      <description>&lt;![CDATA[可塑的白昼：ColorOS17 深度评测]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:28:00 GMT</pubDate>
-      <guid isPermaLink="true">https://sspai.com/post/114728</guid>
-      <category>Technology</category>
-    </item>
-    <item>
-      <title>GitHub 3.1 万 Star！开源堡垒机 JumpServer 正式进入 V5 时代。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537439&amp;idx=1&amp;sn=b9a163563c14af097e993f47703ba2a7</link>
-      <description>&lt;![CDATA[GitHub 3.1 万 Star！开源堡垒机 JumpServer 正式进入 V5 时代。]]&gt;</description>
-      <pubDate>Tue, 29 Sep 2026 11:11:00 GMT</pubDate>
-      <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&amp;mid=2247537439&amp;idx=1&amp;sn=b9a163563c14af097e993f47703ba2a7</guid>
+      <title>派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等</title>
+      <link>https://sspai.com/post/115197</link>
+      <description>&lt;![CDATA[派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等]]&gt;</description>
+      <pubDate>Wed, 30 Sep 2026 07:39:00 GMT</pubDate>
+      <guid isPermaLink="true">https://sspai.com/post/115197</guid>
       <category>Technology</category>
     </item>
   </channel>

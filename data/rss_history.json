@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8e91e1cb02daa41c3713692f19ccb04f5cd599a7b8985d507a195267393c20e1": {
-        "title": "Edge AI Daily 早报（8月31日）",
-        "link": "https://www.tmtpost.com/8122304.html",
-        "published_date": "Mon, 31 Aug 2026 08:51:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018300"
-      },
-      "3c6eecfce73fa6cbc4d1968d742d2db168b845980e0f00e336772e3b7dfceba0": {
-        "title": "【钛晨报】个人住房贷款政策有大变化，个人房贷期限延至最长40年；OpenAI将终止向Cursor提供模型服务，马斯克回应；报告称AI公司每赚100美元近40美元流向云巨头",
-        "link": "https://www.tmtpost.com/8122212.html",
-        "published_date": "Mon, 31 Aug 2026 07:20:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018314"
-      },
-      "59c24586c6767cbf63de0141329419ca25a2a0f0de1f47138e8d8aa612275064": {
-        "title": "优必选走进窄门",
-        "link": "https://www.tmtpost.com/8121851.html",
-        "published_date": "Sun, 30 Aug 2026 18:49:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018318"
-      },
-      "ed770c5fc20d91a69b6cdb767919beb8c5252dd9e67b7256c1d3b65865df4831": {
-        "title": "人形机器人还撑不起极智嘉",
-        "link": "https://www.tmtpost.com/8122055.html",
-        "published_date": "Sun, 30 Aug 2026 18:48:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018320"
-      },
-      "810cc2a25b8316e89e38680359283b098bd5f92041fea527ac5a7f0a993e8360": {
-        "title": "自动驾驶入法后，罚单还得车主交?",
-        "link": "https://www.tmtpost.com/8122093.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018322"
-      },
-      "a174e8128548cd548cce62fbd780eb228bc5cfc9ede814d2ecbed4f3809868e5": {
-        "title": "天数智芯盈利了，但钱不是卖芯片赚的",
-        "link": "https://www.tmtpost.com/8122018.html",
-        "published_date": "Sun, 30 Aug 2026 18:45:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018325"
-      },
-      "f8fa6ec263fb9581fff1f4bba0b35fa0723827eb6a729bc55645ef310028e3c8": {
-        "title": "派早报：GTA 6 引发请假玩游戏热潮",
-        "link": "https://sspai.com/post/114022",
-        "published_date": "Mon, 31 Aug 2026 06:59:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018326"
-      },
-      "9fb1ce28b3b2707a2934ede85570cde67aebdeeb19e8c0a30284f3a8d134f6b7": {
-        "title": "折叠屏的尽头，是不折叠：华为 Pura X View 体验",
-        "link": "http://www.geekpark.net/news/369558",
-        "published_date": "Mon, 31 Aug 2026 04:25:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018328"
-      },
-      "52cc74aba0fe600db296965f5c6b9d120c0cd88b61d4258b348b4af1762e8bae": {
-        "title": "造物 100 #04｜AI 为爱做「鸭」、PLAUD 又推新作、字节 TRAE 造了个数字工牌",
-        "link": "http://www.geekpark.net/news/369556",
-        "published_date": "Sun, 30 Aug 2026 18:58:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018330"
-      },
-      "700f5f9282a2098b997f0517277643df23f0b943e43b07a2cccbe779d6c3d4cc": {
-        "title": "OpenAI 芯片实测跑分揭晓，「为模型造芯片」时代来了",
-        "link": "http://www.geekpark.net/news/369555",
-        "published_date": "Sun, 30 Aug 2026 18:53:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.018332"
-      },
       "dad76986235f8f5052e097a7dbb20bff19a766af5a63222340efb04cf803840a": {
         "title": "从出片到出海：AI MediaKit 重塑短剧全链路生产力",
         "link": "https://www.infoq.cn/article/L7P7cA3UMXXQJcBfyHuJ?utm_source=rss&utm_medium=article",
@@ -8947,63 +8887,81 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537439&idx=1&sn=b9a163563c14af097e993f47703ba2a7",
         "published_date": "Tue, 29 Sep 2026 11:11:00 GMT",
         "first_seen": "2026-09-29T10:59:15.314116"
+      },
+      "a2acd14fb1bdf56e1a4f40041a25e916f3d77d94cd77af1c3f02016fa80e700a": {
+        "title": "Uber 使用子集群重新设计 M3DB 分片策略，降低故障影响",
+        "link": "https://www.infoq.cn/article/dbOwzu6l6Tr8NAhCQRC8?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 30 Sep 2026 09:00:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399309"
+      },
+      "4c0d90c5b6470726571cec8fc465b9e34efb6e426cd50b7207bf26e0a02079b6": {
+        "title": "OpenAI 推出个人 AI 智能体 dots；传豆包将推个人 AI 产品「Spell」；SpaceX 发射星舰成功入轨 | 极客早知道",
+        "link": "http://www.geekpark.net/news/372005",
+        "published_date": "Wed, 30 Sep 2026 08:25:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399322"
+      },
+      "97f919d96457e552d03a40b3c7d80e272951c85e8e16eecc0546173804509cc8": {
+        "title": "除了更贵的订阅和砍半的额度，OpenAI 想做的还是「微信」",
+        "link": "http://www.geekpark.net/news/372003",
+        "published_date": "Wed, 30 Sep 2026 02:59:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399325"
+      },
+      "6150bb41552392cad704b24e6ebb47d5aa33fb943bd1c1b6f1074495db3ad871": {
+        "title": "AMD 82 亿美元收购 World Labs，买的不只是世界模型",
+        "link": "http://www.geekpark.net/news/372000",
+        "published_date": "Tue, 29 Sep 2026 19:21:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399327"
+      },
+      "3a643da17d420305686d4d3f9e1a790876705658e09875e0d362f3f4cebd4ec9": {
+        "title": "Edge AI Daily 早报（9月30日）",
+        "link": "https://www.tmtpost.com/8156593.html",
+        "published_date": "Wed, 30 Sep 2026 08:23:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399330"
+      },
+      "809f2a6122f23059278efe233f9350857c31d8d94f3b9421ad1af4b391a11cf4": {
+        "title": "【钛晨报】重大利好！央行“四箭齐发”，房贷贴息政策落地；中行回应万事达信用卡遭盗刷；英伟达欲拉保险公司入场，为AI芯片融资风险兜底",
+        "link": "https://www.tmtpost.com/8156446.html",
+        "published_date": "Wed, 30 Sep 2026 07:20:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399332"
+      },
+      "1e2a6811bfab72dacd369c7c5ad92d1cee6184cf65888801b5a934796aec876a": {
+        "title": "删除储能相关，川润股份大幅下调定增募资额，“瘦身”过冬押注液冷",
+        "link": "https://www.tmtpost.com/8156522.html",
+        "published_date": "Tue, 29 Sep 2026 23:24:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399334"
+      },
+      "f3c83cbf58fd85c9b9594e1c214363d5eef1b6cb836f6d5a443d5d61ebf0f4c1": {
+        "title": "8.25亿增资、8.26亿转让：迈威生物TCE管线分拆至新公司联威创元",
+        "link": "https://www.tmtpost.com/8156362.html",
+        "published_date": "Tue, 29 Sep 2026 21:49:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399335"
+      },
+      "8078c9aadd0df01b442e130c3d99ebdb0ee901e87e0c2514d6065c83fbe46ffb": {
+        "title": "押注固态电池设备“三年后”：金银河15亿定增卡位",
+        "link": "https://www.tmtpost.com/8156391.html",
+        "published_date": "Tue, 29 Sep 2026 21:43:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399337"
+      },
+      "d5351b9894e7a85049fe1b4b42cec7aa41e7d56d3d2ab27d01b3cdae7647d13b": {
+        "title": "跨界医疗梦碎，永和智控持续甩卖资产",
+        "link": "https://www.tmtpost.com/8156335.html",
+        "published_date": "Tue, 29 Sep 2026 20:32:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399339"
+      },
+      "e13c76634bb07a78fe7bfa7dd2c6a36bd8b6453e83d8c4fed53df4b6cd0ce1a0": {
+        "title": "ARR真的是大模型企业的黄金指标吗？",
+        "link": "https://www.tmtpost.com/8154376.html",
+        "published_date": "Tue, 29 Sep 2026 19:13:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399340"
+      },
+      "3d1875df51a140ec531e93b146a33d2b4c3ead77b64f0e807a1c3a5d0a456e3d": {
+        "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+        "link": "https://sspai.com/post/115197",
+        "published_date": "Wed, 30 Sep 2026 07:39:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.399342"
       }
     },
     "Finance": {
-      "c8b2ce06d10177af9fde0ba3815b825749712f133df05c01d0d8011d9e220288": {
-        "title": "U.S. stock futures slip as chances of rate hike rise after Warsh’s Jackson Hole comments",
-        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories",
-        "published_date": "Sun, 30 Aug 2026 23:52:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102674"
-      },
-      "e46c1f42c63e91359b014974d66aca82d73e3ad16dadae5f296e869b33c35f5a": {
-        "title": "These charts show how leverage-happy investors are transforming the stock market",
-        "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
-        "published_date": "Sun, 30 Aug 2026 13:00:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102683"
-      },
-      "26f9d0869d9a1fb4acba528e8c205c0fd8a4cfd367fc1a5bbcd6251329f39e72": {
-        "title": "Party balloons could become a ‘luxury’ as the Iran war spurs a helium shortage",
-        "link": "https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories",
-        "published_date": "Sun, 30 Aug 2026 12:30:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102686"
-      },
-      "fd17dbd4214619738fcd6ee2a4cb4f35e5ad1aadcc345bc30e7afa5ffd133e5b": {
-        "title": "US and Iran exchange fire for the first time in more than a month",
-        "link": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 23:47:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102687"
-      },
-      "017a3d409b214aacb35a5d0c1b3d31d32541f7e8765f4368af9b1186f7ff52e5": {
-        "title": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
-        "link": "https://www.ft.com/content/c9d10aeb-163e-46a3-b7ca-376ce6be9f8e?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 21:11:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102689"
-      },
-      "0fa3fb0803f6ae5faa02724978a0bcecccc728a66edb8bbfdda1e3460641cec5": {
-        "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
-        "link": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 19:00:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102691"
-      },
-      "84d53e58f6772f2145e8926b2134b7140497154cca2f86f2e249e76af2622195": {
-        "title": "Americans feel they have lost their agency",
-        "link": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 15:00:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102693"
-      },
-      "d45fa1fc8f00cda5cfa65db2111dc209371fcfb8c27e739ad2b9b7113eed26f7": {
-        "title": "Controversial Venezuelan executive courts investors after Trump oil deal",
-        "link": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 12:12:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102694"
-      },
-      "6274778768021bc2cafc0a35ada2dfbb4abab5f4ed9d0e51eee74d9ea430014f": {
-        "title": "Friends with fiscal benefits",
-        "link": "https://www.ft.com/content/ce3139ac-e88e-4c0d-ab92-b36e79052836?syn-25a6b1a6=1",
-        "published_date": "Sun, 30 Aug 2026 11:00:00 GMT",
-        "first_seen": "2026-08-31T00:59:30.102696"
-      },
       "1414b51dd20e8983a41d4066f26e54eeff2c0c11e790074b4707e98914be9bb9": {
         "title": "Consultants head for a showdown — with their own clients",
         "link": "https://www.ft.com/content/709d7e2d-0c2f-45bc-b559-e7328372cf9e?syn-25a6b1a6=1",
@@ -13635,6 +13593,84 @@
         "link": "https://www.ft.com/content/262f5234-3d66-4187-a844-b52c29cb0e9b?syn-25a6b1a6=1",
         "published_date": "Tue, 29 Sep 2026 03:08:00 GMT",
         "first_seen": "2026-09-29T10:59:15.394597"
+      },
+      "b2a44f9ad0df16e9700e7da41c8dfdc213ba48f4154b13c9ed40d3447966ce6f": {
+        "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+        "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+        "published_date": "Wed, 30 Sep 2026 01:00:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495903"
+      },
+      "4374d174ba8388638c7620767339c50bf7272be0b3331d8d6281cf5b60446460": {
+        "title": "Hollywood’s big debt deal hits a wall of higher yields as Paramount finances Warner Bros. buyout",
+        "link": "https://www.marketwatch.com/story/hollywoods-big-debt-deal-hits-a-wall-of-higher-yields-as-paramount-finances-warner-bros-buyout-6ee6e3b8?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495911"
+      },
+      "04e8eba8b17ab5810d9e59e6fbac0756beca06638527f50f09f4effed4418154": {
+        "title": "Could SpaceX be worth $12 trillion one day? Citi says Starship gets it a step closer.",
+        "link": "https://www.marketwatch.com/story/could-spacex-be-worth-12-trillion-one-day-citi-says-starship-gets-it-a-step-closer-6ce44961?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:53:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495913"
+      },
+      "f033d1d2fe246e2b37ef31beab6a23352b7e7690453b2cfc9f198ed04ddaf145": {
+        "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+        "link": "https://www.marketwatch.com/story/the-real-prize-in-amds-8-billion-world-labs-acquisition-isnt-what-youd-think-6f609d0f?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:52:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495915"
+      },
+      "09cdacc5eaf9deb093c0146a5a70ff1d08ca5e807cb2b489947819ad9e718132": {
+        "title": "Target’s price cuts are a sign of strength, some analysts say. Investors disagree.",
+        "link": "https://www.marketwatch.com/story/targets-price-cuts-are-a-sign-of-strength-some-analysts-say-investors-disagree-6a6f0717?mod=mw_rss_topstories",
+        "published_date": "Tue, 29 Sep 2026 21:33:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495916"
+      },
+      "ea1d539210e923a4cc3fdd3b942e03c43014c0416a0c67d41f29572193fb276e": {
+        "title": "Pentagon awards Boeing $20bn contract for Navy stealth fighter jet",
+        "link": "https://www.ft.com/content/5f1cd056-b5cb-4b29-84a7-703819811b0d?syn-25a6b1a6=1",
+        "published_date": "Wed, 30 Sep 2026 00:31:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495918"
+      },
+      "96fb37fed7ebcd1abde26b1da8d6064792570cf140d0eae4ff1631ed011039f1": {
+        "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
+        "link": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 23:13:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495919"
+      },
+      "70d42c51e7a6da14442910696c1ded48a117ebdf7133480bd3adb0e68813bc8c": {
+        "title": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+        "link": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 21:56:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495921"
+      },
+      "54b14fefbb47323b668ab0b8a146a511a56b1fc12e03797e46652a704ff1513f": {
+        "title": "Hegseth to slash top US military officer roles by 20%",
+        "link": "https://www.ft.com/content/1199468e-dbe5-4581-b039-3d57985291ac?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 20:56:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495923"
+      },
+      "d056fcc800f83d3bba16a698253e98b7b6beb5de4cc6e8d53bc3f31d8cabecea": {
+        "title": "Suspect in RAF Fairford incident called 999 shortly before arrest",
+        "link": "https://www.ft.com/content/e9b18367-5144-4775-8ddd-d1d133672db0?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 20:19:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495924"
+      },
+      "ce16a4e5a70e26535dfc789706ead97b795bc5c7e0b38a1089ab7424870499cb": {
+        "title": "US 30-year Treasury yield hits highest since 2002",
+        "link": "https://www.ft.com/content/c8693313-7750-40c7-892a-101ab16dec70?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 20:13:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495926"
+      },
+      "85b7c0444a225c8f3f971543dbec793ba45694d85062f160f2e0216e076e6f18": {
+        "title": "China unveils mortgage subsidies to boost economy",
+        "link": "https://www.ft.com/content/fa48c931-bafd-487a-b5a5-eff93fdcf53f?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 14:08:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495927"
+      },
+      "2ec7ad720e0ea498fbfe09a0025105764757b36bd5291c7a75743324d9f040fa": {
+        "title": "A Republican midterm defeat will not be an earthquake",
+        "link": "https://www.ft.com/content/7b9df85a-59ed-4863-9682-1c5b868fd3af?syn-25a6b1a6=1",
+        "published_date": "Tue, 29 Sep 2026 11:16:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.495929"
       }
     },
     "Ai": {
@@ -15113,13 +15149,25 @@
         "link": "https://www.qbitai.com/2026/09/499135.html",
         "published_date": "Tue, 29 Sep 2026 07:10:00 GMT",
         "first_seen": "2026-09-29T10:59:15.508716"
+      },
+      "700d34189eaa31fbc1f0acf237b31c03b4e9ec74524e06a47701261bd36954b4": {
+        "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+        "link": "https://www.qbitai.com/2026/09/499246.html",
+        "published_date": "Tue, 29 Sep 2026 23:01:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.656864"
+      },
+      "96302b9878db64db0ac59636ac743804ece7e8334528e18454723fb7b548add4": {
+        "title": "How Diffusion Controller unifies and simplifies AI image generation",
+        "link": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+        "published_date": "Tue, 29 Sep 2026 18:38:00 GMT",
+        "first_seen": "2026-09-30T01:43:12.656872"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-09-29T10:59:15.314118",
-    "Finance": "2026-09-29T10:59:15.394599",
-    "Ai": "2026-09-29T10:59:15.508717"
+    "Technology": "2026-09-30T01:43:12.399344",
+    "Finance": "2026-09-30T01:43:12.495932",
+    "Ai": "2026-09-30T01:43:12.656875"
   }
 }
