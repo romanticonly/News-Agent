@@ -2,42 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8b6dace388fd346ae508e5772f56fead17c6d62baec1868331b9011d9727f7dc": {
-        "title": "8000万养宠人，见证“它经济”从狂热到崩塌",
-        "link": "https://www.tmtpost.com/8130247.html",
-        "published_date": "Mon, 07 Sep 2026 08:20:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498362"
-      },
-      "7431646b5d586c3ce78e47fc7792d3ed8f5ce1cf1b102377b66e5ee7465735a5": {
-        "title": "Edge AI Daily 早报（9月7日）",
-        "link": "https://www.tmtpost.com/8130271.html",
-        "published_date": "Mon, 07 Sep 2026 08:02:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498372"
-      },
-      "f248fcda9f7df1fe67b238b838731455bc1013883fefdd03de070b68d30beb50": {
-        "title": "【钛晨报】共增资3600亿元！8家中央金融企业拟补充资本，财政部将发行特别国债支持；紫金矿业就财报出错致歉；耐克首次遭标普100“开除”",
-        "link": "https://www.tmtpost.com/8130184.html",
-        "published_date": "Mon, 07 Sep 2026 07:20:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498374"
-      },
-      "72c36d44f832f3364b27d50bb52550e65d5315dc11142e21564455a8a74e22e8": {
-        "title": "Cybercab刚上路就被查，特斯拉把无人车开进了法规盲区",
-        "link": "https://www.tmtpost.com/8130213.html",
-        "published_date": "Sun, 06 Sep 2026 20:46:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498375"
-      },
-      "e94ec8fca09b812ac0090d5f3e4652e1ce206abef2644b35fcf31f6e92766a12": {
-        "title": "从精密技术到行业与机器人，爱普生正在重新给技术“定价”",
-        "link": "https://www.tmtpost.com/8129869.html",
-        "published_date": "Sun, 06 Sep 2026 18:50:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498376"
-      },
-      "5cd3cd9d897f3c0e00849cada080b4ea9ca6fcac10db4a7cfd14a3d42c315307": {
-        "title": "GPT-6 Astra 上线 24 小时，看看外网爆火的惊艳玩法。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247536681&idx=1&sn=3a1f8bf1b30e903324f0eb11a3d7ed8f",
-        "published_date": "Sun, 06 Sep 2026 14:34:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.498378"
-      },
       "6f12790b5aa05a5b49b81492b51eadd689cec98d1e457db839f148e366d20cbb": {
         "title": "模型负责上天，三个“野心家”负责把AI落地",
         "link": "https://www.tmtpost.com/8130980.html",
@@ -7825,63 +7789,45 @@
         "link": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&utm_medium=article",
         "published_date": "Tue, 06 Oct 2026 15:00:00 GMT",
         "first_seen": "2026-10-06T11:35:14.230375"
+      },
+      "304596eba88aa444aa4e1490301ff35e94f8f4593d5b6c16c70c03ce9b3e6b8a": {
+        "title": "全球市值最大股表现落后，若英伟达启动上涨，科技股与大盘或将跟随",
+        "link": "https://www.tmtpost.com/8160143.html",
+        "published_date": "Wed, 07 Oct 2026 09:31:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121414"
+      },
+      "a89a7b0fa85c57606f8a0e4bbb5b538a5355844ba0d49bd426d5783ff9563ec0": {
+        "title": "三只可能从现代战争中受益的国防类股票",
+        "link": "https://www.tmtpost.com/8160134.html",
+        "published_date": "Wed, 07 Oct 2026 09:17:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121425"
+      },
+      "8a407849600bfbeba2e033c23577b9d0f4b02fa47a21bfdf292636cde9a2ae38": {
+        "title": "默沙东重注背后：G12D凭什么成为下一个爆款靶点？",
+        "link": "https://www.tmtpost.com/8160057.html",
+        "published_date": "Wed, 07 Oct 2026 08:56:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121427"
+      },
+      "84751956b227c69cc88c5d1728c1152cad36dccd4af30dbe9fcd1bb2cba3397f": {
+        "title": "Edge AI Daily 早报（10月7日）",
+        "link": "https://www.tmtpost.com/8160096.html",
+        "published_date": "Wed, 07 Oct 2026 08:48:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121428"
+      },
+      "7992c8ef58b2c26a5c1ccc5ef28992a5c9e4a7b196c7c2afa72b5b324a649000": {
+        "title": "DeepSeek被爆最新融资800亿，正为冲击IPO做准备",
+        "link": "https://www.tmtpost.com/8159961.html",
+        "published_date": "Tue, 06 Oct 2026 21:10:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121430"
+      },
+      "e25f9ab07e174a5c85b3f9bd9266757a00bd5eb2f6ae0e616c9cea566ff04c19": {
+        "title": "派拉蒙 1100 亿美元收购时代华纳，好莱坞诞生新巨无霸；月之暗面被曝完成 500 亿美元 PreIPO 融资；微软、Meta 被曝要求员工减少使用 Claude",
+        "link": "http://www.geekpark.net/news/372089",
+        "published_date": "Wed, 07 Oct 2026 08:39:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.121431"
       }
     },
     "Finance": {
-      "79d07628b729ee317aadd2809dbd71fbd452568821f1d3300de223a2091ca071": {
-        "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-        "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 23:05:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638780"
-      },
-      "29d5af106cb9f60a974be18863239e6d8d15d9d8c12f5f3f83d6e05af55fe524": {
-        "title": "Far-right AfD surges to first place in German state elections",
-        "link": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 22:06:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638786"
-      },
-      "a1e4b7873bae5fa3e78904ada66bb33341df840bda8154ae75ee156f6b336617": {
-        "title": "Germany’s Merz on the ropes after far right delivers devastating blow",
-        "link": "https://www.ft.com/content/48e7b92b-affc-4fd0-8de1-ae8765e5c799?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 21:53:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638787"
-      },
-      "f0d02a0e916dcf922c1ca07baa69e53f9a3f6e100c2a96aca3652973e5421b78": {
-        "title": "Europe failing to deter Russia’s ‘hybrid’ war, warn defence officials",
-        "link": "https://www.ft.com/content/83e08169-69b5-4997-9bf0-e0622e752eda?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 20:00:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638789"
-      },
-      "9133eac63013090e03c20a3bed4a7477a8d4e6e9cdc7ac3a610c6ce1ce1dac39": {
-        "title": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
-        "link": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 17:46:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638790"
-      },
-      "514fc1e3fec98cf875c71e86e5e2f359a95893a79e210096de2a8e247959a03f": {
-        "title": "Starting gun fired on autumn election campaign season",
-        "link": "https://www.ft.com/content/a69af29e-b2c1-48cf-a6f7-c1f68c141785?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 17:15:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638791"
-      },
-      "20b007ff86ded14ed621251dbf882b3a95d54644067a83afa9f8d3d22ef4117c": {
-        "title": "Pete Hegseth’s Pentagon purge",
-        "link": "https://www.ft.com/content/6ea98322-96a3-408a-87e4-eb5e4eb05b52",
-        "published_date": "Sun, 06 Sep 2026 13:35:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638792"
-      },
-      "4bd2e1950c993e2db346aaff8013bedeb6e7a8e0c31b1000ad6dd82f638461f8": {
-        "title": "European SpaceX rival launches rocket into orbit",
-        "link": "https://www.ft.com/content/fb5be0ff-5a5c-4006-98c5-2ddcfa3c1175?syn-25a6b1a6=1",
-        "published_date": "Sun, 06 Sep 2026 11:03:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638793"
-      },
-      "d571a0a3e8c7f37a3311b48d46bd28b67063d4d9a08e134d85a8eb000060d1d7": {
-        "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-        "link": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-        "published_date": "Sun, 06 Sep 2026 13:00:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.638794"
-      },
       "e3e7f6682b323bca13b1d9156bc5d9f6009db89440aca33abef6907e21551278": {
         "title": "China pumps $54bn into banks and insurers",
         "link": "https://www.ft.com/content/8012b60e-c74e-49bc-9200-d37f13b4a135?syn-25a6b1a6=1",
@@ -12633,15 +12579,111 @@
         "link": "https://www.ft.com/content/76db879a-2c53-4aee-8354-b30185f1d3a4?syn-25a6b1a6=1",
         "published_date": "Tue, 06 Oct 2026 04:00:00 GMT",
         "first_seen": "2026-10-06T11:35:14.323450"
+      },
+      "c03758d030721f6265c7586289d8b9c9b1d29b704c7a4b60ae2fc056b66c9dda": {
+        "title": "Trump says he will speak with Putin about pneumonic plague",
+        "link": "https://www.ft.com/content/dcf35eaf-e1d3-4289-bc7a-e0c91725ad59?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 23:18:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182353"
+      },
+      "e858b237ed3e612811641643a1697dfc5fa575d15d0b17d949bbecf3dcca4452": {
+        "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+        "link": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 22:28:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182361"
+      },
+      "51a229ca4bfd2501bacc8baf6bd6cf6dbffbb3ec8d753ab8ee07beab47647156": {
+        "title": "Jim Clyburn urges Black voters not to be ‘fooled’ by Trump",
+        "link": "https://www.ft.com/content/793d9121-1dae-498b-bae1-db8c69e67e2d?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:29:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182362"
+      },
+      "52ffc9db04587d91b484f5ca975ab6479e54a457422890d1fd2caebbfb47b563": {
+        "title": "Trump says he is considering suspending federal petrol tax",
+        "link": "https://www.ft.com/content/3fd43fc5-4973-4a26-9d9c-47b6361e6217?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:09:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182363"
+      },
+      "7206d981e5f56eda978152c7ad5427d051f16af00ca7a2d6db01f8241839d199": {
+        "title": "‘Most dangerous product in crypto’ vexes Singapore",
+        "link": "https://www.ft.com/content/cd851d45-596b-4745-8c28-ce7ace1d3e43?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 21:00:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182364"
+      },
+      "7d2daec92f894f88b8a41a6d21cc016278b4948b162b9ba60514b6dc75dfe8e7": {
+        "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+        "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 20:58:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182365"
+      },
+      "c93ab9d83d5c6aac04128b62097dbf4d08c18c347ce5dc0a90888dd834de96db": {
+        "title": "Ships’ captains paid $100,000 a month to transit Strait of Hormuz",
+        "link": "https://www.ft.com/content/0d665e5b-d8c8-4f1e-acf5-bba7193b4e6e?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 20:00:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182366"
+      },
+      "5756b02bb72bd73b39b18b60d6ff454d4a4090d6d00f645291046e5b51040447": {
+        "title": "Goldman Sachs and Man Group exposed in EY data breach",
+        "link": "https://www.ft.com/content/2ad1ff25-f08e-4e78-83c9-90e7ea3844ee?syn-25a6b1a6=1",
+        "published_date": "Tue, 06 Oct 2026 19:24:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182367"
+      },
+      "288122fb38f49f3ba8d0703cdb38f81bd757a48feff0e94c72f302e45bc2e24f": {
+        "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+        "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 22:54:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182368"
+      },
+      "9bb2210b619ed3cbec5f56864f9ed3085f0a29079a4a2b462048c7849da77c0d": {
+        "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 21:52:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182369"
+      },
+      "73aff2fd49d4cebfa95c8ff7d0f5b8ccea147182f5a966456fb59e3a81c7d859": {
+        "title": "Oct. 9 has loomed large in stock-market history. Why investors still shouldn’t buy into an October jinx.",
+        "link": "https://www.marketwatch.com/story/oct-9-has-loomed-large-in-stock-market-history-why-investors-still-shouldnt-buy-into-an-october-jinx-81d7149b?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 20:37:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182370"
+      },
+      "0d0ecffa83694e80552a59f6e18725dc4b47398ac45814b2163f093e597ce174": {
+        "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+        "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 20:24:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182371"
+      },
+      "cf0d8199466da89cd5e3e679cd490cc263e2ac3a89bb5f504517a3fa192a85de": {
+        "title": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
+        "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 20:21:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182372"
+      },
+      "a1a2024ae706ffa182e29934aba2e7e7ec2001ff8e1628619daaf1c240e83ca1": {
+        "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+        "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 20:15:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182373"
+      },
+      "016278860db8a68532da21af7ed03279ee06d90bb432e2b3fdff63f804cebe82": {
+        "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+        "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 19:58:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182374"
+      },
+      "e9c932458d0b85011892b58f421c1160731e35a49465d77c738c5328f277e93f": {
+        "title": "Trump waives rules on red-dyed diesel, but local tax and other concerns remain",
+        "link": "https://www.marketwatch.com/story/trump-waives-rules-on-red-dyed-diesel-but-local-tax-and-other-concerns-remain-f6b448c8?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 19:14:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182375"
+      },
+      "89d769f2628885d60029b3c69907e27d15fc9c9a3c543c4bdd141564289022b4": {
+        "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
+        "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Oct 2026 18:39:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.182375"
       }
     },
     "Ai": {
-      "66aaef734f1f58a3ce5698af2955f094a2e5c27e79b24166c7e58c3e0b5cf22a": {
-        "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
-        "link": "https://www.qbitai.com/2026/09/484897.html",
-        "published_date": "Sun, 06 Sep 2026 11:44:00 GMT",
-        "first_seen": "2026-09-07T00:26:41.585553"
-      },
       "7a0fbe146f56f726958ed9d67dd981a88a42ba789595028708e098a9599127e6": {
         "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
         "link": "https://www.qbitai.com/2026/09/485064.html",
@@ -13937,13 +13979,19 @@
         "link": "https://www.qbitai.com/2026/10/501726.html",
         "published_date": "Tue, 06 Oct 2026 06:45:00 GMT",
         "first_seen": "2026-10-06T11:35:14.456953"
+      },
+      "7d82b501b737e0d3a4643a197fbb93fbf969b410fb9a5ce27c71ca4f5409bfc1": {
+        "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+        "link": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+        "published_date": "Tue, 06 Oct 2026 15:05:00 GMT",
+        "first_seen": "2026-10-07T01:54:10.271429"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-10-06T11:35:14.230377",
-    "Finance": "2026-10-06T11:35:14.323452",
-    "Ai": "2026-10-06T11:35:14.456954"
+    "Technology": "2026-10-07T01:54:10.121433",
+    "Finance": "2026-10-07T01:54:10.182377",
+    "Ai": "2026-10-07T01:54:10.271437"
   }
 }
